@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+
+<!-- =========================================================
+*  
+==============================================================
+
+=========================================================
+ -->
+<!-- beautify ignore:start -->
+<html
+  lang="en"
+  class="light-style layout-menu-fixed"
+  dir="ltr"
+  data-theme="theme-default"
+  data-assets-path="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/"
+  data-template="vertical-menu-template-free"
+>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
+    />
+
+    <title> FIRST CENSUS OF SPRINGS </title>
+
+    <meta name="description" content="" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="https://wrcensus-spring.mowr.gov.in/assets/favicon.gif" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+
+    <!-- Icons. Uncomment required icon fonts -->
+    <link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/fonts/boxicons.css" />
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/css/core.css" class="template-customizer-core-css" />
+    <link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+    <link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/css/demo.css" />
+
+    <!-- Vendors CSS -->
+    <link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+
+    <!-- Page CSS -->
+    <!-- Page -->
+    <link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/css/pages/page-auth.css" />
+    <!-- Helpers -->
+    <!--<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/js/helpers.js"></script>-->
+
+    <!--! Template customizer & Theme config files MUST be included after core stylesheets and helpers.js in the <head> section -->
+    <!--? Config:  Mandatory theme config file contain global vars & default theme options, Set your preferred theme option in this file.  -->
+    <script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/js/config.js"></script>
+	
+	<link rel="stylesheet" href="https://wrcensus-spring.mowr.gov.in/assets/custom/login/login.css" />
+	
+  </head>
+
+ <body>
+    <input type="hidden" id="customBaseUrl" value="https://wrcensus-spring.mowr.gov.in/">
+   <nav class="navbar navbar-expand-lg navbar-dark  mkprimary" >
+    <div class="container">
+        <a class="navbar-brand fw-bold" href="#">FIRST CENSUS OF SPRING</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" href="https://wrcensus.mowr.gov.in/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://wrcensus-spring.mowr.gov.in/contact-us">Contact Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="download-btn"   href="https://wrcensus-spring.mowr.gov.in/FirstSpringCensus2.2.apk"  download  type= "application/vnd.android.package-archive">
+                          Download Android APP
+                    </a>
+
+                </li>
+				
+				 <li class="nav-item">
+                    <a class="nav-link" href="https://wrcensus-spring.mowr.gov.in/privacy-policy"> Privacy Policy </a>
+                </li>
+				
+            </ul>
+        </div>
+    </div>
+</nav>
+    <div class="container-xxl">
+      <div class="authentication-wrapper authentication-basic container-p-y">
+	   		
+        <div class="authentication-inner ">
+          <!-- Register -->			 
+           <div class="card1 loginDiv">
+            <div class="card-body1 text-center" >
+              <!-- Logo -->
+              <div class="app-brand justify-content-center">
+                <a href="index.html" class="app-brand-link gap-2">                                   
+				 
+                </a>
+              </div>
+              <!-- /Logo -->
+			    
+			  <div >
+			        <h2> Welcome to First Spring Census</h2>
+				    <!--<h2 class="mb-2" ><span style="border-bottom: 2px solid;" class='text-center'>NIH ISHVAR </span></h2><br>-->
+					<div class="text-center">
+						<!--<img src="https://wrcensus-spring.mowr.gov.in/logo3.jpg">-->
+						<img  alt="Image" class="img-fluid custom-img-logo" src="https://wrcensus-spring.mowr.gov.in/assets/logo-2.jfif" /> 
+					</div>
+				    <p class="mb-0 mt-3 headLabel" > 
+					    FIRST CENSUS OF SPRING <br>
+						DEPARTMENT OF WATER RESOURCES, RIVER DEVELOPMENT AND GANGA REJUVENATION <br>
+						MINISTRY OF JAL SHAKTI, GOVERNMENT OF INDIA <br>
+					</p>
+					<hr>
+					<p class="custom-font-bold">REFERENCE YEAR 2023-24 </p>
+              </div>
+			  			 
+              
+
+               				
+								
+							   
+				
+              				
+				
+									<div class="alert alert-danger">
+						You must be logged in					</div>
+							 
+			  			    <div class="loginForm">
+
+					  <form   id="formAuthentication" class="mb-3" action="https://wrcensus-spring.mowr.gov.in/admin/loginAuth" method="POST" onsubmit="return encryptBeforeSubmit()" autocomplete="off" >
+						<input type="hidden" name="csrf_token_name" value="bd8de172a6972e7abdb98e3fa24c94c4ea88a3a99253b74f031da98f92ffc0b0">						
+						<input type="hidden" id="nonce" value="fe3d0d3bd08a3c8b98574cfe58ec944a">
+						<input type="hidden" name="csrf_name" id="csrf_name">
+						<input type="hidden" name="ciphertext" id="ciphertext">
+						<input type="hidden" name="iv" id="iv">
+						<input type="hidden" name="tag" id="tag">
+						
+						
+						<div class="mb-3">
+						  <label for="email"  class="form-label floatLeft">Email</label>
+						  <input
+							type="email"
+							class="form-control"
+							id="email"							
+							placeholder="Enter your email or username"
+							value=""
+							autofocus
+							autocomplete="off"
+						  />
+						</div>
+						<div class="mb-3 form-password-toggle">
+						  <div class="d-flex justify-content-between">
+							<label class="form-label" for="password">Password</label>
+														
+							<a href="#"  id="submitForgotLink">
+								<small>Forgot Password?</small>
+							</a>
+							
+						  </div>
+						  <div class="input-group input-group-merge">
+							<input
+							  type="password"
+							  id="password"
+							  class="form-control"							 
+							  placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;"
+							  aria-describedby="password"
+							  autocomplete="off"
+							/>
+							<span class="input-group-text cursor-pointer" id="togglePassword"><i class="bx bx-hide"  id="toggleIcon"></i></span>
+						  </div>
+						</div>
+						<div class="mb-3">
+						    <!--<div class="form-check">
+							 <input class="form-check-input" type="checkbox" id="remember-me" />
+							 <label class="form-check-label" for="remember-me"> Remember Me </label>
+						    </div>-->														    
+                            <div class="text-center my-3">		                                							
+								<img id="captchaImage" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAAyBAMAAABMoj8pAAAAG1BMVEX///8AAAA/Pz+fn5/f398fHx+/v79fX19/f3/hut4JAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABVklEQVRIie2UsW6DMBCGL8GFjL0EO4xBVaWOUCU7qRSJsanaZgWpFWt5A5D64L0zAaJMsTNElfwP+GTZH3f27wNwcnJy+ueaolaix7eEp6oPeSg48B7lAw2xXrEACBCji1k4zwBe+kDsKXg3Yc1PxgpX4OPyS1So+De/IqXpeDWsnlzOglbBTnJ93zKDklKZYWbL2kZQKw58/IE0pDoxsWVNIkEQVh1CqVmFfV4ebWZRgVuq0cMrzivAYdcM1yJdmLA6T2T9PQaym79bAmwQZdJ7IjRgdf6C6RmrMWH1NfL6QwIneQVyLTb2/mJDDbtSdZUn+OIKPZaqY9DHmiWw21nfQ8xOq1/tWYPvm/O8numZs+UMWDtdJL/HVp9X07NKyqkNjVjHPvFJSfA9jm+b2kZ+fGCXssb+5XP/UoMnuJ1Rtkassa/mMT5lo7/yPTvXycnJ6bb6A0hbNp7EgwZ6AAAAAElFTkSuQmCC" alt="CAPTCHA" class="border p-2 bg-light mb-2">
+                                <a id="refreshCaptchaBtn"   ><img class="refreshCaptchImg" src="https://wrcensus-spring.mowr.gov.in/assets/refresh.png"></a>								
+								<input type="text" id="captchaInput" name="captcha" class="form-control w-50 mx-auto" placeholder="Enter CAPTCHA" required>
+							</div>
+							
+						</div>
+						
+						<div class="mb-3">
+						  <!--<button class="btn  btn-dark d-grid w-100" type="submit">Sign in</button>-->
+						  <button class="btn  btn-dark d-grid w-100" type="button" id="encryptSubmitBtn" >Sign in</button>
+						</div>
+						<div class="text-center">
+							<!--<img src="https://wrcensus-spring.mowr.gov.in/logo3.jpg">
+							<img style="max-height: 100px;" alt="Image" class="img-fluid custom-img-logo" src="https://wrcensus-spring.mowr.gov.in/ISHVAR.png" />--> 
+						</div>
+					  </form>
+					  
+					    <div class="text-center">
+						    <div class="mb-3">
+								 <form id="forgotForm" method="POST"  action="https://wrcensus-spring.mowr.gov.in/admin/forgot_password" method="POST">
+                                    <input type="hidden" name="csrf_token_name" value="bba3c2ab8bd5c9234ff6e4ca6d51efd1eca68070bf115016f152c37a5de2bba5">								 
+									<button type="submit" class="displayNone"></button>
+								</form>
+							</div>	
+							<!--<img src="https://wrcensus-spring.mowr.gov.in/logo3.jpg">
+							<img style="max-height: 100px;" alt="Image" class="img-fluid custom-img-logo" src="https://wrcensus-spring.mowr.gov.in/ISHVAR.png" />--> 
+						</div>
+			   </div>
+			                 <!--
+              <p class="text-center">
+                <span>New on our platform?</span>
+                <a href="auth-register-basic.html">
+                  <span>Create an account</span>
+                </a>
+              </p>-->
+			  
+            </div>
+		<br>	
+			<!-- Register Section -->
+		<div class="text-center" >
+			<p class="mb-2 designDevelopBy" >
+				<u><strong>Designed & Developed by:</strong></u>
+			</p>
+			<p class="mb-1 CellforSpring" >
+				<a href="https://nihroorkee.gov.in/" target="_blank">Cell for Spring Studies (CeSS), NIH Roorkee</a>
+			</p>
+			<p class="AllRights">
+				NIH-ISHVAR (All Rights Reserved)
+			</p>
+			<p class="mt-2 Hostedon" >
+				<strong>Hosted on</strong>
+			
+			<img src="https://wrcensus-spring.mowr.gov.in/assets/NIC-Delhi.jpg" alt="Hosting Company Logo" class="HostingCompanyLogo"></p>
+		</div>
+
+
+           
+        </div>
+      </div>
+     </div>
+   </div>
+    <!-- / Content -->
+
+
+    <!-- Core JS -->
+    <!-- build:js assets/vendor/js/core.js -->
+    <!--<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/libs/jquery/jquery.js"></script>-->
+	<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/custom/js/jquery-3.6.4.min.js"></script>
+	
+    <!-- <script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/libs/popper/popper.js"></script>-->
+    <!--<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/js/bootstrap.js"></script>-->
+	 <script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/custom/js/bootstrap.bundle.min.js"></script>
+	 
+    <!--<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>-->
+
+    <!--<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/vendor/js/menu.js"></script>-->
+    <!-- endbuild -->
+
+    <!-- Vendors JS -->
+
+    <!-- Main JS -->
+    <!--<script src="https://wrcensus-spring.mowr.gov.in/assets/admin/assets/js/main.js"></script>-->
+
+    <!-- Page JS -->
+
+    <!-- Place this tag in your head or just before your close body tag. -->
+    <!--<script async defer src="https://buttons.github.io/buttons.js"></script>-->
+	<script src="https://wrcensus-spring.mowr.gov.in/assets/custom/login/buttons.js"></script>
+		
+	<script src="https://wrcensus-spring.mowr.gov.in/assets/custom/common/crypto-js.min.js"></script>
+	<script src="https://wrcensus-spring.mowr.gov.in/assets/custom/login/login.js"></script>
+	<script src="https://wrcensus-spring.mowr.gov.in/assets/custom/login/countdown.js"></script>
+	
+  </body>
+</html>
