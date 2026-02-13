@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import time
+import json
 import requests
 import pandas as pd
 import urllib3
@@ -17,11 +18,21 @@ from selenium.webdriver.support import expected_conditions as EC
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configuration
+def load_env():
+    if os.path.exists(".env"):
+        with open(".env") as f:
+            for line in f:
+                if line.strip() and not line.startswith("#"):
+                    key, value = line.strip().split("=", 1)
+                    os.environ[key] = value
+
+load_env()
 GSHEET_URL = os.getenv("GSHEET_URL")
 TARGET_FOLDER = os.getenv("TARGET_FOLDER")
 LOGIN_URL = os.getenv("LOGIN_URL")
 ANTI_CAPTCHA_API_KEY = os.getenv("ANTI_CAPTCHA_API_KEY")
-CREDENTIALS = json.loads(os.getenv("CREDENTIALS", "[]"))
+CREDENTIALS_STR = os.getenv("CREDENTIALS", "[]")
+CREDENTIALS = json.loads(CREDENTIALS_STR[1:-1])
 
 def solve_captcha(image_base64):
     url = "https://api.anti-captcha.com/createTask"

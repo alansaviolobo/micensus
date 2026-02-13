@@ -92,11 +92,19 @@ function displayCurrentItem() {
     
     const thumbnailColumns = ['Close-up shot', 'Wide angle shot', 'Selfie'];
 
+    // Function to rewrite image URL
+    const rewriteImageUrl = (url) => {
+        if (!url || typeof url !== 'string') return url;
+        const filename = url.substring(url.lastIndexOf('/') + 1);
+        return `https://github.com/alansaviolobo/micensus/img/${filename}`;
+    };
+
     // Display all keys and values
     for (const [key, value] of Object.entries(item)) {
         if (thumbnailColumns.includes(key)) {
             if (value && value.startsWith('http')) {
-                addThumbnail(key, value);
+                const rewrittenUrl = rewriteImageUrl(value);
+                addThumbnail(key, rewrittenUrl);
             }
             continue; // Don't show in the main table
         }
@@ -109,15 +117,16 @@ function displayCurrentItem() {
         // Handle images/links
         if (typeof value === 'string' && (value.startsWith('http://') || value.startsWith('https://'))) {
             if (value.match(/\.(jpg|jpeg|png|gif)$/i)) {
+                const rewrittenUrl = rewriteImageUrl(value);
                 const img = document.createElement('img');
-                img.src = value;
+                img.src = rewrittenUrl;
                 img.style.maxWidth = '300px';
                 img.style.display = 'block';
                 img.style.cursor = 'pointer';
-                img.onclick = () => openModal(value, key);
+                img.onclick = () => openModal(rewrittenUrl, key);
                 
                 const link = document.createElement('a');
-                link.href = value;
+                link.href = rewrittenUrl;
                 link.target = '_blank';
                 link.textContent = 'View Full Size';
                 td.appendChild(img);
