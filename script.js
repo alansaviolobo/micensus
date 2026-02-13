@@ -96,7 +96,7 @@ function displayCurrentItem() {
     const rewriteImageUrl = (url) => {
         if (!url || typeof url !== 'string') return url;
         const filename = url.substring(url.lastIndexOf('/') + 1);
-        return `https://github.com/alansaviolobo/micensus/img/${filename}`;
+        return `https://github.com/alansaviolobo/micensus/blob/master/img/${filename}?raw=true`;
     };
 
     // Display all keys and values

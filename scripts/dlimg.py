@@ -5,6 +5,8 @@ import json
 import requests
 import pandas as pd
 import urllib3
+import urllib.request
+import ssl
 import urllib.parse
 import subprocess
 from selenium import webdriver
@@ -153,10 +155,11 @@ def delete_extra_images(folder, expected_filenames):
                         print(f"Error removing {filepath}: {e}")
 
 def main():
+
+    cleanup_text_files(TARGET_FOLDER)
+
     # Fetch Google Sheet with SSL verification disabled
     print("Fetching Google Sheet...")
-    import urllib.request
-    import ssl
     ssl_context = ssl._create_unverified_context()
     with urllib.request.urlopen(GSHEET_URL, context=ssl_context) as response:
         df = pd.read_csv(response)
@@ -179,13 +182,13 @@ def main():
         expected_filenames.append(filename)
         if filename.lower() not in existing_images:
             to_download.append((url, filename))
-            
+
+    delete_extra_images(TARGET_FOLDER, expected_filenames)
+
     print(f"Images to download: {len(to_download)}")
     
     if not to_download:
         print("No new images to download.")
-        cleanup_text_files(TARGET_FOLDER)
-        delete_extra_images(TARGET_FOLDER, expected_filenames)
         return
 
     session = login_and_get_session()
@@ -211,9 +214,6 @@ def main():
                 print(f"Failed to download {filename}: HTTP {r.status_code}")
         except Exception as e:
             print(f"Error downloading {filename}: {e}")
-
-    cleanup_text_files(TARGET_FOLDER)
-    delete_extra_images(TARGET_FOLDER, expected_filenames)
 
 if __name__ == "__main__":
     main()
