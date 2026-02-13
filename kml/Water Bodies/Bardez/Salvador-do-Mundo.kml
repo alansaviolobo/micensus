@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7642">
+        <Placemark id="7644">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54237,73.84358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5483</value>
+                </Data>
+                <Data name="name">
+                    <value>Ambhayacho Aak,Ambyacho Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>223</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>37-39</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54237</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84358</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325180240403.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325180302741.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>223/36-40</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>363.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4299</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:02:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7643">
+                <coordinates>73.843579176,15.542366294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7677">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53458,73.85224&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2891</value>
+                </Data>
+                <Data name="name">
+                    <value>Condcho Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>207</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53458</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85224</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325181423535.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325181444702.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>207/14P</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>360.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4796</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 10:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7676">
+                <coordinates>73.852238717,15.534580233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7710">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53511,73.85216&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6054</value>
+                </Data>
+                <Data name="name">
+                    <value>Canador</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>208</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7-9</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53511</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85216</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325182027291.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325182037008.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>115.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5492</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014662.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7709">
+                <coordinates>73.852163791,15.535109676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7742">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53571,73.85178&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2890</value>
+                </Data>
+                <Data name="name">
+                    <value>Koreacho Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>210</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53571</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85178</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325181732039.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325181742255.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>210/2,4,18-19,22,24,26,28,30; 212/24</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>497.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4797</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 10:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7741">
+                <coordinates>73.85177557,15.535711579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7775">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53516,73.85207&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6053</value>
+                </Data>
+                <Data name="name">
+                    <value>Canador</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>208</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53516</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85207</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325181913652.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325181921654.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>37.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5491</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7774">
+                <coordinates>73.852069158,15.535164879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7807">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54276,73.84352&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5482</value>
+                </Data>
+                <Data name="name">
+                    <value>Ambyacho Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>223</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28-30</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54276</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84352</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325180409274.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325180430200.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>223/28-32</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>260.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4298</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:02:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016662.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7806">
+                <coordinates>73.843516506,15.542762765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7840">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53635,73.86786&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5748</value>
+                </Data>
+                <Data name="name">
+                    <value>Odli Saloi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>378</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>39</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53635</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86786</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006164403786.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006164426241.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>378/39,42,52-53</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>149.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5282</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7839">
+                <coordinates>73.867856302,15.536348599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7873">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53258,73.86107&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2902</value>
+                </Data>
+                <Data name="name">
+                    <value>Colnnchi Add</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>405</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53258</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86107</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420133108073.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420133114159.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>405/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>195.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4798</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 10:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7872">
+                <coordinates>73.861073002,15.532581363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7906">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53623,73.86727&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2909</value>
+                </Data>
+                <Data name="name">
+                    <value>Odli Saloi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>378</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>32</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53623</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86727</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006164745965.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006164801062.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>378/4-6,31-33</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>510.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4799</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 10:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7905">
+                <coordinates>73.867270794,15.536231934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7939">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5343,73.85247&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6055</value>
+                </Data>
+                <Data name="name">
+                    <value>Madacho Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>207</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26-27</value>
+                </Data>
+                <Data name="village">
+                    <value>Salvador-do-Mundo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5343</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85247</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325182307088.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325182353465.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salvador-Do-Mundo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Salv/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>152.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5493</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Serula</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7938">
+                <coordinates>73.852473321,15.534297407,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

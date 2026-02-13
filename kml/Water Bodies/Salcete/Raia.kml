@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="64899">
+        <Placemark id="64901">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31338,73.99045&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2004</value>
+                </Data>
+                <Data name="name">
+                    <value>Sonarvadd Pond; Toliye Codile Raia Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31338</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99045</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210812090234043.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210812090245535.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>768.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1329</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Raia</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001965.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="64900">
+                <coordinates>73.990447148,15.313384662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64933">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30839,73.96159&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4712</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhasali Tollem; Bandha Vamonachi Toloi Dausali Bata</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>351</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-2</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30839</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96159</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220610081255258.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220610081312362.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>144</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2553.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3961</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-12 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Cofre de Chapela de Manora Raia
+Communidade of Raia</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997765.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="64932">
+                <coordinates>73.961592701,15.308390849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64965">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30724,73.97505&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4713</value>
+                </Data>
+                <Data name="name">
+                    <value>Raicho Ambo; Manora</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>311</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30724</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97505</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220615173749424.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220615173804877.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>145</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>270.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5321</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-12 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Conceicao Filomenado Rosario Baptista Quadros Pereira
+Francisco Barbosa
+Maria Dulcina Colcao e Barbosa
+Joao Francisco do Coracao de Jesus Alema o Mascarenhas alias Joao Mascarenhas
+Cyrus Quadros Pereira
+Saifulla Shaikh
+The Executive Engineer, Works Div. IX, (PHE), Public Works Department, Fatorda Margao.
+Maureen Quadros Pereira Fernandes
+Vicente Sales Jola Fernandes
+Fausta Quadros Pereira Nazareth
+Michael Ronnie Nazareth
+Sarita Quadros Pereira alias Sarita Dalgado
+Roy John Jude Dalgado
+Satyavati Suryakant Lotlikar
+Sujay Suryakant Lotlikar
+Salil Suryakant Lotlikar
+Sonia Damodar Bandodkar
+Sampada alias Gauri Dipak Raikar
+Krishna Laxman Naik
+Laxman Krishna Naik
+Norman Vincente Hermenegildo Barretto</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998465.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="64964">
+                <coordinates>73.97505,15.307241667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64997">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29708,73.97852&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4714</value>
+                </Data>
+                <Data name="name">
+                    <value>Bharibhatt Tank; Ponca Bhatta Arlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>269</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29708</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97852</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220615172318243.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220615172403333.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>146</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>201.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5319</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-12 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Albino Colaco
+Luiza Colaco Lobo
+Odette Colaco
+Caetano Filipe Colaco
+Rodolfo Colaco
+Aramita Colaco
+Ninha Colaco
+Lourdes Colaco
+Uday Pundalik Naik
+Mr. Ghanshyamdas Gagamdas Mevani
+Mr. Amar Tharumal Tulsani
+Mr. Gordharo Maraimdas Godhari
+Anil Sadanand Chari
+Luiz Colaco
+Constancio Jose Pereira
+Simao Eduar da Costa
+Theophile Leo Lowe &amp; Joseph Francis Lowe
+Rajendra Chandawani
+Alfa Estate &amp; Investments
+Pramod Anand Kharangate
+Jose Marlonford Coutinho
+Jose Antonio Milford Coutinho
+Mariano Luis Pereira
+Estefania Pereira
+Smita Pramod Kamat
+Pramod Narcinva Kamat
+Pallavi Karkal alias Bharati Datta Mapari
+Johaan Einstein Joseph Fernandes
+Joshna Franz Joseph Fernandes
+Justin Karol
+Drobny Joseph Fernandes
+Luis Anthony Carvalho
+Ganadhish Dulba Keni
+Shweta Ganadhish Keni
+Gurudas Dharma Borkar
+Vijaya Girish Trikkannad
+Anwar Khan
+Philomina Sequeira Antony
+Rukmana alias Raju Gangaram Dongare
+Sudhir Balvant Kutre
+Menino Noronha
+Precia Fernandes
+Dr. (Mrs.) Maria Arlette Franklin Pereira e Godinho
+Filandro Godinho
+Suresh M. V. Pai Sudha Pai
+Joaquim Fernandes
+Jose Colaco
+Joao Filomeno Lodovico De Costa alias John D Costa
+Manuel Xavier Colaco
+Natalia Colaco alias Natalia Cardoso alias Natalina Colaco
+Antonio Colaco
+Sebastiana Anunciacao Colaco alias Sebastiana Anunciacao de Souza
+Caetano Colaco
+Filomena Fatima Gauncar alias Filomena Fatima Colaco alias Fatima Colaco
+Francisco Colaco
+Vicente Colaco
+Paulina Colaco
+Remedios Colaco
+Agnelo Colaco
+Vicente Colaco alias Vincent Colaco
+Delfina Colaco alias Delfina Dias
+Menino Noronha
+Precia Fernandes e Noronha alias Precia Noronha
+Mangalath Velayudhan Sasi
+Joana Fernandes also known as Joanita Fernandes or Joana Dourado
+Josleen Fernandes
+Nicolau Fernandes
+Michael Fernandes
+Liberata Colaco
+Joana Sebastiana Colaco
+Sahit Ashok Korgaonkar
+Manisha Ashok Korgaonkar
+Mahesh N. Patil
+Shilpa M. Patil
+Milan B. Chougule
+Bharama M. Chougule
+Benedito Colaco
+Rosalina Colaco
+Roberto Colaco
+Santan Colaco alias Santano Colaco
+Damiana Borges
+Filipe Colaco alias Philip Joaquem Colaso
+Esperanca Monteiro alias Esperanca Colaco
+Santan Piedade Colaco alias Santano Piedade Colaco
+Francisca Cardozo alias Francisca Cardoz
+Milagrina Souza alias Milagrina Colaco
+John Colaco
+Wilma Colaco
+Milagres Colaco alias Milagrace Joaquim Colaco
+Francisca Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997415.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="64996">
+                <coordinates>73.978522766,15.297084857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65029">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31195,73.98865&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4710</value>
+                </Data>
+                <Data name="name">
+                    <value>Bebke Tollem Near WRD Sluice Gate; Bebqui</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>223</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-2</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31195</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98865</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220610094957879.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220610094612873.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7401.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5322</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-12 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Raia</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1000565.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65028">
+                <coordinates>73.988653156,15.311952831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65061">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30592,73.97423&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5068</value>
+                </Data>
+                <Data name="name">
+                    <value>Arlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>310</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30592</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97423</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220615174401950.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220615174409982.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5320</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-06-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Angelica Cardoso
+The Executive Engineer, Works Div. IX, (PHE), Public Works Department, Fatorda Margao.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998115.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65060">
+                <coordinates>73.974226667,15.305923333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65093">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30019,74.001&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2517</value>
+                </Data>
+                <Data name="name">
+                    <value>Bacbhat Tollem; Tolem,Tolen,Tollem,Tollen</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>144</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-18</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30019</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.001</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210804185939575.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210804185950467.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>177268.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1332</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:17</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Raia
+Gurudas Anant Bandekar
+John Reveredo
+Jose Santana Noronha
+Rosa Barreto
+Smt. Joaquina  Reveredo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999165.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65092">
+                <coordinates>74.001000275,15.300193234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65125">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30588,73.99914&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2002</value>
+                </Data>
+                <Data name="name">
+                    <value>Bellavista Pond; Nomosi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30588</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99914</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106181102144.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106181144790.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1615.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1331</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Raia</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001615.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65124">
+                <coordinates>73.999137856,15.305884362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65157">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3224,73.99455&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4249</value>
+                </Data>
+                <Data name="name">
+                    <value>Puddela, Ganapoga</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3224</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99455</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222090417444.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222090425151.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>29 - Curtorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Raia</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>147</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Raia/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3291</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-22 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Raia</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002315.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65156">
+                <coordinates>73.994545709,15.322403347,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

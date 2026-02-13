@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72479">
+        <Placemark id="72481">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26898,74.13672&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3981</value>
+                </Data>
+                <Data name="name">
+                    <value>Rangacatem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Antoriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26898</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13672</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220422130424710.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220422130501660.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sanguem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Anto/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>158.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2664</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 11:34:45.870556</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aniket Ankush Bhandari
+Avinash Laxman Bhandari
+Babusso Vishwanath Naik
+Krishna Laxman Bhandari
+Priya Prakash Bhandari
+Pundolik Gangadhar Sinai Sanvordkar
+Rutesh Rama Bhandari
+Shashikant Vishwanath Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991004.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72480">
+                <coordinates>74.136717553,15.268981247,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

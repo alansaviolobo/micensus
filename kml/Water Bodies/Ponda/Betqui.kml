@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="29636">
+        <Placemark id="29638">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49582,73.99221&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>187</value>
+                </Data>
+                <Data name="name">
+                    <value>Mandodari Tank; 3Talem,Talem,Talyar,Tolem,Tolyar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>123</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-115</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49582</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99221</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315131420568.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315131545456.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>50694.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2846</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>(Madhav Keshav Matarbag)
+Government of Goa Irrigation Department
+Govt. of Goa Irrigation Department
+Madhav Keshav Matarbag</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012080.0769640019</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29637">
+                <coordinates>73.992207124,15.495815308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29670">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49756,73.9802&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4265</value>
+                </Data>
+                <Data name="name">
+                    <value>Gimone</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>149</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49756</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9802</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315103914492.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315103929402.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>635.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3075</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-29 10:26:54</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vithal Anant Kamat Haldankar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011625.0461861795</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29669">
+                <coordinates>73.980204847,15.497556655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29702">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5039,73.99684&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4269</value>
+                </Data>
+                <Data name="name">
+                    <value>Valye Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5039</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99684</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315130457667.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315130536536.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>395.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3078</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-29 11:13:37</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Damodar Narayan Shetye
+Kamlakant Krishna Shetye
+Sakharam Krishna Shetye
+Shambu Narayan Shetye
+Shivram Narayan Dhond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013188.9704834806</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29701">
+                <coordinates>73.996835387,15.503903338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29734">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50203,73.98708&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4423</value>
+                </Data>
+                <Data name="name">
+                    <value>Makad Shendo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50203</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98708</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315122114639.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315122134930.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>107.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3509</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 16:12:06.160387</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Shivram Sadhale
+Shripad Shivram Sadhale</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012519.3417319845</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29733">
+                <coordinates>73.987075271,15.502032436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29766">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49439,73.98995&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4424</value>
+                </Data>
+                <Data name="name">
+                    <value>Nake vall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>120</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49439</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98995</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315112339283.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315112354431.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>111</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>538.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3510</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 16:12:06.160387</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mahadev Keshav Matarbag
+Raj Shripati Vaidya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011405.7542728699</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29765">
+                <coordinates>73.989954955,15.494386677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29798">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48691,73.99173&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4605</value>
+                </Data>
+                <Data name="name">
+                    <value>Zmabulval</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48691</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99173</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315133858092.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315133913720.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3691</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kaveribai Savaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010530.5931187674</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29797">
+                <coordinates>73.991731667,15.486905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29830">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48583,73.99132&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>188</value>
+                </Data>
+                <Data name="name">
+                    <value>Zambulval</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48583</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99132</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315133151979.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315133214717.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2374.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3181</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kaveribai Savaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010268.8401072006</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29829">
+                <coordinates>73.991323761,15.485833733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29862">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4999,73.9811&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4428</value>
+                </Data>
+                <Data name="name">
+                    <value>Gimone</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>149</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4999</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9811</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315103114622.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315103203845.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>113</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>240.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3514</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 16:17:43.910659</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vithal Anant Kamat Haldankar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012303.7405087427</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29861">
+                <coordinates>73.981104437,15.499898878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29894">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49506,73.98438&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4427</value>
+                </Data>
+                <Data name="name">
+                    <value>Daban Sarem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>142</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49506</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98438</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315111412618.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315111427555.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>114</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3513</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 16:15:16.845112</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Purushottam Gajanan Bhat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010943.8437396958</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29893">
+                <coordinates>73.984379271,15.495055041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29926">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49353,73.98393&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4602</value>
+                </Data>
+                <Data name="name">
+                    <value>Daban Sarem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>142</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49353</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98393</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315110900153.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315110910429.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3692</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Purushottam Gajanan Bhat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010738.8129618734</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29925">
+                <coordinates>73.983931667,15.49353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29958">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4978,73.98007&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4600</value>
+                </Data>
+                <Data name="name">
+                    <value>Gimone</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>149</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4978</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98007</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315104140816.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315104149189.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>115</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>36.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3689</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vithal Anant Kamat Haldankar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011862.9708664078</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29957">
+                <coordinates>73.980065,15.497798333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29990">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50363,73.99588&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4268</value>
+                </Data>
+                <Data name="name">
+                    <value>Agar Gharakadil</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50363</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99588</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315125054913.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315125125521.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>112</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>533.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3077</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-29 11:13:37</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganpat Balkrishna Paidarkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012970.6818197393</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29989">
+                <coordinates>73.995879136,15.503634184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30022">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49397,73.98914&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4425</value>
+                </Data>
+                <Data name="name">
+                    <value>Nake Vall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>120</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49397</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98914</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315112752604.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315112807101.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>157.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3511</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 16:12:06.160387</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Raj Shripati Vaidya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011169.513783573</value>
+                </Data>
+            </ExtendedData>
+            <Point id="30021">
+                <coordinates>73.989137035,15.493973981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30054">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50565,73.98998&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4429</value>
+                </Data>
+                <Data name="name">
+                    <value>Mandodari Temple Tank; Devul Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50565</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98998</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315123044304.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315123100033.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>089</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>381.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3515</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 16:24:22.099490</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Mandodari Devalaya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013420.5170331413</value>
+                </Data>
+            </ExtendedData>
+            <Point id="30053">
+                <coordinates>73.989981219,15.505653848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30086">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50311,73.9949&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4267</value>
+                </Data>
+                <Data name="name">
+                    <value>Birjamal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>98</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50311</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9949</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315125739272.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315125807990.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betqui, Candola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Betq/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>839.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3076</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-29 11:13:37</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Raghoba Nargo Ghadi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012731.2522651587</value>
+                </Data>
+            </ExtendedData>
+            <Point id="30085">
+                <coordinates>73.994898239,15.503105375,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

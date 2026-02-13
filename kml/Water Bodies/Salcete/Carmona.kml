@@ -1,0 +1,5293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="49905">
+        <Placemark id="49907">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20088,73.94171&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4317</value>
+                </Data>
+                <Data name="name">
+                    <value>Bamare</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>189</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>127</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20088</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94171</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106173805993.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106173813799.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/48</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>158.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3288</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984059.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49906">
+                <coordinates>73.941714921,15.200877306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49939">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20035,73.9494&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1418</value>
+                </Data>
+                <Data name="name">
+                    <value>Torem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>138</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20035</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9494</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213092113468.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213092058527.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13259.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1736</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979483.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49938">
+                <coordinates>73.949400854,15.200350614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49971">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20624,73.95706&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1489</value>
+                </Data>
+                <Data name="name">
+                    <value>pUGARI</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20624</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95706</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213103444029.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213103455193.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/46</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>178.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1593</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982983.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49970">
+                <coordinates>73.957062135,15.206241452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50003">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20934,73.94658&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1411</value>
+                </Data>
+                <Data name="name">
+                    <value>Sozari</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>218</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20934</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94658</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105211029892.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105211037623.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2123.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>404</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988259.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50002">
+                <coordinates>73.946578867,15.209335075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50035">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19575,73.94869&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1425</value>
+                </Data>
+                <Data name="name">
+                    <value>Aframenta</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>117</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19575</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94869</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211095810582.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211095819859.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>430.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>8</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Berta Viegas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977409.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50034">
+                <coordinates>73.948687419,15.195746067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50067">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20996,73.94559&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1408</value>
+                </Data>
+                <Data name="name">
+                    <value>Babra Lana,Sozally,Sozari</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>218</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21,29,42</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20996</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94559</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105210759008.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105210807290.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>486.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3292</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Francisco Noronha Dias
+Igilda Coutinho
+Inacio Francisco Pimenta alias Francisco Pimenta
+Sebastiao Joaquina</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987909.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50066">
+                <coordinates>73.945590044,15.209956203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50099">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.196,73.95281&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1429</value>
+                </Data>
+                <Data name="name">
+                    <value>Tolecho Varingo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>102</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.196</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95281</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213105100449.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213105109949.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1677.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>394</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977733.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50098">
+                <coordinates>73.952810148,15.195996841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50131">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21311,73.95565&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1480</value>
+                </Data>
+                <Data name="name">
+                    <value>Ambodem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>232</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21311</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95565</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105204158257.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105204205210.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1009.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1597</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984733.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50130">
+                <coordinates>73.955654334,15.213106469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50163">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19159,73.94755&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1432</value>
+                </Data>
+                <Data name="name">
+                    <value>Karado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>120</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19159</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94755</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211094200169.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211094318637.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1220.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>24</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>974933.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50162">
+                <coordinates>73.947546395,15.191588046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50195">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21016,73.95616&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1483</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaivad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>245</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21016</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95616</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105204539173.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105204559314.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1744.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1595</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidada of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983683.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50194">
+                <coordinates>73.95615544,15.21016032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50227">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20892,73.94629&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1410</value>
+                </Data>
+                <Data name="name">
+                    <value>Sozari</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>207</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-19</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20892</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94629</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105211320848.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105211328255.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1731.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>406</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987559.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50226">
+                <coordinates>73.946290838,15.208921396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50259">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19545,73.94798&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4236</value>
+                </Data>
+                <Data name="name">
+                    <value>Urem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>117</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19545</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94798</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211095542903.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211095551175.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/54</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>82.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2932</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977059.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50258">
+                <coordinates>73.947983487,15.195452447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50291">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20218,73.94979&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4242</value>
+                </Data>
+                <Data name="name">
+                    <value>Torem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>137</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20218</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94979</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213090006296.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213090024479.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>289.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2922</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980183.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50290">
+                <coordinates>73.949788528,15.202183405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50323">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20149,73.94205&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4314</value>
+                </Data>
+                <Data name="name">
+                    <value>Bamare</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>189</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>73</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20149</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94205</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106173404251.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106173411766.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/50</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>144.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3289</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984759.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50322">
+                <coordinates>73.942047717,15.20148527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50355">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19952,73.94634&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1420</value>
+                </Data>
+                <Data name="name">
+                    <value>Pudem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>140</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>78</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19952</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94634</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211101612215.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211101639454.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>435.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Public</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978783.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50354">
+                <coordinates>73.946340487,15.199521263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50387">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19614,73.94826&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1424</value>
+                </Data>
+                <Data name="name">
+                    <value>Gavna</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>117</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19614</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94826</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211100010806.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211100021670.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>344.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>7</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Datta Kanolkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978109.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50386">
+                <coordinates>73.948261103,15.19614229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50419">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19488,73.94731&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4235</value>
+                </Data>
+                <Data name="name">
+                    <value>Mergado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19488</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94731</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211095138361.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211095148627.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>298.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2955</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976709.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50418">
+                <coordinates>73.947312285,15.194882111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50451">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20386,73.94863&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4130</value>
+                </Data>
+                <Data name="name">
+                    <value>Antalchi Gab</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>169</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20386</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94863</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213101856076.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213101905586.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/45</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>187.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2866</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:00:38.835560</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Martina Afonso</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980883.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50450">
+                <coordinates>73.948631821,15.203862946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50483">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19743,73.94325&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4239</value>
+                </Data>
+                <Data name="name">
+                    <value>nkumade</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>149</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19743</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94325</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211102854992.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211102907750.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/42</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>213.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2940</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Caesar Jose Fernandes
+Classy Pereira alias Classy Pereira e Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980209.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50482">
+                <coordinates>73.94325169,15.197432395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50515">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19882,73.95232&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4133</value>
+                </Data>
+                <Data name="name">
+                    <value>Shetod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>43</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19882</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95232</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213110300532.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213110311067.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/47</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>168.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2868</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:04:01.099077</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Avita Maria Clara Pereira Fernandes
+Socorro de Menino Jesus Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978433.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50514">
+                <coordinates>73.952317255,15.198823782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50547">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20807,73.95644&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1488</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>265</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20807</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95644</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105204700970.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105204717217.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2847.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1489</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983333.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50546">
+                <coordinates>73.956444339,15.208067435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50579">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20201,73.94374&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1416</value>
+                </Data>
+                <Data name="name">
+                    <value>Digtolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>186</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20201</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94374</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213093747396.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213093802971.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6385.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>905</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985459.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50578">
+                <coordinates>73.943744909,15.202011153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50611">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2041,73.9482&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4129</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Vanquio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>175</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2041</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9482</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213101518780.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213101540010.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/55</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2865</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:00:38.835560</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981583.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50610">
+                <coordinates>73.948204194,15.204098267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20158,73.94251&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1417</value>
+                </Data>
+                <Data name="name">
+                    <value>Dolachi Moddi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>188</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20158</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94251</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106173300575.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106173308546.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/49</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>153.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>904</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Patricio Manuel Antonio D'Mello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985109.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50642">
+                <coordinates>73.942506665,15.201578785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50675">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21034,73.94576&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4310</value>
+                </Data>
+                <Data name="name">
+                    <value>Babra Lana,Babra Lons,Sozally,Sozari</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>218</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21,29,42,50</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21034</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94576</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105211558986.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105211604742.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2694.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1087</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Francisco Noronha Dias
+Igilda Coutinho
+Inacio Francisco Pimenta alias Francisco Pimenta
+Lodovico Dias Pereira
+Sebastiao Joaquina</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988609.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50674">
+                <coordinates>73.945755684,15.210339823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50707">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20439,73.94259&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1415</value>
+                </Data>
+                <Data name="name">
+                    <value>Dolachi Murdi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>196</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20439</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94259</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105212008320.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105212017308.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>389.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>906</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Elora Esperanca Cardoso Rodrigues
+Paulo Antonio Jose Sebastiao Rodrigues alias Antonio Rodrigues</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986509.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50706">
+                <coordinates>73.942594737,15.20438968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50739">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20027,73.94228&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4315</value>
+                </Data>
+                <Data name="name">
+                    <value>Apod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>154</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>44</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20027</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94228</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106173540074.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106173548465.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>215.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3286</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983359.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50738">
+                <coordinates>73.942283234,15.200273335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20429,73.94761&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4128</value>
+                </Data>
+                <Data name="name">
+                    <value>Vanguio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>175</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>23</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20429</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94761</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213100937810.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213100947575.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>428.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2864</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:00:38.835560</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981933.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50770">
+                <coordinates>73.947612095,15.204288042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50803">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20438,73.94792&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4131</value>
+                </Data>
+                <Data name="name">
+                    <value>Vanguio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>175</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20438</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94792</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213101136616.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213101145484.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>274.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2867</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:04:01.099077</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Abad Rodrigues</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982283.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50802">
+                <coordinates>73.947918266,15.20438293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50835">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20489,73.94677&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3739</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Anaqui</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>176</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>66</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20489</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94677</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213100512258.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213100520408.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>547.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>391</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-13 10:52:06.922915</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982633.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50834">
+                <coordinates>73.946773104,15.204886545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50867">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19981,73.9427&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4316</value>
+                </Data>
+                <Data name="name">
+                    <value>Apod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>154</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>67</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19981</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9427</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106173658735.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106173705874.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/53</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3287</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981609.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50866">
+                <coordinates>73.942699193,15.199813532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50899">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19426,73.95189&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1428</value>
+                </Data>
+                <Data name="name">
+                    <value>Toli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>104</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>152</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19426</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95189</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213112047606.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213112152327.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4327.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>10</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977033.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50898">
+                <coordinates>73.951892314,15.194256468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50931">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20187,73.9487&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3740</value>
+                </Data>
+                <Data name="name">
+                    <value>Torem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>137</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20187</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9487</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213090445824.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213090455154.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>244.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>392</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-13 10:52:06.922915</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979833.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50930">
+                <coordinates>73.94870409,15.201871539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50963">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20008,73.94759&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1419</value>
+                </Data>
+                <Data name="name">
+                    <value>Pudem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>139</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>72</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20008</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94759</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213091822465.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213091834875.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>279.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manvel Caetano Jose Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979133.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50962">
+                <coordinates>73.947591109,15.200082638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50995">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.18995,73.95153&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1435</value>
+                </Data>
+                <Data name="name">
+                    <value>Soole</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>64</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.18995</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95153</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213113816712.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213113832265.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/43</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>195.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>18</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>974583.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="50994">
+                <coordinates>73.951534886,15.189947188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51027">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19558,73.94734&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1422</value>
+                </Data>
+                <Data name="name">
+                    <value>Gali or Dharma Patoli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19558</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94734</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211095322034.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211095331230.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>260.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Berta Viegas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977759.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51026">
+                <coordinates>73.947338254,15.195580556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51059">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20595,73.94081&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1414</value>
+                </Data>
+                <Data name="name">
+                    <value>Waltore</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>198</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>98</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20595</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94081</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805184301844.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805184312875.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>384.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>908</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sacramenta Afonso</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986159.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51058">
+                <coordinates>73.940814849,15.205951716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51091">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20371,73.95479&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1490</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20371</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95479</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213104557634.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213104616537.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1413.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1729</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bertha Viegas
+Eleanor Ana Viegas
+Maria Viegas
+Marneta Viegas
+Shri. Alvito Abdonio Gracis
+Vito Queroz Das Augostias Viegas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980533.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51090">
+                <coordinates>73.954789715,15.203708795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51123">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20428,73.95584&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1469</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20428</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95584</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213104225818.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213104234190.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/40</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>228.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1591</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Village Panchayat Of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981233.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51122">
+                <coordinates>73.955843144,15.204282717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51155">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19326,73.94915&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3785</value>
+                </Data>
+                <Data name="name">
+                    <value>Dakte Ped</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>118</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>60</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19326</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94915</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805123228853.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805123239021.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>644.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2496</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976333.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51154">
+                <coordinates>73.949147631,15.193264582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51187">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20527,73.94097&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1413</value>
+                </Data>
+                <Data name="name">
+                    <value>Zalore</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>195</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20527</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94097</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805184346511.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805184400307.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>701.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>907</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985809.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51186">
+                <coordinates>73.940974324,15.205265298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51219">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19133,73.94946&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3784</value>
+                </Data>
+                <Data name="name">
+                    <value>Pollem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>91</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19133</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94946</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805115035713.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805115045177.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>821.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2497</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975283.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51218">
+                <coordinates>73.949455289,15.191334143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51251">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.1954,73.95001&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1426</value>
+                </Data>
+                <Data name="name">
+                    <value>Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>106</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.1954</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95001</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805180530337.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805180539344.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2693.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>9</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977383.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51250">
+                <coordinates>73.950006492,15.195399998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51283">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19261,73.94884&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1430</value>
+                </Data>
+                <Data name="name">
+                    <value>Dakte Ped</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19261</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94884</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805172445651.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805172500068.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/51</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>130.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>25</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antoneta Rodrigues
+Efelina Rodrigues
+Sucurrina Rodrigues</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975983.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51282">
+                <coordinates>73.948844436,15.19260596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51315">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21125,73.95686&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1484</value>
+                </Data>
+                <Data name="name">
+                    <value>Sasan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>245</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21125</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95686</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105204355738.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105204404653.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1966.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1596</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984033.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51314">
+                <coordinates>73.956864979,15.211246391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51347">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19614,73.94762&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1423</value>
+                </Data>
+                <Data name="name">
+                    <value>Gaunichi Gali or Mergado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19614</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94762</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211100304877.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211100313468.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>357.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>6</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Joana Raimunda Viegas e Colaco alias Maria Joana Raimunda Viegas alias Joanita Viegas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978459.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51346">
+                <coordinates>73.947624136,15.196137275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51379">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19223,73.94903&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1431</value>
+                </Data>
+                <Data name="name">
+                    <value>Mand Katan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>32</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19223</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94903</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805172246592.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805172256804.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>501.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>26</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975633.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51378">
+                <coordinates>73.949031541,15.192230692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51411">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20807,73.94184&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1412</value>
+                </Data>
+                <Data name="name">
+                    <value>Henrik</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>213</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>110</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20807</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94184</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105211911082.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105211919733.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2528.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>389</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986859.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51410">
+                <coordinates>73.941842763,15.208073611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51443">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20897,73.94574&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3741</value>
+                </Data>
+                <Data name="name">
+                    <value>Goddo Patto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>219</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20897</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94574</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105211422897.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105211430862.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>580.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>405</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-13 10:52:06.922915</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Fulzencio Jesus Leal
+Hetler Damnico  Leal
+Vinona Filomena Delaciana  Dias D Leal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987209.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51442">
+                <coordinates>73.945741921,15.208971137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51475">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19836,73.95244&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4132</value>
+                </Data>
+                <Data name="name">
+                    <value>Shetod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>43</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19836</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95244</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211213110118136.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211213110126781.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>380.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2869</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:04:01.099077</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Abelio Carvalho
+Augusto Fernandes
+Calagas Viegas
+Isaco Carvalho
+Virgina George</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978083.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51474">
+                <coordinates>73.952436181,15.198364526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51507">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19764,73.9442&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4238</value>
+                </Data>
+                <Data name="name">
+                    <value>nkumade</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>149</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19764</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9442</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211102525399.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211102532546.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/44</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>189.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2924</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Caesar Jose Fernandes
+Classy Pereira alias Classy Pereira e Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980909.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51506">
+                <coordinates>73.944201853,15.197637178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51539">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21199,73.95522&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1481</value>
+                </Data>
+                <Data name="name">
+                    <value>Chakiwado Peakavalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>255</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21199</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95522</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105204111520.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105204119007.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1984.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1085</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984383.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51538">
+                <coordinates>73.955223953,15.211991391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51571">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19366,73.95031&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1427</value>
+                </Data>
+                <Data name="name">
+                    <value>Odlem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>105</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19366</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95031</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805180024276.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805180035623.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2823.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>11</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Carmona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976683.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51570">
+                <coordinates>73.950307421,15.193664641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51603">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19742,73.94578&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1421</value>
+                </Data>
+                <Data name="name">
+                    <value>Oggud</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>144</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>35</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19742</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94578</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211101103976.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211101125770.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>408.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979509.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51602">
+                <coordinates>73.94577741,15.197422914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51635">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19652,73.94722&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4237</value>
+                </Data>
+                <Data name="name">
+                    <value>Gaunichi Gali or Mergado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19652</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94722</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211100528476.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211100536552.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/52</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2929</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Joana Raimunda Viegas e Colaco alias Maria Joana Raimunda Viegas alias Joanita Viegas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978809.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51634">
+                <coordinates>73.94721509,15.196518688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51667">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19752,73.94445&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4240</value>
+                </Data>
+                <Data name="name">
+                    <value>Tirpoti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>150</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19752</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94445</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211211103329586.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211211103345404.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Carmona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Carm/56</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>36.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2925</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Caitano Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980559.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51666">
+                <coordinates>73.944445,15.197518333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

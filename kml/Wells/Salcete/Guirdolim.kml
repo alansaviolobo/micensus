@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16110">
+        <Placemark id="16112">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.278051,74.052032&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5714</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5714</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>149/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Xavier Costa</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.278051</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.052032</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16111">
+                <coordinates>74.052032,15.278051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16127">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.267216,74.034221&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5728</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5728</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>870/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Optacio</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.267216</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.034221</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16126">
+                <coordinates>74.034221,15.267216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16142">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.267745,74.033701&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5729</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5729</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>356/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Jorge</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.267745</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.033701</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16141">
+                <coordinates>74.033701,15.267745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16157">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.272376,74.04997&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5747</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5747</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>785/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>John</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.272376</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04997</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16156">
+                <coordinates>74.04997,15.272376,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73741">
+        <Placemark id="73743">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2734,74.18267&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5833</value>
+                </Data>
+                <Data name="name">
+                    <value>Caji Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Dudal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2734</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18267</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230111063902953.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230111063930850.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Duda/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>260.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5288</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-01-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995904.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73742">
+                <coordinates>74.182670943,15.27339925,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,3028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55065">
+        <Placemark id="55067">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28272,73.91733&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1647</value>
+                </Data>
+                <Data name="name">
+                    <value>Mologe</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28272</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91733</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220623154524531.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220623154548397.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>155</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1181.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1009</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, The Executive Engineer, WD VI (R) PWD, Fatorda, Margao, Goa.
+Maria Antonia Souza e Santimano
+Models Real Estate Developers</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995259.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55066">
+                <coordinates>73.917327261,15.282719017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55099">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28055,73.91789&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1642</value>
+                </Data>
+                <Data name="name">
+                    <value>Rokdem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28055</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91789</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105104309688.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105104340359.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>319.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1003</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ramalha Mascarenhas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994559.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55098">
+                <coordinates>73.917894981,15.280547618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55131">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27858,73.9242&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1664</value>
+                </Data>
+                <Data name="name">
+                    <value>Kunrat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27858</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9242</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818115105968.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818115113521.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>130.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1068</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio D` Diniz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988233.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55130">
+                <coordinates>73.924199556,15.278575165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55163">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28046,73.91585&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1643</value>
+                </Data>
+                <Data name="name">
+                    <value>Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28046</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91585</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105103727214.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105103819243.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>152.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1006</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992109.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55162">
+                <coordinates>73.915847618,15.280464015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55195">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27457,73.92217&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1635</value>
+                </Data>
+                <Data name="name">
+                    <value>Colva Tank; Campo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27457</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92217</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210915113111395.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210915113131997.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>152</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>16129.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>996</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidad
+The Executive Engineer, Works Div. VI (R &amp; B), P.W.D., Fatorda, Margao Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990709.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55194">
+                <coordinates>73.922170476,15.274568745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55227">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27716,73.92306&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1662</value>
+                </Data>
+                <Data name="name">
+                    <value>Tamsal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27716</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92306</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818114706301.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818114713902.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>247.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1066</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidad</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987533.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55226">
+                <coordinates>73.923056922,15.277164644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55259">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28354,73.91656&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1648</value>
+                </Data>
+                <Data name="name">
+                    <value>Maine</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28354</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91656</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902172414039.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902172432784.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>153</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6663.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1010</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994909.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55258">
+                <coordinates>73.916561595,15.283539606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55291">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28124,73.91697&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1645</value>
+                </Data>
+                <Data name="name">
+                    <value>Rokdem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28124</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91697</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105104212417.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105104229321.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>295.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1008</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Socorro Serrao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994209.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55290">
+                <coordinates>73.916968658,15.281242605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55323">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28632,73.91639&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1650</value>
+                </Data>
+                <Data name="name">
+                    <value>Corgutem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28632</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91639</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902171545697.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902171556207.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>586.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1012</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995959.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55322">
+                <coordinates>73.916388757,15.286318265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55355">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28539,73.91334&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3838</value>
+                </Data>
+                <Data name="name">
+                    <value>Prai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28539</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91334</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902114036070.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902114043475.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>182.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2540</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, The Executive Engineer, WD VI (R) PWD, Fatorda, Margao, Goa.
+Salvador Mashado</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993509.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55354">
+                <coordinates>73.913336899,15.285390243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55387">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28601,73.92132&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1652</value>
+                </Data>
+                <Data name="name">
+                    <value>Padminiche</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>84</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28601</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92132</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818112655006.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818112708185.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>157</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1061.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1072</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991033.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55386">
+                <coordinates>73.921316923,15.286013479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55419">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2885,73.92298&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1666</value>
+                </Data>
+                <Data name="name">
+                    <value>Porlopo Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-3</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92298</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105100830925.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105100843026.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>435.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1128</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Menino Pacheco
+Bentinho Pacheco
+Jose Lucia Fernandes
+Rosa Maria Rodrigues
+Wilma Pacheco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991383.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55418">
+                <coordinates>73.922977581,15.288495655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55451">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28777,73.91607&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1651</value>
+                </Data>
+                <Data name="name">
+                    <value>Korgutem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>80</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28777</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91607</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902144731158.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902144857008.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1406.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1013</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996309.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55450">
+                <coordinates>73.916065691,15.287770525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55483">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2846,73.91436&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3676</value>
+                </Data>
+                <Data name="name">
+                    <value>Prai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2846</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91436</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902171327289.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902171339031.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>295.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2256</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-14 16:00:35.123335</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Afranio Alsemo Alberto Rebello
+Albano Rebello
+Joao Sinho Rebello
+Roman Rebello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993859.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55482">
+                <coordinates>73.914364127,15.284603403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55515">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28095,73.92149&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1659</value>
+                </Data>
+                <Data name="name">
+                    <value>Banagal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>127</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28095</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92149</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818114033257.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818114043732.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>151</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>27578.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1071</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ashley Jose Antonio Fernandes
+Maria Antonieta Gema de Pinto Sousa e Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988933.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55514">
+                <coordinates>73.92148711,15.280953462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55547">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28597,73.92515&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1654</value>
+                </Data>
+                <Data name="name">
+                    <value>Shethini/Sastole</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>104</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28597</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92515</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818111256093.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818111306512.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2273.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1132</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bharat Balwantrao Yadav
+Margaret Ellen</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990683.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55546">
+                <coordinates>73.925145383,15.28597444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55579">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28132,73.92618&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1657</value>
+                </Data>
+                <Data name="name">
+                    <value>Iminichem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>132</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28132</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92618</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210915122707498.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210915122716571.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1303.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1136</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989283.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55578">
+                <coordinates>73.926179582,15.281322749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55611">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28485,73.92183&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1653</value>
+                </Data>
+                <Data name="name">
+                    <value>Iminishem or Nave Bhat.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28485</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92183</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818113056945.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818113105841.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>156</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1102.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1133</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Assis Martin</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989983.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55610">
+                <coordinates>73.921834703,15.284852466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28957,73.9258&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1667</value>
+                </Data>
+                <Data name="name">
+                    <value>2nd Bairo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28957</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9258</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818110854089.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818110902631.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>170.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1130</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992083.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55642">
+                <coordinates>73.925797367,15.289567289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55675">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28106,73.91583&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4307</value>
+                </Data>
+                <Data name="name">
+                    <value>Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28106</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91583</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105103942123.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105104053489.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3277</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992809.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55674">
+                <coordinates>73.915828136,15.281061024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55707">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28499,73.92533&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1655</value>
+                </Data>
+                <Data name="name">
+                    <value>Palvontoi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>107</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28499</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92533</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210915123235306.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210915123243204.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>562.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1131</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Yeshwant Datta Poi Raiturkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990333.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55706">
+                <coordinates>73.925326899,15.284993557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55739">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27738,73.92421&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1663</value>
+                </Data>
+                <Data name="name">
+                    <value>Tamsal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27738</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92421</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105101602486.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105101610737.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>269.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1067</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidad</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987883.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55738">
+                <coordinates>73.924205623,15.277382042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27653,73.92081&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1636</value>
+                </Data>
+                <Data name="name">
+                    <value>Patalo Namshi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27653</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92081</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210915112830296.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210915112842322.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>394.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1065</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidad</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996659.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55770">
+                <coordinates>73.920814292,15.276531725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55803">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27837,73.91764&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1640</value>
+                </Data>
+                <Data name="name">
+                    <value>Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27837</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91764</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105103409130.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105103423918.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>330.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1002</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Casaria Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991759.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55802">
+                <coordinates>73.917636485,15.278368964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55835">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27722,73.91841&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1637</value>
+                </Data>
+                <Data name="name">
+                    <value>Deum</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27722</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91841</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902145930930.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902145945613.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>154</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4289.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1000</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mathew Pereira alias Matheus Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991409.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55834">
+                <coordinates>73.918408281,15.277221876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55867">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28862,73.92404&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1665</value>
+                </Data>
+                <Data name="name">
+                    <value>Comraden</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28862</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92404</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105100657290.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105100705981.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>518.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1129</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991733.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55866">
+                <coordinates>73.92403934,15.28861521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55899">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28226,73.92572&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1656</value>
+                </Data>
+                <Data name="name">
+                    <value>Iminichem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>132</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28226</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92572</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210915122557127.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210915122606813.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>982.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1134</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989633.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55898">
+                <coordinates>73.925721346,15.282256861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55931">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27777,73.91704&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1638</value>
+                </Data>
+                <Data name="name">
+                    <value>Deum</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27777</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91704</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105103125972.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105103134684.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>315.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1001</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidad</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991059.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55930">
+                <coordinates>73.91703765,15.277770129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55963">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28008,73.9162&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1644</value>
+                </Data>
+                <Data name="name">
+                    <value>Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28008</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9162</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105103534427.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105103611015.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>69.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1005</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992459.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55962">
+                <coordinates>73.91619653,15.280076336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55995">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27972,73.91688&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1641</value>
+                </Data>
+                <Data name="name">
+                    <value>Kalem Tole</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>42</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27972</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91688</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105103455273.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105103508021.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>124</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>460.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1004</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993159.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="55994">
+                <coordinates>73.91688374,15.279716514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56027">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27903,73.92166&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3856</value>
+                </Data>
+                <Data name="name">
+                    <value>Tate</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>139</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27903</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92166</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210915122113058.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210915122123124.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>191.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2555</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francis Misquito
+Office of the Village Panchayat Sernabatim, Vanelim, Colva and Gandaulim
+The Executive Engineer, P.W.D., W. D. VI (Roads-South), Fatorda, Margao, Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988583.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="56026">
+                <coordinates>73.92166162,15.279030772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56059">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28523,73.91668&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1649</value>
+                </Data>
+                <Data name="name">
+                    <value>Tapem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>78</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28523</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91668</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210902171655765.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210902171703364.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Colv/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>732.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1011</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995609.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="56058">
+                <coordinates>73.91668152,15.285230574,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

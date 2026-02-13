@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20356">
+        <Placemark id="20358">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50529,74.0961&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3152</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3152</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>191/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Suhasini S. Tendulkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Khodiyem, Pissurlem sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50529</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0961</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codiem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20357">
+                <coordinates>74.0961,15.50529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20373">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50605,74.09407&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3153</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3153</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>186/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sumati K. Tendulkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Khodiyem, Pissurlem sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50605</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09407</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codiem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20372">
+                <coordinates>74.09407,15.50605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20388">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50432,74.09257&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3154</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3154</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>185/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vinayak P. Gadgil</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Khodiyem, Pissurlem sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50432</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09257</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codiem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20387">
+                <coordinates>74.09257,15.50432,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

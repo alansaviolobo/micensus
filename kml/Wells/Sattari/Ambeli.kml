@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19541">
+        <Placemark id="19543">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46203,74.16205&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3217</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3217</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>142/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Govind R. Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>ambelim sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46203</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16205</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambeli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19542">
+                <coordinates>74.16205,15.46203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19558">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45789,74.16138&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3218</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3218</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>113/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shridhar Sawaikar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>ambelim sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45789</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16138</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambeli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19557">
+                <coordinates>74.16138,15.45789,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

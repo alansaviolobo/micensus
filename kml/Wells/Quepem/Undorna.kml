@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14855">
+        <Placemark id="14857">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.190131,74.166548&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4553</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4553</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>12/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>BIPINCHANDRA SHANTARAM KANTAK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Mangurish Krupa,Behind Post Office, Aquem Alto, Margao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.190131</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.166548</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Undorna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14856">
+                <coordinates>74.166548,15.190131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14872">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.190599,74.165974&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4554</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4554</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>7/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>BIPINCHANDRA SHANTARAM KANTAK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Mangurish Krupa,Behind Post Office, Aquem Alto, Margao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.190599</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.165974</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Undorna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14871">
+                <coordinates>74.165974,15.190599,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

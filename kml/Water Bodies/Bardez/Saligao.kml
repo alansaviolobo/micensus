@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7475">
+        <Placemark id="7477">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54962,73.79532&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5492</value>
+                </Data>
+                <Data name="name">
+                    <value>Palau</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>218</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54962</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79532</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418113621285.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418113633284.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>218/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sali/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>237.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4308</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:08:20.907949</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7476">
+                <coordinates>73.795321419,15.549619284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7510">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55149,73.79731&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5493</value>
+                </Data>
+                <Data name="name">
+                    <value>Simecho Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>235</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55149</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79731</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131171727941.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131171735484.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>235/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sali/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>94.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4309</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:09:20</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7509">
+                <coordinates>73.797313114,15.551488287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7543">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53921,73.79911&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5649</value>
+                </Data>
+                <Data name="name">
+                    <value>Sonar Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>131</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53921</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79911</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418115536734.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418115541859.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>131/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sali/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2155.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4793</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 18:18:04.790618</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Seminary Of Saligao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7542">
+                <coordinates>73.799105681,15.539212378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7576">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54145,73.79241&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>911</value>
+                </Data>
+                <Data name="name">
+                    <value>Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>184</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54145</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79241</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221004072940888.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221004073019158.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>184/17-18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sali/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>717.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4792</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7575">
+                <coordinates>73.792405158,15.541449664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7609">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53842,73.79822&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5489</value>
+                </Data>
+                <Data name="name">
+                    <value>Sonar Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>131</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53842</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79822</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418115447806.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418115453365.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>131/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Saligao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sali/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>372.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4305</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:07:20.923926</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Seminary Of Saligao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7608">
+                <coordinates>73.798223927,15.5384171,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

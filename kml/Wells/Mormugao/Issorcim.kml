@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8254">
+        <Placemark id="8256">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.372411,73.85625&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5969</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5969</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>529</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Vishant Vithal Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no F-12,d-block, Priyanka Enclave Bhd. Costa Factory, Bogmalo Goa 403601</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.372411</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85625</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Issorcim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8255">
+                <coordinates>73.85625,15.372411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8271">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.372525,73.853577&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6002</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>6002</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>482</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Balaji Datta Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Padmavati, H.no.216, Sagar Co-op. Housing Society, Dona-paula, Cansaulim Goa 403601</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.372525</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.853577</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Issorcim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8270">
+                <coordinates>73.853577,15.372525,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="79988">
+        <Placemark id="79990">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57266,74.0639&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5904</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57266</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0639</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223130207253.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223130226487.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Morl/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>111.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5399</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79989">
+                <coordinates>74.06390304,15.572663502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80022">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58925,74.04999&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3273</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Arjun Vitu Gaonkar; Guelim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58925</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04999</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200924123407613.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200924123419321.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Morl/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2027</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arjun Vitu Gaonkar
+The Executive Engineer, Works Division VI, Irrig Dept, Bicholim Goa.
+Vassant Rama Gaonkar
+Vassu Bhisso Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80021">
+                <coordinates>74.049990555,15.589245998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80055">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59153,74.0509&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5341</value>
+                </Data>
+                <Data name="name">
+                    <value>Gotkacho Valu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59153</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0509</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223132455281.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223132518103.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>31/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Morl/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>181.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4158</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 05:14:13.482962</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Laxman Pisso Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80054">
+                <coordinates>74.050895512,15.591527578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80088">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60335,74.05146&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5342</value>
+                </Data>
+                <Data name="name">
+                    <value>Deusum</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60335</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05146</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223133647089.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223133704459.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Morl/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4159</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 06:00:51.789051</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Rama Nokul Mapsekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80087">
+                <coordinates>74.051457678,15.603354098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80121">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58362,74.04951&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2982</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58362</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04951</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818160421080.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818160430211.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>110/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Morlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Morl/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1886</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 09:31:03</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021147.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80120">
+                <coordinates>74.049507294,15.583619503,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17581">
+        <Placemark id="17583">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.265503,74.135102&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4058</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4058</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>112/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>RAGHUNATH MOHANLAL SAWARDEKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 455, opp Holy Cross Chapel, Baagwada, Sanvordem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.265503</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.135102</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Coranguinim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17582">
+                <coordinates>74.135102,15.265503,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

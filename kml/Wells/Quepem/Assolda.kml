@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13423">
+        <Placemark id="13425">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.251636,74.061209&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4472</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4472</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>66/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. REMEDIOS J. MASCARENHAS</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:178, Cuneamorddi, Post Chandor, Assolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.251636</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.061209</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13424">
+                <coordinates>74.061209,15.251636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13440">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24995,74.061792&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4474</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4474</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>181/Quepem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MRS. MARGARET ESTELLA MASCARENHAS</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:178, Cuneamorddi, Post Chandor, Assolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24995</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.061792</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13439">
+                <coordinates>74.061792,15.24995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13455">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.253303,74.060686&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4475</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4475</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>64/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MR. CAETANO FLORIANO FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:157, Musnamoddi, Assolda, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.253303</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.060686</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13454">
+                <coordinates>74.060686,15.253303,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

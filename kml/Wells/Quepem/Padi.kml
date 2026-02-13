@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14605">
+        <Placemark id="14607">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.089514,74.06205&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4578</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4578</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>37/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI.SAVINDRA BABUSSO DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.NO:99/C, MOROD, CUNCOLIM</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.089514</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06205</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Padi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14606">
+                <coordinates>74.06205,15.089514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14622">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.089622,74.062591&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4579</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4579</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>38/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI.SHANU BABUSSO DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:711,BHIVNSA, CUNCOLIM</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.089622</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.062591</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Padi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14621">
+                <coordinates>74.062591,15.089622,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82698">
+        <Placemark id="82700">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48583,74.18398&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3159</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Gaothan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirsodem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48583</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18398</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827065917725.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827065929659.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sirs/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>255.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1908</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 08:18:56</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009147.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82699">
+                <coordinates>74.183981357,15.48582799,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21013">
+        <Placemark id="21015">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5201,74.08772&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3091</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3091</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1620/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Dashrath Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Pissurlem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5201</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08772</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumarconda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21014">
+                <coordinates>74.08772,15.5201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21030">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52084,74.08943&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3092</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3092</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1663/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Executive Engineer, W.D.III, W.R.D, Ponda- Goa. (B.win in the field of Durgabai Rane)</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Pissurlem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52084</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08943</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumarconda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21029">
+                <coordinates>74.08943,15.52084,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

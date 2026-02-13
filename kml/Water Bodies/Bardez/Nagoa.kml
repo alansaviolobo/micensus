@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5157">
+        <Placemark id="5159">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55878,73.7829&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5498</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55878</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7829</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418105135488.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418105141933.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>41/2-3,21</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Arpora-Nagoa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nago/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>269.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4315</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:13:20.916503</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aljira Cunha Gama Pinto
+Esma Olerin Gama Pinto
+Francisco Salvador Gama Pinto
+Maria Da Sare Gama Pinto
+Yelinda Tonia Gama Pinto</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5158">
+                <coordinates>73.7828989,15.5587768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5192">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55839,73.77169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>819</value>
+                </Data>
+                <Data name="name">
+                    <value>Moiti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>74</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55839</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415103357021.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415103644902.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>74/8,16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Arpora-Nagoa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nago/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>292.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4725</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Nirmala Acharya alias de Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5191">
+                <coordinates>73.771693164,15.558391463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5225">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55675,73.77089&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>818</value>
+                </Data>
+                <Data name="name">
+                    <value>Moiti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55675</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77089</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415103753095.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415103800639.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>68/3-5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Arpora-Nagoa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nago/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>303.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4723</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5224">
+                <coordinates>73.77089445,15.55674921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5258">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55756,73.77109&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>817</value>
+                </Data>
+                <Data name="name">
+                    <value>Moiti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>74</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55756</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77109</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415103520610.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415103529357.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>74/19-20,22-23</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Arpora-Nagoa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nago/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>376.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4724</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5257">
+                <coordinates>73.771094129,15.557556074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5291">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55816,73.77219&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>814</value>
+                </Data>
+                <Data name="name">
+                    <value>Dias Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>75</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55816</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77219</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415103837517.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415103842604.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>74/16; 75/2-3,12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Arpora-Nagoa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nago/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1186.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4727</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5290">
+                <coordinates>73.772190323,15.558163259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5324">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5573,73.7724&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>815</value>
+                </Data>
+                <Data name="name">
+                    <value>Dias Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5573</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7724</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415103600754.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415103607726.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>63/5; 68/1; 74/21,23-24</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Arpora-Nagoa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nago/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>725.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4726</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Lake</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5323">
+                <coordinates>73.772401912,15.557301573,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

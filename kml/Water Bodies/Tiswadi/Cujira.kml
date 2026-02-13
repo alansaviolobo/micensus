@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="86520">
+        <Placemark id="86522">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47588,73.85647&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5594</value>
+                </Data>
+                <Data name="name">
+                    <value>Deu Shett</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Cujira</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47588</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85647</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428121227434.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428121242568.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>29/2-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cuji/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>144.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4493</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 06:52:32.194645</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communiudade of Cujira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86521">
+                <coordinates>73.856470173,15.475881336,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

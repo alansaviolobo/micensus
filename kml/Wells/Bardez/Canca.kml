@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="418">
+        <Placemark id="420">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58138,73.80009&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>735</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>735</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1477/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Parsekar Laximan Dondu</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 396/D, Dmello waddo, canca, Parra Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58138</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80009</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Canca</value>
+                </Data>
+            </ExtendedData>
+            <Point id="419">
+                <coordinates>73.80009,15.58138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5833,73.79781&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1220</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1220</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3164/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Naik Surya Yeshwant,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 363/D, Khalap waddo, Parra Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5833</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79781</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Canca</value>
+                </Data>
+            </ExtendedData>
+            <Point id="434">
+                <coordinates>73.79781,15.5833,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

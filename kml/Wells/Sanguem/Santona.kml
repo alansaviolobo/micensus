@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19060">
+        <Placemark id="19062">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.296095,74.160743&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3955</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3955</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1407</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Dug well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>PANDURANG BHOGWANT NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 520, Ambeudak, Sanguem, Goa 403704</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.296095</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.160743</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Santona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19061">
+                <coordinates>74.160743,15.296095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29698,74.160453&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3956</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3956</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>102/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SADA AUDU NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 915, Ambeudak, Santona Sanguem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29698</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.160453</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Santona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19076">
+                <coordinates>74.160453,15.29698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19092">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.296577,74.148293&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3962</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3962</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>83/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>INACIO FRANCISCO FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 854, Periudok Sanvordem Sanguem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.296577</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.148293</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Santona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19091">
+                <coordinates>74.148293,15.296577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19107">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.295489,74.145346&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3963</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3963</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>86/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>ANITA LUIS E FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 1613/B Aqxem Curtorim Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.295489</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.145346</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Santona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19106">
+                <coordinates>74.145346,15.295489,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

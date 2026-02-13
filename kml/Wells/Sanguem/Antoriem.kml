@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17303">
+        <Placemark id="17305">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26963,74.129478&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3953</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3953</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>111/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>ROHAN GURUDAS NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. no. 662/2 Dhadem Sanvordem Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26963</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.129478</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Antoriem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17304">
+                <coordinates>74.129478,15.26963,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

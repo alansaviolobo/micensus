@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24972">
+        <Placemark id="24974">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54677,74.19501&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2807</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2807</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>173/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sayandev Nene</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Sonal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54677</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19501</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Sonal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24973">
+                <coordinates>74.19501,15.54677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24989">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5348,74.1833&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2808</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2808</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>165/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shridhar Kale</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kalayri Sonal, Sawardem, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5348</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1833</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Sonal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24988">
+                <coordinates>74.1833,15.5348,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13547">
+        <Placemark id="13549">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.161177,74.026134&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4510</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4510</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>60/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SURUCHI SUDAM GOSAVI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 17, Perimol, Balli Village, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.161177</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.026134</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Bali</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13548">
+                <coordinates>74.026134,15.161177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13564">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.157082,74.013192&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4571</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4571</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1192</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Dug well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>CONCEICAO FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:48/2,Ballimath,Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.157082</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.013192</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Bali</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13563">
+                <coordinates>74.013192,15.157082,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

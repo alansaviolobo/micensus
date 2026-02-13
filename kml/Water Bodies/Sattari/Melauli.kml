@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="79690">
+        <Placemark id="79692">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46544,74.15541&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2983</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Shiva Demgo Melekar; Bodkachi Gal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>92</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46544</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15541</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825072300369.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825072311714.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>92/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>778.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1932</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 09:43:43</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Shiva Demgo Melekar
+10)Xamba Puno Melekar
+11)Kashinath Gopinath Melekar
+12)Pandurang Bala Melekar
+13)Vishnu Ganesh Melecar
+14)Krishna Datta Melecar
+15)Goplo Melecar
+16)Shankar Gopal Melekar
+17)Laxman Gopal Melekar
+18)Nacul Vithoba Melecar
+2)Krishna Narayan Melekar
+3)Shrikant Zilul Melekar
+4)Shantaram Sadashlev Melekar
+5)Narayan L. Melekar
+6)Bablo Arjun Melekar
+7)Sadgo Bablo Melekar
+8)Ramchandra Bala Melekar
+9)Deugo Gopinath Melekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79691">
+                <coordinates>74.155411541,15.465443777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79725">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46622,74.12794&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3155</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Harichandra Sidhu Gaonkar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46622</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12794</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825062604850.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825062612375.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>64/3,5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>48.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1933</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Harichandra Sidhu Gaonkar.
+2) Naguesh Vithoba Gaonkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010647.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79724">
+                <coordinates>74.127941667,15.466215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79758">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45661,74.15978&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3277</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vishwanath Janardan Marathe; Bocad Malache Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45661</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15978</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200924165856437.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200924165903541.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/1-B</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>99.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2012</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Vishwanath Janardan Marathe.
+2) Vishnu Janardan Marathe.
+3) Shivram Janardan Marathe.
+4) Balchandra Krishna Marathe.
+5) Kashinath Krishna Marathe.
+6) Vaman Krishna Marathe.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79757">
+                <coordinates>74.159783701,15.456607037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79791">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43898,74.131&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3001</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Ladu Vithal Umarye; Vaile Paicul</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>38</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43898</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.131</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825064715847.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825064739575.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>38/8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1935</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 12:09:32</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Ladu Vithal Umarye
+2) Shripad Vithal Umarye
+3) Mahadev Vithal Umarye
+4) Narmada Baskar Gobre
+Mahadev Nilu Gawade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79790">
+                <coordinates>74.130995,15.438976667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79824">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46343,74.12786&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3154</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46343</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12786</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825061747253.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825061801439.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>66/6,8-9,11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>235.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1934</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.of Goa Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79823">
+                <coordinates>74.127860249,15.463434839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79857">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43848,74.13122&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2985</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Gajanand Balkrishna Dessai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>38</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43848</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13122</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825065037162.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825065057652.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>38/10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>288.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1936</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 09:59:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gajanand Balkrishna Dessai.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79856">
+                <coordinates>74.131220767,15.43847786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79890">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46658,74.15331&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3156</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Mahadev Devastan Maigonem; Sukad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>92</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46658</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15331</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825073234709.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825073313550.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>92/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>173.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1931</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mahadev Devastan Maigonem</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79889">
+                <coordinates>74.153309873,15.466577566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79923">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46369,74.12516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5990</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>62</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46369</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314051737998.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314051742887.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>154.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5425</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-14 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Piso G. Vagekar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79922">
+                <coordinates>74.12516076,15.463691869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79955">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45615,74.15996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3276</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vishwanath Janardan Marathe; Bocad Malache Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Melauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45615</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15996</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200924165633537.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200924165612322.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/1-B</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Mela/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>240.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2011</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Vishwanath Janardan Marathe.
+2) Vishnu Janardan Marathe.
+3) Shivram Janardan Marathe.
+4) Balchandra Krishna Marathe.
+5) Kashinath Krishna Marathe.
+6) Vaman Krishna Marathe.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="79954">
+                <coordinates>74.159958899,15.456145272,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

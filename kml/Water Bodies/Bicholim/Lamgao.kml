@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10927">
+        <Placemark id="10929">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58754,73.94122&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5785</value>
+                </Data>
+                <Data name="name">
+                    <value>Near Govt Primary School; Smashan Bhumi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Lamgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58754</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94122</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230216161504499.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230216161533915.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Lamg/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1153.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5363</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-26 11:15:07.743108</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:10.792506</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhalchandra Crisnarau Visvasrau Dessai
+Shree Kareshwar Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016478.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10928">
+                <coordinates>73.941218566,15.587539695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10961">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59513,73.93454&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2533</value>
+                </Data>
+                <Data name="name">
+                    <value>Vhodlem Tale; Thorle Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Lamgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59513</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93454</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318094153815.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318094203165.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>18/4; 23/3-4; 25/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Lamg/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>15155.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3451</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:07.440933</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019978.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10960">
+                <coordinates>73.934544388,15.59513435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10994">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59857,73.93115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5887</value>
+                </Data>
+                <Data name="name">
+                    <value>Talakadil and other</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Lamgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59857</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93115</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230216164202509.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230216164238103.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Lamg/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>184.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5364</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:10.857818</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganapatrao Shamrao Vishwashrao Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024878.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10993">
+                <coordinates>73.931150652,15.598574951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11026">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59156,73.93869&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5786</value>
+                </Data>
+                <Data name="name">
+                    <value>Atwadatil Kungo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Lamgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59156</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93869</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218161738371.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218161748846.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Lamg/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>186.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5383</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-26 11:16:51.653574</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:10.825732</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Krishnarao Rawaloba Vishwashrao Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017528.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11025">
+                <coordinates>73.938685915,15.591555462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11058">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59451,73.93532&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5885</value>
+                </Data>
+                <Data name="name">
+                    <value>Adimaya Sateri Vadeshwar Temple Tank; Dhakate Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Lamgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59451</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93532</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230216162419508.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230216162518044.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Lamg/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>82.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5371</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.888269</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sharadchandra Krishnarao Vishwasrao Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018928.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11057">
+                <coordinates>73.935316671,15.594506214,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

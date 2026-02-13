@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14979">
+        <Placemark id="14981">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.197808,74.148683&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4547</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4547</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>966</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MANUEL ANTONIO MASCARENHAS</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:14, Janodem,Molcornem, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.197808</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.148683</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Zanodem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14980">
+                <coordinates>74.148683,15.197808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14996">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.206123,74.145125&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4552</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4552</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>85/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>M/S ULTRACON CONSTRUCTION PVT. LTD</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:37/A, Dicarpale Navelim, Salcete</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.206123</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.145125</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Zanodem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14995">
+                <coordinates>74.145125,15.206123,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

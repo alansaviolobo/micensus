@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="922">
+        <Placemark id="924">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52392,73.83157&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1075</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1075</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3248/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>The Assistant Engineer, SD-II, WD-I, WRD,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Mapusa Bardez Goa. (Near hanuman temple, xcon heaven road)</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52392</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83157</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Penha-de-Franca</value>
+                </Data>
+            </ExtendedData>
+            <Point id="923">
+                <coordinates>73.83157,15.52392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52748,73.83137&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1100</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1100</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1617/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Executive Engineer, W.D.III, W.R.D, Ponda- Goa.</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>B.win in the field of Vidhya Probodini High School</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52748</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83137</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Penha-de-Franca</value>
+                </Data>
+            </ExtendedData>
+            <Point id="938">
+                <coordinates>73.83137,15.52748,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

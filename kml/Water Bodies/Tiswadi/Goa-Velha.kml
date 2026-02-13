@@ -1,0 +1,4841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89911">
+        <Placemark id="89913">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43823,73.88728&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3461</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43823</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88728</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510101206237.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510101220750.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>88/11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>154.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4881</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Provedoria de Assistancia Public.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89912">
+                <coordinates>73.887279378,15.43822941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89946">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44354,73.89503&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5467</value>
+                </Data>
+                <Data name="name">
+                    <value>Aradi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44354</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89503</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506082118165.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506082133336.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>382.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4282</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:30:08.066478</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>3) Dipak Datta Loundo
+Medha Vishwanath Lawande nee Medha Pradip Pai Raikar
+Society of Pilar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89945">
+                <coordinates>73.895033918,15.443536712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89979">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43266,73.89322&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6212</value>
+                </Data>
+                <Data name="name">
+                    <value>Baban Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43266</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89322</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510111859249.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510111904978.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>87.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5672</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89978">
+                <coordinates>73.89322348,15.43266241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90011">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43989,73.88592&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3487</value>
+                </Data>
+                <Data name="name">
+                    <value>Madanamas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43989</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88592</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510100629282.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510100634460.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>143/7-8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>293.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4875</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manuel Belem Monteiro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90010">
+                <coordinates>73.885916018,15.439894799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90044">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44082,73.88604&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3467</value>
+                </Data>
+                <Data name="name">
+                    <value>Diasason,Diassason</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2,5,6</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44082</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88604</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510100603303.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510100613930.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>143/5-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4557</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Concecao Gracias
+Floriano Pinheiro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90043">
+                <coordinates>73.88604416,15.440819076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43449,73.90148&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6226</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43449</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90148</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114853308.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114905549.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>88.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5697</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90076">
+                <coordinates>73.901476002,15.434491692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44298,73.88234&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3477</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44298</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88234</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510084327192.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510084332559.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>89.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4547</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maciana Lopes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90108">
+                <coordinates>73.882337635,15.442975985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90142">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44335,73.88256&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6205</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44335</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88256</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510084239569.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510084244916.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>167.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5664</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Andre Nunes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90141">
+                <coordinates>73.88256028,15.443347301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90174">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44537,73.89101&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3318</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44537</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89101</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506095517794.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506095620260.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>23/12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/40</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>60.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2160</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Santa Cruz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90173">
+                <coordinates>73.891008678,15.445365013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43396,73.88865&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5601</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43396</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88865</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510103038872.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510103109490.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>93/10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>177.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4544</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-19 13:51:53.826687</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90206">
+                <coordinates>73.888653155,15.433964754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90240">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43824,73.88393&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3463</value>
+                </Data>
+                <Data name="name">
+                    <value>Adi Xeth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>147</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43824</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88393</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510075607215.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510075624414.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>147/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4560</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90239">
+                <coordinates>73.883925896,15.438242854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90273">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44356,73.88399&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6207</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44356</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88399</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510084613564.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510084631772.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/44</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>47.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5665</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90272">
+                <coordinates>73.88399112,15.443562509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90305">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43376,73.90176&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6220</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43376</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90176</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114046717.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114100557.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/45</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5687</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90304">
+                <coordinates>73.901756146,15.433763277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90337">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43229,73.89266&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5466</value>
+                </Data>
+                <Data name="name">
+                    <value>Assrem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>99</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43229</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89266</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510110745685.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510110752763.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>99/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>103.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4281</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:29:08.405561</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90336">
+                <coordinates>73.892657592,15.432287231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90370">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44331,73.8837&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3478</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44331</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8837</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510084157641.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510084205213.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>5/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>80.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4549</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90369">
+                <coordinates>73.883700994,15.443312082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90403">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43831,73.86729&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1192</value>
+                </Data>
+                <Data name="name">
+                    <value>Zuari</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>193</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43831</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86729</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510072757943.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510072832881.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>188/1; 189/1; 193/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>22792.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>743</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Beatriz Camelo e Souza
+Nicolau Souza
+Zuari Real Estate Company Private Ltd.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90402">
+                <coordinates>73.867292377,15.438305467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90436">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4395,73.88886&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1202</value>
+                </Data>
+                <Data name="name">
+                    <value>Almaxet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4395</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88886</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510101444963.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510101453178.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>87/1; 88/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>367.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>752</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90435">
+                <coordinates>73.888860109,15.439500787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90469">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43966,73.88843&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1201</value>
+                </Data>
+                <Data name="name">
+                    <value>Almaxet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43966</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88843</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510101406427.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510101411273.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>88/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>811.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>753</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90468">
+                <coordinates>73.888429909,15.439656699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90502">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43857,73.88724&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3462</value>
+                </Data>
+                <Data name="name">
+                    <value>Durga Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43857</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88724</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510101119065.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510101125526.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>88/11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/46</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4939</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vincent Vas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90501">
+                <coordinates>73.887237536,15.438567194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90535">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43958,73.88394&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3466</value>
+                </Data>
+                <Data name="name">
+                    <value>Addshet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>145</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43958</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88394</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510081614947.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510081619962.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>145/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>106.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4558</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Libania Mendes
+Michael Mendes
+Raymond Mendes
+Terezinha Mendes
+The Executive Engineer, Works Division II (Road) P. W. D. Panaji Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90534">
+                <coordinates>73.883943331,15.439582224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90568">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43985,73.89766&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1191</value>
+                </Data>
+                <Data name="name">
+                    <value>Chamunda Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43985</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89766</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074206315.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074228289.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/1; 35/11-12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1805.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>803</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pillar Seminary Society</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90567">
+                <coordinates>73.897659258,15.439846724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43227,73.89334&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6213</value>
+                </Data>
+                <Data name="name">
+                    <value>Baban Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>38</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43227</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89334</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510110817571.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510110822894.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>80.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5674</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90600">
+                <coordinates>73.893338333,15.432266837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90633">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43269,73.89134&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6215</value>
+                </Data>
+                <Data name="name">
+                    <value>Patim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>97</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10,11</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43269</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89134</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510111314511.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510111325313.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5673</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Church Property of Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90632">
+                <coordinates>73.891336427,15.432691967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90665">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43379,73.8923&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6210</value>
+                </Data>
+                <Data name="name">
+                    <value>Baban xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>80</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43379</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8923</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510110345813.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510110400710.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>119.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5677</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Leonora Isabela Geraldina Rodrigues
+2) Suryakant Balkrishna Naik.
+Two</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90664">
+                <coordinates>73.892295718,15.433789074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90697">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44132,73.88736&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3317</value>
+                </Data>
+                <Data name="name">
+                    <value>Ponga Cudco</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44132</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88736</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510090214237.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510090237566.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>26/A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Delete</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>672.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2159</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Andrew Francisco Vaz
+Angelica D'Cunha
+Anthony Cruz Fernandes
+Caetano De Melo
+Constantinho D'Cunha
+David Piedade Eleuterio Menezes (397 sq.mts)
+Ditosa Margarida Godinho
+Domingos D'Souza
+Jacinto Miranda
+Joaquina Maria Julieta Fernandes
+Jose Miltao D'Souza
+Laura Pinheiro E Souza
+Manuel Francis D Silva
+Maria Isabel Vaz
+Maria Leticia Menezes
+Martha Feleciana Candida Soares
+Peter Paul D'Cunha
+Piedade Antonio D'Souza
+Quiteria Dias
+Santano F.Braganza
+Sheshashivarao yagateela.
+Venkataramanamma R. Shesaiah Yagateela.
+Yagateela Ramaiah Shesaiah.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90696">
+                <coordinates>73.887359403,15.441324891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90730">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43167,73.89389&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6216</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>77</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26,27</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43167</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89389</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510111114441.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510111123888.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>74.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5676</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003451.9649852058</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90729">
+                <coordinates>73.893886304,15.431674413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90762">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44134,73.88092&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3495</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>170</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44134</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88092</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510074023642.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510074043636.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>170/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/48</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>36.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4879</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>B.R.P.Sinari</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90761">
+                <coordinates>73.8809211,15.441336669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90795">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44062,73.88754&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3486</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44062</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88754</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510101318781.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510101325871.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>88/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>70.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4876</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Bhaskar R.P.Sinari.
+2) Rajanikant R.P.Sinari.
+3) Shrikrishna R.P.Sinari.
+4) Vishnu R.P.Sinari.
+5) Prabhakar R.P.Sinari.
+6) Sitakant R.P.Sinari.
+7) Narcinva (Mohan) R.P.Sinari.
+8) Shalini R.P.Sinari.
+9) Vassantibai R.P.Sinari.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90794">
+                <coordinates>73.887544379,15.440624137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90828">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43409,73.90134&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6222</value>
+                </Data>
+                <Data name="name">
+                    <value>Udaye</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43409</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90134</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114350982.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114404274.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>91.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5694</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90827">
+                <coordinates>73.901343333,15.43409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90860">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43423,73.90101&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6224</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43423</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90101</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114549855.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114607666.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>98.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5696</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90859">
+                <coordinates>73.901014325,15.43423076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90892">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43382,73.90123&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6225</value>
+                </Data>
+                <Data name="name">
+                    <value>Udaye</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43382</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90123</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114716716.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114724587.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>91.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5692</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003408.1194415914</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90891">
+                <coordinates>73.901226538,15.433821414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90924">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43454,73.90127&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6227</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43454</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90127</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114938251.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114947700.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>158.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5707</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90923">
+                <coordinates>73.901268432,15.434540036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90956">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44186,73.88458&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3480</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44186</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88458</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510085020421.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510085027991.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>98.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4551</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90955">
+                <coordinates>73.884575323,15.441862663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90989">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43472,73.88938&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5603</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43472</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88938</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510104055579.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510104118920.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>93/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>82.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4545</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-19 13:52:53.824587</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.
+Santana Socorinha Vaz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="90988">
+                <coordinates>73.889379859,15.434724837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91022">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43329,73.89259&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6211</value>
+                </Data>
+                <Data name="name">
+                    <value>Baban Bat,Baban Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13,14</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43329</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89259</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510111423291.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510111439475.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>133.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5678</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91021">
+                <coordinates>73.892586556,15.433292205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91054">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43356,73.88981&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5667</value>
+                </Data>
+                <Data name="name">
+                    <value>Supatd Dusrilans</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43356</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88981</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510102540328.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510102556760.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>96/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/47</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>38.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4546</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-02 13:23:11.807804</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91053">
+                <coordinates>73.889812207,15.433564804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91087">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44215,73.88336&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3481</value>
+                </Data>
+                <Data name="name">
+                    <value>Pedaco Pequeno</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88336</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510082206670.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510082215818.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Delete</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/50</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>29.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4923</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joaquim Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91086">
+                <coordinates>73.883358411,15.442153388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91120">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4363,73.89248&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6208</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4363</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89248</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510102011244.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510101905077.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>60.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5700</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francisco Gonsalves
+Seforosa Flavia Ribeiro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91119">
+                <coordinates>73.892479946,15.43630136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91152">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43832,73.8992&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1190</value>
+                </Data>
+                <Data name="name">
+                    <value>Sulabhat Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>38</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43832</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8992</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230322154102703.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230322154110968.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>37/1; 38/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>115543.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>802</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91151">
+                <coordinates>73.89919503,15.438315891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91185">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43413,73.90122&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6223</value>
+                </Data>
+                <Data name="name">
+                    <value>Udaye</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43413</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90122</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114455589.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114502655.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/42</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5695</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91184">
+                <coordinates>73.901215016,15.434130285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91217">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4451,73.89046&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6195</value>
+                </Data>
+                <Data name="name">
+                    <value>Batim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3,4</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4451</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89046</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506101014678.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506101022547.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>152.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5667</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Sebastiao Vaz
+Juliat Bebinda Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91216">
+                <coordinates>73.890455231,15.445104861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91249">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44209,73.88665&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3469</value>
+                </Data>
+                <Data name="name">
+                    <value>Arkem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44209</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88665</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510100354338.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510100402946.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>18/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/51</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>27.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4877</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Agricultural Tenancy Act, 1964.
+Stella Ignes Afonso
+This land cannot be Sold/Trans-
+approval of Mamlatdar as provided
+ferred/Gifted/Leased without Prior
+u/s 18-K of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91248">
+                <coordinates>73.886653007,15.442088734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91282">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44335,73.8832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3476</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44335</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8832</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510084218364.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510084225862.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>5/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4548</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91281">
+                <coordinates>73.883204118,15.443347372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91315">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44242,73.88702&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3468</value>
+                </Data>
+                <Data name="name">
+                    <value>Arkem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44242</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88702</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510100417308.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510100422538.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>18/3-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>408.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4556</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91314">
+                <coordinates>73.887024499,15.442422428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91348">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43341,73.88894&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6209</value>
+                </Data>
+                <Data name="name">
+                    <value>Kainam Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43341</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88894</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510102906729.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510102922005.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/43</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5701</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91347">
+                <coordinates>73.888944331,15.433407945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91380">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4341,73.88927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5600</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4341</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88927</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510103350263.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510103408567.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>93/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>269.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4542</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-19 13:51:53.826687</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91379">
+                <coordinates>73.889269656,15.434099081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91413">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43442,73.88908&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5602</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43442</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88908</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510103455119.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510103526726.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>93/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>168.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4543</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-19 13:51:53.826687</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91412">
+                <coordinates>73.889077779,15.434418118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91446">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44355,73.88233&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6206</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44355</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88233</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510084300321.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510084306544.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Andre</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>182.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5663</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Andre Nunes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91445">
+                <coordinates>73.882332664,15.44354961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91478">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43189,73.89376&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6214</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>77</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>23</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43189</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89376</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510110927749.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510110935415.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>65.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5675</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91477">
+                <coordinates>73.893758703,15.431885481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91510">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43379,73.90151&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6221</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Goa-Velha</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43379</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90151</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114223322.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114232964.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gave/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5693</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Goa-Velha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91509">
+                <coordinates>73.901506867,15.433787122,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20979">
+        <Placemark id="20981">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3269,74.22818&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4346</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3269</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22818</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129125543751.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129125550854.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Siga/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>176.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3321</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-27 06:04:03.653026</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dudhasagar Krishi Udyog Society</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1035916.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991797.2014394391</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20980">
+                <coordinates>74.228181308,15.326896184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21013">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32805,74.22818&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4362</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>111</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Sigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32805</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22818</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129125358321.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129125405889.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Siga/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3341</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sociedade Patriotica dos Boldios dos Nev as Conquistas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1035916.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992047.201439439</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21012">
+                <coordinates>74.22817863,15.328053195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21045">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33031,74.23557&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4345</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>90</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33031</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.23557</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129123903676.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129123912133.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Siga/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>214.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3320</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-27 06:00:10.548463</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babal Ganesh Velip    }  1/2
+Mortu Sucdo Velip   1/4
+Sadashiv Ganesh Velip }
+Shanu Raghu Velip   1/4</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1035916.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992547.201439439</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21044">
+                <coordinates>74.235572067,15.330305344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33803,74.19942&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4365</value>
+                </Data>
+                <Data name="name">
+                    <value>Canea mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33803</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19942</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129132709042.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129132717742.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Siga/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3340</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1035916.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992797.201439439</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21076">
+                <coordinates>74.199417586,15.338032722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33942,74.2004&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4350</value>
+                </Data>
+                <Data name="name">
+                    <value>Kakankarachem mal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33942</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.2004</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129132756752.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129132803912.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Siga/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>426.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3325</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-27 06:17:37.540027</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kashinath Pandurang Shet Parkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1035916.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993047.201439439</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21108">
+                <coordinates>74.200398611,15.339423705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21141">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33355,74.21587&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4348</value>
+                </Data>
+                <Data name="name">
+                    <value>Vone gal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>101</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33355</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21587</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129130256893.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129130316618.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Siga/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>199.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3323</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-27 06:05:34.263124</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Guno Sagun Sawant Desai
+Harischandra Ramchandra Sawant Desai
+Sitaram Kaku Sawant Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1035916.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992297.201439439</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21140">
+                <coordinates>74.215866134,15.333549981,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

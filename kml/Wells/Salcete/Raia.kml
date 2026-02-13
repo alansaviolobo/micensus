@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16512">
+        <Placemark id="16514">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.313297,73.999537&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5708</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5708</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>733/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Bonifacio Palmeira</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.2, Ponnawaddo, Ilha de Rachol, Salcete-Goa. 40379</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.313297</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.999537</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16513">
+                <coordinates>73.999537,15.313297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16529">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31831,73.996853&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5709</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5709</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>865/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Shivone Sandra Dias</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.758/F, Ganapoga, Raia, Salcete-Goa. 403720</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31831</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.996853</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16528">
+                <coordinates>73.996853,15.31831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16544">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.321609,73.994802&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5710</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5710</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>360/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Filomena Gomes E Oliveira</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 863/P, Beela Vista, Santemol, Raia, Salcete-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.321609</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.994802</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Raia</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16543">
+                <coordinates>73.994802,15.321609,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

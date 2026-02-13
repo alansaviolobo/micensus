@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="78317">
+        <Placemark id="78319">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61708,74.14927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2273</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Kishore K Avarsekar; Kalmachem Bhatlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61708</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14927</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905073209255.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905073227285.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>31/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2361.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>170</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kishore K Avarsekar
+Pushpa K Avarsekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030338.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78318">
+                <coordinates>74.149272956,15.617083131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78352">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61563,74.14496&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3227</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Suraj P. Ohric; Padsawdeche Mall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61563</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14496</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904115122802.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904115130557.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>43.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1919</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Suraj P. Ohric</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030038.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78351">
+                <coordinates>74.144963333,15.615631667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78385">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61393,74.15382&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2272</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Bhushan Prabhakar Aher; Baman Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61393</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15382</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904073524165.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904073535576.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>36/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7948.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>169</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>264 Area 44.00.0 sq.m.
+Bhushan Prabhakar Aher
+Tilottoma Prabhakar Aher</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028838.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78384">
+                <coordinates>74.153824294,15.613928139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78418">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61574,74.15229&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3217</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Dattatraya Narayan Sardessai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61574</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15229</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904074430762.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904074438518.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>29/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>255.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1921</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>261
+Area 1.87.25 Ha.
+Clea Chandmal
+Dattatraya Narayan Sardessai
+Pruthviraj Arunojirao Deshmukh
+Suchitra Vinay Desai
+Sumitra Pruthviraj Deshmukh
+Vinay Xiva Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029438.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78417">
+                <coordinates>74.152291667,15.61574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78451">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60636,74.14699&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5378</value>
+                </Data>
+                <Data name="name">
+                    <value>Khadwad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60636</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14699</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230228114214634.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230228114240718.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>47/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>584.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4192</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:36:49.551000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Prabhakar Balkrishna Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78450">
+                <coordinates>74.146992723,15.606361879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78484">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60593,74.14467&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5534</value>
+                </Data>
+                <Data name="name">
+                    <value>Kagreachem Vaingan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60593</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14467</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230228113251655.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230228113305087.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/20</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4844</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-04 07:00:25</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Baburao Hirbarao Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78483">
+                <coordinates>74.144665318,15.605926416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78517">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61522,74.14938&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5379</value>
+                </Data>
+                <Data name="name">
+                    <value>Kalmachem Bhatlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61522</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14938</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230228124341981.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230228124527921.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>30/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>217.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4193</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:37:49.520038</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dayanand Balkrishna Bandodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029138.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78516">
+                <coordinates>74.149376246,15.615215958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78550">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6164,74.14512&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3228</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Kishore K Avarsekar; Kalmachem Bhatlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6164</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14512</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904120315528.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904120322604.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>/</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>105</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>89.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1918</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kishore K Avarsekar
+Pushpa K Avarsekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030638.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78549">
+                <coordinates>74.145122538,15.616404832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78583">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61492,74.14735&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3235</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Suraj P. Ohric; Padsawdeche Mall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61492</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14735</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905071828135.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905071834751.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Dong/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1920</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Suraj P. Ohric</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029738.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78582">
+                <coordinates>74.147351667,15.61492,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

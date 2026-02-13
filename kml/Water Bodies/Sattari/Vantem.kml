@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="83071">
+        <Placemark id="83073">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4848,74.08781&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2590</value>
+                </Data>
+                <Data name="name">
+                    <value>Dattatray Temple Tank; Madachi Vali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4848</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08781</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314061836782.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314061825166.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/7; 10/1; 16/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Birondem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Vant/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>442.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>584</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:40:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>One
+Shri Dattatray Devastan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008575.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83072">
+                <coordinates>74.087807322,15.484796647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83106">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48086,74.08526&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3147</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Barkelo Narayan Gaude; Taleachem Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3-E</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48086</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08526</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824072406515.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824072416143.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>8/3-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Birondem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Vant/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>428.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1891</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-24 14:51:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Barkelo Narayan Gaude
+Shankar Narayan Gaude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007375.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83105">
+                <coordinates>74.085261667,15.48086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83139">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48803,74.08393&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5366</value>
+                </Data>
+                <Data name="name">
+                    <value>Givnol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>33</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48803</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08393</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230224104138096.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230224104155226.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>33/6,21</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Birondem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Vant/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>34.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4180</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:24:52.838010</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008875.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83138">
+                <coordinates>74.083927243,15.488027585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83172">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4883,74.10317&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5368</value>
+                </Data>
+                <Data name="name">
+                    <value>Sukad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>92</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4883</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10317</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314060205337.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314060211913.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>92/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Birondem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Vant/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>119.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4182</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:25:49.508076</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Div</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007975.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83171">
+                <coordinates>74.103172679,15.488304338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83205">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48693,74.10275&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5367</value>
+                </Data>
+                <Data name="name">
+                    <value>Sucod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>104</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48693</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10275</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314060333095.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314060338791.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>104/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Birondem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Vant/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>270.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4181</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:25:49.508076</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Krishna Vasudeo Savaikar    1/2
+2)Eknath Ganesh Savaikar   ]
+3)Dattaram Ganesh Savaikar ]... 1/2
+Three</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007075.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83204">
+                <coordinates>74.102752999,15.486933298,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

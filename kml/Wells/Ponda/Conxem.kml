@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10953">
+        <Placemark id="10955">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34909,74.06835&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3604</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3604</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>454/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. RAJIV RAMDAS SAMANT</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>CONXEM, NIRANKAL, PONDA GOA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34909</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06835</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Conxem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10954">
+                <coordinates>74.06835,15.34909,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,3809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1479">
+        <Placemark id="1481">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56635,73.75629&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5614</value>
+                </Data>
+                <Data name="name">
+                    <value>Cumerik</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>273</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>44</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56635</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75629</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415121006904.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415121012561.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>273/42,44,46</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>68.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4652</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:26:26.308407</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1480">
+                <coordinates>73.756288161,15.566345351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1514">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56154,73.75724&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2870</value>
+                </Data>
+                <Data name="name">
+                    <value>Son Cutto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>310</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56154</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75724</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120642074.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120645990.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>304/12-14; 310/5,44</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>175.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4648</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Joao Mascarenhas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1513">
+                <coordinates>73.757243525,15.561543178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1547">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55343,73.77516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5624</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>397</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55343</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415101853505.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415101902830.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>56/67; 397/5,7-8,10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>181.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4636</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:47:26.405209</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Benzamin Goes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1546">
+                <coordinates>73.775159181,15.553433662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1580">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52286,73.78635&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5484</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>57</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52286</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78635</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009122120125.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009121831573.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>57/6-10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1372.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4300</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:03:20.918569</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Calangute</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1579">
+                <coordinates>73.786353394,15.522863487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1613">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54418,73.77442&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>830</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>444</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54418</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77442</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415083707532.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415083716192.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>444/4-5; 445/14-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Pending</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1053.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4634</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Calangute</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1612">
+                <coordinates>73.774423141,15.544176241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1646">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56359,73.75584&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5420</value>
+                </Data>
+                <Data name="name">
+                    <value>Damuche Yerik</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>301</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4,5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56359</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75584</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120825769.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120831814.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>301/4-5,8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>251.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4235</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:46:09.307103</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Executive Engineer (N)(JICA ODA) Loan project, PWD, Mapusa Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1645">
+                <coordinates>73.755844784,15.563586026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1679">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5543,73.76878&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2855</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>355</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5543</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76878</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415101533505.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415101549584.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>354/2; 355/16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>574.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4645</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:03:24</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1678">
+                <coordinates>73.768782681,15.55430362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1712">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5543,73.76574&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2873</value>
+                </Data>
+                <Data name="name">
+                    <value>Gawara Vaddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>345</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5543</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76574</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415111828901.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415111836606.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>345/1-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>195.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4661</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Carnelio D'Souza
+Fr. Thomas
+Joao Antonio Pires</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1711">
+                <coordinates>73.765742616,15.554300526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1745">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55245,73.76867&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5622</value>
+                </Data>
+                <Data name="name">
+                    <value>Rama Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>356</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55245</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76867</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415101726612.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415101733011.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>356/7-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>259.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4663</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:43:27.373973</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1744">
+                <coordinates>73.768666921,15.552446984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1778">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55337,73.76812&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5621</value>
+                </Data>
+                <Data name="name">
+                    <value>Rama Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>356</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55337</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76812</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415101647119.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415101658801.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>356/1-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>200.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4662</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:43:27.373973</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1777">
+                <coordinates>73.768120975,15.553366342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1811">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55997,73.75782&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2871</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhedso</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>311</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55997</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75782</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120118565.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120122192.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>311/16-17,22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>148.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4647</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ilda Nazareth E Egypsy
+John Norberto Pinto
+Krishna Rama Naik Govekar
+Leslie Antonio Angelo de Souza alias Leslie Francisco Anthony de Souza
+Nuno Andrade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1810">
+                <coordinates>73.757818505,15.559971694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1844">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53418,73.77273&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5488</value>
+                </Data>
+                <Data name="name">
+                    <value>Aradhi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53418</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77273</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415082920935.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415082927301.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/7; 40/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4304</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:06:20.911702</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aleixo Allen Eufemiano Dos Remedios Pinto</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1843">
+                <coordinates>73.772731343,15.534176472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1877">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55717,73.75956&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2865</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>226</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55717</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75956</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120038325.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120042893.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>226/4-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>161.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4659</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1876">
+                <coordinates>73.75956183,15.557167416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1910">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53399,73.76053&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5661</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53399</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76053</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009113242736.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009113259065.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>140/6,8-9; 141/17</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>407.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4836</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 20:28:04.799017</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Armando Francisco Nazareth
+Consesaio Filomena Josefina Florencia Na zareth
+Maria Joquina Esmini Nazareth
+The Ucassaim Salisian Society Ucassaim G oa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1909">
+                <coordinates>73.76052554,15.533992496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1943">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56149,73.75754&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2869</value>
+                </Data>
+                <Data name="name">
+                    <value>Son Cutto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>310</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56149</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75754</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120722540.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120726957.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>304/11,15; 310/6-7,44</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>164.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4649</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Joao Mascarenhas Domingo Jose D' Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1942">
+                <coordinates>73.757544465,15.561493294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1976">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53268,73.77316&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5486</value>
+                </Data>
+                <Data name="name">
+                    <value>Camarachi Nomos</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53268</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77316</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415083230940.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415083239851.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>93/5P</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>198.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4302</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:05:15.149691</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1975">
+                <coordinates>73.773157074,15.532681501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2009">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55121,73.78029&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6076</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>404</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55121</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78029</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415150203935.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415150225295.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>607.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5504</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2008">
+                <coordinates>73.780294529,15.551209393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2041">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54086,73.77401&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6074</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54086</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77401</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415082433594.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415082448558.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5497</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ditoz Maria Mascarenhas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2040">
+                <coordinates>73.774008333,15.540858333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2073">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5506,73.779&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5428</value>
+                </Data>
+                <Data name="name">
+                    <value>Bheker</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>404</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5506</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.779</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415150619413.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415150713886.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>404/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>686.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4243</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:53:08.064056</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2072">
+                <coordinates>73.778996307,15.550601418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2106">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55329,73.77598&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5427</value>
+                </Data>
+                <Data name="name">
+                    <value>Fond Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>398</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55329</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77598</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415102111762.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415102121424.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>398/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>564.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4242</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:53:08.064056</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Carceo Bernardino De Conceicao E. Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2105">
+                <coordinates>73.775976445,15.553288479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2139">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55426,73.76289&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>831</value>
+                </Data>
+                <Data name="name">
+                    <value>Ling Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>219</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55426</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76289</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415112005035.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009111732918.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>217/13-15,18; 219/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5425.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4642</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2138">
+                <coordinates>73.762892834,15.554255788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2172">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56092,73.75435&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5617</value>
+                </Data>
+                <Data name="name">
+                    <value>Dumxeticho Agor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>315</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56092</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75435</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120431515.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120436555.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>315/1P</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1724.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4655</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:31:26.302760</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2171">
+                <coordinates>73.754351276,15.560916097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2205">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55508,73.75915&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5612</value>
+                </Data>
+                <Data name="name">
+                    <value>Ghativaddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>232</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55508</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75915</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415112141881.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415112146588.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>232/8,24</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>842.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4643</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 02:56:26</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Artemizio Monteiro
+Pascoal Joao Antonio Alexindre Monteiro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2204">
+                <coordinates>73.75914903,15.555083914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2238">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55648,73.76699&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2863</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>349</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55648</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76699</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415111738686.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415111743834.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>349/14-15,19,21</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>455.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4644</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Victoria Jacobo Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2237">
+                <coordinates>73.766985226,15.556481311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2271">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56069,73.75553&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5619</value>
+                </Data>
+                <Data name="name">
+                    <value>Gauk</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>314</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56069</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75553</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120152405.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120157926.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>314/23-25; 315/26</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>868.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4657</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:32:26.301824</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2270">
+                <coordinates>73.755528114,15.56069005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2304">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56161,73.75345&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5616</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>285</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56161</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75345</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120506146.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120512835.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>285/5-6,28,38-39</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>357.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4654</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:30:26.599734</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2303">
+                <coordinates>73.753448669,15.561609914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2337">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56154,73.75265&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5615</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>284</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>81</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56154</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75265</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120545423.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120550248.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>284/81-82</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>201.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4653</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:30:26.599734</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ophelia De Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2336">
+                <coordinates>73.752651465,15.56154299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2370">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53362,73.77175&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5487</value>
+                </Data>
+                <Data name="name">
+                    <value>Bamon Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53362</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77175</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415082224463.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415082254534.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>39/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>8384.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4303</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:05:15.149691</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Calangute</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2369">
+                <coordinates>73.771751872,15.533623663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2403">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55735,73.75817&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2864</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>227</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>40</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55735</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75817</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120017948.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120024211.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>227/33-34,40</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>342.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4658</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:13:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2402">
+                <coordinates>73.758174393,15.557347087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2436">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.551,73.7667&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2857</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagop</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>358</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.551</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7667</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415093639565.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415093650808.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>358/1-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>609.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4639</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:03:24</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2435">
+                <coordinates>73.766702046,15.551000502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2469">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56045,73.7548&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5618</value>
+                </Data>
+                <Data name="name">
+                    <value>Chol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>315</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56045</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7548</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120236608.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120242583.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>315/26-27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>124.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4656</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:31:26.302760</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2468">
+                <coordinates>73.754796144,15.560445372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2502">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56725,73.7545&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2862</value>
+                </Data>
+                <Data name="name">
+                    <value>Saryadade</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>273</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56725</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7545</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415121046820.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415121051203.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>272/88; 273/1,14; 275/10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>252.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4650</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:03:24</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2501">
+                <coordinates>73.754500372,15.567246132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2535">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55316,73.77012&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5623</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>389</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55316</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77012</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415101437683.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415101447086.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>389/2-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>403.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4664</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:44:26.407015</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2534">
+                <coordinates>73.770116657,15.553162836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2568">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56743,73.7559&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5613</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>271</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>40</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56743</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7559</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415120934239.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415120938448.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>271/40</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4651</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:26:26.308407</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Anton Armano D'Souza
+Jose Francisco Arcanjo D'Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2567">
+                <coordinates>73.755898018,15.567430788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5508,73.76759&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2858</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagop</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>358</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5508</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76759</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415093046465.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415093053483.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>358/3,5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>613.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4638</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 05:03:24</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2600">
+                <coordinates>73.767590067,15.550803264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2634">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55381,73.76096&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5620</value>
+                </Data>
+                <Data name="name">
+                    <value>Tarne</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>216</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55381</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76096</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415112033209.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415112039191.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>216/3,6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4660</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 03:38:26.411377</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2633">
+                <coordinates>73.760959885,15.553814157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2667">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55264,73.77408&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5675</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>395</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>29</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55264</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77408</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415101810735.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415101824822.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>395/17,28-29</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>370.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4635</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-03 09:43:27.634741</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Benjamin Goes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2666">
+                <coordinates>73.774080351,15.55264028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2700">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5437,73.77373&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>829</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>444</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5437</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77373</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415083603002.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415083617516.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>444/1-A,1-B,1-C; 445/20</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1374.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4633</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Abdul Wahab Manegar
+Alfonsa Heredia
+Mohammad Parvez Farukyi
+Moulasab H. Ramapur
+Soccour Isidorio Heredia
+Wasi Ahmad</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2699">
+                <coordinates>73.773728266,15.543695353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2733">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54689,73.76821&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1009</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>372</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54689</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76821</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415091424068.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415091433938.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>370/11; 371/10; 372/2-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Calangute</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Cala/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3388.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4646</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Amrutrao Chandrakant Desai
+Anandi Anandrao Desai
+Anandrao Chandrakant Desai alias Bala Chandrakant Desai
+Communidade
+Gangabai A. Desai alias Anita Narayan Desai
+Kanchan Amrutrao Desai
+Kanoji Rane Sardesai
+Krishnarao Chandrakant Desai
+Narayan S. Desai
+Riya Krishnarao Desai
+Yogita A. Desai alias Kalpita Kanoji Rane Sardesai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2732">
+                <coordinates>73.768206933,15.546893761,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

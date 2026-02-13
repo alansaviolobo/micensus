@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82733">
+        <Placemark id="82735">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54007,74.18832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3105</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sunita Shivagi Lad; Khara Vatiche Panache Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sonal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54007</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18832</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827110505454.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827110518742.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sattari)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>111</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sona/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>612.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1856</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-07-24 07:06:47</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sunita Shivagi Lad.
+Uday Shivagi Lad.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82734">
+                <coordinates>74.188315391,15.540070605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82768">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53809,74.18689&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3166</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vassudeo Vishwanath Nene; Viryacha Panache Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Sonal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53809</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18689</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827113159744.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827113208267.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sattari)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sona/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1971</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vassudeo Vishwanath Nene
+one</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015147.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82767">
+                <coordinates>74.186885,15.53809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82801">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5433,74.18152&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2352</value>
+                </Data>
+                <Data name="name">
+                    <value>Geeta Farm</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sonal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5433</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18152</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210220111814506.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210220111906063.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sattari)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sona/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>696.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>173</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Geeta Farm</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016047.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82800">
+                <coordinates>74.181524546,15.543296686,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

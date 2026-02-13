@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21488">
+        <Placemark id="21490">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62079,74.15749&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2670</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2670</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>76/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vishnu Khot</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Gharakadil Sarad, Golouli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62079</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15749</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21489">
+                <coordinates>74.15749,15.62079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21505">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63704,74.17249&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2677</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2677</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>100/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Laximan Zharmekar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Pokadachi bharad, Rivem.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63704</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17249</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21504">
+                <coordinates>74.17249,15.63704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21520">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62644,74.15951&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2678</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2678</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>90/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Babu Korgaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>gaouthan Golouli, Golouli.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62644</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15951</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21519">
+                <coordinates>74.15951,15.62644,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

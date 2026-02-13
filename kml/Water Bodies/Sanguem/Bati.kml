@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72513">
+        <Placemark id="72515">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19065,74.22996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3987</value>
+                </Data>
+                <Data name="name">
+                    <value>Bekrem,Marod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>34,30</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19065</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22996</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421114446680.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421114458581.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>47.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2669</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 12:18:48.974964</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Nilkant Batikar
+Shivaji Govind Cacodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980134.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72514">
+                <coordinates>74.229956976,15.19065479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72547">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.17002,74.22022&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3984</value>
+                </Data>
+                <Data name="name">
+                    <value>Zambulvado Nocodbab</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.17002</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22022</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421103001880.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421103050981.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2667</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 12:02:50.974578</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Byron Aloysius Xavier
+Eileen Ermelinda Xavier
+Julius Ceasar Xavier
+Myra Anrea Xavier</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979084.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72546">
+                <coordinates>74.220216715,15.170019816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72579">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.1689,74.21962&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3983</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.1689</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21962</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421103525404.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421103551431.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>283.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2666</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 12:02:50.974578</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Deu L. Gaunkar
+Mrs. Philomena Rodrigues
+Raghoba L. Gaunkar
+Satu Laxman Gaunkar
+Shaba Pauto Gaunkar
+Shamba L. Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978384.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72578">
+                <coordinates>74.219623158,15.168898945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72611">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.1906,74.22861&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4758</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhelerumting Gal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.1906</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22861</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421062143621.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421062156666.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>N/A</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>37.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3806</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babu Voddu Bhatikar
+Devappa Yellappa Hadepad
+Lourdis Monica Fernandes
+Sonu Yeshwant Naik
+Uday P. Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979784.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72610">
+                <coordinates>74.228605,15.190595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.168,74.21741&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4756</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.168</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21741</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421053003680.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421110012975.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>158.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3804</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Deu L. Gaunkar
+Mrs. Philomena Rodrigues
+Raghoba L. Gaunkar
+Satu Laxman Gaunkar
+Shaba Pauto Gaunkar
+Shamba L. Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978034.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72642">
+                <coordinates>74.217408333,15.168003333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72675">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19045,74.22958&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4757</value>
+                </Data>
+                <Data name="name">
+                    <value>In the Property of Dilip Gaonkar; Bekrem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>34</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19045</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22958</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421061259261.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421061314584.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>29.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3803</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shivaji Govind Cacodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979434.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72674">
+                <coordinates>74.229581398,15.190452379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72707">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16953,74.21869&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4755</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16953</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21869</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421051023275.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421104043321.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>342.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3805</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Deu L. Gaunkar
+Mrs. Philomena Rodrigues
+Raghoba L. Gaunkar
+Satu Laxman Gaunkar
+Shaba Pauto Gaunkar
+Shamba L. Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978734.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72706">
+                <coordinates>74.218691783,15.169528407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72739">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19878,74.23123&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3982</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19878</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.23123</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421112912966.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421112935780.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1195.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2665</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 11:46:45.279916</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arjun Fato Velip
+Arun Velip
+Bil Salikar
+Chandrabagui B. Velip
+Communidade of Astagrar
+Jaikrishna Batikar
+Krishna Velip
+Roglo Naik
+Satyabhama Babi Gaunkar
+Shaba Rama Gaudo
+Tulshidas B. Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981534.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72738">
+                <coordinates>74.231230334,15.198783851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.165,74.21754&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3985</value>
+                </Data>
+                <Data name="name">
+                    <value>Valsem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Bati</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.165</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21754</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220421104500269.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220421104540394.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Bati/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>339.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2668</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 12:09:43.108278</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Department
+of Goa of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034461.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976984.755113311</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72770">
+                <coordinates>74.217543382,15.164998665,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

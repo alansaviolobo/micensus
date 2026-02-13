@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="88497">
+        <Placemark id="88499">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47627,73.8265&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1166</value>
+                </Data>
+                <Data name="name">
+                    <value>Brittali Tollai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Durgawado</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47627</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8265</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425081300363.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425081306636.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>7/11-16,18,20-21</value>
+                </Data>
+                <Data name="constituency">
+                    <value>12 - Taleigao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Taleigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Durg/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>538.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>679</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Xavier Velho</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88498">
+                <coordinates>73.826495492,15.476273608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88532">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47707,73.82655&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1167</value>
+                </Data>
+                <Data name="name">
+                    <value>Bittali Tallai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Durgawado</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47707</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82655</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425081221694.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425081232123.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>7/2-3,5; 128/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>12 - Taleigao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Taleigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Durg/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>578.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2047</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Taleigao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88531">
+                <coordinates>73.826554279,15.477072221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88565">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47474,73.82652&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1161</value>
+                </Data>
+                <Data name="name">
+                    <value>Supalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Durgawado</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47474</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82652</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425082824396.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425082843619.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/13-15</value>
+                </Data>
+                <Data name="constituency">
+                    <value>12 - Taleigao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Taleigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Durg/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>148.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>687</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Taleigao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88564">
+                <coordinates>73.826516727,15.474739515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88598">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47395,73.82767&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6127</value>
+                </Data>
+                <Data name="name">
+                    <value>Xetrapal Temple Tank; Durgavadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Durgawado</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47395</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82767</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428072004706.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428072011432.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>12 - Taleigao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Taleigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Durg/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>942.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5654</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1] Antonio Lobo
+2] Luis Francisco de Piedade Lobo
+3] Antonio Joao Bosco Lobo
+4] Fernando Jose Lobo
+5] Mario Francisco de Conceicao Lobo
+Akhil Shantaram Rane
+Balaram Dattaram Bambolkar
+Bhavana Balaram Bambollkar
+Conceicao maria  Marta Ribeiro
+Droupadi Vassu Palienkar
+Goa, Daman and Diu Housing Board, Panaji
+Gunavanti Kashinath Palekar
+Jose Leocadio Herculano Ribeiro
+K. V. Sreekrishnan
+Laximi Vassant Chari
+Luis A E Ribeiro
+Mahesh K. Palekar
+Manisha Vilas Naik
+Menino Ribeiro (276 sq.mts.)
+Nanu Shiva Khandeparkar
+Narayan K. Palekar
+Onu Santu Sirvoikar
+Pasquina Nunes e Ribeiro
+Perleen Veronica D souza
+Pradnya Akhil Rane
+Pundalik Khandeparkar
+Ramdas Ganpat Kalangutkar
+Ranjeeta Ramdas Kalangutkar
+Shoban Onu Sirvoikar
+Smt. Druvabal E. Bambolkar
+Smt. Suchita Palekar
+Suchita S. Kudtarkar
+Suryakant Nagesh Kudtarkar
+Varsha Vilas Palekar
+Venkatesh Khandeparkar
+Vilas Kashinath Palekar and
+Vilas Usno Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88597">
+                <coordinates>73.827669409,15.473948009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88630">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47322,73.82503&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3436</value>
+                </Data>
+                <Data name="name">
+                    <value>Dagnalem Galvate</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Durgawado</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47322</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82503</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428072918451.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428072927795.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>12 - Taleigao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Taleigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Durg/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>472.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4610</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Carmen Miranda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88629">
+                <coordinates>73.825033598,15.473218902,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

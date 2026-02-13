@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15043">
+        <Placemark id="15045">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.180676,73.976687&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5449</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5449</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>448/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Mauricio Rajneesh Diniz</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 318, Santwaddo, Assolna, Salcete-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.180676</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.976687</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15044">
+                <coordinates>73.976687,15.180676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15060">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.180491,73.975854&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5450</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5450</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>447/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Evelyn Coelho e Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 12/2053, Cr 2/6, Fatorda, Margao, Salcete-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.180491</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.975854</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15059">
+                <coordinates>73.975854,15.180491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15075">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.180425,73.97663&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5451</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5451</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>433/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Eugenio Carlos Diniz</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 322, Santwaddo, Assolna, Salcete-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.180425</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97663</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15074">
+                <coordinates>73.97663,15.180425,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

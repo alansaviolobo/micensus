@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58989">
+        <Placemark id="58991">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26365,74.04631&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4139</value>
+                </Data>
+                <Data name="name">
+                    <value>Naixeth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>277</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-36</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26365</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04631</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211221090746116.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211221090803352.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Guir/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>12455.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2876</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:44:32.644094</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Peter Rodrigeus
+Peter Rodrigues</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986340.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58990">
+                <coordinates>74.046308583,15.263649498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59023">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26418,74.05217&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1791</value>
+                </Data>
+                <Data name="name">
+                    <value>Nacazana Lake; Dhumor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>270</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26418</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05217</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210804161107242.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210804161122190.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Guir/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>35297.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1357</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dr. Jose Jesus M. Gomes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986690.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59022">
+                <coordinates>74.052174985,15.264175239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59055">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26683,74.0363&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1790</value>
+                </Data>
+                <Data name="name">
+                    <value>Modhlem-gall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26683</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0363</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210804153709064.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210804153720668.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Guir/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2517.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1348</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alfred Cardoso
+Allaudin Bijapuri
+Ameet Savio Da Piedade Pinto
+Ashraf Bavecatti alias Ashraf D. Bhawikathi
+Aurelia Ana da Piedade Miranda e Araujo Alvares,
+Auristo Martin Antao
+Conrad J. Alvares
+Daphene Alvares
+Eremita Dias e Coutinho
+Irshad D. Bhawikathi alias Irshad Daudsab Bavekatti
+Joana Maria D`Mello E Cardoso
+John D`Souza
+Jose Benito Aristides Melquiades Cardoso alias Joseph B.A.M. Cardoso
+Jose Savio da Piedade Albuquerque Pinto
+Julieta Sarra D`Souza
+Leucadia Pereira
+Mafaldina C. D`Costa
+Maria Amelia da Piedade Miranda e Pinto
+Maria Damiana Estibeiro
+Mario Jose Araujo Alvares
+Michael Braganza
+Mohammed Rafik Shaikh
+Mohammed Sharif Benkepur
+Sandra Coutinho
+Santosh Verenker
+Sapphira Coutinho
+Victor Pedro Abranches</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985990.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59054">
+                <coordinates>74.036298076,15.26682617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59087">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26867,74.04108&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3774</value>
+                </Data>
+                <Data name="name">
+                    <value>Poklya-Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26867</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04108</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210804101636781.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210804101645594.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guirdolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Guir/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1130.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2494</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Franklin Antao
+Josinho Michael Antao
+Matilda Antao
+Rosario Antao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987040.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59086">
+                <coordinates>74.041076451,15.268673418,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

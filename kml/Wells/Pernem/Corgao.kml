@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8945">
+        <Placemark id="8947">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.713703,73.754133&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1942</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1942</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3393/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Kambli Naresh Laxman</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Deulwada,korgao, Pernem -Goa 403512.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.713703</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.754133</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8946">
+                <coordinates>73.754133,15.713703,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

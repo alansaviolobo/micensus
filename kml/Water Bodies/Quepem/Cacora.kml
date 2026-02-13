@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="42874">
+        <Placemark id="42876">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21867,74.11237&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4383</value>
+                </Data>
+                <Data name="name">
+                    <value>Bonchi Gal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>195</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cacora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21867</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11237</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415073612920.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415073638842.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>195/1-A; 196/2; 198/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curchorem Cacora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>089</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Caco/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1568.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3470</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 03:47:08</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:19.443667</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Prabhakar Venkatesh Keni Robolo
+Raghunath Venktesh Keni Robollo
+Somnath Prabhu Dessai.
+The Executive Engineer WRD Gogol Margao Goa
+The Executive Engineer, Works Division XIV, Water Resources Department, Gogol, Margao, Goa.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982831.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42875">
+                <coordinates>74.112374464,15.21866854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42909">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24885,74.11026&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4389</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadev Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>399</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Cacora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11026</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415065741701.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415065808309.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>399/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curchorem Cacora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Caco/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>513.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3476</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 03:55:55</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:20.978719</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984731.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42908">
+                <coordinates>74.110256115,15.248854713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42942">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23637,74.10544&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3873</value>
+                </Data>
+                <Data name="name">
+                    <value>Nanda Lake; Compar or Paishetavaril,Survod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>381</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-3</value>
+                </Data>
+                <Data name="village">
+                    <value>Cacora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23637</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10544</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211020120910447.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211020121008767.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value/>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curchorem Cacora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Caco/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1285254.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2589</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-10-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:20.055263</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Antonio Piedade Rodrigues
+1)Chandrakant Shambu Sawant
+10)Pandari Uttam Sawant
+11)Chapem Govind Sawant
+12)Anand Rama Sawant
+2)Anant Uttam Sawant
+2)Jose Rodrigues
+3)Mablu Vithal Sawant
+3)Minguel Antonio Rodrigues
+4)Krishna Shiva Sawant
+5)Vencatesh Bombul Sawant
+6)Mahadeva Kashi Sawant
+7)Madhu Khushali Sawant
+8)Pandu Uttam Sawant
+9)Gopal Balso Sawant
+Egidio Rebello
+The Executive Engineer, Works Division XIV, Water Resources Department, Gogol, Margao, Goa.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983591.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42941">
+                <coordinates>74.105439087,15.236372956,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

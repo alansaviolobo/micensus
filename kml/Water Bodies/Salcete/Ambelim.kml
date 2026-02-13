@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="44225">
+        <Placemark id="44227">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16611,73.98746&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1273</value>
+                </Data>
+                <Data name="name">
+                    <value>Rantolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>49</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-77</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16611</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98746</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210819165734409.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210819165742168.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Ambe/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>166862.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>879</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Albertina Cruz
+Antonio Martins
+Arthur Martins
+Carmo Martins
+Cleo Torcato
+Communidade
+Dr Tito vaz
+Elcy Conceicao Cruz
+Eufano Martins
+Gregorina Cruz
+Honorat Martins
+Honorate Martins
+Honorato Martins
+Indira Martins
+Irene Vaz
+Jeroina D'Cruz
+Jesoena D' Cruz
+Jesoina D'Cruz
+Joel Roque Menino Vilon Fernandes
+Kirino Andrade
+Louranco Saude Torcato
+Lourencio Saude Torcato
+Lourenco Saude Torcato
+Masmian Almeida
+Masmiana Almeida
+Masmiana Andrade
+Masmiana Martins
+Maximian Martins
+Maximiana Martins
+Tito Inacio Liborio Fernandes
+Velentin Camilo Carmelita Da Cruz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008337.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>973133.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44226">
+                <coordinates>73.987456219,15.166110006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44259">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.17011,73.9686&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3953</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>118</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.17011</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9686</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211101102856122.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211101102904927.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Ambe/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>150.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2628</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-01 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Auxilio Barros Colaso
+Celina Barros Colaso
+Savio Barros Colaso</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987637.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>974283.192006791</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44258">
+                <coordinates>73.968601664,15.170110673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44291">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16775,73.96809&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1264</value>
+                </Data>
+                <Data name="name">
+                    <value>Zaino Tollem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>115</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>79</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16775</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96809</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211101101832295.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211101101903859.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Ambe/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>515.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>865</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987637.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>973233.1920067907</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44290">
+                <coordinates>73.968087468,15.167746041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44323">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16933,73.96879&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3952</value>
+                </Data>
+                <Data name="name">
+                    <value>Poclea Tolo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>118</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16933</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96879</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211101102600348.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211101102610437.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Ambe/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>73.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2627</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-01 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Glen Joaquim D`Silva
+Hellen Anna Conception Dias alias Helen A. C. de Silva
+William Lodovico da Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987637.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>973583.192006791</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44322">
+                <coordinates>73.968791356,15.169331258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44355">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16418,73.98229&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1272</value>
+                </Data>
+                <Data name="name">
+                    <value>Tollea Bandh / Sanquinhi Tollem; Sanla Bhat, Sashet or Azrem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-20</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16418</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98229</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210819164610482.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210819164626159.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Ambe/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>770090.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>903</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Caetano Joao Fernandes
+Communidade
+Fernando Colaso
+Government
+Philipe Fernandes
+Querobina Fernandes
+Ricardo Colaso</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008337.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>972783.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44354">
+                <coordinates>73.982293895,15.164177383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44387">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16936,73.96837&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3951</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>120</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16936</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96837</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211101102507921.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211101102514910.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Ambe/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2626</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-01 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Paul Silva Lobo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987637.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>973933.192006791</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44386">
+                <coordinates>73.96837,15.169363333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

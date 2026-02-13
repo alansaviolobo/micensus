@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5966,73.87016&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>991</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhamadem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5966</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87016</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006130009101.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006130040017.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>70/3-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1266.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4842</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Boa Espranca Aldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2">
+                <coordinates>73.87016209,15.596598659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59243,73.86179&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5743</value>
+                </Data>
+                <Data name="name">
+                    <value>Sukem Vaigan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59243</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86179</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006123932328.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006123821885.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value/>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>112.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5273</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Boa Espranca Aldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="35">
+                <coordinates>73.861791115,15.592431052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60614,73.87448&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5608</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>103</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60614</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87448</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419113537922.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419113544114.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>99/1-20; 103/1,12-13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4615</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-25 15:52:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025466.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68">
+                <coordinates>73.874482355,15.606135733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59816,73.86973&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5774</value>
+                </Data>
+                <Data name="name">
+                    <value>Manshilakche Dhane</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>71</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59816</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86973</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419111815833.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419111835749.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value/>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>339.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5333</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Boa Espranca Aldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023966.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="101">
+                <coordinates>73.86973035,15.598161367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5934,73.86023&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5744</value>
+                </Data>
+                <Data name="name">
+                    <value>Sukem Vaigan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5934</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86023</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006124304794.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006124321430.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/15-16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>124</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5274</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Boa Espranca Aldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020966.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="134">
+                <coordinates>73.860230893,15.59339576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59726,73.87014&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>992</value>
+                </Data>
+                <Data name="name">
+                    <value>Manshilakche Dhane</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>71</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59726</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87014</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006130248630.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006130313172.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>71/17,19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>269.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4843</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. Nala Govt. Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="167">
+                <coordinates>73.870141563,15.597255526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58501,73.87374&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5510</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhoi Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58501</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87374</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419111251942.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419111258275.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>205/6-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>106.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4326</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:24:20.906223</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Boas Franca Comunidade Haldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020466.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="200">
+                <coordinates>73.8737374,15.5850118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="234">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59018,73.86341&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>989</value>
+                </Data>
+                <Data name="name">
+                    <value>Taleakade; .</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>362</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59018</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86341</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006123418071.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006123433979.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>362/1-5,8-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4932.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4841</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Boa Esperanca De Aldona, Aldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019966.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="233">
+                <coordinates>73.863411607,15.59017661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60861,73.87985&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5522</value>
+                </Data>
+                <Data name="name">
+                    <value>Aricho Ak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>142</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60861</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87985</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006131840672.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006131904425.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>142/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>111.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4339</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:44:07.403858</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bharat Nihchaldas Pariani
+Omprakash Nihchaldas Pariani</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025966.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="266">
+                <coordinates>73.8798479,15.6086118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="300">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60647,73.87964&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>993</value>
+                </Data>
+                <Data name="name">
+                    <value>Ranoi Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>144</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60647</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87964</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419114313861.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006131235776.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>144/15-18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>411.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4338</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="299">
+                <coordinates>73.879636346,15.606467501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60598,73.87492&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5516</value>
+                </Data>
+                <Data name="name">
+                    <value>Aricho Aokh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>99</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60598</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87492</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419113601827.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419113606865.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>99/4,21; 101/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>217.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4332</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:35:20.907320</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025216.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="332">
+                <coordinates>73.874920032,15.60598066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="366">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58502,73.87327&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5664</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhoi Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58502</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87327</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419111310229.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419111314392.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>205/4,9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>187.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4840</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 20:57:04.815581</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Boas Franca Comunidade Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020216.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="365">
+                <coordinates>73.873271717,15.585017644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60439,73.87962&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5519</value>
+                </Data>
+                <Data name="name">
+                    <value>Ranoi Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>162</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60439</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87962</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419114251183.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419114257782.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>162/15-16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Aldo/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4337</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:36:20.890512</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Fraternal Aldona</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024966.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="398">
+                <coordinates>73.8796187,15.60439,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14126">
+        <Placemark id="14128">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.083964,74.074587&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4518</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4518</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1234</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>KRISHNA KUST GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:270, Gokuldem, Paddi, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.083964</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.074587</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Gocoldem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14127">
+                <coordinates>74.074587,15.083964,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

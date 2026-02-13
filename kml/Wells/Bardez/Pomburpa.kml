@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1001">
+        <Placemark id="1003">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56747,73.85211&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1237</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1237</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3080/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Joseph Avelino Mendes,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 58/6, Arao, Pomburpa, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56747</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85211</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Pomburpa</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1002">
+                <coordinates>73.85211,15.56747,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

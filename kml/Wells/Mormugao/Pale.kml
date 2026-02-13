@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8286">
+        <Placemark id="8288">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.367536,73.887517&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5927</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5927</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>162/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Assumpta Natalina Rebelo</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.01, Pale Velsao, P.o.cansaulim, Mormugao Goa 403712</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.367536</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.887517</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Pale</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8287">
+                <coordinates>73.887517,15.367536,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

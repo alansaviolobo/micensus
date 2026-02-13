@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16912">
+        <Placemark id="16914">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.225678,73.96979&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5533</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5533</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>146/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Marcelino Jovino Viegas &amp; Smt. Thelma Luiza Viegas</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 53, Mazilwaddo, Sirlim, Dramapur, Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.225678</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96979</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirlim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16913">
+                <coordinates>73.96979,15.225678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16929">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.230814,73.975462&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5642</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5642</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>656/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Maira</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.230814</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.975462</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirlim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16928">
+                <coordinates>73.975462,15.230814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16944">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2302,73.974845&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5643</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5643</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>655/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Tank</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Maira</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2302</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.974845</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirlim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16943">
+                <coordinates>73.974845,15.2302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16959">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.222697,73.975453&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5653</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5653</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>668/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri.Everaldo Bosco Gomindes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.103, Dandvaddo, Sirlim, Salcete-Goa 403715.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.222697</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.975453</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirlim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16958">
+                <coordinates>73.975453,15.222697,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

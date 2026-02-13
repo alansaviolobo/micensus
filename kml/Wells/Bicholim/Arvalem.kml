@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2227">
+        <Placemark id="2229">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5645,74.04639&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2214</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2214</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>46/19/Bicholim</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Arjun Raglo Malik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.529, upper Harvalem, Sankhalim-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5645</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04639</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Arvalem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2228">
+                <coordinates>74.04639,15.5645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2244">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56849,74.04674&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2215</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2215</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3161/Bicholim</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Vishnu Sada Malik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.480, upper Harvalem, Sankhalim-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56849</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04674</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Arvalem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2243">
+                <coordinates>74.04674,15.56849,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

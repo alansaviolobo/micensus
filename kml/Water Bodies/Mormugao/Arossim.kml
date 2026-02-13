@@ -1,0 +1,2169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21173">
+        <Placemark id="21175">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33896,73.90173&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2298</value>
+                </Data>
+                <Data name="name">
+                    <value>Patengo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33896</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90173</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728045149599.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728045207015.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>636.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>496</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996076.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21174">
+                <coordinates>73.901726758,15.338964188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33412,73.90204&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2303</value>
+                </Data>
+                <Data name="name">
+                    <value>Kond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>102</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33412</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90204</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206041617585.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206041622965.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>537.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>264</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>St.Lourenco Chapal property Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995326.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21206">
+                <coordinates>73.902042636,15.334118988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21239">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33442,73.90634&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2302</value>
+                </Data>
+                <Data name="name">
+                    <value>Fonder</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>49</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33442</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90634</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206052645304.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206052654509.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>597.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>267</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995476.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21238">
+                <coordinates>73.906336263,15.334418826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21271">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3388,73.89582&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2291</value>
+                </Data>
+                <Data name="name">
+                    <value>Zonvolio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>140</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3388</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89582</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206074141660.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206074151058.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1237.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>271</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996124.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21270">
+                <coordinates>73.895818055,15.338802477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21303">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32941,73.90421&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2309</value>
+                </Data>
+                <Data name="name">
+                    <value>Oll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32941</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90421</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206032836317.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206032846426.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1380.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>276</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994876.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21302">
+                <coordinates>73.904214002,15.329410417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21335">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33925,73.89522&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2292</value>
+                </Data>
+                <Data name="name">
+                    <value>Jawal Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33925</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89522</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206075031645.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206075040021.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>498</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996274.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21334">
+                <coordinates>73.89522484,15.339250509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21367">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33108,73.90229&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2307</value>
+                </Data>
+                <Data name="name">
+                    <value>Boguris Porob</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>86</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33108</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90229</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206035141818.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206035148120.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>938.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>493</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995074.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21366">
+                <coordinates>73.902289991,15.331081376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21399">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33478,73.90507&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2300</value>
+                </Data>
+                <Data name="name">
+                    <value>Namas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33478</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90507</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728054425689.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728054442492.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2091.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>265</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Paulo de Costa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995626.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21398">
+                <coordinates>73.905067867,15.334780374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21431">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33367,73.90053&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2304</value>
+                </Data>
+                <Data name="name">
+                    <value>Band Merechem Bandol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>105</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33367</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90053</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728052104221.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728052111062.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>398.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>274</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995374.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21430">
+                <coordinates>73.900527498,15.33366589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21463">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32637,73.90588&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2313</value>
+                </Data>
+                <Data name="name">
+                    <value>Mudalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32637</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90588</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728064627595.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728064640203.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>565.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>491</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Walfrido Antao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994726.4669405238</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21462">
+                <coordinates>73.905879851,15.32636525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21495">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33651,73.89859&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2295</value>
+                </Data>
+                <Data name="name">
+                    <value>Sivelem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>129</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33651</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89859</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728065910091.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728070053066.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3993.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>270</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995824.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21494">
+                <coordinates>73.898589352,15.336512594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21527">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33688,73.90979&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2301</value>
+                </Data>
+                <Data name="name">
+                    <value>Chormebat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>42</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33688</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90979</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200207053857955.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200207053903495.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2588.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>277</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995776.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21526">
+                <coordinates>73.90979211,15.336879284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21559">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33564,73.89875&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2296</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhaio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>121</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33564</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89875</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728070713344.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728070736187.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>335.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>269</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995674.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21558">
+                <coordinates>73.898752566,15.335636514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21591">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33875,73.90087&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2299</value>
+                </Data>
+                <Data name="name">
+                    <value>Patengo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33875</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90087</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206054649412.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206054655418.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>247.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>495</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995926.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21590">
+                <coordinates>73.900869027,15.338747014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21623">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33382,73.89927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2305</value>
+                </Data>
+                <Data name="name">
+                    <value>Kentio Tollem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>122</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33382</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89927</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728052421583.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728052435821.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>15864.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>268</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995524.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21622">
+                <coordinates>73.899268881,15.333815911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21655">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34092,73.90801&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2339</value>
+                </Data>
+                <Data name="name">
+                    <value>Odlinamas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34092</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90801</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200207055724721.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200207055730553.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3394.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>278</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>St.Laurenco Chapel Property-Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996226.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21654">
+                <coordinates>73.908006298,15.340920413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21687">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33963,73.89548&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2293</value>
+                </Data>
+                <Data name="name">
+                    <value>Jawal Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33963</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89548</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206075217834.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206075225837.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>951.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>272</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996424.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21686">
+                <coordinates>73.895481505,15.339626523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21719">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33398,73.90518&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2312</value>
+                </Data>
+                <Data name="name">
+                    <value>Namas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33398</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90518</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206051822131.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206051829637.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>611.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>504</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995176.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21718">
+                <coordinates>73.905179945,15.333980339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21751">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33055,73.90088&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2306</value>
+                </Data>
+                <Data name="name">
+                    <value>Boquis porob</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>106</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33055</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90088</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206034457459.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206034503747.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>242.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>262</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Ema Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994924.0880412912</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21750">
+                <coordinates>73.90087853,15.330549997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21783">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33728,73.89521&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2294</value>
+                </Data>
+                <Data name="name">
+                    <value>Verica</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>136</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33728</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89521</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206072536536.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206072544820.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>367.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>273</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Beleza Selvina Maria Godinho
+Kenneth Rishi Luis Cupertino de Saldanha Osorio</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995974.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21782">
+                <coordinates>73.895211771,15.337278413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21815">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33146,73.90343&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2310</value>
+                </Data>
+                <Data name="name">
+                    <value>Kauleshi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>56</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33146</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90343</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728061518946.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728061530124.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>319.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>275</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Melia Martins
+2) Libania Costa e Sequeira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995026.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21814">
+                <coordinates>73.903434404,15.331456148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21847">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3322,73.90258&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2308</value>
+                </Data>
+                <Data name="name">
+                    <value>Shedint</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3322</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90258</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206040010866.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728055828429.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7199.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>263</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995224.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21846">
+                <coordinates>73.902581416,15.332198113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21879">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34128,73.90091&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2338</value>
+                </Data>
+                <Data name="name">
+                    <value>Shiptor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34128</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90091</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200728044446871.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200728044501773.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Aros/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1767.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>499</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Arossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996724.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21878">
+                <coordinates>73.900907174,15.341276779,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

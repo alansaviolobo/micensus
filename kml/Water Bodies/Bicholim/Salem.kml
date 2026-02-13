@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14219">
+        <Placemark id="14221">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67799,73.94856&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5295</value>
+                </Data>
+                <Data name="name">
+                    <value>Kham Gali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>166</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67799</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94856</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230321134417463.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230321134425435.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>165/1; 166/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>9236.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4108</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 10:52:25.589714</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:24.312680</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Malbarao Suryarao Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031064.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14220">
+                <coordinates>73.948555527,15.677989908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14254">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68917,73.96398&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5305</value>
+                </Data>
+                <Data name="name">
+                    <value>Analiche Bharad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>130</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68917</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96398</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211100229403.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211100307564.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>130/1-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>293.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4118</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 11:35:39.626434</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:24.394609</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arjun Babaji Raut
+Fati Laxman Raut
+Mhatru Mahadeo Raut
+Nagesh Yeshwant Raut
+Rama Govind Raut
+Vasant Shankar Raut
+Vishram Krishna Raut
+Vishwanth Yeshwant Raut
+Yeshwant Atmaram Raut</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033864.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14253">
+                <coordinates>73.963980355,15.68917242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14287">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68666,73.95034&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5854</value>
+                </Data>
+                <Data name="name">
+                    <value>Palsacho Sarvo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>215</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68666</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95034</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211105850366.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211105909925.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5342</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:24.428670</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chandrakant Krishna Raut
+Ladu Laxman Raut
+Shantaram Budho Raut</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033514.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14286">
+                <coordinates>73.950343333,15.68666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14319">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68288,73.9388&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>119</value>
+                </Data>
+                <Data name="name">
+                    <value>Kalmache Vhali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>237</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68288</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9388</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211111830342.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211111853615.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>237/1-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Fish Farming</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>10404.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4025</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:22.370861</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alok Purohit
+Babal Ganpat Naik
+Droupadi Babal Naik
+Judy Vijay Caleb
+Laxman Janu Kokre
+Laxman Sanjay Parab
+Rajesh Tiwari
+Tulshibai Govind Ghadi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031764.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14318">
+                <coordinates>73.938795249,15.682882989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14352">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68318,73.95299&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>117</value>
+                </Data>
+                <Data name="name">
+                    <value>Kola Sarvache Galve and Palsacha sarve kadil Galav</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>168</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68318</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95299</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230216150642299.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230216150743258.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>168/1; 169/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2173.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5231</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:24.339958</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vaman Gopal Raut</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032464.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14351">
+                <coordinates>73.952988788,15.683177257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14385">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68287,73.95298&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>116</value>
+                </Data>
+                <Data name="name">
+                    <value>Kola Sarvache Galve and Palsacha sarve kadil Galav</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>168</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68287</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95298</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230216150420916.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230216150512135.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>168/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>842.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5232</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:24.367279</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vaman Gopal Raut</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032114.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14384">
+                <coordinates>73.952977343,15.682868229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14418">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68682,73.94578&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6009</value>
+                </Data>
+                <Data name="name">
+                    <value>Do Ame Kadil Bharad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>226</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68682</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94578</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230321153147394.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230321153157451.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>210.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5459</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:22.398051</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Godfrey Lawrence</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033164.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14417">
+                <coordinates>73.945776077,15.686817841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14450">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68245,73.93992&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5289</value>
+                </Data>
+                <Data name="name">
+                    <value>Bharad Vanyakadil</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>235</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68245</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93992</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211112409997.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211112434611.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>235/1(PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Fish Farming</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>199.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4102</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 10:48:34.818662</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:22.427320</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mohini Mohan Naik
+Stephen Arthur Po.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031414.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14449">
+                <coordinates>73.93992312,15.68245072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14483">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68734,73.92652&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5275</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhumika Devi Temple Tank; Sidhyeshwer Ghar Bhatle</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Salem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68734</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92652</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211114738839.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211114806702.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/1; 3/22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Salem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Sale/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>534.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4088</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 09:08:41.267221</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.466251</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa, Executive Engineer, Works Division I,Water Resources Department, Panaji Goa .
+Shree Deu Mahadev Bhumica</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032069.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14482">
+                <coordinates>73.926516022,15.687342587,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

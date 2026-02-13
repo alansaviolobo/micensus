@@ -1,0 +1,3970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="67535">
+        <Placemark id="67537">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24702,73.95807&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2106</value>
+                </Data>
+                <Data name="name">
+                    <value>Tambol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24702</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95807</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222113200782.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222113210121.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>303.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1206</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+The Executive Engineer - Works Div XIV- Water Resources Dept. Gogol, Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991513.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67536">
+                <coordinates>73.95806912,15.247021717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67569">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24133,73.95761&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3859</value>
+                </Data>
+                <Data name="name">
+                    <value>Namas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>283</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24133</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95761</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916061445180.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916061453612.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>167.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2564</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983113.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67568">
+                <coordinates>73.95761097,15.241332536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24052,73.96534&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3862</value>
+                </Data>
+                <Data name="name">
+                    <value>Bosem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>123</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24052</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96534</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916063638752.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916063647538.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>223.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2569</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983463.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67600">
+                <coordinates>73.965338702,15.240520875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67633">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24659,73.9536&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3791</value>
+                </Data>
+                <Data name="name">
+                    <value>OLta Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>325</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24659</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9536</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807073422833.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807073433930.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>159</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>887.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2508</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-07 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Fabrica Nossa Sebinora de Rosai Igreja d e
+Navelim
+Rita Sousa e Cabral
+Rizel Cabral</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995013.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67632">
+                <coordinates>73.953599774,15.246589815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67665">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23994,73.96367&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3861</value>
+                </Data>
+                <Data name="name">
+                    <value>Boshim Lake Dialgona; Viralem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>138</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23994</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96367</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916063328936.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916063338387.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>96.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2567</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+The Executive Engineer Works Div XIV Water Resources Dept, Gogol Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982413.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67664">
+                <coordinates>73.963671166,15.239944502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67697">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24542,73.95834&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4252</value>
+                </Data>
+                <Data name="name">
+                    <value>Shiriaka Vaigan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24542</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95834</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222054447221.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222054353450.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>658.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3280</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-22 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francisco Rebello
+The Executive Engineer - Works Div XIV- Water Resources Dept. Gogol, Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987663.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67696">
+                <coordinates>73.958335,15.245420847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67729">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24198,73.95825&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2092</value>
+                </Data>
+                <Data name="name">
+                    <value>Somna Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>286</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24198</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95825</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916115540221.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916115559456.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>543.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1192</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984163.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67728">
+                <coordinates>73.958248786,15.241977636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67761">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24321,73.95532&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2089</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>340</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24321</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95532</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807131829513.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807131836635.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>649.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1189</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Marian Gomes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986263.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67760">
+                <coordinates>73.955317931,15.24320628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67793">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24684,73.9637&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4140</value>
+                </Data>
+                <Data name="name">
+                    <value>Kolem.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>61</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24684</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9637</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106093442058.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106093451822.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>339.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2877</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 02:55:40.524370</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Jose Ferrao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988363.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67792">
+                <coordinates>73.963701296,15.24683521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67825">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24275,73.96445&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2095</value>
+                </Data>
+                <Data name="name">
+                    <value>Bosem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4-5</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24275</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96445</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106094326650.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106094335559.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>681.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1689</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984863.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67824">
+                <coordinates>73.964447016,15.24275275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67857">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24774,73.96368&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2086</value>
+                </Data>
+                <Data name="name">
+                    <value>Chik Gavnem Gauro</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24774</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96368</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106093416573.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106093424236.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>945.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1695</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989763.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67856">
+                <coordinates>73.963678762,15.247735845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67889">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23957,73.95971&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3858</value>
+                </Data>
+                <Data name="name">
+                    <value>Gulcachem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>278</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23957</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95971</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916055747334.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916055756625.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>344.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2566</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981713.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67888">
+                <coordinates>73.959708501,15.239573924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67921">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24144,73.95826&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2091</value>
+                </Data>
+                <Data name="name">
+                    <value>Namas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>283</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24144</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95826</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916115126233.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916115135447.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1372.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1191</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983813.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67920">
+                <coordinates>73.958264969,15.241438979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67953">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24421,73.95076&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4313</value>
+                </Data>
+                <Data name="name">
+                    <value>Gairo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>321</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1,6</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24421</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95076</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106092808580.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106092817715.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>769.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3282</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Sabina D'Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993963.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67952">
+                <coordinates>73.950762562,15.24421345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67985">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24806,73.96581&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2103</value>
+                </Data>
+                <Data name="name">
+                    <value>Chical Gavane.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>82</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24806</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96581</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211106145613063.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211106145902396.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>692.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1696</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989413.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="67984">
+                <coordinates>73.965811059,15.248058081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68017">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25155,73.96463&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2099</value>
+                </Data>
+                <Data name="name">
+                    <value>Nomas.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25155</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96463</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211106150119502.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211106150123787.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>416.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1707</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993263.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68016">
+                <coordinates>73.964633004,15.251545465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68049">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24299,73.95934&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3857</value>
+                </Data>
+                <Data name="name">
+                    <value>Huzri Sanson</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24299</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95934</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916055428187.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916055437510.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/40</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>143.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2565</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-16 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985563.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68048">
+                <coordinates>73.959337221,15.242989864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68081">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24284,73.95197&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2148</value>
+                </Data>
+                <Data name="name">
+                    <value>Tamboli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>312</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24284</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95197</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106092441293.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106092450069.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/42</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1193</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985913.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68080">
+                <coordinates>73.951969908,15.242840136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68113">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24421,73.95453&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2087</value>
+                </Data>
+                <Data name="name">
+                    <value>Telaulim Lake; Nayatlo Bhand</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>338</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24421</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95453</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807131355186.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807131403462.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>157</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7719.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1187</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987313.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68112">
+                <coordinates>73.954532589,15.244211781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68145">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24757,73.95492&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2109</value>
+                </Data>
+                <Data name="name">
+                    <value>Peddem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>328</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24757</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95492</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222115536131.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222115544808.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>966.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1184</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995363.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68144">
+                <coordinates>73.954921396,15.247572269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68177">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24245,73.96315&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2093</value>
+                </Data>
+                <Data name="name">
+                    <value>Bosem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24245</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96315</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106094608328.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106094615678.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>426.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1690</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984513.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68176">
+                <coordinates>73.963151008,15.242448133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68209">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24595,73.95816&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2107</value>
+                </Data>
+                <Data name="name">
+                    <value>Shinaka talem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24595</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95816</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222112645192.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222112703839.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>538.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1203</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francisco Rebello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990113.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68208">
+                <coordinates>73.958158884,15.245950533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68241">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25111,73.96155&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2100</value>
+                </Data>
+                <Data name="name">
+                    <value>Mapa Agar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>54</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25111</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96155</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916102043257.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916102052860.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>366.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1207</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alfred Pereira
+Clara Joana  D'souza
+Filomena Pereira
+Leo Pereira
+Micael Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994313.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68240">
+                <coordinates>73.9615539,15.251107415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68273">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24158,73.95119&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4312</value>
+                </Data>
+                <Data name="name">
+                    <value>Tamboli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>312</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24158</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95119</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106092628192.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106092707384.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1374.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3281</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982063.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68272">
+                <coordinates>73.951193363,15.241575382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68305">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24165,73.9545&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2090</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>340</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24165</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9545</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106092342777.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106092350804.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>808.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1190</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982763.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68304">
+                <coordinates>73.954499236,15.241646274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68337">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24523,73.95563&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2113</value>
+                </Data>
+                <Data name="name">
+                    <value>Pishano Valem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>336</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24523</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95563</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106092229329.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106092239920.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1510.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1201</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990463.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68336">
+                <coordinates>73.955633523,15.245226437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68369">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24913,73.96583&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2102</value>
+                </Data>
+                <Data name="name">
+                    <value>Chical Gavane.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>82</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24913</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96583</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916103901702.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916103910557.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>849.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1698</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990813.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68368">
+                <coordinates>73.965832324,15.249129814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68401">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24285,73.96342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2094</value>
+                </Data>
+                <Data name="name">
+                    <value>Bosem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24285</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96342</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106094530938.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106094539760.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>521.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1691</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985213.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68400">
+                <coordinates>73.963422394,15.242846905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68433">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24666,73.96271&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2084</value>
+                </Data>
+                <Data name="name">
+                    <value>Coldem Lake; Vaigini; Pirmer Lol Vaiguini.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24666</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96271</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916111459860.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916111508261.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2986.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1693</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988713.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68432">
+                <coordinates>73.962709994,15.246661393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68465">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24631,73.9615&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2085</value>
+                </Data>
+                <Data name="name">
+                    <value>Kara Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24631</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9615</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222105321169.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222105329689.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>741.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1694</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Jose Ferrao
+Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988013.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68464">
+                <coordinates>73.961503437,15.246309114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68497">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24772,73.95787&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2104</value>
+                </Data>
+                <Data name="name">
+                    <value>Tellashiradi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24772</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95787</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222114312095.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222114328279.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>921.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1204</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+The Executive Engineer - Works Div XIV- Water Resources Dept. Gogol, Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992563.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68496">
+                <coordinates>73.957871639,15.247715892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68529">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24751,73.95879&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2105</value>
+                </Data>
+                <Data name="name">
+                    <value>Tella Shiradi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24751</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95879</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916111853053.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916111902281.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>259.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1205</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991863.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68528">
+                <coordinates>73.958787232,15.247506442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68561">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24938,73.96398&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2101</value>
+                </Data>
+                <Data name="name">
+                    <value>Chikal Gavnem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24938</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96398</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916104438021.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916104448090.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2059.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1697</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991163.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68560">
+                <coordinates>73.963978057,15.249376482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68593">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24572,73.95469&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2112</value>
+                </Data>
+                <Data name="name">
+                    <value>Pishano Valem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>336</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24572</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95469</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807130806117.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807130815406.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>664.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1186</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992213.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68592">
+                <coordinates>73.954688009,15.245717147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68625">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24872,73.9565&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3792</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhadio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24872</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9565</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807075718864.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807075726514.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>158</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1211.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2553</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-07 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arnaldo D'souza
+Government of Goa, Director of Sports and Youth Affairs
+Sebastiao Gomes and Lurdes Fernanda Da S ilva Gomes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995713.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68624">
+                <coordinates>73.95650082,15.248719504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68657">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25156,73.96492&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2098</value>
+                </Data>
+                <Data name="name">
+                    <value>Nomas.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25156</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96492</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211106145958129.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211106150009925.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1020.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1706</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992913.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68656">
+                <coordinates>73.964922202,15.251558223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68689">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25385,73.96178&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2096</value>
+                </Data>
+                <Data name="name">
+                    <value>Pandiva Salem.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25385</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96178</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210916101624755.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210916101634586.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1390.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1709</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+The Executive Engineer, WD-XIV (NH) Fatorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996063.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68688">
+                <coordinates>73.961779304,15.253846287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68721">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2465,73.95403&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2111</value>
+                </Data>
+                <Data name="name">
+                    <value>Dadiya Wada</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>336</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2465</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95403</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807130249776.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807130319014.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>375.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1185</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Nossa Sinhora do Rosario</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994663.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68720">
+                <coordinates>73.95402974,15.246501086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68753">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24539,73.95759&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2108</value>
+                </Data>
+                <Data name="name">
+                    <value>Kharo Mand</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>32</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24539</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95759</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211222110956886.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211222111007286.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>210.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1202</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Camilo Rosario Pedro Rebelo
+Gregorio Jose Rosario Rebelo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989063.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68752">
+                <coordinates>73.957590379,15.245393996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68785">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25215,73.96448&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2097</value>
+                </Data>
+                <Data name="name">
+                    <value>Surya Udenti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96448</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211106150051926.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211106150056716.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>688.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1708</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993613.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68784">
+                <coordinates>73.964484152,15.252145124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68817">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24398,73.95529&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2088</value>
+                </Data>
+                <Data name="name">
+                    <value>Namas De Marga Gadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>338</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24398</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95529</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807131712417.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807131722875.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>771.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1188</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986963.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68816">
+                <coordinates>73.955288358,15.243981764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68849">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2435,73.95417&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2114</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>340</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2435</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95417</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807131511775.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807131520671.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Telaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>156</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Tala/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>8986.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2280</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986613.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68848">
+                <coordinates>73.954173362,15.243496984,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

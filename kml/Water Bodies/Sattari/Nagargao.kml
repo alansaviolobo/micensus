@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="80154">
+        <Placemark id="80156">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56533,74.15339&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2998</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Leela alias Sheila Mahadev Barve; Marticho Kungo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-A</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56533</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15339</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200817102156967.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200817102219169.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/1-A,1-A-1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Naga/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>277.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2000</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 11:27:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Leela alias Sheila Mahadev Barve
+Mahadev N. Barve
+Manohar  Vassudev Kelkar
+Raghunandan Vassudev Kelkar
+Ramdas Vassudev Kelkar
+Rashmi Ramdas Kelkar
+Sunita Manohar Kelkar
+Vaidehi Raghunandan Kelkar
+Vassudev M. Kelkar         102/92</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80155">
+                <coordinates>74.153388749,15.56533301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80189">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56735,74.15283&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5917</value>
+                </Data>
+                <Data name="name">
+                    <value>Holdolichem Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56735</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15283</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230228103519976.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230228103604864.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Naga/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>24.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5397</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mahadeo Shaba Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80188">
+                <coordinates>74.152831983,15.567346002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80221">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55807,74.15851&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2964</value>
+                </Data>
+                <Data name="name">
+                    <value>Deulacho Bandho</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55807</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15851</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200817094950468.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200817095017263.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/4; 15/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Naga/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1999</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-14 11:37:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vithu Babu Chari</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80220">
+                <coordinates>74.158505056,15.558073335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80254">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56707,74.15288&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5373</value>
+                </Data>
+                <Data name="name">
+                    <value>Holdolichem Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56707</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15288</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230228103356461.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230228103426038.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>20/16-17</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Naga/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>148.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4187</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:31:49.504529</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Barkelo Rama Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80253">
+                <coordinates>74.1528759,15.56706697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80287">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56623,74.15267&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5918</value>
+                </Data>
+                <Data name="name">
+                    <value>Holdolichem Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56623</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15267</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230228103904332.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230228103929892.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Naga/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>40.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5398</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Laxman Babani Gaonkar
+Pandurang Babani Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80286">
+                <coordinates>74.152668321,15.566231072,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

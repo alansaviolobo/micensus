@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39438">
+        <Placemark id="39440">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33022,74.08074&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>971</value>
+                </Data>
+                <Data name="name">
+                    <value>Pauvor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>749</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33022</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08074</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329114759278.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329114933604.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2864.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3232</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39439">
+                <coordinates>74.080737885,15.330215738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39472">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32034,74.02708&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>960</value>
+                </Data>
+                <Data name="name">
+                    <value>Kolpon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32034</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02708</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322121049150.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322121122713.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>853.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3207</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Shivnath Dewalaya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996051.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39471">
+                <coordinates>74.027078372,15.320338916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39504">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31826,74.02861&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>957</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31826</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02861</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322120428686.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322120437616.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>258.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3206</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vyankatesh Modu Prabhu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995801.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39503">
+                <coordinates>74.028611332,15.318256457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39536">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34177,74.01869&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>974</value>
+                </Data>
+                <Data name="name">
+                    <value>Tarvalem; Barazon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>396</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1,2</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34177</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01869</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322101610285.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322101621421.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>21106.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3233</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Subadrabai Sawkar
+Vikram Venkatesh Shanbhag
+Vivek Venkatesh Shanbhag</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997301.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39535">
+                <coordinates>74.018686954,15.341765346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39568">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33626,74.01571&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>951</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 327</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33626</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01571</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322105729338.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322105758633.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2369.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3146</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997051.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39567">
+                <coordinates>74.015706151,15.336256534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39600">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32045,74.01401&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>952</value>
+                </Data>
+                <Data name="name">
+                    <value>Umalyavaril Bandh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>198</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32045</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01401</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322110932290.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322111043276.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1178.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3133</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Siroda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995301.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39599">
+                <coordinates>74.014008446,15.320449115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39632">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31525,74.02263&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>955</value>
+                </Data>
+                <Data name="name">
+                    <value>Tariwada Tank; Arodh, Avodh, Galan, Mayan,Talem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>170</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-60</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31525</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02263</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322112848610.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322113308755.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>155349.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2849</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anand Balkrishan S.Kundaikar
+Anant Balkrishna S.Kundaikar
+Communidade of Siroda
+Krishan Borkar
+Krishna Borkar
+Pandurang Pandhari Borkar
+Vithal Gahnasham Shenvi Kundaikar
+Vithal Ghanasham Shenvi Kundaikar
+Vithal Ghanasham Shenvi Kundiakar
+Vithal Ghanasham Shenvi Pandurang
+Vithal Ghanasham Shenvi kundaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994551.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39631">
+                <coordinates>74.022633586,15.315254917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39664">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34429,74.05647&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>973</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>658</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34429</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05647</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329125821793.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329125800224.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>484.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3231</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vishwannath Raghuvir Sinai Hede</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39663">
+                <coordinates>74.056469611,15.344292264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39696">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31792,74.02919&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>956</value>
+                </Data>
+                <Data name="name">
+                    <value>Sath</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31792</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02919</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322120039782.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322120059633.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>553.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2848</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Shankar P.Gaonkar
+The Executive Engineer, W.D. XVIII (R), P.W.D. Ponda
+Venkatesh Madu P.Gaonkar
+Vishwamber Pundalik P.Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995551.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39695">
+                <coordinates>74.029189592,15.317920015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39728">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35193,74.0202&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>937</value>
+                </Data>
+                <Data name="name">
+                    <value>Pagartale; Pagar Tolem,Pagartolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>415</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1,2</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35193</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0202</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322104430126.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322104658077.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55715.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2851</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babay Shambu Prabhu Desai
+Dinanath Kashinath Parab
+Mahesh Ramchandra Desai
+Narayan Venkatesh Desai
+Raghunath Ramchandra Saukar
+Sairu Keshav Saukar
+Shaba Ramchandra Saukar
+Shiva Gunaba Prabhu Desai
+Vyanktesh Madu Prabhu Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998051.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39727">
+                <coordinates>74.020197792,15.351932774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39760">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32958,74.01676&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>941</value>
+                </Data>
+                <Data name="name">
+                    <value>Mandaleshwar Temple Tank; Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>282</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32958</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01676</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322110303283.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322110329332.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>989.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3208</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mandaleshwar Dewasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996551.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39759">
+                <coordinates>74.016755748,15.329581196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39792">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33015,74.05141&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>944</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicknagal Tank; Chikangal,Chikangal Tollem,Chikangel</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>623</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-96</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33015</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05141</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329132523333.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329132536085.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>30952.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2819</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Communidade Of Siroda
+Communidade of Siroda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39791">
+                <coordinates>74.051408542,15.33015125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39824">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33671,74.05342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>947</value>
+                </Data>
+                <Data name="name">
+                    <value>Makadsai Maingal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>638</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33671</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05342</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329131418595.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329131500255.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>612.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2820</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Rajininath Srikant Shirodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39823">
+                <coordinates>74.053415707,15.336708237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39856">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32263,74.06616&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>970</value>
+                </Data>
+                <Data name="name">
+                    <value>Tollant, Udden Tollem; Toela,Torla</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>794</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-5</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32263</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06616</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329120353053.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329120407564.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>15165.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2818</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anil Shripad Tendulkar
+Chandrakant Shripad Tendulkar
+Chandrakant Sripad P.Tendulkar
+Pandhari Ghanashyama Tendulkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994841.3289091095</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39855">
+                <coordinates>74.066158312,15.322625799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39888">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31638,74.02956&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>959</value>
+                </Data>
+                <Data name="name">
+                    <value>Shivnath Temple Tank; Volie Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>992</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31638</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02956</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322115527362.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322115611862.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1068.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2847</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shivnath Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995051.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39887">
+                <coordinates>74.029560556,15.316377242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39920">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33401,74.05671&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4654</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>631</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3-A</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33401</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05671</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329130904550.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329130913735.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>38.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3773</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alka Mohan Mardolkar
+Laxmikant Venkatesh Dhond
+M/s Pandurang V. Kamat &amp; Sons.
+Manuja Dayanand Joshi
+Mohan Hiralal Mardolkar
+Preshit Vijaykant Kamat
+Rajendra Krishna Gaonkar
+Shohini Suraj Mahajan
+Sudesh Shrikant Kavalekar
+Sudesh Shrikant Kavlekar
+Suraj M. Mahajan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39919">
+                <coordinates>74.056706667,15.334006667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39952">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31714,74.02046&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>954</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>177</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31714</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02046</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322111921311.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322112029085.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>524.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3132</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vithal Ghanasham Shenvi Kundaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994801.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39951">
+                <coordinates>74.020460899,15.317136619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39984">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30247,74.06057&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>968</value>
+                </Data>
+                <Data name="name">
+                    <value>Muddi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>843</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30247</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06057</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322123919895.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322123950122.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1289.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2817</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>(Joao Filip Ferreira)
+Raju Gajanan Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993801.0568112576</value>
+                </Data>
+            </ExtendedData>
+            <Point id="39983">
+                <coordinates>74.060569852,15.30246501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40016">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32073,74.03563&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4655</value>
+                </Data>
+                <Data name="name">
+                    <value>Kamakshi Temple Tank; Sthall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32073</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03563</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329142214869.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329142319937.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2264.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3771</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kamakshi Devasthan
+Temple Laximi Narayan Devalay</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996301.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40015">
+                <coordinates>74.035631521,15.320729705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40048">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32762,74.03389&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2518</value>
+                </Data>
+                <Data name="name">
+                    <value>Satore Tank; Ghadiali, Raval Talem,Rawal Talem,Raval Talim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>510</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-33</value>
+                </Data>
+                <Data name="village">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32762</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03389</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322122339612.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322122410779.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Shiroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Shir/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>107212.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3041</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:17</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arjun Bhiso Ghadi
+Balkrishna Purshottam Prabhu Gaonkar
+Communidade Of Siroda
+Govind Vishnu Sinai Hede
+Govind shankar Prabhu Gaonkar
+Joaquim Cardoz
+Laxman Sonu Ghadi
+Pandurang Surya Ghadi
+Raghu Bombo Ghadi
+Rama Shankar Ghadi
+Shaba Bhikaro Ghadi
+Shamba Shankar Ghadi
+Shambhu Shanu Ghadi
+Shivnath Devasthan
+Venkatesh Madu Prabhu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996121.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996801.056811258</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40047">
+                <coordinates>74.033889742,15.327619363,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

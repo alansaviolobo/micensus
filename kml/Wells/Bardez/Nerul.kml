@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="843">
+        <Placemark id="845">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50985,73.78391&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1214</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1214</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>66/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Pednekar Yeshwant Bhiku,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Near Bank of India,Tintowaddo Nerul, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50985</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78391</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+            </ExtendedData>
+            <Point id="844">
+                <coordinates>73.78391,15.50985,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

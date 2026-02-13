@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20185">
+        <Placemark id="20187">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52526,74.20544&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2809</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2809</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>170/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ramchandra B. Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Sateli, Karanjol, Sawardem, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52526</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20544</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Caranzol</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20186">
+                <coordinates>74.20544,15.52526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20202">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51012,74.21796&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2810</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2810</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>168/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Laxman Gawade</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Well at Karanjol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51012</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21796</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Caranzol</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20201">
+                <coordinates>74.21796,15.51012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20217">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51387,74.19258&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3223</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3223</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>172/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Batru Gawade</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>karanjol sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51387</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19258</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Caranzol</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20216">
+                <coordinates>74.19258,15.51387,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

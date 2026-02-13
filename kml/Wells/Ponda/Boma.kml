@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10223">
+        <Placemark id="10225">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48511,73.95938&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3458</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3458</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>4/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Shaikh Suliman</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Boma, Ponda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48511</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95938</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Boma</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10224">
+                <coordinates>73.95938,15.48511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10240">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.475908,73.965003&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3737</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3737</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>99/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vasant Babuli Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.116, Gavthan wada, Bhoma, Ponda-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.475908</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.965003</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Boma</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10239">
+                <coordinates>73.965003,15.475908,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

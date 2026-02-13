@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6487">
+        <Placemark id="6489">
+            <ExtendedData>
+                <Data name="id">
+                    <value>6272</value>
+                </Data>
+                <Data name="name">
+                    <value>Pundalik Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Penha-de-Franca</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230911141410835.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230911141312534.jpg</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5720</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-09-12 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 16:41:48.222617</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="label_x">
+                    <value>0.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>0.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6488">
+                <coordinates>73.837069866,15.516029046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6511">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52064,73.83637&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6265</value>
+                </Data>
+                <Data name="name">
+                    <value>Goddya Amyachi Tali; Ally</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>117</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Penha-de-Franca</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52064</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83637</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230529084628033.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230529084542573.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Penha-De-Franca</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Penh/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>268.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5593</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Goverment</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013162.062481082</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6510">
+                <coordinates>73.836366449,15.52064456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6543">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52444,73.84049&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6263</value>
+                </Data>
+                <Data name="name">
+                    <value>Sateri Tali; Baman Vado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>146</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Penha-de-Franca</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52444</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84049</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230519095324043.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230519095349989.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Penha-De-Franca</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Penh/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>477.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5592</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013662.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6542">
+                <coordinates>73.840485237,15.524438541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6575">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52073,73.84106&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5749</value>
+                </Data>
+                <Data name="name">
+                    <value>Baman Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>112</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Penha-de-Franca</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52073</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84106</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006171515751.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006171534133.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>112/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>09 - Porvorim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Penha-De-Franca</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Penh/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5283</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6574">
+                <coordinates>73.841057687,15.520725673,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

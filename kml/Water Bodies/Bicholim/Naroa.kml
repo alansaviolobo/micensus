@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="12703">
+        <Placemark id="12705">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5551,73.92966&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4922</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhrama Tali; Dom</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>132</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5551</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92966</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218135304660.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218135323811.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>132/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Naro/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>126.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5192</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 14:46:23.289588</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.327579</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anuradha Narayan Dhavadkar             } 1/20
+Dinesh Yeshwant Mahambre
+Dinesh Yeshwant Mahambre               } 2/20
+Dinesh Yeshwant Prabhu Mahambre alias Dinesh Yeshwant Mahambre
+Executive Engineer, Works Division VI, WRD Sarvan Bicholim Goa
+Mahendra Bhalchandra Mahabre           } 1/20
+Manoj Bhalchandra Mahambre             } 1/20
+Saraswati Bhalchandra Mahambre         } 1/4
+Sarita Ranganath Kunkalikar            } 1/20
+Suchita P Kamat                        } 1/20</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019469.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12704">
+                <coordinates>73.929664517,15.555101805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12738">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55447,73.93782&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>57</value>
+                </Data>
+                <Data name="name">
+                    <value>Saptakoteshwar Mahadev Temple Tank; Ghar Bhatule</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>39</value>
+                </Data>
+                <Data name="village">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55447</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93782</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311163929011.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230203170233913.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/39</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Naro/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1448.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>441</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.298483</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Saptakoteshwar Devstan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017719.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12737">
+                <coordinates>73.93782106,15.55447291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55254,73.92943&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>58</value>
+                </Data>
+                <Data name="name">
+                    <value>Baga</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>127</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55254</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92943</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230203171905418.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230203171938135.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>127/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Naro/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1548.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>444</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.778637</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Kankeshwari Shantadurga Vahivatdar Mahajan Committee</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018069.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12770">
+                <coordinates>73.929428483,15.552538149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12804">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55535,73.93829&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>55</value>
+                </Data>
+                <Data name="name">
+                    <value>Sagarchi Tali; Devmalar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>154</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55535</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93829</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311163835962.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230203170944533.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>154/2,10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Naro/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6829.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>442</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:21.643457</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Laxmi Narayan Temple Lake</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018769.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12803">
+                <coordinates>73.938286178,15.555348236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12837">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5434,73.92805&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5915</value>
+                </Data>
+                <Data name="name">
+                    <value>Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>33</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5434</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92805</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230321085255123.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230321085416662.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Naroa</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Naro/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1232.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5455</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-26 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.805947</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Devi Shantadurga</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015969.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12836">
+                <coordinates>73.928047129,15.543404521,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

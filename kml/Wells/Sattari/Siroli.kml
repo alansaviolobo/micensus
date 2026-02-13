@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24773">
+        <Placemark id="24775">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6186,74.06352&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2897</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2897</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>208/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sudhakar Pangam</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kamdal Kerim 1</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6186</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06352</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Siroli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24774">
+                <coordinates>74.06352,15.6186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24790">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.624683,74.063407&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3271</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3271</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>81/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vishnu R. Majik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 202, Bodan wada, Honda, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.624683</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.063407</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Siroli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24789">
+                <coordinates>74.063407,15.624683,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

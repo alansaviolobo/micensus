@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13784">
+        <Placemark id="13786">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.10887,74.048765&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4364</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4364</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>Quepem/Panglo Shaba Velip</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>PANGLO SHABA VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 60, Subdolem, Padi, Barcem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.10887</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.048765</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13785">
+                <coordinates>74.048765,15.10887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13801">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.108855,74.044649&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4368</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4368</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>380</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>LAXMAN SHANU VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 35/1 Subdolem, Barcem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.108855</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.044649</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13800">
+                <coordinates>74.044649,15.108855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13816">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.115,74.040204&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4519</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4519</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>363</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>PAIKA BODKO VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 58, Cordem, Balli-Qupem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.115</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.040204</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13815">
+                <coordinates>74.040204,15.115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13831">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.106117,74.037374&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4592</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4592</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>339</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>LAKSHAVATI KUSHALI VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:59,Subdolem,Paddi, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.106117</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.037374</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13830">
+                <coordinates>74.037374,15.106117,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

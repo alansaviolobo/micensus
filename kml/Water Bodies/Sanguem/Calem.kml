@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72803">
+        <Placemark id="72805">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29933,74.18604&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3996</value>
+                </Data>
+                <Data name="name">
+                    <value>Boyochi gall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>158</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29933</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18604</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220422104240827.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220422104319175.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cale/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>834.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2678</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 13:03:03.547881</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>VMSalgaocar Corporation Private Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996954.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72804">
+                <coordinates>74.186040527,15.299333017,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

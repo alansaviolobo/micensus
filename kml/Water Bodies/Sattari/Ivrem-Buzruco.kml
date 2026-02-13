@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="78919">
+        <Placemark id="78921">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63101,74.14649&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3231</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Ganesh Arjun Gaonkar; Chowatachem Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Buzruco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63101</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14649</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905062442277.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905062449917.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>112</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Iveb/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1939</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganesh Arjun Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032138.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78920">
+                <coordinates>74.146487632,15.631012986,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

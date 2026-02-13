@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25483">
+        <Placemark id="25485">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48225,74.17139&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2594</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2594</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1352/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gaonkar Santosh Govind</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>shelop Khurd , Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48225</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17139</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Curdo</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25484">
+                <coordinates>74.17139,15.48225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25500">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48074,74.17676&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2595</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2595</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>145/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Kaxhinath F. Gaonkar.</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Shelop Khurd Khotodem ,Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48074</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17676</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Curdo</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25499">
+                <coordinates>74.17676,15.48074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25515">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48295,74.16644&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2611</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2611</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1265/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Gaonkar Shabi Mahadev,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 16, Shelop, Khurd, Sattari</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48295</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16644</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Curdo</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25514">
+                <coordinates>74.16644,15.48295,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

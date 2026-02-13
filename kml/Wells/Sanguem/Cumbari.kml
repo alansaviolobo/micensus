@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17677">
+        <Placemark id="17679">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.171457,74.262107&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4070</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4070</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>32/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>GAJANAN KUST GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 25, Kumari, Bhati, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.171457</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.262107</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbari</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17678">
+                <coordinates>74.262107,15.171457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17694">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.17185,74.262619&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4071</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4071</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1546</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>UMAKANT GANESH GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kumari, Bhati, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.17185</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.262619</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbari</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17693">
+                <coordinates>74.262619,15.17185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17709">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.175366,74.26279&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4072</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4072</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>73/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>RAYESH RATNAKAR RAIKER</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 2177, Marlem, Borda, Margao, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.175366</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.26279</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbari</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17708">
+                <coordinates>74.26279,15.175366,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

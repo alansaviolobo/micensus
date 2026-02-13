@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14017">
+        <Placemark id="14019">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20985,74.068328&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4441</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4441</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1227</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>QUEPEM SALISIAN SOCIETY</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>DON BOSCO, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20985</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.068328</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Deao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14018">
+                <coordinates>74.068328,15.20985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14034">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.202821,74.074503&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4587</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4587</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>23/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MR.DAVALAS DAVAL BHAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:40/B/7,Near Liverament School,Arelm, Salcete</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.202821</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.074503</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Deao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14033">
+                <coordinates>74.074503,15.202821,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

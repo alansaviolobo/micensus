@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="83644">
+        <Placemark id="83646">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46668,73.92351&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3324</value>
+                </Data>
+                <Data name="name">
+                    <value>Tallai</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>72</value>
+                </Data>
+                <Data name="village">
+                    <value>Azossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46668</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92351</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20201125112443511.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20201125112452078.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/19-20,26,30-31,33-34,36,38,42-46,49-53,56-61,64-65,67,69-72</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Azos/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>42939.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2163</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Azossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83645">
+                <coordinates>73.923507943,15.466684698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83679">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46816,73.92449&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1022</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhakar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Azossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46816</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92449</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210211125912704.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210211125954795.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/3-4,6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Azos/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>372.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>764</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Azossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83678">
+                <coordinates>73.924486383,15.468163836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83712">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46753,73.92386&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1021</value>
+                </Data>
+                <Data name="name">
+                    <value>Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Azossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46753</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92386</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200511070816487.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200511070829509.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/20</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Azos/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>375.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>765</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dr. Shri Dajanand Anand Nayan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83711">
+                <coordinates>73.923855358,15.467526366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83745">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46628,73.92288&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6267</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadev Temple Tank; Mawling</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Azossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46628</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92288</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505104856973.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505104915187.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Azos/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>571.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5719</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-06-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Garcem Vinayak Bhandare
+Narciva Vinayak Bhandari
+Ramnath Zemo Mashelkar
+Shri Tulsidas Ramchandra Marshelkar
+Smt Vimal Tulsidas Marshelkar
+Shri Satyawan Atmaram Parab
+Rajaram Shivram Parab
+Surya Mashelkar
+Mahadev Devasthan of Azossim
+Devu Ramnath Marshelkar
+Bhanudas Ramnath Marshelkar
+Nilraj Bhanudas Marshelkar through guardian Bhanudas Marshelkar
+Pramod Ramnath Marshelkar
+Supriya S Marshelkar
+Deepshree Dhananjay Sawant </value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83744">
+                <coordinates>73.922876674,15.466281813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83777">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46596,73.92267&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1020</value>
+                </Data>
+                <Data name="name">
+                    <value>Gotricode</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Azossim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46596</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92267</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200511070556108.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200511070606722.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/2-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Pending</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Azos/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4241.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>766</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Azossim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83776">
+                <coordinates>73.922671506,15.465962225,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

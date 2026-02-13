@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43747">
+        <Placemark id="43749">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20193,74.12836&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4377</value>
+                </Data>
+                <Data name="name">
+                    <value>Parrerik</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>33</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagvem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20193</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12836</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415075507716.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415075555075.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>33/1-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Nagv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>421.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3464</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 03:37:35</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:18.213147</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhavani Jaivant Rege Malkarnekar
+Ganesham Kashinath Sinai Malkarnekar
+Mateus Pereira
+Maurice Pereira
+Mohandas Nilkant Sinai Malkarnekar
+Pundalik Chandru Velip
+Pundalik Nilkant Sinai Malkarnekar
+Sada Chandru Velip
+Suhas Nilkant Sinai Malkarnekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981311.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43748">
+                <coordinates>74.128359613,15.201933401,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

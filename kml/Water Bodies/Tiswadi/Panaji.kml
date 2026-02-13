@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100763">
+        <Placemark id="100765">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45869,73.79571&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5903</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>168</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45869</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79571</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230225102851606.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230225102952714.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>11 - Panaji</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Rainwater Harvesting</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Pana/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2180.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5391</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:56:05.187036</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>GOVERNMENT OF GOA</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976173.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008690.68332924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100764">
+                <coordinates>73.79570878,15.45868676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100797">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49083,73.83119&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2514</value>
+                </Data>
+                <Data name="name">
+                    <value>Mala Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>86</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>160</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49083</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83119</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230411065256994.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230411065330784.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>/</value>
+                </Data>
+                <Data name="constituency">
+                    <value>11 - Panaji</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Pana/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>44505.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>675</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:15</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:56:09.114806</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976173.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013190.68332924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100796">
+                <coordinates>73.831185763,15.490825021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100830">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48646,73.81545&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1248</value>
+                </Data>
+                <Data name="name">
+                    <value>Lake View, Miramar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>100</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48646</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81545</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425073710595.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425073743241.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>/</value>
+                </Data>
+                <Data name="constituency">
+                    <value>11 - Panaji</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Pana/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>28909.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>676</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:56:08.242734</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976173.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012190.68332924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100829">
+                <coordinates>73.81545497,15.486463181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100863">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48812,73.82265&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3327</value>
+                </Data>
+                <Data name="name">
+                    <value>Thigur Baim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>102</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48812</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82265</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425072109190.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425072136657.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>/</value>
+                </Data>
+                <Data name="constituency">
+                    <value>11 - Panaji</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panaji</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Pana/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>441.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2167</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:56:08.458714</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>EDGAR FRANCISCO DIAS VALLES</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976173.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012440.68332924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100862">
+                <coordinates>73.822646667,15.48812,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

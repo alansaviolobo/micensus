@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="777">
+        <Placemark id="779">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.598524,73.843133&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1295</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1295</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1548/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt Kalangutkar Anisha Anand</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 986/3, Near Sateri Temple, Povosao waddo, Moira, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.598524</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.843133</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Moira</value>
+                </Data>
+            </ExtendedData>
+            <Point id="778">
+                <coordinates>73.843133,15.598524,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

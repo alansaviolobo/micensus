@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43646">
+        <Placemark id="43648">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.18553,74.14717&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4735</value>
+                </Data>
+                <Data name="name">
+                    <value>Ghogya Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcopona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.18553</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14717</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415033328839.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415090354199.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>20/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mopn/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3795</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:15.142794</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Narahari Sublo Prabhu Velguenkar.
+2) Rama Shanu Pranbhu Velguenkar.
+3) Mortu Govind Prabhu Velguenkar.
+4) Gurudas Vasudev Prabhu Velguenkar.
+5) Bhikaji Govind Prabhu Velguenkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977511.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43647">
+                <coordinates>74.147168333,15.185525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43681">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.18339,74.14751&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4180</value>
+                </Data>
+                <Data name="name">
+                    <value>Ranshet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcopona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.18339</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14751</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415091443028.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415091508873.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mopn/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>171.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2917</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-04 02:09:17.747925</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:14.828927</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Ghanasham Hari Prabhu Velguenkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977131.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43680">
+                <coordinates>74.147512582,15.183385091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43714">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.1856,74.14678&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4736</value>
+                </Data>
+                <Data name="name">
+                    <value>Ghogya Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcopona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.1856</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14678</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415033624469.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415090725654.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>20/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mopn/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>130.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3794</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:15.448729</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Narahari Sublo Prabhu Velguenkar.
+2) Rama Shanu Pranbhu Velguenkar.
+3) Mortu Govind Prabhu Velguenkar.
+4) Gurudas Vasudev Prabhu Velguenkar.
+5) Bhikaji Govind Prabhu Velguenkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977891.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43713">
+                <coordinates>74.146775,15.185595,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

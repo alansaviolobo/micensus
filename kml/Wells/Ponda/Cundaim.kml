@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11257">
+        <Placemark id="11259">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.450718,73.959693&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3704</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3704</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>165/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Praveen Purushottam Kadle</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>224, B-Wing, NCPA, Nariman point, Mumbai, Maharashtra, 40021</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.450718</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.959693</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Cundaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11258">
+                <coordinates>73.959693,15.450718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11274">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.450264,73.961162&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3705</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3705</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>166/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Praveen Purushottam Kadle</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>224, B-Wing, NCPA, Nariman point, Mumbai, Maharashtra, 40021</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.450264</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.961162</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Cundaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11273">
+                <coordinates>73.961162,15.450264,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

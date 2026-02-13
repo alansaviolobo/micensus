@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8188">
+        <Placemark id="8190">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.363674,73.844117&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6009</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>6009</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>148/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>M/s Mineral Enterprises Limited</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Chicolna, Bogmalo, Mormugao-goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.363674</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.844117</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicolna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8189">
+                <coordinates>73.844117,15.363674,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

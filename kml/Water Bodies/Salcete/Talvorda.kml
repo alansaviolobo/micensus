@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="68881">
+        <Placemark id="68883">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19399,74.03734&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3930</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19399</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03734</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211020021841950.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211020021857323.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cuncolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Talv/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>217.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2635</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-10-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Villanon Rodrigues
+Work Division  VI (R&amp;B)  P.W.D.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978913.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68882">
+                <coordinates>74.037336201,15.193992963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68915">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19489,74.02313&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4247</value>
+                </Data>
+                <Data name="name">
+                    <value>Shantadurga Verodakarin Temple Tank;</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>87</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19489</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02313</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211221043718370.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211221100744083.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cuncolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>152</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Talv/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1591.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2965</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Shanta Durga Verdekarin</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978213.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68914">
+                <coordinates>74.023125807,15.194894417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68947">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19515,74.03363&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3813</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhata Ambe</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19515</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03363</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210823121832142.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210823174900086.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cuncolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Talv/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>70.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2521</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Lira Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979263.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68946">
+                <coordinates>74.033625026,15.195154795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68979">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19473,74.03382&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3929</value>
+                </Data>
+                <Data name="name">
+                    <value>Made Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1,3,4</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19473</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03382</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211020074214687.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211020021143385.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cuncolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Talv/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>249.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2634</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-10-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Agustinho Monteiro
+Work Division  VI (R&amp;B) P.W.D.
+Work Division VI (R&amp;B) P.W.D.
+Work Divsion VI (R&amp;B) P.W.D.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978563.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68978">
+                <coordinates>74.033820563,15.194729009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69011">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20081,74.02927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2150</value>
+                </Data>
+                <Data name="name">
+                    <value>Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>54</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20081</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02927</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210823175843157.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210823175859830.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cuncolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Talv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4373.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1364</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Lorna Viegas
+Melville Muraes
+Vernon Muraes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979963.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69010">
+                <coordinates>74.029270103,15.200805247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69043">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19493,74.03704&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2151</value>
+                </Data>
+                <Data name="name">
+                    <value>Ruingal Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>45</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19493</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03704</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210823174449913.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210823174504225.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cuncolim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Talv/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>790.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1365</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Baltazor Gomes
+Work Division VI (R&amp;B) P.W.D.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008334.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979613.801375261</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69042">
+                <coordinates>74.037044899,15.194933273,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

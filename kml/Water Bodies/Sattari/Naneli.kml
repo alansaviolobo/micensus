@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="80354">
+        <Placemark id="80356">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58172,74.15995&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3133</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Valvatachi Mali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>53</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Naneli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58172</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15995</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200817110355885.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200817110421331.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>53/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nane/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1899</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman &amp; Diu.
+One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80355">
+                <coordinates>74.159951305,15.581723438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80389">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58942,74.14979&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2326</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Lucindo Domingos Faria; Vagudem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Naneli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58942</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14979</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20191126070006935.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20191126070012536.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>35/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nane/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>541.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>165</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Lucindo Domingos Faria.
+one</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80388">
+                <coordinates>74.149785046,15.589419031,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

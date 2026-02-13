@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10531">
+        <Placemark id="10533">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56182,74.00784&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>124</value>
+                </Data>
+                <Data name="name">
+                    <value>Banglapurva Temple Tank; Juwad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>36</value>
+                </Data>
+                <Data name="village">
+                    <value>Cassabe-de-Sanquelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56182</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00784</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230203115809178.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230203120032184.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/36 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>17 - Sanquelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanquelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Cass/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>401.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>182</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.539744</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Nagesh Shenavi Bodke
+Awadhut Nagesh Shenavi Bodke
+Bhiku Nagesh Shenavi Bodke
+Sanquelim Municipal Council Sanquelim Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008685.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019769.3902380535</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10532">
+                <coordinates>74.007843737,15.561815079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10566">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56532,74.00959&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5261</value>
+                </Data>
+                <Data name="name">
+                    <value>Dattatreya Temple Tank; Dattawadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cassabe-de-Sanquelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56532</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00959</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230203123955458.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230203124329696.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>17 - Sanquelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanquelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Cass/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>248.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4074</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 08:37:43.620168</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.823922</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Deo Dattatray</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008685.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021869.3902380535</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10565">
+                <coordinates>74.009590089,15.565320177,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

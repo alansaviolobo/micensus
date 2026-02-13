@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="36804">
+        <Placemark id="36806">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40733,74.00819&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>330</value>
+                </Data>
+                <Data name="name">
+                    <value>Katawal,Kotawal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>54</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9-15</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40733</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00819</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302152255257.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302152305374.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>21 - Ponda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curti-Khandepar</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Pond/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>996.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>521</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anand K.Naik
+Anil K. Naik
+Bhagem J.Naik
+Chandrashekhar Hanumant Naik
+Gokuldas K. Naik
+Govt. of Goa
+Govt. of Goa,
+Janaki K. Naik
+Jaya alias Shantabai Tukaram Naik
+Jivan Chandrahas Naik
+Kashi Datta Naik
+Mohan K.Naik
+Nilan Rajendra Baidkar
+Prakash J.Naik
+Pravin Kanta Naik
+Raghunath K.Naik
+Ramnath J.Naik
+Rohini alias Laxmi Usso Godkar
+Sandesh Hanumant Naik
+Saraswati Hanumant Naik
+Smrutika Kanta Naik
+Sudha alias Prabhavati Damu Naik
+Sugandha Babuli Naik
+Suhashini Kanta Naik
+Tulshidas J.Naik
+Ujwala Hanumant Naik
+Vishwas Tukaram Naik
+Vithoba J. Naik
+krishna Yessu Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36805">
+                <coordinates>74.008194501,15.407332036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36838">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41299,74.00787&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>327</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41299</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00787</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302153438146.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302153456117.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>21 - Ponda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curti-Khandepar</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Pond/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>533.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3255</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of India
+Ministry of Defence  9750 Sq.mts.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36837">
+                <coordinates>74.007871634,15.412994739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36870">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40845,74.01031&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4303</value>
+                </Data>
+                <Data name="name">
+                    <value>Sunni Shahi Madina Masjid Tank; Nagzar Tari Karim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40845</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01031</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302152619488.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302152630484.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>21 - Ponda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curti-Khandepar</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>115</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Pond/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>439.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3265</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-31 09:45:34.924212</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Muslim Association Ponda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36869">
+                <coordinates>74.010314522,15.408447739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36902">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41253,74.00804&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>326</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41253</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00804</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302153207190.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302153220147.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>21 - Ponda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curti-Khandepar</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Pond/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>421.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2822</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of India
+Ministry of Defence  9750 Sq.mts.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36901">
+                <coordinates>74.00803768,15.412533499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36934">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4082,74.0122&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>331</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadev Temple Tank; Nagzar Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>105</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4082</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0122</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302144753930.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302144808539.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>21 - Ponda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curti-Khandepar</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Pond/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>102.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>523</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ana Lourdes Rosaria Aguiar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36933">
+                <coordinates>74.012196742,15.408200484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36966">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40546,74.00371&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>328</value>
+                </Data>
+                <Data name="name">
+                    <value>Hanuman Tirth; Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40546</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00371</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302151927494.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302152000280.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>21 - Ponda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Pond/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1053.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>522</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Harichandra Naik
+Atma Kir Naik
+Baburao Buki Naik
+Dharmu Gopal Naik
+Gajanan Vishnu Naik
+Gangavati Gangaram Naik
+Haricahndra Pandari Naik
+Kamal Datta Naik
+Narashih babuso Naik
+Ponda
+Shambu Tilu Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36965">
+                <coordinates>74.003708618,15.405463358,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

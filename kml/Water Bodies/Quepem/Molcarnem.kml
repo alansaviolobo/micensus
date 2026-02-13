@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43413">
+        <Placemark id="43415">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.18449,74.11689&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>519</value>
+                </Data>
+                <Data name="name">
+                    <value>Vatolepan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>134</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.18449</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11689</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211105_101830.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211105_101816.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>134/9; 135/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1455.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2375</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:13.906775</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gandhi Costa.
+Lizette Costa.
+Peregrino D'Costa.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975991.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43414">
+                <coordinates>74.116892774,15.184485527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43448">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20003,74.1285&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>523</value>
+                </Data>
+                <Data name="name">
+                    <value>Deulomol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20003</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1285</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211016154335996.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211016154357470.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>45/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>495.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2379</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:17.599535</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Governor of Goa.
+Shashikant Shiva Gaonkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980551.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43447">
+                <coordinates>74.12850442,15.200030017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43481">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19255,74.13113&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>520</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhut fond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>67</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19255</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13113</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211016162705062.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211016162738132.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>67/18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>903.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2377</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:15.754937</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sakharam Shridhar Borkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978271.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43480">
+                <coordinates>74.131129805,15.192546325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43514">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19394,74.13153&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>521</value>
+                </Data>
+                <Data name="name">
+                    <value>Burmulo Madwal Gungi and Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19394</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13153</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211016162130902.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211016162140287.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>66/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1392.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2378</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:16.984031</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kushali Kust Goankar.
+Vishnudas Subraya Sinai Cuncolienkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979791.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43513">
+                <coordinates>74.131534975,15.193942743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43547">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19837,74.12911&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3756</value>
+                </Data>
+                <Data name="name">
+                    <value>Kamurim Bag,Kamurin Bag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>61</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-3</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19837</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12911</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211016160151470.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211016160446816.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>61/1-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7818.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2381</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-05-24 06:08:36.183688</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:17.290526</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dr. Jaivant B. Sardessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980171.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43546">
+                <coordinates>74.129107704,15.198373417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43580">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.18495,74.13414&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2819</value>
+                </Data>
+                <Data name="name">
+                    <value>Chafer</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>109</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.18495</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13414</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211016164545160.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211016164554479.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>109/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1313.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2376</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-23 04:11:32</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:14.527006</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ramanat Purxotam Samant</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976751.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43579">
+                <coordinates>74.13413751,15.18495306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43613">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20043,74.12943&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>524</value>
+                </Data>
+                <Data name="name">
+                    <value>Kamarin</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>62</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Molcarnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20043</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12943</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211016155059416.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211016155127750.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>62/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Molcornem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Mocn/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>484.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2380</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:17.903367</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dr. Jaivant B. Sardessai
+Governor of Goa.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980931.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43612">
+                <coordinates>74.129432031,15.200432428,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

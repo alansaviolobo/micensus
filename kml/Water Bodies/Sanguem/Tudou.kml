@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="75485">
+        <Placemark id="75487">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21083,74.23043&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3993</value>
+                </Data>
+                <Data name="name">
+                    <value>Shidachi nomas or Bhard</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Tudou</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21083</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.23043</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220510062137915.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220510062146755.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Tudo/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1423.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2675</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-18 12:36:00.720077</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chowgule And Company Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034452.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982499.327423708</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75486">
+                <coordinates>74.23043359,15.2108304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75519">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23104,74.22274&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4403</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Tudou</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23104</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.22274</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/4403_1.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/4403_2.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhati</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Tudo/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>877.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3490</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 04:09:30.649397</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Timblo Agro Development Private Limited
+Vishvanath Pandurang Naik Bakro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034452.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984249.327423708</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75518">
+                <coordinates>74.222735054,15.231036475,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

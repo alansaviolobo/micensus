@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25436">
+        <Placemark id="25438">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59001,74.16119&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2729</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2729</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>066/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vishnu K. Yetrekar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Owalachi sarad Xellop, Nagargao.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59001</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16119</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25437">
+                <coordinates>74.16119,15.59001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25453">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59125,74.16245&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2730</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2730</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>063/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Govind Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Purasakadil moli Shingnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59125</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16245</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25452">
+                <coordinates>74.16245,15.59125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25468">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59002,74.16192&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3211</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3211</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1597/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Bablo Hari Sawant</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Nagargao sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59002</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16192</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25467">
+                <coordinates>74.16192,15.59002,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

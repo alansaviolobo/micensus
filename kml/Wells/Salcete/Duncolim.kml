@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16078">
+        <Placemark id="16080">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.292815,73.939832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5095</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5095</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>461/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mrs. Jane Marilyne Menezes E D'souza &amp; Mr. Cernan F.j. D'souza</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 53/a/1, Souza Road, Duncolim, Seraulim Salcete</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.292815</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.939832</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Duncolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16079">
+                <coordinates>73.939832,15.292815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16095">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.295329,73.936933&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5102</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5102</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>343</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Maria Dorisa Serrao</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H,no.242, Sea Shell 3rd Ward Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.295329</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.936933</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Duncolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16094">
+                <coordinates>73.936933,15.295329,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

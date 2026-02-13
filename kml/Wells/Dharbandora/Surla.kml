@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8060">
+        <Placemark id="8062">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.417392,74.198772&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4263</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4263</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>772/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sawant chandrakant ratnakant</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>surla sacorda dharbandora goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.417392</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.198772</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8061">
+                <coordinates>74.198772,15.417392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44162,74.23984&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4269</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4269</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>774/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gaonkar Anand mahadev</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Karemol surla sacorda dharbandora goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44162</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.23984</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8076">
+                <coordinates>74.23984,15.44162,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

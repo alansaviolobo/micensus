@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="85105">
+        <Placemark id="85107">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5513,73.89539&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5551</value>
+                </Data>
+                <Data name="name">
+                    <value>Fondecho Dongar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5513</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89539</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110819705.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110826253.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>8/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>112</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4354</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-09 08:28:30.986594</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Antonio Andrew Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85106">
+                <coordinates>73.895390793,15.551298963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85140">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55263,73.89516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6167</value>
+                </Data>
+                <Data name="name">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55263</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110729038.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110743921.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5600</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Caraim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85139">
+                <coordinates>73.895157886,15.552629937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85172">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55255,73.89437&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5452</value>
+                </Data>
+                <Data name="name">
+                    <value>Carmal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55255</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89437</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110601520.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110608820.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>115.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4267</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:13:08.101466</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Caraim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85171">
+                <coordinates>73.894368062,15.55254672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85205">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5524,73.89369&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5451</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhadeche Vao</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5524</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89369</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110409098.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110423690.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>14/19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>168.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4266</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:13:08.101466</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Caraim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85204">
+                <coordinates>73.8936933,15.5523963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85238">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55265,73.89474&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5453</value>
+                </Data>
+                <Data name="name">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55265</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89474</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110632235.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110639140.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4268</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:13:08.101466</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Feliciana Xavier D`souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85237">
+                <coordinates>73.894741172,15.552649059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85271">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55251,73.8935&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6164</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhadeche Vao</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55251</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8935</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110332778.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110345050.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5597</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Caraim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85270">
+                <coordinates>73.893504314,15.552514148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85303">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55198,73.89363&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6166</value>
+                </Data>
+                <Data name="name">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55198</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89363</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110527543.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110534364.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>45.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5599</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mnauel Francisco Pinto</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85302">
+                <coordinates>73.893625059,15.551982798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85335">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55207,73.8933&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6165</value>
+                </Data>
+                <Data name="name">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Caraim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55207</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8933</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504110502159.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504110508548.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>111</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Carm/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5598</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mnauel Francisco Pinto</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85334">
+                <coordinates>73.893302814,15.552071681,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77047">
+        <Placemark id="77049">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49916,74.14695&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2317</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Dattaram Govind Bacre; Barajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Codqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49916</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14695</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827081547874.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827081607093.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Codq/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>434.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>239</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Dattaram Govind Bacre</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77048">
+                <coordinates>74.146948333,15.499155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77082">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50943,74.14177&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3164</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadev Tali; Gharacodil Thican</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Codqui</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50943</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14177</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827095139997.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827095152319.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/1; 20/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Codq/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>88.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1904</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Gopal Pandurang Joshi
+2) Vishwanath Pandurang Joshi
+Two</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77081">
+                <coordinates>74.141768594,15.509434511,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

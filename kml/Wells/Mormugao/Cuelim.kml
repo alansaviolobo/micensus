@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8205">
+        <Placemark id="8207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.351959,73.90011&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5990</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5990</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>7/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Conceicao Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Cuelim Cansaulim Mormugao Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.351959</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90011</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8206">
+                <coordinates>73.90011,15.351959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8222">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.349548,73.899159&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5991</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5991</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>573</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Alvaro Filipe Da Costa</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.38, Cuelim, Cansaulim, Cansaulim Goa 403601</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.349548</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.899159</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8221">
+                <coordinates>73.899159,15.349548,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

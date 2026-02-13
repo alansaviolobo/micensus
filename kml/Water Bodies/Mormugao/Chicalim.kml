@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22073">
+        <Placemark id="22075">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40061,73.83784&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3116</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 115</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40061</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83784</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200806_100208.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200806_100139.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6689.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1863</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-03 09:07:24</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003315.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22074">
+                <coordinates>73.837843947,15.400611133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22107">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40169,73.84033&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2237</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicalim Tank; Vodol Agor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>112</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40169</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84033</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200731044814898.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200731044829125.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5641.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>299</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Clara Mascarenhas.
+Fernando do Costa Araujo.
+Guilhermina Mascarenhas.
+Ines Mascarenhas.
+Jose Mariano Santana Francisco Masca-
+Raul Maria Mascarenhas.
+renhas.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003915.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22106">
+                <coordinates>73.840325851,15.401691523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22139">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40136,73.84119&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3014</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicalim Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40136</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84119</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200528043958237.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200528044009026.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3471.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1758</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-26 07:18:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Nossa Senhora de Bhom
+Parta of Chicalim.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003765.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22138">
+                <coordinates>73.841186385,15.401364273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22171">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39856,73.83554&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3113</value>
+                </Data>
+                <Data name="name">
+                    <value>Deusa</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>118</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39856</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83554</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200731_133802_2.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200731_133806_3.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>484.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1864</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-07-31 16:48:09</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Jaywant Y. Chougule.
+2) Govt. of India Ministry of Surface
+Aditya Jaywant Chowgule
+Devayu Jaywant Chowgule
+Transport.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002415.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22170">
+                <coordinates>73.83553523,15.398558196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22203">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39952,73.84148&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2241</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicalim Tank; Porshet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>103</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39952</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84148</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215034101096.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215034107027.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13988.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>302</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Communidade of Chicalim
+2) Govt. of India</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003165.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22202">
+                <coordinates>73.84148321,15.399515605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22235">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40092,73.84175&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2240</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicalim Tank; Marinha de Chicalim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>104</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40092</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84175</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215033556556.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215033601125.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>10269.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>301</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ashita Miriam Sankwalkar
+Esther Sankwalkar
+Pranav Yeshu Sankwalkar
+Radhika Teresa Sankwalkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003615.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22234">
+                <coordinates>73.841751458,15.400923832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22267">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40071,73.83929&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3114</value>
+                </Data>
+                <Data name="name">
+                    <value>Uimorde</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>114</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40071</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83929</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200731050040216.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200731050100861.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>10932.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1861</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-07-31 16:54:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Beatriz da Costa e Cruz
+Fred Jose Piedade da Cruz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003465.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22266">
+                <coordinates>73.839292228,15.400707731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22299">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40183,73.8409&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2238</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicalim Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40183</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8409</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215032647989.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215032654785.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3057.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>300</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Prabhakar Rauji Shet</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004065.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22298">
+                <coordinates>73.840904385,15.401825369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22331">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.36978,73.84025&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2242</value>
+                </Data>
+                <Data name="name">
+                    <value>Conshem Bando</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.36978</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84025</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215042644651.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215042653870.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicolna-Bogmalo</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>167.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>296</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Chicalim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1000915.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22330">
+                <coordinates>73.840247637,15.369782726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22363">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40207,73.84169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2239</value>
+                </Data>
+                <Data name="name">
+                    <value>Chicalim Tank; Podulu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40207</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200731044002435.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200731044026467.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>26 - Dabolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chicalim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Chim/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5215.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1782</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Fernando de Costa Araujo.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004215.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22362">
+                <coordinates>73.841687096,15.402074075,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

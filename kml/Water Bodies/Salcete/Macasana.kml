@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59281">
+        <Placemark id="59283">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28946,74.05362&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1808</value>
+                </Data>
+                <Data name="name">
+                    <value>Macazana Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Macasana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28946</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05362</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210804164841527.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210804164857907.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Macasana</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Maca/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>277976.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1345</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Macazana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989840.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59282">
+                <coordinates>74.053619851,15.289455897,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16341">
+        <Placemark id="16343">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.265002,73.967889&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5319</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5319</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>354/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Antonio Maria Pereira</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 193, Mestabhat, Margao-Goa. 403601\n</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.265002</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.967889</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Margao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16342">
+                <coordinates>73.967889,15.265002,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

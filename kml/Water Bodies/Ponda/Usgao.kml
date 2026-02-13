@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40500">
+        <Placemark id="40502">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43448,74.10223&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4661</value>
+                </Data>
+                <Data name="name">
+                    <value>Bondla WLS; Bhodal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>219</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43448</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10223</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331090441098.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331090531043.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>678.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3779</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Foresh Dept. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40501">
+                <coordinates>74.102227344,15.434481417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40534">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44842,74.05927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4495</value>
+                </Data>
+                <Data name="name">
+                    <value>Balle Fall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>97</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44842</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05927</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318171805678.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318171818971.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>194.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3582</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 05:01:18.080390</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)[Bhaskar Balkrishna Sinai Usgaonkar]
+10)Savalo K.Sinai Usgaonkar
+11)Bhicu Ram Sinai Usgaonkar
+12)Fatba Ram Sinai Usgaonkar
+13)Dinanath Ram Sinai Usgaonkar
+14)Atchut Usgaonkar
+16)Mohan Usgaonkar
+17)Suresh Usgaonkar
+18)Nandkishor Usgaonkar
+19)Kashinath Gopal S.Usgaonkar
+2)Prabhakar Krishna Sinai Usgaonkar
+20)Anant Sitaram Sinai Usgaonkar
+21)Gopal Sitaram Sinai Usgaonkar
+22)Laxmibai Laxmikant Sinai Usgaonkar
+23)Raghuvir Suryaji Sinai Usgaonkar
+24)Vishwambhar Jaiwant Sinai Usgaonkar
+25)Vinayak Mahadev Sinai Usgaonkar
+26)Meghashyam Sinai Usgaonkar
+3)Bhagwant Dattaram Sinai Usgaonkar
+4)Kamlakant Nanu Sinai Usgaonkar
+5)Rajaram Nanu Sinai Usgaonkar
+6)Ramesh Nanu Sinai Usgaonkar
+7)Vinayak K.Sinai Usgaonkar
+8)Purnanand K.Sinai Usgaonkar
+9)Anand K.Sinai Usgaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40533">
+                <coordinates>74.059272957,15.448419452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40566">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44681,74.07565&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4498</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>195</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44681</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07565</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318162739655.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318162806792.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1381.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3585</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 05:08:30.328538</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40565">
+                <coordinates>74.075645906,15.446810493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40598">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43007,74.08364&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2289</value>
+                </Data>
+                <Data name="name">
+                    <value>Nakheri Gal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>217</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43007</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08364</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405123405043.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405123416257.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2797.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3259</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Ramchandra Prabhu
+Communidade of Usgao
+Gajanan Dattu Usgaonkar
+Gauri Gajanan Usgaonkar
+Jeetendra Dattu Usgaonkar
+Swati Jeetrendra Usgaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40597">
+                <coordinates>74.083644759,15.430073568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40630">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42182,74.05589&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4451</value>
+                </Data>
+                <Data name="name">
+                    <value>Kuim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>286</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42182</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05589</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220320105636242.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220320105651944.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>10962.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3538</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-21 00:47:42.601146</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40629">
+                <coordinates>74.055894574,15.421823777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40662">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43377,74.11737&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4659</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhodal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>220</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43377</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11737</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331083941809.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331083952664.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>720.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3780</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Dept. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40661">
+                <coordinates>74.117373333,15.433768333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40694">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42474,74.09582&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4527</value>
+                </Data>
+                <Data name="name">
+                    <value>Talem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>223</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42474</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09582</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220320101416270.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220320101428147.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1178.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3614</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-26 03:10:16.792226</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ajit Ashok Parab
+Appasaheb Bandu Kamble
+Communidade of Usgao
+Directorate of Education Panaji-Goa
+Gajanan B. Gaude
+Medini Pandurang Prabhu
+Pandurang Raglo Prabhu
+Prabhakar B. Gaude
+Rohidas B. Gaude
+Rohini Rohidas Gaude
+Rukmini Babusso Gaude
+Saish Anilkumar
+Saraswati Gajanan Gaude
+Satyawan B. Gaude
+Shantaram Ganesh Asolkar
+Shriram Vithal Maldar
+Sweta Anilkumar
+Tulshidas B. Gaude
+Vaijanti Anilkumar
+Vaishali Vishnu Gaude
+Vamadevan Govind
+Venkatamma Rasalkar
+Vishnu B. Gaude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40693">
+                <coordinates>74.095820036,15.42473711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40726">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43545,74.1085&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4666</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhodal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>220</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43545</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1085</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331095827491.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331095858791.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>314.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3777</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Dept. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40725">
+                <coordinates>74.108503333,15.435445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40758">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43215,74.10458&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4663</value>
+                </Data>
+                <Data name="name">
+                    <value>Bondla WLS; Bhodal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>219</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10458</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331092220205.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331092244407.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>266.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3781</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Foresh Dept. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40757">
+                <coordinates>74.104576667,15.432151667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40790">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43261,74.10874&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4660</value>
+                </Data>
+                <Data name="name">
+                    <value>Bondla WLS</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>219</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43261</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10874</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331085311528.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331085340553.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2405.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3774</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gov under Agricultur Dept.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40789">
+                <coordinates>74.108737724,15.432609757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40822">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44827,74.07046&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4496</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>80</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44827</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07046</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318163436746.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318163459066.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>694.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3583</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 05:05:58.718419</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Naganath Devasthan Of Usgao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40821">
+                <coordinates>74.070457432,15.448274767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40854">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4477,74.05898&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4494</value>
+                </Data>
+                <Data name="name">
+                    <value>Purne</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>49</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4477</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05898</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318171538779.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318171548376.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>539.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3581</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 05:00:00.725215</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Eswant Ramchandra Zett Tilve
+Subhash Vassudev Xett Tilve</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40853">
+                <coordinates>74.05897691,15.447704733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40886">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42966,74.09462&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>405</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>222</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42966</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09462</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220320095505209.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220320095523496.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1072.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>378</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Dept. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40885">
+                <coordinates>74.094624843,15.429658002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40918">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43341,74.10371&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>406</value>
+                </Data>
+                <Data name="name">
+                    <value>Bondla WLS; Bhodal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>219</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43341</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10371</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331091611218.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331091656642.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>511.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>377</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Foresh Dept. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40917">
+                <coordinates>74.103707306,15.43340722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40950">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44515,74.06069&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4500</value>
+                </Data>
+                <Data name="name">
+                    <value>Kegva</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44515</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06069</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318171017656.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318171035249.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1015.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3587</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 05:14:04.966209</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Premabai Govind Mayekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40949">
+                <coordinates>74.060686479,15.445152622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40982">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43662,74.05624&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>394</value>
+                </Data>
+                <Data name="name">
+                    <value>Gali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43662</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05624</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405124756817.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405124806573.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7851.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3203</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s-E Merck(India)Ltd.Usgao Goa
+Mrs. Urmila Catcar alias Urmila Suhas Lotlecar
+Shri Navinchandra Ramacant Catcar
+Shweta Satish Karnik
+Smt. Mradula Catcar alias Mradula Satishchandra Karnik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40981">
+                <coordinates>74.05623787,15.43661903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41014">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44867,74.03596&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4524</value>
+                </Data>
+                <Data name="name">
+                    <value>Sonar Bhag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Usgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44867</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03596</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318174700665.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318174728169.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Usgao-Ganjem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Usga/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>536.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3611</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-26 03:02:14.269539</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vithal Ghanasham Sinai Kundaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41013">
+                <coordinates>74.035956689,15.44866761,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

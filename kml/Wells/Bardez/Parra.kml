@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="860">
+        <Placemark id="862">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57213,73.79389&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>736</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>736</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2744/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Pereira John Curz</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. -55, Jacknim waddo, Parra, Bardez-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57213</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79389</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+            </ExtendedData>
+            <Point id="861">
+                <coordinates>73.79389,15.57213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57415,73.7897&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>737</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>737</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>67/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Parsekar Pundalik Ravindra</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Parra, Bardez-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57415</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7897</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+            </ExtendedData>
+            <Point id="876">
+                <coordinates>73.7897,15.57415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="892">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56435,73.77494&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>740</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>740</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>175/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Navelkar Amol Prabhakar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Usha Smruti 364/1 B, Aradi, Parra, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56435</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77494</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+            </ExtendedData>
+            <Point id="891">
+                <coordinates>73.77494,15.56435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.569458,73.791573&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1334</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1334</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3417/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri.Vaz Ashley Jason</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 596,Salis Vaddo, Parra, Bardez Goa, 403510.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.569458</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.791573</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+            </ExtendedData>
+            <Point id="906">
+                <coordinates>73.791573,15.569458,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

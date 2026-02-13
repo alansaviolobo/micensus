@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25267">
+        <Placemark id="25269">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51965,74.1518&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2570</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2570</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>139/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Manohar Appa Parab</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Velguem , Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51965</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1518</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Velguem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25268">
+                <coordinates>74.1518,15.51965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25284">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52019,74.15222&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2571</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2571</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>151/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Premnath Hajare</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Khotkine , Velguem ,Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52019</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15222</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Velguem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25283">
+                <coordinates>74.15222,15.52019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25299">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51368,74.14925&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2573</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2573</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>157/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Bhalchandra Joshi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Irrg well at Velguem, Valpoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51368</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14925</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Velguem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25298">
+                <coordinates>74.14925,15.51368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25314">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51686,74.15115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3158</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3158</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>158/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Godbole Rama Vasudev</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Velguem Irrg Well at Velguem, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51686</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15115</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Velguem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25313">
+                <coordinates>74.15115,15.51686,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73611">
+        <Placemark id="73613">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.12668,74.17144&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4020</value>
+                </Data>
+                <Data name="name">
+                    <value>Durga Devi Temple Tank; Aravan Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>62</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Curpem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.12668</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17144</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220423054126400.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220423054206289.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curdi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Curp/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>275.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2704</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 13:08:39.041974</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anand Mahadeo Gaonkar
+Babaji Vithal Gaonkar
+Fondu Poclo Gaonkar
+Gopi Sukti Gaonkar
+Government of Goa, The Executive Engineer, W.D. XVIII(Roads), P.W.D. Ponda
+Kansu Raghu Gaonkar
+Krishna Ladu Gaonkar
+Kushali Shanu Gaonkar
+Lalu Harischandra Gaonkar
+Narayan Pandu Gaonkar
+Ragu Babuso Gaonkar
+Rajaram Anant Gaonkar
+Tukaram Barkelo Gaonkar
+Vithal Apa Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1012692.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965619.168861346</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73612">
+                <coordinates>74.171441239,15.126675222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73645">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.12299,74.1778&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4018</value>
+                </Data>
+                <Data name="name">
+                    <value>Modd</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>57</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Curpem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.12299</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1778</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220506053740479.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220506053759236.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curdi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Curp/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1125.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2702</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 13:00:33</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francisco Caitano Dias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1012692.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963519.168861346</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73644">
+                <coordinates>74.177796884,15.122989376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73677">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.12161,74.17948&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4017</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>55</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Curpem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.12161</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17948</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220423062254383.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220423062319884.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curdi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Curp/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2555.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2701</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 12:57:09</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babu Jivu Gaonkar
+Barkelo Sangtu Gaonkar
+Deu Mono Gaonkar
+Gangadhar Babu Velip
+Kust Bompto Velip
+Laxman Bhik Molu Gaonkar
+Laxman Kalu Gaonkar
+Laxman Ladu Velip
+Lolio Mono Velip
+Manguesh Radio Gaonkar
+Molu Sheddu Gaonkar
+Narayan Radio Gaonkar
+Paik Pandu Gaonkar
+Raghu Bhik Gaonkar
+Ram Mono Gaonkar
+Sangtu Khapru Gaonkar
+Sangtu Vithoba Velip
+Shankar Mortu Gaonkar
+Sheddu Paica Gaonkar
+Zango Bhiku Gaonkar
+Zingo Mula Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1012692.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963169.168861346</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73676">
+                <coordinates>74.179483825,15.121609782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73709">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.12424,74.17354&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4772</value>
+                </Data>
+                <Data name="name">
+                    <value>Kamar Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Curpem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.12424</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17354</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220423055958714.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220423060018570.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curdi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Curp/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>227.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2703</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mrs. Marina Fatima D`Mello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1012692.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>964569.168861346</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73708">
+                <coordinates>74.173536667,15.124238333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

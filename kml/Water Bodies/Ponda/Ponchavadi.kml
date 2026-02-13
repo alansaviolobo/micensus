@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="36546">
+        <Placemark id="36548">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31217,74.07213&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4652</value>
+                </Data>
+                <Data name="name">
+                    <value>Jhen</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>116</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31217</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07213</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329103810400.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329103836660.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>168.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3749</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Hari Keshav Patil</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36547">
+                <coordinates>74.072128333,15.312166667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36580">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31472,74.08319&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4301</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>East of 138</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31472</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08319</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329112632381.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329112706584.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2190.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3261</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-31 09:28:27.288093</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36579">
+                <coordinates>74.083190077,15.314721469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36612">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27633,74.0948&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4521</value>
+                </Data>
+                <Data name="name">
+                    <value>Paran</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>231</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27633</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0948</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322131931963.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322131943373.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>892.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3608</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-26 01:56:28.033129</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Goverment</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990943.0998364639</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36611">
+                <coordinates>74.094804282,15.276333616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36644">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31191,74.07204&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4651</value>
+                </Data>
+                <Data name="name">
+                    <value>Jhen</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>116</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31191</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07204</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329103648387.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329103714515.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3750</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Hari Keshav Patil</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36643">
+                <coordinates>74.072035,15.311913333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36676">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3067,74.06746&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4650</value>
+                </Data>
+                <Data name="name">
+                    <value>Noniale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3067</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06746</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220329101419453.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220329101453880.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Domestic</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>40.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3751</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Nandini sadashiv patil
+Ramchandra Vishnu Bhat Patil
+Rohini Kaustubh Patil
+Saurabh Sadashiv Patil
+Sonali Saurabh Patil
+Sumedha Suresh Patil
+Suresh Vishnu Patil
+Urjit KKaustubh Patil</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36675">
+                <coordinates>74.067456667,15.306698333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36708">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28667,74.07415&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4643</value>
+                </Data>
+                <Data name="name">
+                    <value>Valado de haudor vigar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>322</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28667</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07415</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322125217837.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322125231540.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>365.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3701</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-22 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2) Luis Shavier Correia de Craca Miranda
+Govt. of Goa PWD W D XVIII (R) PONDA
+Lucio Santanade Miranda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36707">
+                <coordinates>74.074153322,15.286674908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36740">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28444,74.075&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4461</value>
+                </Data>
+                <Data name="name">
+                    <value>Valado de haudor vigar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>322</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-A</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28444</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.075</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322125824529.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322130200349.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>774.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3548</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-21 01:16:38.926438</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>The Executive Engineer, Div. XVIII (Roads) P.W.D. Ponda Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36739">
+                <coordinates>74.074999813,15.284435191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36772">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30043,74.06445&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4520</value>
+                </Data>
+                <Data name="name">
+                    <value>Quina Kator</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>57</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30043</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06445</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220322124422069.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220322124435571.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Panchawadi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Ponc/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>435.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3607</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-26 01:52:19.681225</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Fraxavier Estibeiro
+Gilbert Dias
+[Shirodkar]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36771">
+                <coordinates>74.064454628,15.300427767,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

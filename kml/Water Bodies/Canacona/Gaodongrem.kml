@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16213">
+        <Placemark id="16215">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.02006,74.11847&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3031</value>
+                </Data>
+                <Data name="name">
+                    <value>Gavnem Tali; Gavane</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.02006</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11847</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20201128093843517.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20201128093900326.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>105</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>946.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2081</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 09:06:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Mallikarjun Devasthan of Canacona
+The Executive Engineer Works Division XI Water Resources Department Gogol Margao Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966787.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16214">
+                <coordinates>74.118472053,15.020064812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16247">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.03778,74.11848&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3029</value>
+                </Data>
+                <Data name="name">
+                    <value>Mallikarjun Temple Tank (Gaondongri); Sristol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.03778</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11848</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220514123337038.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220514123409472.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>568.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2080</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 08:50:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Mallikarjun Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>967537.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16246">
+                <coordinates>74.118477613,15.037777917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16279">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.06068,74.16495&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3051</value>
+                </Data>
+                <Data name="name">
+                    <value>Bharssa - I; Cashew Goton; Cashew Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>56</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.06068</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16495</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523115406389.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523115412313.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2077</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 10:33:29</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gaodongrem
+Devu Modko Velip
+Vaman Janu Velip</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>968287.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16278">
+                <coordinates>74.164946721,15.06068336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16311">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.02147,74.12393&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3050</value>
+                </Data>
+                <Data name="name">
+                    <value>Talem Tank (near Ziltawadi)</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>196</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.02147</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12393</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509143258000.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509143318984.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>111</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3937</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 10:33:29</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antu Purso Gaonkar
+Babu Kilso Gaonkar
+Communidade of Gaodongrim
+Gurco Purso Gaonkar
+Janu Bhuto Gaonkar
+Janu Molu Gaonkar
+Kusta Kilso Gaonkar
+Laxman Kusta Gaonkar
+Paik Kilso Gaonkar
+Poklo Sonu Gaonkar
+Rama Kilso Gaonkar
+Rama Puno Gaonkar
+Shabu Bhuto Gaonkar
+Shabu Thoto Gaonkar
+Shr. Mallikarjun Devasthan of Gaondogrim
+Sonu Nagdo Gaonkar
+Vithoba Bhisso Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966537.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16310">
+                <coordinates>74.123930898,15.021469972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16343">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.01871,74.12796&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4876</value>
+                </Data>
+                <Data name="name">
+                    <value>Chirkya Bai, Ziltawadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>196</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.01871</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12796</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509091747668.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509091808421.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>48.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3912</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-09 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gaodongrem</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965787.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16342">
+                <coordinates>74.127959483,15.018712823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16375">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.06103,74.1651&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3374</value>
+                </Data>
+                <Data name="name">
+                    <value>Bharssa - II; Kantiya Dando; Cashew Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>56</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.06103</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1651</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523115302952.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523115308943.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>171.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2076</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gaodongrem
+Devu Modko Velip
+Vaman Janu Velip</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>968537.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16374">
+                <coordinates>74.165099134,15.061026776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16407">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.01098,74.14991&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3049</value>
+                </Data>
+                <Data name="name">
+                    <value>Saturli Tali; Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>177</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.01098</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14991</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220601115356460.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220601115414936.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>193.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2084</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 10:16:06</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babu Kusta Gaonkar
+Bagdo Katu Gaonkar
+Bagdo Nilu Gaonkar
+Bhisso Naru Gaonkar
+Bityo Pauto Gaonkar
+Bombo Rama Gaonkar
+Government of Goa, Daman &amp; Diu
+Gurco Purso Gaonkar
+Janu Butho Gaonkar
+Janu Nilu Gaonkar
+Jiva Ado Gaonkar
+Laxman Kusta Gaonkar
+Laxman Shabu Gaonkar
+Puno Butho Gaonkar
+Puno Kusta Gaonkar
+Shabu Bab Gaonkar
+Shanu Rama Gaonkar
+Shri Mallikarjun Devasthan of Gaodongrem
+Sonu Nadgo Gaonkar
+Sukto Jermo Gaonkar
+The Executive Engineer, Works Division XXV (R), P.W.D. Fatorda Margao Goa
+Vithoba Bhisso Gaonkar
+Vithoba Bombo Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965287.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16406">
+                <coordinates>74.149909765,15.010981719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16439">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.99943,74.1629&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2494</value>
+                </Data>
+                <Data name="name">
+                    <value>Monem Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>155</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.99943</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1629</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509151216782.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509151235073.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1946.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1766</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:14:33</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>964787.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16438">
+                <coordinates>74.162896499,14.999430943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16471">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.02118,74.16863&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3028</value>
+                </Data>
+                <Data name="name">
+                    <value>Mallikarjun Temple Tank (Cotigao) / Avem; Mada Javel</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>135</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.02118</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16863</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220514133558127.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220514133637166.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>190.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2145</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 08:46:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Mallikarjun Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965537.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16470">
+                <coordinates>74.168634775,15.021177806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16503">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.02896,74.14586&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3030</value>
+                </Data>
+                <Data name="name">
+                    <value>Ziltawadi Tali; Anvoli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.02896</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14586</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220601131730333.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220601131739337.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2085</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 08:56:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966287.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16502">
+                <coordinates>74.145861693,15.028957856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16535">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.04063,74.14687&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5025</value>
+                </Data>
+                <Data name="name">
+                    <value>Paikakadil Nomos or Paikakadil Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.04063</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14687</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523113533340.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523113539173.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>106</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>347.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3911</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>967037.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16534">
+                <coordinates>74.146871172,15.040625783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16567">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.02141,74.12392&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4875</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>196</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gaodongrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.02141</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12392</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509090405228.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509143414282.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Gaondongri</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Gaod/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2082</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-09 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antu Purso Gaonkar
+Babu Kilso Gaonkar
+Communidade of Gaodongrim
+Gurco Purso Gaonkar
+Janu Bhuto Gaonkar
+Janu Molu Gaonkar
+Kusta Kilso Gaonkar
+Laxman Kusta Gaonkar
+Paik Kilso Gaonkar
+Poklo Sonu Gaonkar
+Rama Kilso Gaonkar
+Rama Puno Gaonkar
+Shabu Bhuto Gaonkar
+Shabu Thoto Gaonkar
+Shr. Mallikarjun Devasthan of Gaondogrim
+Sonu Nagdo Gaonkar
+Vithoba Bhisso Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966037.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16566">
+                <coordinates>74.123922062,15.021407262,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

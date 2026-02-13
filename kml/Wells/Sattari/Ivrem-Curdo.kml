@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21858">
+        <Placemark id="21860">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63075,74.14927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2583</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2583</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>101/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Navso Harijan</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Mattichi sarad ,Hiverem ,Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63075</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14927</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Curdo</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21859">
+                <coordinates>74.14927,15.63075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21875">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62572,74.146645&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2584</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2584</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>97/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shaba R. Korgaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Korgaonkar wada , Hivrem khurd , Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62572</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.146645</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Curdo</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21874">
+                <coordinates>74.146645,15.62572,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

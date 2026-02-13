@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="97997">
+        <Placemark id="97999">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4902,73.85374&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1219</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>144</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Morambi-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4902</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85374</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428111306566.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428111328287.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>144/1,6-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Merces</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Moop/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>831.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>654</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:09:03.902000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:56:09.754822</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Morombi-O-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976173.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013940.68332924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97998">
+                <coordinates>73.853740957,15.490203469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98032">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48912,73.85483&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1220</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>146</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Morambi-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48912</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85483</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428111350231.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428111400011.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>146/5-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Merces</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Moop/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>831.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>655</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:58.313000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:56:08.898732</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Morombi-O-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976173.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012940.68332924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="98031">
+                <coordinates>73.854825309,15.489120688,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

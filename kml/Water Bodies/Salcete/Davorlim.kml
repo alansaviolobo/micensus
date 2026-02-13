@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56991">
+        <Placemark id="56993">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26815,73.98995&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1704</value>
+                </Data>
+                <Data name="name">
+                    <value>Davorlim Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>43</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Davorlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26815</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98995</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210817155503665.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210817155521638.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Rumdamol-Davorlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Davo/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>8506.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1715</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s Sir Biotech India Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008339.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997271.673307794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="56992">
+                <coordinates>73.989949051,15.268147028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57025">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27071,73.98042&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3803</value>
+                </Data>
+                <Data name="name">
+                    <value>Kumbarem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Davorlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27071</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98042</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210817101356332.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210817101413011.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Rumdamol-Davorlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>155</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Davo/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>230.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2552</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-17 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008339.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997621.673307794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="57024">
+                <coordinates>73.980421667,15.270711667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

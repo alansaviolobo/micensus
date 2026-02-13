@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25021">
+        <Placemark id="25023">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55655,74.1961&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2478</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2478</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>27/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vithal N. Paryekar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Motiche Moli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55655</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1961</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ustem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25022">
+                <coordinates>74.1961,15.55655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25038">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55669,74.19602&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2479</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2479</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>60/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Laxman Chandru Ustekar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Gharavaril upar Sattari Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55669</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19602</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ustem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25037">
+                <coordinates>74.19602,15.55669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25053">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56252,74.18832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2754</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2754</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>761/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Ustekar Prakash Shankar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 8, Nagargao, Uskem, Valpoi, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56252</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18832</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ustem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25052">
+                <coordinates>74.18832,15.56252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25068">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56231,74.18832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2755</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2755</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>761/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Ustekar Prakash Shankar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 8, Nagargao, Ustem, Valpoi, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56231</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18832</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ustem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25067">
+                <coordinates>74.18832,15.56231,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15729">
+        <Placemark id="15731">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.08952,73.9208&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>534</value>
+                </Data>
+                <Data name="name">
+                    <value>Cabo de Rama Fort Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>259</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.08952</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9208</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513115429288.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513115450099.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1349.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>259</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>968910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15730">
+                <coordinates>73.920802756,15.089517683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15763">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.07286,73.97732&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4952</value>
+                </Data>
+                <Data name="name">
+                    <value>Lakshminarayan Temple Tank; Shristhal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.07286</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97732</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513133854430.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513133911810.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>469.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3920</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gram Dev Laxmi Narayan of Cola</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>970160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15762">
+                <coordinates>73.977319436,15.072860142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15795">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.09467,73.93471&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5040</value>
+                </Data>
+                <Data name="name">
+                    <value>Salagal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>228</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.09467</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93471</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524135741946.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524135753732.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>112.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3936</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-19 17:34:54.176197</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Gram Devi Laxi Narayan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>970410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15794">
+                <coordinates>73.934708129,15.09466748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15827">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.07767,73.98251&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3296</value>
+                </Data>
+                <Data name="name">
+                    <value>Kapleshwar Temple Tank; Vagond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>98</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.07767</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98251</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524124436750.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524124501525.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>449.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2072</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-10-03 15:31:25</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Gram Deu Laxmi Narayan of Cola</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>971410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15826">
+                <coordinates>73.982505947,15.077667441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15859">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.09223,73.94918&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3894</value>
+                </Data>
+                <Data name="name">
+                    <value>Matta Codil Xir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>189</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.09223</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94918</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211006043851903.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211006043919017.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>444.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2656</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-10-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>971160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15858">
+                <coordinates>73.94918443,15.092229741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15891">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.09137,73.93466&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4974</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhangale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>223</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.09137</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93466</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524135456585.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524135519925.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3875</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-17 03:50:18.720295</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Apolinario Canguim Sebastiao Jaques
+Conceisao Piadade Fernandes alias Conceicao Piadade Fernandes e Jaques
+Mafalda Fernandes
+Pedro Carmo Jaques</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>969910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15890">
+                <coordinates>73.934658904,15.091372575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15923">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.09171,73.92824&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4862</value>
+                </Data>
+                <Data name="name">
+                    <value>Curdem; Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>239</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>55,56</value>
+                </Data>
+                <Data name="village">
+                    <value>Cola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.09171</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92824</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513120703050.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513120731250.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Cola/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1308.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3850</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-09 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balsu Ram Velip
+Datta Arjun Velip
+Sanklu Arjun Velip</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>969660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15922">
+                <coordinates>73.928241006,15.09171,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

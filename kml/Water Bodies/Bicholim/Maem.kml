@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11778">
+        <Placemark id="11780">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59639,73.90273&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5316</value>
+                </Data>
+                <Data name="name">
+                    <value>Poira</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59639</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90273</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208125517526.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208125528026.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>60/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3001.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4130</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 11:43:25.880938</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:08.839498</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023828.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11779">
+                <coordinates>73.902732004,15.596390339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11813">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58939,73.91073&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>22</value>
+                </Data>
+                <Data name="name">
+                    <value>Goinginim Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 78</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58939</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91073</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311094450015.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311094454737.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>65/3; 78/0; 79/0; 80/0; 81/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>20415.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5149</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:07.506153</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022078.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11812">
+                <coordinates>73.910727045,15.589389421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11846">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58827,73.92948&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>27</value>
+                </Data>
+                <Data name="name">
+                    <value>Ghotneshwar Krishna Temple Tank; Thirthbag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>115</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58827</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92948</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208135734981.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208135758141.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>114/0; 115/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>843.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5352</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.950720</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018578.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11845">
+                <coordinates>73.929479423,15.588274507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11879">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57724,73.90516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5324</value>
+                </Data>
+                <Data name="name">
+                    <value>Motianchi Ankh kator</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>342</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57724</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230221093834504.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230221093852399.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>342/2; 399/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>99.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4138</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 11:49:13.068472</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:11.368468</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Silverio Piedade de Estanislau de Sia e Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020328.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11878">
+                <coordinates>73.90515616,15.577244016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11912">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58398,73.92911&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4944</value>
+                </Data>
+                <Data name="name">
+                    <value>Kelbaiwada Tali; Thirthbag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>139</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58398</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92911</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208140734145.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208140819260.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/2; 139/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>106</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>966.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5159</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 15:21:23.069630</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:11.240556</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017878.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11911">
+                <coordinates>73.929112509,15.583976348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11945">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58938,73.93132&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>28</value>
+                </Data>
+                <Data name="name">
+                    <value>Ambrai Tirthbag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58938</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93132</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218163014543.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218163041291.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>143/1-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>105</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5375.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5161</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:11.209364</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shankar Ramkrishna Samant</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018228.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11944">
+                <coordinates>73.931319386,15.589384968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11978">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57472,73.9413&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>26</value>
+                </Data>
+                <Data name="name">
+                    <value>Mayem Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>East of 174</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57472</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9413</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311155359386.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311155404436.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value/>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>241773.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>447</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:07.475082</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012978.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11977">
+                <coordinates>73.941295623,15.574724262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12011">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58557,73.90703&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2532</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharebhat Vaingan, Chimulwada; Wadyar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58557</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90703</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208130211544.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208130237540.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/9; 11/26</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>783.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5150</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:11.273693</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021728.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12010">
+                <coordinates>73.90703,15.58557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12044">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57749,73.92478&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5893</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhatwadi Ghode Galao</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>221</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57749</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92478</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218163842670.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218163918367.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5379</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:11.336177</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017178.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12043">
+                <coordinates>73.924776803,15.577492889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12076">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56284,73.92113&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4926</value>
+                </Data>
+                <Data name="name">
+                    <value>Aturli Tali; Varpal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>232</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Maem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56284</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92113</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218132014292.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218132043380.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>232/20,22; 234/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Maem/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>686.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5262</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 14:51:23.168571</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:11.304932</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015778.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12075">
+                <coordinates>73.921126177,15.562836344,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

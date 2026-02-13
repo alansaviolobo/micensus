@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77317">
+        <Placemark id="77319">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4818,74.14086&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3275</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Manohar Shankar Marathe; Khotode Yethel Thikan.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4818</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14086</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200924162334669.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200924162344259.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Coto/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>306.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2028</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manohar Shankar Marathe.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77318">
+                <coordinates>74.140861516,15.481796503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77352">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48141,74.15535&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2984</value>
+                </Data>
+                <Data name="name">
+                    <value>Luz</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48141</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15535</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825080749006.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825080757641.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1; 31/2; 32/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Coto/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2672.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1893</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 09:43:43</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013047.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77351">
+                <coordinates>74.155353333,15.481413333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77385">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48155,74.15651&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2318</value>
+                </Data>
+                <Data name="name">
+                    <value>Varchi Tali, Bimbal; Luz</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48155</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15651</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314033225792.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314033241793.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1-2; 30/1; 31/3; 32/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Coto/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6867.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>77</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013347.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77384">
+                <coordinates>74.156507746,15.481553267,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

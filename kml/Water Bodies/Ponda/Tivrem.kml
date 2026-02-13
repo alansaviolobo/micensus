@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40178">
+        <Placemark id="40180">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.498,73.964&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>359</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhabyacho-Warko</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.498</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.964</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405162435461.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405162446004.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1028.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2839</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shantaram Vinayak Bhat Sarjotishi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014187.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40179">
+                <coordinates>73.964001935,15.498002987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40212">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49619,73.95876&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>365</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49619</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95876</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228182314649.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228182323421.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>104249.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2838</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Govt. of Goa, Executive Engineer, Work Division III (PHE) P.W.D.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013187.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40211">
+                <coordinates>73.95875754,15.496187179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40244">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4965,73.96782&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4422</value>
+                </Data>
+                <Data name="name">
+                    <value>Wadiya Bhat alias Mulam Bag and Vadiya Bag Mulam</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4965</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96782</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228164727167.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228164749408.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>124</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>250.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3508</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 15:46:33.490432</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manikbai Venktesh Bhandari}
+Prabhakar Venktesh Bhandari} 1/2
+Vasant Anant Bhandari 1/2</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013437.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40243">
+                <coordinates>73.967818699,15.496498332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40276">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4991,73.96129&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4440</value>
+                </Data>
+                <Data name="name">
+                    <value>Khunya Ankh Varil Tukada</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4991</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96129</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228181351642.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228181407811.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3524</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-19 00:19:20.037342</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Fhondu Naik Gaonkar
+Pandhari Jaidev Naik Gaonkar
+Pandu Jaidev Naik Gaonkar
+Raghuvir Laxman Naik Gaokar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014437.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40275">
+                <coordinates>73.961292161,15.499103434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40308">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50317,73.96759&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>362</value>
+                </Data>
+                <Data name="name">
+                    <value>Ubir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>59</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>29</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50317</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96759</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228170935975.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228170943663.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>263.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3274</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Tiwre
+Government of Goa P.W.D.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015437.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40307">
+                <coordinates>73.967588298,15.503169027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40340">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4966,73.96773&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4421</value>
+                </Data>
+                <Data name="name">
+                    <value>Wadiya Bhat alias Mulam Bag and Vadiya Bag Mulam</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4966</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96773</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228164821985.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228164841066.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3507</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-17 15:46:33.490432</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manikbai Venktesh Bhandari}
+Prabhakar Venktesh Bhandari} 1/2
+Vasant Anant Bhandari 1/2</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013687.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40339">
+                <coordinates>73.967730689,15.496598691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40372">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4978,73.96833&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4266</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahalsa Temple Tank; Narayan Dev Shir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4978</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96833</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228165516635.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228165534712.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>194.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3095</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Devi Shanta Durga Devastan Tiwre</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014687.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40371">
+                <coordinates>73.968326749,15.497797006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40404">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49796,73.96831&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>361</value>
+                </Data>
+                <Data name="name">
+                    <value>Zarcho Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49796</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96831</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228165617769.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228165649588.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>513.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3093</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014937.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40403">
+                <coordinates>73.968305733,15.497960375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40436">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49692,73.96744&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>360</value>
+                </Data>
+                <Data name="name">
+                    <value>Ranvat-Doran</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49692</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96744</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228165059250.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228165107095.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1298.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3094</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balkrishna Ramchandra Bhandari
+Jiottam Narayan Bhandari
+Vaman Narayan Bhandari
+Vinayak Narayan Bhandari
+Yadunandan Narayan Bhandari</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013937.65971128</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40435">
+                <coordinates>73.967438926,15.49691812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40468">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49476,73.96369&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4542</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Shir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Tivrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49476</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96369</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228162607912.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228162616050.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tivrem-Orgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Tivr/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>145.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3627</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jiottam Vassudeo Shenvi Amonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991434.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012937.6597112827</value>
+                </Data>
+            </ExtendedData>
+            <Point id="40467">
+                <coordinates>73.963686174,15.49475557,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89257">
+        <Placemark id="89259">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5137,73.94085&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6258</value>
+                </Data>
+                <Data name="name">
+                    <value>Pirmeiro Bandiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5137</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94085</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511083953848.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511083959050.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>73.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5613</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim     [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89258">
+                <coordinates>73.940846798,15.513700013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89291">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5137,73.93978&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3633</value>
+                </Data>
+                <Data name="name">
+                    <value>Segunda Bandiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5137</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93978</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511083638733.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511083708201.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/13-A,&quot;13 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>65.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4920</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim   [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89290">
+                <coordinates>73.939779155,15.513698716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89324">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51411,73.9416&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6260</value>
+                </Data>
+                <Data name="name">
+                    <value>Alod de Thivi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51411</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9416</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511084054401.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511084100119.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>78.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5619</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim   [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89323">
+                <coordinates>73.941601624,15.51411479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89356">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51352,73.94019&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6256</value>
+                </Data>
+                <Data name="name">
+                    <value>Pirmeiro Bandiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51352</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94019</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511083826483.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511083833403.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>131.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5612</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim  (one)</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89355">
+                <coordinates>73.940189821,15.513517203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89388">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51348,73.94037&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6257</value>
+                </Data>
+                <Data name="name">
+                    <value>Pirmeiro Bandiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51348</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94037</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511083845418.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511083858358.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>80.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5616</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim   [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89387">
+                <coordinates>73.940372601,15.513484653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89420">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51386,73.94115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6259</value>
+                </Data>
+                <Data name="name">
+                    <value>Terceiro Bandiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51386</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94115</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511084032152.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511084041720.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>139.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5614</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim   [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89419">
+                <coordinates>73.941145143,15.513857737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89452">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51373,73.9406&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6255</value>
+                </Data>
+                <Data name="name">
+                    <value>Pirmeiro Bandiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51373</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9406</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511083932702.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511083940129.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>78.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5615</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim     [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89451">
+                <coordinates>73.940599761,15.513726617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89484">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51449,73.93845&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3441</value>
+                </Data>
+                <Data name="name">
+                    <value>Advelio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51449</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93845</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511075208709.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511075243027.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>60.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4951</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89483">
+                <coordinates>73.938446459,15.514487139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89517">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51122,73.94154&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3444</value>
+                </Data>
+                <Data name="name">
+                    <value>Ako Fod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51122</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94154</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511085419133.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511085438252.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/2PT</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>103.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2051</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim  (One)</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89516">
+                <coordinates>73.941540325,15.511217441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89550">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51395,73.93516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3446</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Cantor Moli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51395</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511080246447.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511080259064.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>75.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4535</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1.Gajanan Rama Naik Raikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89549">
+                <coordinates>73.935155169,15.513952194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89583">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51461,73.93681&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6253</value>
+                </Data>
+                <Data name="name">
+                    <value>Mali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51461</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93681</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511081200811.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511081211899.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>75.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5617</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1.Bhikaro Vithal Naik Raikar
+2.Vishwanath Vithal Naik Raikar
+3.Mahav Vithal Naik Raikar
+4.Suryakant Vithal Naik Raikar
+5.Dina Vithal Naik Raikar
+6.Manik Vithal Naik Raikar
+[Six]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89582">
+                <coordinates>73.936813333,15.514613333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89615">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51394,73.93952&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6254</value>
+                </Data>
+                <Data name="name">
+                    <value>Terceiro Bandiem Grande</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51394</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93952</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511083723466.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511083729137.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>84.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5611</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim   [one]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89614">
+                <coordinates>73.939516232,15.513943921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89647">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5109,73.94093&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3443</value>
+                </Data>
+                <Data name="name">
+                    <value>Chumod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5109</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94093</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511085054407.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511085114935.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/4,8-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>203.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2050</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gandaulim  (one)</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89646">
+                <coordinates>73.940928271,15.510895099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89680">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51471,73.93598&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3450</value>
+                </Data>
+                <Data name="name">
+                    <value>Mali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51471</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93598</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511075818951.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511075830361.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/3pt</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>105.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4538</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1.Bhikaro Vithal Naik Raikar
+2.Vishwanath Vithal Naik Raikar
+3.Mahav Vithal Naik Raikar
+4.Suryakant Vithal Naik Raikar
+5.Dina Vithal Naik Raikar
+6.Manik Vithal Naik Raikar
+[Six]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89679">
+                <coordinates>73.935979317,15.514705458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89713">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51431,73.93581&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3448</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Cantor Moli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51431</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93581</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230511080011843.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230511080044058.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Gand/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>38.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4537</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1.Tarabai Hari Naik
+2.Gajanan Rama Naik Raikar
+[Two]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="89712">
+                <coordinates>73.935812367,15.514307122,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

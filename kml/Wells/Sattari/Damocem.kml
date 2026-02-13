@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21045">
+        <Placemark id="21047">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48116,74.12272&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2666</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2666</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>805/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Marathe Ramchandra Pandurang</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.02, Dhamcem, Guleli, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48116</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12272</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Damocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21046">
+                <coordinates>74.12272,15.48116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21062">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47545,74.13233&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2667</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2667</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>202/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Babu Sukdo Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kaggal Dhamcem,Guleli, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47545</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13233</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Damocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21061">
+                <coordinates>74.13233,15.47545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47731,74.13237&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2687</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2687</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3143/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Morlekar Pramod Madhu</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.117, Dhamcem, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47731</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13237</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Damocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21076">
+                <coordinates>74.13237,15.47731,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

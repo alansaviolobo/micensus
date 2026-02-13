@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="83477">
+        <Placemark id="83479">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57226,74.09484&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3108</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Nirichem Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Zormen</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57226</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09484</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200914145149793.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200914145204085.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>10/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mauxi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Zorm/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1898</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-07-24 08:06:06</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83478">
+                <coordinates>74.094844017,15.572256508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83512">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.575,74.10057&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3264</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Bandan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Zormen</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.575</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10057</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200914143114344.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200914143123462.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mauxi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Zorm/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>173.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2018</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman &amp; Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83511">
+                <coordinates>74.100571911,15.575004177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83545">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56532,74.09907&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3109</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Rajaram Bhikaji Gaunco; Paiduco Cas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Zormen</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56532</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09907</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200915122348674.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200915122437913.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>46/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mauxi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Zorm/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>99.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2033</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-07-24 08:10:45</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Rajaram Bhikaji Gaunco.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83544">
+                <coordinates>74.09907,15.565315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83578">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56728,74.10327&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3267</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>42</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Zormen</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56728</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10327</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200915105058419.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200915105107048.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>42/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mauxi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Zorm/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>321.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2017</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018147.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83577">
+                <coordinates>74.103268671,15.56728287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83611">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56761,74.0979&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3265</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Babaji Arjun Gauns; Batulem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>53</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Zormen</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56761</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0979</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200914151027280.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200914151039177.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>53/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mauxi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Zorm/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2016</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Babaji Arjun Gauns.
+2) Vassudev Arjuna Gauns.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83610">
+                <coordinates>74.097899221,15.567605074,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

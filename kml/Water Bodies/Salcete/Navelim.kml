@@ -1,0 +1,3067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="61115">
+        <Placemark id="61117">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2501,73.96954&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1853</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>78</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2501</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96954</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103162232991.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103162241468.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>303.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1700</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Daphne Crescintia Linda de Melo
+Government of Goa Revenue Executive Engineer, Div XIV (NH). PWD, Fatorda Margao Goa
+Government of Goa S.I.P.   W.R.D.
+Government of India, Ministry of Shipping, Road Transport and Highway
+Lidio Alvaro Santana de Mello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976540.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61116">
+                <coordinates>73.969543327,15.250103986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61149">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25001,73.9721&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1851</value>
+                </Data>
+                <Data name="name">
+                    <value>Rawal Kalwadem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25001</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9721</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210817163132972.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210817163149639.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>454.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1702</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Marequinha D'Costa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977940.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61148">
+                <coordinates>73.972101872,15.250006249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61181">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2474,73.97259&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1847</value>
+                </Data>
+                <Data name="name">
+                    <value>Kalado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2474</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97259</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103161428247.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103161436355.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>539.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1513</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976190.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61180">
+                <coordinates>73.972591429,15.247399183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61213">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24737,73.94996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1882</value>
+                </Data>
+                <Data name="name">
+                    <value>Holdem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>137</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24737</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94996</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807114235160.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807114246430.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1535.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1175</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Akshata Anand Arolkar alias Akshada Anand Arolkar
+Anand Shridhar Arolkar
+Caetano Menino Fernandes
+Cajetan Fernandes
+Cherly Savio Fernandes
+Clara Concessao
+Delenci Vaz Fernandes
+Denis Concessao
+Dolly Mascarenhas e Carvalho
+Duman Fernandes
+Eulogio Colaco
+Franky Anastasio Carvalho
+Godfrey Crasto
+Joaquim Emanuel Goes
+Julia Fernandes e Frias
+Lavita Joanita Pereira
+Lira Anna Alemao
+Maria Leopoldina Ferrao E Fernandes
+Nascito Colen Fernandes
+Piedade Antao
+Reginaldo Fernandes
+Ronald Ralph Fernandes
+Sabina Monteiro e Colaco
+Sandra Rodrigues e Colaco
+Sivia Godfrey Crasto
+Suraj Vinayak Gad
+Winston Perpetuo Socorro Colaco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976974.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61212">
+                <coordinates>73.949957569,15.247366351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61245">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24637,73.95015&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1883</value>
+                </Data>
+                <Data name="name">
+                    <value>Cottor Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>135</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24637</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95015</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807113921597.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807113930954.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>436.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1176</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976274.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61244">
+                <coordinates>73.950150393,15.246365253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61277">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24632,73.94891&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1885</value>
+                </Data>
+                <Data name="name">
+                    <value>Cottor Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>135</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24632</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94891</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211104085616033.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211104085625936.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>170.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1179</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977324.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61276">
+                <coordinates>73.948908926,15.246320349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61309">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24598,73.9497&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1884</value>
+                </Data>
+                <Data name="name">
+                    <value>Cottor Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>135</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24598</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9497</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807115631426.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807115639809.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>899.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1178</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976624.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61308">
+                <coordinates>73.949701352,15.245982247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61341">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25021,73.9684&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1854</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25021</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9684</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103162752830.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103162800682.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>228.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1699</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975840.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61340">
+                <coordinates>73.968400025,15.250212594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61373">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2467,73.972&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1849</value>
+                </Data>
+                <Data name="name">
+                    <value>Kalado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2467</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.972</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103160016821.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103160025639.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>139.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1511</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975490.2054937583</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61372">
+                <coordinates>73.971997803,15.24670395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61405">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25497,73.95388&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1874</value>
+                </Data>
+                <Data name="name">
+                    <value>Nagmodem Fatyanwado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25497</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95388</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211104082312193.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211104082333637.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>560.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>959</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Olga Gomes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978374.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61404">
+                <coordinates>73.953875549,15.254972829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61437">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25566,73.95323&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1873</value>
+                </Data>
+                <Data name="name">
+                    <value>Fatyanwado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25566</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95323</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807105643017.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807105659037.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>722.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>957</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979424.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61436">
+                <coordinates>73.953231138,15.255656449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61469">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24779,73.94887&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1887</value>
+                </Data>
+                <Data name="name">
+                    <value>Cottor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24779</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94887</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807120625968.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807120647589.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>462.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1174</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978024.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61468">
+                <coordinates>73.948868756,15.247791739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61501">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25942,73.95949&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1862</value>
+                </Data>
+                <Data name="name">
+                    <value>Saipem Tollem; Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>213</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-10</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25942</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95949</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807103728451.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807103736927.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1041596.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2871</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975224.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61500">
+                <coordinates>73.959487921,15.259415501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61533">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24573,73.95014&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3959</value>
+                </Data>
+                <Data name="name">
+                    <value>Holdem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>136</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24573</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95014</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211104033428860.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211104090501253.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>426.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2643</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Belarmina Zulio Coracao Jesus Alem ao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975574.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61532">
+                <coordinates>73.950136839,15.245732978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61565">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26047,73.94966&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1868</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagoloy</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>197</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26047</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94966</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103180139306.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103180147762.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>928.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>961</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aida Romana Fernandes
+Diogo Mariano Jacques Fernandes
+Fernandes
+Filomena Gregorio Caitan de Menino Jesus
+Government of Goa, The Executive Engineer, Works Division XIV WRD, Gogal, Margao, Goa
+Jose Luis Jacques Fernandes
+Maria pia Jacques Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982224.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61564">
+                <coordinates>73.949655965,15.260471529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61597">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26095,73.94944&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3958</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagoloy</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>197</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26095</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94944</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103122947563.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103180025367.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>504.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2642</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-03 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aida Romana Fernandes
+Diogo Mariano Jacques Fernandes
+Fernandes
+Filomena Gregorio Caitan de Menino Jesus
+Government of Goa, The Executive Engineer, Works Division XIV WRD, Gogal, Margao, Goa
+Jose Luis Jacques Fernandes
+Maria pia Jacques Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982574.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61596">
+                <coordinates>73.949438815,15.260952979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61629">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25132,73.96837&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1857</value>
+                </Data>
+                <Data name="name">
+                    <value>Bautica</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>78</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25132</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96837</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103164902948.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103164910980.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>090</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>180.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1703</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Carlos Colaco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>976890.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61628">
+                <coordinates>73.968365502,15.251318223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61661">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24981,73.97145&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1852</value>
+                </Data>
+                <Data name="name">
+                    <value>Rawal Kalwadem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24981</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97145</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210817163413655.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210817163429747.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>427.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1701</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977590.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61660">
+                <coordinates>73.97144921,15.249813417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61693">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25847,73.95414&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1871</value>
+                </Data>
+                <Data name="name">
+                    <value>Salpe</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>187</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25847</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95414</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807104728306.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807104749184.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>446.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>964</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao
+Government of Goa, The Executive Engineer, Works Division XIV, WRD, Gogal, Margao, Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980474.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61692">
+                <coordinates>73.954144831,15.258466642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61725">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26467,73.95551&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1864</value>
+                </Data>
+                <Data name="name">
+                    <value>Arnot</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26467</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95551</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807101703344.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807101713395.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1431.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1167</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981874.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61724">
+                <coordinates>73.955507446,15.264669981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61757">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25645,73.95289&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1872</value>
+                </Data>
+                <Data name="name">
+                    <value>Sonar Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>183</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25645</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95289</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807110009568.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807110017804.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>464.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>958</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Bento Furtado</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980124.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61756">
+                <coordinates>73.952888349,15.256454844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61789">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26149,73.95227&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1866</value>
+                </Data>
+                <Data name="name">
+                    <value>Salpe Bandlu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>190</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26149</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95227</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103174120426.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103174128494.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>419.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>963</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981524.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61788">
+                <coordinates>73.952266964,15.261488058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61821">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26419,73.95238&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1865</value>
+                </Data>
+                <Data name="name">
+                    <value>Kharo Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>202</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26419</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95238</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103173010305.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103173034427.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2818.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1166</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982924.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61820">
+                <coordinates>73.952376734,15.264194207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61853">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24825,73.94806&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3789</value>
+                </Data>
+                <Data name="name">
+                    <value>Gupa Agrawaril Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>145</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24825</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94806</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807064147301.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807064200185.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2505</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-07 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao
+Government of Goa, The Executive Engineer, Works Division XIV, WRD, Gogal, Margao, Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978724.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61852">
+                <coordinates>73.94806443,15.248249128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61885">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25032,73.95307&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3790</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>114</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25032</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95307</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807065454036.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807065502619.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1313.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2507</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-07 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joaquim D'Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>975924.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61884">
+                <coordinates>73.953069999,15.250316826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61917">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24539,73.94793&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3788</value>
+                </Data>
+                <Data name="name">
+                    <value>Agor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24539</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94793</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807062146687.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807062155942.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13688.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2506</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-07 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Arnolfo Santan D'Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977674.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61916">
+                <coordinates>73.94793196,15.245387993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61949">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26403,73.95784&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3787</value>
+                </Data>
+                <Data name="name">
+                    <value>Nagmodem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>208</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26403</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95784</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807045449187.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807045458627.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>555.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2554</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-07 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jamnadas D. Saglani</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980824.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61948">
+                <coordinates>73.95784318,15.264028416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61981">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.259,73.96347&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1858</value>
+                </Data>
+                <Data name="name">
+                    <value>Ratwado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>224</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.259</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96347</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103170820892.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103170654033.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4233.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1711</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978290.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="61980">
+                <coordinates>73.963466227,15.259000559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62013">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24885,73.95407&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1881</value>
+                </Data>
+                <Data name="name">
+                    <value>Sarwali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95407</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807123257864.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807123311987.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>089</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>181.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1182</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>974874.9193808904</value>
+                </Data>
+            </ExtendedData>
+            <Point id="62012">
+                <coordinates>73.954073956,15.248852539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62045">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25349,73.95189&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1876</value>
+                </Data>
+                <Data name="name">
+                    <value>Marad.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>179</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25349</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95189</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210807111559979.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210807111610800.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3634.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>956</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Bernando Colaco
+Maria Sumitra D`Souza
+Milton Fernandes
+Olivia Fernandes
+Stanley Anthony D`Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979074.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="62044">
+                <coordinates>73.951892751,15.253493588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25221,73.96773&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1856</value>
+                </Data>
+                <Data name="name">
+                    <value>Pasarya Bhat Bhutika</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>81</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25221</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96773</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103163646076.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103163654649.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1753.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1705</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Margao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>977240.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="62076">
+                <coordinates>73.967726256,15.252207738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25098,73.94843&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1888</value>
+                </Data>
+                <Data name="name">
+                    <value>Ped</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>154</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Navelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25098</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94843</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211104083428891.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211104083436316.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>33 - Navelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Navelim Salcete</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>091</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Nave/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>176.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1172</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Abdonia Avelina Barreto e Mascarenhas
+Fatima Gonsalves e Mascarenhas
+Government of Goa, The Executive Engineer, Works Division XIV, WRD, Gogal, Margao, Goa
+Lourenco Mascarenhas
+Oliveira Cruz Mascarenhas alias Oliver Mascarenhas
+Sedric Neval Mascarenhas
+Seema Ubaldina Mascarenhas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979774.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="62108">
+                <coordinates>73.948428839,15.250975624,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14915">
+        <Placemark id="14917">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56564,73.90964&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5916</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Vainguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56564</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90964</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230321091000509.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230321091008533.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mayem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Vain/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>527.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5456</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-26 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:22.512407</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021919.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14916">
+                <coordinates>73.9096434,15.565635857,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

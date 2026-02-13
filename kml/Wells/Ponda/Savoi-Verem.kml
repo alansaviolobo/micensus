@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="12614">
+        <Placemark id="12616">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48939,74.01548&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3577</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3577</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>35/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. SHASHIDHAR N VOLVOIKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.NO.288, DEULWADA, VOLVOI, PONDA GOA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48939</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01548</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Savoi-Verem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12615">
+                <coordinates>74.01548,15.48939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12631">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.479355,74.015198&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3923</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3923</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>281/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt Suman Gajanan Khedekar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno. 273 Madhlawada,Savoi verem Ponda Goa 403401</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.479355</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.015198</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Savoi-Verem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12630">
+                <coordinates>74.015198,15.479355,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

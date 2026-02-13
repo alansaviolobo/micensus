@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11368">
+        <Placemark id="11370">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.419631,73.957181&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3825</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3825</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>212/Marcaim</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Amey Venkatesh Kamat</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Ladawada,Marcai</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.419631</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.957181</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11369">
+                <coordinates>73.957181,15.419631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11385">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.432826,73.948821&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3885</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3885</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>250/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Makarand Durgadas Ghaisas</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 2, Near Shree Navdurga Temple,Madkai,Ponda Goa 403401</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.432826</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.948821</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11384">
+                <coordinates>73.948821,15.432826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11400">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.418805,73.928631&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3886</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3886</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>298/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Vishakant Krishnanath Valvaikar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 1057,Adan Tonk, Marcaim,Ponda Goa 403401</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.418805</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.928631</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11399">
+                <coordinates>73.928631,15.418805,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

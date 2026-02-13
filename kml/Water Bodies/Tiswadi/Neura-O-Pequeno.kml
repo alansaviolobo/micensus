@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100240">
+        <Placemark id="100242">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4402,73.90558&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1234</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Patem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4402</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90558</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074415304.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074421185.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>5/3; 6/18,20</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>200.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>798</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:25.810519</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006706.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100241">
+                <coordinates>73.905581299,15.440200234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100275">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43646,73.90337&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1236</value>
+                </Data>
+                <Data name="name">
+                    <value>Bindu Madhav Shiv Temple Tank; Attem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43646</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90337</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505131206971.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505131219376.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/6-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>945.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>801</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:21.909989</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003706.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100274">
+                <coordinates>73.903371546,15.436461707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100308">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43725,73.90366&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1235</value>
+                </Data>
+                <Data name="name">
+                    <value>Altim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43725</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90366</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505131437914.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505131542629.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/2-5; 17/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>203.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>800</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:22.341041</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003956.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100307">
+                <coordinates>73.903664123,15.437249797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100341">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43753,73.90358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6188</value>
+                </Data>
+                <Data name="name">
+                    <value>Sapal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43753</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90358</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505131604413.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505131613049.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5708</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:23.047605</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>AllIndia Mission Seminary of Pilar
+Society</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004456.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100340">
+                <coordinates>73.903582188,15.437528042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100373">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44051,73.90633&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3615</value>
+                </Data>
+                <Data name="name">
+                    <value>Patnomos</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44051</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90633</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074553585.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074559163.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/4,6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>195.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4604</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:26.528068</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sebastiao Paul Xavier</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007206.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100372">
+                <coordinates>73.906334079,15.440512171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100406">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43743,73.90476&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6193</value>
+                </Data>
+                <Data name="name">
+                    <value>Ubatem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>46</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43743</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90476</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074934068.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074941983.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>119.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5710</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:23.352539</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004706.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100405">
+                <coordinates>73.904764184,15.437427232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100438">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43879,73.90631&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6191</value>
+                </Data>
+                <Data name="name">
+                    <value>Murme</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43879</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90631</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074826313.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074832223.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>106.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5714</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:24.275890</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura o Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005456.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100437">
+                <coordinates>73.906312482,15.438792545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100470">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44009,73.90498&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1233</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Patem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44009</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90498</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074342901.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074348004.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>5/2; 6/12-14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>623.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>799</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:25.504593</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-O-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006456.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100469">
+                <coordinates>73.904975731,15.440088261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100503">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43799,73.90682&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6192</value>
+                </Data>
+                <Data name="name">
+                    <value>Ubhatem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>40</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43799</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90682</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074859452.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074904782.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>75.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5711</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:23.660122</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004956.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100502">
+                <coordinates>73.906824973,15.437988478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100535">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4391,73.90644&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6190</value>
+                </Data>
+                <Data name="name">
+                    <value>Murmalita Lass</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4391</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90644</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074752064.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074757352.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5712</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:24.581522</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sebastiao Paul Xavier</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005706.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100534">
+                <coordinates>73.906436829,15.439104675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100567">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43998,73.90562&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5672</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Patem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43998</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90562</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074439700.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074446822.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/18,24</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>47.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4851</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-03 05:45:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:25.214645</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006206.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100566">
+                <coordinates>73.905617484,15.439980273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100600">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43692,73.90457&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6194</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43692</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90457</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074957113.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506075002152.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>78.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5709</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:22.740411</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Eclist Francisco Rozario Correia
+Joao Valento Correia</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004206.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100599">
+                <coordinates>73.904565452,15.436923804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100632">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44028,73.90619&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5668</value>
+                </Data>
+                <Data name="name">
+                    <value>Murmo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44028</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90619</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074523173.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074530368.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/6-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4603</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-02 13:23:11.807804</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:26.118605</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006956.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100631">
+                <coordinates>73.906188442,15.440275984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100665">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44233,73.9047&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3614</value>
+                </Data>
+                <Data name="name">
+                    <value>Sateri Sankalyanath Temple Tank; Vatt</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44233</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9047</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505125204867.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505125225760.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value/>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>469.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4905</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:26.835447</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gopal V.N.Panvelkar
+Narcinha V.N.Panvelkar
+Rekha G.N.Panvelkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007456.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100664">
+                <coordinates>73.904696523,15.442327261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100698">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43884,73.90545&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5607</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Patem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43884</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90545</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506075328523.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506075337475.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>7/12-13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>150.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4602</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-20 11:44:48.590087</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:23.970174</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005206.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100697">
+                <coordinates>73.905446219,15.438841852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100731">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43928,73.90637&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6189</value>
+                </Data>
+                <Data name="name">
+                    <value>Murmaltem Lass</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Neura-O-Pequeno</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43928</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90637</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506074731944.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506074738721.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neura</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Neop/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>80.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5713</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 19:23:24.889619</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Neura-o-Pequeno</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996821.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005956.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100730">
+                <coordinates>73.906366018,15.439283917,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10176">
+        <Placemark id="10178">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.504523,73.996934&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3875</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3875</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>264/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Vinayak Sakharam Shetye</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 103,Shetye house khdapabandh ponda Goa,403401</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.504523</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.996934</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10177">
+                <coordinates>73.996934,15.504523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10193">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.507075,73.992055&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3876</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3876</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>262/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Balchandra Prabhakar Shetye</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 662,Kulkarni wada, Betki, Ponda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.507075</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.992055</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10192">
+                <coordinates>73.992055,15.507075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10208">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.505619,73.990582&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3881</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3881</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>222/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Beena Datta Phadte</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 669,Auximoddi,Curchorem,Cacora Goa 403706</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.505619</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.990582</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Betqui</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10207">
+                <coordinates>73.990582,15.505619,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

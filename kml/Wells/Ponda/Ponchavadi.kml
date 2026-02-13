@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11764">
+        <Placemark id="11766">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.294458,74.072159&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3696</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3696</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>137/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ramilla Costa</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Posreabhat, Panchwadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.294458</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.072159</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11765">
+                <coordinates>74.072159,15.294458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11781">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.304179,74.074762&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3698</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3698</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>210A/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Damodar Shetkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Amlai Panchwadi Shiroda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.304179</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.074762</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponchavadi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11780">
+                <coordinates>74.074762,15.304179,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

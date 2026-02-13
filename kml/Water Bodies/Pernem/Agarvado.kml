@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23271">
+        <Placemark id="23273">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.64511,73.76963&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>595</value>
+                </Data>
+                <Data name="name">
+                    <value>Talyatli Tali; तळा</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>50</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>131</value>
+                </Data>
+                <Data name="village">
+                    <value>Agarvado</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.64511</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76963</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304131736369.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304131809352.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>50/31,80,131</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agarwada,Chopdem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Agar/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1385.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3346</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सरकार</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025478.9861086803</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23272">
+                <coordinates>73.769631674,15.645112824,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

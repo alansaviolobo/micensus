@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9715">
+        <Placemark id="9717">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57157,73.95307&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5298</value>
+                </Data>
+                <Data name="name">
+                    <value>Ghotneshwar Taleshwar Temple Tank; Dhabadhaba</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>76</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57157</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95307</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230203150013453.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230203150049280.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>76/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Bich/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>235.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4111</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 11:20:39.093212</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.477288</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Pandurang Naik
+Atchut Pandurang Naik
+Damodhar Pandurang Naik
+Dev Gotneshwar Samiti
+Ganpat Sonu Mandrekar
+Ramakant Narayan Navelkar
+Upendra Pandurang Naik
+Vishwanath Raglo Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011928.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9716">
+                <coordinates>73.953067957,15.571570897,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

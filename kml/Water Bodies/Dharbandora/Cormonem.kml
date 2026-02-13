@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19845">
+        <Placemark id="19847">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32842,74.16121&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2827</value>
+                </Data>
+                <Data name="name">
+                    <value>Tivinimal Ghogalakadil</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Cormonem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32842</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16121</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220107135725275.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220107135738509.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kirlapal-Dabhal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Corm/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>604.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>157</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-23 04:11:32</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Damodar Vassdev Ghodge</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995412.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19846">
+                <coordinates>74.161213978,15.32841871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19879">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31885,74.1628&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2826</value>
+                </Data>
+                <Data name="name">
+                    <value>Zambli mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Cormonem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1628</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220107140635629.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220107140646223.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kirlapal-Dabhal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Corm/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3570.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>156</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-23 04:11:32</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Goverment of Goa Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992912.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19878">
+                <coordinates>74.162797887,15.318846407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19911">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32841,74.16076&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2828</value>
+                </Data>
+                <Data name="name">
+                    <value>Tivinimal Ghogalakadil</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Cormonem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32841</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16076</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220107135646657.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220107135653749.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kirlapal-Dabhal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Corm/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>217.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>158</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-23 04:11:32</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Damodar Vassdev Ghodge</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995662.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19910">
+                <coordinates>74.160756816,15.328411975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19943">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32738,74.15169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4100</value>
+                </Data>
+                <Data name="name">
+                    <value>Kelichem Cond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cormonem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32738</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220129134838033.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220129134845943.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kirlapal-Dabhal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Corm/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>760.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2785</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-26 04:05:28.071518</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Goverment of Goa Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994912.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19942">
+                <coordinates>74.151691339,15.327384494,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

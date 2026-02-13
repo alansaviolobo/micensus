@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1696">
+        <Placemark id="1698">
+            <ExtendedData>
+                <Data name="id">
+                    <value>357</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Sao-Jacinto-Island</value>
+                </Data>
+                <Data name="lg_code">
+                    <value>626875</value>
+                </Data>
+                <Data name="dslr_code">
+                    <value>00021500</value>
+                </Data>
+            </ExtendedData>
+            <Polygon id="1697">
+                <outerBoundaryIs>
+                    <LinearRing id="1701">
+                        <coordinates>73.862625527,15.403898838,0.0 73.862909458,15.404121261,0.0 73.863967974,15.403966338,0.0 73.864485721,15.403975544,0.0 73.865154526,15.404207088,0.0 73.865103764,15.404767122,0.0 73.865300134,15.405780691,0.0 73.865423325,15.406589747,0.0 73.865386215,15.407296473,0.0 73.865055976,15.407820777,0.0 73.864432595,15.408180439,0.0 73.863873525,15.408286777,0.0 73.863053332,15.408317388,0.0 73.862430306,15.408130315,0.0 73.862105129,15.407912311,0.0 73.861757317,15.407280911,0.0 73.861570063,15.406365134,0.0 73.861552144,15.405747274,0.0 73.861822944,15.405040694,0.0 73.862075332,15.404458562,0.0 73.862359494,15.404329834,0.0 73.862625527,15.403898838,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

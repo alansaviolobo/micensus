@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17023">
+        <Placemark id="17025">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.275495,73.928996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5061</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5061</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1492</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Camilo Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.141, Grande Vanelim, Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.275495</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.928996</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Vanelim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17024">
+                <coordinates>73.928996,15.275495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17040">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28852,73.928076&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5344</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5344</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>N5</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Oscar Aderito D'silva</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 23/a, Canay Benaulim Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28852</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.928076</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Vanelim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17039">
+                <coordinates>73.928076,15.28852,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

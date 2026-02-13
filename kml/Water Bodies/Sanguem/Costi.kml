@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73287">
+        <Placemark id="73289">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26896,74.16862&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4787</value>
+                </Data>
+                <Data name="name">
+                    <value>Turpem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26896</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16862</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220422094551875.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220422094637401.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>499.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3845</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Baskar D.S.Mahatme
+Devanand Shrikant Divkar
+Purushottam D.S.Gude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993804.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73288">
+                <coordinates>74.168622074,15.268956942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73321">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25808,74.1706&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4006</value>
+                </Data>
+                <Data name="name">
+                    <value>Combaxet or Coloem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25808</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1706</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220510024122447.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220510024136622.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4261.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2689</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 12:10:22</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992054.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73320">
+                <coordinates>74.17059548,15.258077358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73353">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26863,74.1676&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4411</value>
+                </Data>
+                <Data name="name">
+                    <value>Cutrca Kond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>50</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26863</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1676</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220510021638579.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220510021647897.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>556.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3498</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 04:14:57.607624</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shiva Putu Gaonkar
+Tukaram Putu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993454.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73352">
+                <coordinates>74.167604002,15.268628118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73385">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25583,74.17241&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4869</value>
+                </Data>
+                <Data name="name">
+                    <value>Eulem Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25583</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17241</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220510024437481.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220510024446417.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>307.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3869</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sociedade Patrioteca des Baldidos de Nov es Conquestas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990654.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73384">
+                <coordinates>74.172408749,15.255831319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73417">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25443,74.17751&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4012</value>
+                </Data>
+                <Data name="name">
+                    <value>Dando</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25443</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17751</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220510024344063.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220510024352256.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6474.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2695</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 12:24:59</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babal Savlo Naik Tary
+Government of Goa,PWD, W.D.XVIII(R), Ponda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991704.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73416">
+                <coordinates>74.17751189,15.254425948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73449">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27001,74.169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4008</value>
+                </Data>
+                <Data name="name">
+                    <value>Turpem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27001</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220422094113334.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220422094046571.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>379.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2691</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 12:19:32</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Purushottam D.S.Gude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994854.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73448">
+                <coordinates>74.16899606,15.270013244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73481">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25479,74.17333&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4013</value>
+                </Data>
+                <Data name="name">
+                    <value>Costi Ran</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25479</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17333</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220510024233866.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220510024242705.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2299.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2696</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 12:28:12</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa,PWD, W.D.XVIII(R), Ponda
+Sociadade Patriotica dos Baldidos de Nov as Conquistas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990304.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73480">
+                <coordinates>74.173329884,15.254791094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73513">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27108,74.16958&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4011</value>
+                </Data>
+                <Data name="name">
+                    <value>Pimpol Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27108</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16958</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220422093734765.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220422093749088.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kalay(Kalem)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Cost/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>674.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2694</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-19 12:22:13</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dr. Damodar Tukaram Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1007077.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995204.293957953</value>
+                </Data>
+            </ExtendedData>
+            <Point id="73512">
+                <coordinates>74.169583976,15.271076403,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

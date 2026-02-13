@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="76812">
+        <Placemark id="76814">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62589,74.13169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3226</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Krishna Guni Gawas; Naria Sorod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>52</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Choraundem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62589</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904110436926.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904110446602.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>52/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Chom/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>69.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1916</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Krishna Guni Gawas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76813">
+                <coordinates>74.131686667,15.62589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76847">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62774,74.12675&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3223</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vishram Narayan Gawas; Ambachi Moli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Choraundem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62774</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12675</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904103912181.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904103921059.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Chom/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1914</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vishram Narayan Gawas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76846">
+                <coordinates>74.126750547,15.627738152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76880">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62589,74.12803&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3225</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Rama Chandra Gawas; Deulakadil Sorod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>54</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Choraundem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62589</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12803</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904104934899.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904104946444.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>54/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Chom/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>115.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1915</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Rama Chandra Gawas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76879">
+                <coordinates>74.128034828,15.625893277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76913">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63169,74.13074&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2999</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Deusu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Choraundem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63169</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13074</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904105555717.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904105604530.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Chom/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>28.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1912</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 11:27:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Div</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024447.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76912">
+                <coordinates>74.130736024,15.631694432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76946">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61774,74.13617&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3222</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Garkancachi Moli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Choraundem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61774</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13617</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904102445474.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904102455803.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Chom/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1917</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Div</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022047.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76945">
+                <coordinates>74.136166831,15.617738958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76979">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62837,74.12614&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3224</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Arjun Narayan Gawas; Volalichi Molli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Choraundem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62837</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12614</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904104334254.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904104343591.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Chom/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1913</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arjun Narayan Gawas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024147.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76978">
+                <coordinates>74.12614429,15.628366347,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

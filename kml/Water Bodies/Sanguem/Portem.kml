@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="75031">
+        <Placemark id="75033">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.12188,74.20531&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4396</value>
+                </Data>
+                <Data name="name">
+                    <value>Edumol Wargati Kulna Sirvadem Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Portem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.12188</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20531</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220420100546065.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220420100616923.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curdi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Port/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>70.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3483</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 04:04:27.424956</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alfred D`Costa
+Anjali Shivaprasad Phadke alias Shivprasad Phadke
+Anthony Costa
+Chandrakant Arjun Gaude
+Deudita Fernandes
+Durga Guno Naik
+Ganesh A. Gaude
+Gomati Shankar Naik
+Govt. of Goa Irrigation Dept. X
+Joquina Gomes
+Jose Bostiao Fernandes
+Kesar Salgaonkar
+Laxman Narayan Gaonkar
+Manelina Milagres D`Costa
+Manku Nilu Gaonkar
+Mariana Dias
+Marlie Sydney Vaz alias Marlie Fernandes
+Mevina Gomes
+Milagre Dias
+Mukesh Chandrakant Borkar
+Piedade Benedicto Gomes
+Sangtu Vithoba Velipo
+Santano Benadito Gomes
+Shankar Babai Naik
+Shivaprasad Phadke alias Shivprasad Phadke
+Sushma Nilesh Painginkar
+The Cultivator
+Vithem Laximan Gaonkar
+Xavier Costa and Sebastiana Costa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034452.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980049.327423708</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75032">
+                <coordinates>74.205310019,15.12188205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75065">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.13532,74.20784&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4399</value>
+                </Data>
+                <Data name="name">
+                    <value>Samplem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Portem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.13532</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20784</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220420103438940.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220420103501069.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curdi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Port/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>87.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3486</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 04:06:33.705308</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.Of Goa Daman &amp; Diu Works Div XI P.W .D.
+Jiju Rama Gaonkar
+Salauli Irrigation Project
+Sebastiana Mascarenhas
+Shambu Jagu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034452.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980399.327423708</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75064">
+                <coordinates>74.207838316,15.135315541,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

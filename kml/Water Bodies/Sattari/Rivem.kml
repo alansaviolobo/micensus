@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82090">
+        <Placemark id="82092">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6238,74.16126&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3232</value>
+                </Data>
+                <Data name="name">
+                    <value>Mocaso</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6238</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16126</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905065040758.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905065056882.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Rive/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>434.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1923</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82091">
+                <coordinates>74.161261052,15.623801797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82125">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61671,74.17228&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2275</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sitabai Hirojirao Dessai; Mocaso</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61671</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17228</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904085537259.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904085622070.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>13/1; 14/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Rive/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3471.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>231</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sitabai Hirojirao Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028047.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82124">
+                <coordinates>74.172278072,15.616705524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82158">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61628,74.16715&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3221</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Bonny Akash Baracho; Kelachi Goton</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61628</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16715</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904081837042.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904081901920.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>22/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Rive/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>416.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1924</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bonny Akash Baracho</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027747.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82157">
+                <coordinates>74.167146146,15.616281451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82191">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62104,74.16864&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3220</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Laximan Satu Zarmekar; Mocaso</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62104</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16864</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904080537632.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904080554366.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Rive/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>370.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1922</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>12000 Sq.m.
+Annie Mentha Salins
+Area 11800 Sq.mts.
+Area 12600 Sq.mts.
+Laximan Satu Zarmekar
+Narayan Dhanu Zormekar
+Prakash Tolio Gaonkar, Area 72800 Sq. Mts.
+Pruthviraj Arunojirao Deshmukh
+Rukmini Krishna Bailudkar, Bhikaji Krishna Bailudkar, Laximi Bhikaji Bailudkar, Ganesh Krishna Bailudkar, Sheela Ganesh Bailudkar, Mahadev Krishna Bailudkar and Mayuri Mahadev Bailudkar
+Satu Dhanu Zormekar
+Satyabhama Pandurang Sadekar
+Suchitra Vinay Desai
+Sumitra Pruthviraj Deshmukh
+Vinay Xiva Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028347.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82190">
+                <coordinates>74.168644835,15.621040667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

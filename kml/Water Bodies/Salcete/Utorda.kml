@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="69075">
+        <Placemark id="69077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31747,73.90647&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2158</value>
+                </Data>
+                <Data name="name">
+                    <value>Usala Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31747</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90647</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809181528131.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809181537913.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>440.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1064</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francisco Baptista
+Josinho Baptista
+Pedro Baptista
+Tamazinho Baptista</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998777.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69076">
+                <coordinates>73.906474155,15.317469886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32766,73.90846&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3680</value>
+                </Data>
+                <Data name="name">
+                    <value>Garvatode</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>100</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32766</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90846</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806095643583.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806095652082.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1063.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2198</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-13 07:48:12.978683</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1000177.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69108">
+                <coordinates>73.908458283,15.327661946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69141">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32227,73.90385&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2153</value>
+                </Data>
+                <Data name="name">
+                    <value>Sarpalata</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>82</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32227</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90385</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806101246602.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806101312513.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>454.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1055</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998427.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69140">
+                <coordinates>73.903852453,15.32226742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69173">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31942,73.90426&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2157</value>
+                </Data>
+                <Data name="name">
+                    <value>Nikla Ghal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31942</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90426</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809180556344.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809180611670.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>578.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1054</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997027.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69172">
+                <coordinates>73.904261265,15.319418022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69205">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32205,73.90237&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2152</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaingon Codil Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>56</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32205</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90237</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806100652150.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806100700862.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5012.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1056</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996677.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69204">
+                <coordinates>73.90236825,15.322053256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69237">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32352,73.90324&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2155</value>
+                </Data>
+                <Data name="name">
+                    <value>Velha Vaingona</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>81</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32352</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90324</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806101814751.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806101825104.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>868.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1059</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998077.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69236">
+                <coordinates>73.903239479,15.323518876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69269">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32282,73.9033&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2154</value>
+                </Data>
+                <Data name="name">
+                    <value>Partata</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>82</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32282</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9033</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806101431341.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806101442069.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>764.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1057</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997377.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69268">
+                <coordinates>73.903298721,15.322820205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69301">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32269,73.91134&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2159</value>
+                </Data>
+                <Data name="name">
+                    <value>Som Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32269</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91134</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803161158367.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803161208153.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>160</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>8234.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1062</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001227.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69300">
+                <coordinates>73.911338742,15.322688894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69333">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32389,73.90294&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2156</value>
+                </Data>
+                <Data name="name">
+                    <value>Velhas Vaigana</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>81</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32389</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90294</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806103230398.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806103240547.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>306.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1058</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997727.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69332">
+                <coordinates>73.9029437,15.323888679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69365">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32999,73.91148&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2160</value>
+                </Data>
+                <Data name="name">
+                    <value>Commanidadiche Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>128</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Utorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32999</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91148</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210806092250565.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210806092301644.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Utor/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2902.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1060</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>6</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Utorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987634.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001927.595217547</value>
+                </Data>
+            </ExtendedData>
+            <Point id="69364">
+                <coordinates>73.911482513,15.32998875,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

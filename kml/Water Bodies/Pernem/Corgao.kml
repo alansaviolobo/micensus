@@ -1,0 +1,2732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24086">
+        <Placemark id="24088">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73084,73.75763&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5682</value>
+                </Data>
+                <Data name="name">
+                    <value>आराडी तळ</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73084</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75763</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304094538233.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304094612932.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>199/40; 205/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>84.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4981</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 07:26:45.402841</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>हसन  हबीब  नाईक</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1037178.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24087">
+                <coordinates>73.757629624,15.730836115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24121">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73043,73.74694&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5218</value>
+                </Data>
+                <Data name="name">
+                    <value>Godge Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 149</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73043</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74694</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307071112459.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307071143794.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>173/0-</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1425.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5546</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-26 02:29:40.863259</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038078.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24120">
+                <coordinates>73.746937426,15.730431917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24154">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69759,73.76371&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6047</value>
+                </Data>
+                <Data name="name">
+                    <value>जोशी भाटले</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>358</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69759</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76371</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325104224104.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325104254723.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>622.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5468</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>SHIVRAM  BABAL  NAIK  :Area:220.00M2
+कुसम  लक्ष्मण  घोडगे
+गणेश  वासू  शेट्ये
+गुणाजी  मुकुंद  शेट्ये
+गोपि  नीळू  शेट्ये
+घन:शाम  सावळो  शेट्ये
+जायले  बापू  आमडोसकर
+नाना  बाबलो  शेट्ये
+परिस  कृष्णा  शेट्ये
+बाळा  भिकाजी  शेट्ये
+महादेव  वासू  शेट्ये
+यशवंत  शंकर  शेट्ये
+रघूराज  वासूदेव  देशप्रभू
+वसंत  लक्ष्मण  शेट्ये
+विष्णू  गणेश  देशप्रभू
+शिवा  गोविंद  शेट्ये
+सखाराम  आत्माराम  शेट्ये
+साजो  वासू  शेट्ये
+हरी  सिताराम  शेट्ये</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032378.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24153">
+                <coordinates>73.763712929,15.697587176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24186">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69963,73.77217&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5152</value>
+                </Data>
+                <Data name="name">
+                    <value>भाईड पिंपळाचे शेत</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>404</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69963</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77217</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325101605922.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325101612099.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>404/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1283.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4036</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 10:33:44.659658</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>AVINA VISHNU SALGAONKAR
+Baburao  Vasant  Kalshavkar:Area:500.00m2
+Pradip Gurudas Talankar alias Salgaonkar
+RAVIKANT  UTTAM  NAIK:Area:500.00Sq.Mtrs.
+Rajashree Gurudas Talankar alias Salgaonkar
+Sagun Gurudas Talankar alias Salgaonakar
+Shankar Gurudas Talankar alias Salgaonkar
+VISHNU ANANT SALGAONKAR AND
+जयवंत  अनंत  लाड
+लॅन्ड  एक्युझ्युशन  इंजिनिअर  वर्क  डीव्हीजन  2(R&amp;B)P.W.D  पणजी  गोवा  5800  चौ  मीटर  पुरती
+विठ्ठल  लक्ष्मण  मुंगेकर  609  चौ  मीटर  फक्त
+सर्वजनी  गंगाराम  मळेवाडकर  600  चौ  मीटरात  कब्जेदार</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031478.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24185">
+                <coordinates>73.772170226,15.699625708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24219">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70789,73.75329&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>608</value>
+                </Data>
+                <Data name="name">
+                    <value>Mhartalli; बर्डे ठीकाण</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>614</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70789</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75329</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307164604403.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307164635213.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>614/1,12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2642.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3431</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>नाला  सरकार</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033278.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24218">
+                <coordinates>73.753285552,15.70788554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24252">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69338,73.77898&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5158</value>
+                </Data>
+                <Data name="name">
+                    <value>घोडगाचो सर्वो</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>325</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69338</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77898</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325102141475.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325102146244.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>325/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>368.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4042</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:00:22.265817</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>रघूराज  वासूदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026678.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24251">
+                <coordinates>73.778977124,15.693382293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24285">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70984,73.74945&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6071</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70984</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74945</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413181832241.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413181905805.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>090</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5520</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kishor Ladoba Kamulkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1035378.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24284">
+                <coordinates>73.74945418,15.709841903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24317">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68984,73.76181&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6109</value>
+                </Data>
+                <Data name="name">
+                    <value>घर भाटले</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>372</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>38</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68984</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76181</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230426122049698.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230426122101286.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>69.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5542</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-26 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>नाना  बापू  मडवळ
+रघुविर  वासुदेव  मडवळ
+सखाराम  हरी  मडवळ</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030278.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24316">
+                <coordinates>73.761810886,15.689844431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24349">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70054,73.76709&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6046</value>
+                </Data>
+                <Data name="name">
+                    <value>शिरभाटले</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>350</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70054</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76709</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325103615119.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325103640325.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>395.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5467</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>कार्मेलीन  शावियर  कॉस्टाडिसोजा
+ग्रेगोरी  मायीन  डिसोजा
+दियोग  फ्रान्सीसको  डिसोजा
+पांडूरंग  गणेश  थळी
+फाऊस्त  अन्डोल  फॉस्टॉडिओ  डिसोजा
+वासूदेव  बाळकृष्ण  थळी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032978.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24348">
+                <coordinates>73.767089511,15.700538924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24381">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70878,73.75203&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>612</value>
+                </Data>
+                <Data name="name">
+                    <value>Kamleshwar Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70878</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75203</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307163846038.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307163921875.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/2,10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1530.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3430</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>श्री  कमलेश्र्वर  देवस्थान</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1035078.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24380">
+                <coordinates>73.752032229,15.708777078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24414">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73278,73.76&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5924</value>
+                </Data>
+                <Data name="name">
+                    <value>हलीनळ</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>203</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73278</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304092859091.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304092917936.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>324.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5402</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सिताराम  घनश्याम  शेणईदेसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1039278.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24413">
+                <coordinates>73.759997518,15.732783113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24446">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70815,73.75033&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5935</value>
+                </Data>
+                <Data name="name">
+                    <value>धारगळ गुरव</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>621</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70815</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75033</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304102931398.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304102952750.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5410</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>आत्माराम  उर्फ  अनंत  लक्ष्मण  प्रभूदेसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1034778.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24445">
+                <coordinates>73.750332969,15.708149328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24478">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71938,73.73372&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>613</value>
+                </Data>
+                <Data name="name">
+                    <value>कुणगो माल</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71938</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.73372</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307073743152.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307074229612.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>63/6-20,22; 64/1-11-22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1606.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4975</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>रघूराज  वासूदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1036278.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24477">
+                <coordinates>73.733716925,15.719380789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24511">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73096,73.75664&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5680</value>
+                </Data>
+                <Data name="name">
+                    <value>आराडी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>198</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73096</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75664</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304100503919.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304100419589.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>198/3; 199/26</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>147.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4977</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 07:25:45.405140</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>हसन  हबीब  नाईक</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1037478.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24510">
+                <coordinates>73.756644606,15.730955847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24544">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68777,73.76312&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5781</value>
+                </Data>
+                <Data name="name">
+                    <value>Kawala Temple Tank; बोंडाळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>498</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68777</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76312</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304120800531.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304120826454.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>687.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5415</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>यशवंत  सदाशिव  निगलिये
+रामकृष्ण  सदाशिव  पित्रे
+रामचंद्र  कृष्णा  पित्रे
+विष्णू  केशव  पित्रे</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029678.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24543">
+                <coordinates>73.76312007,15.68777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24576">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73124,73.75645&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5681</value>
+                </Data>
+                <Data name="name">
+                    <value>आराडी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>198</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73124</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75645</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304100709242.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304100725424.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>198/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>459.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4978</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 07:26:45.402841</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>जैबुन्नीसाबी  हासन  बेग
+न्जमुंनासाबी  युसुफ  बेग
+फातीमाबी  महंमद  खान
+मोमिनाबी  आलीखान
+हवाबी  इब्राहीम  शेख</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1037778.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24575">
+                <coordinates>73.756453859,15.731239263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24609">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73028,73.74138&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5157</value>
+                </Data>
+                <Data name="name">
+                    <value>लहान भाट पावणी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>162</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73028</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74138</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307065629311.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307065702762.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>162/27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>218.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4041</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:00:22.265817</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>रघुराज  वासुदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038378.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24608">
+                <coordinates>73.741383279,15.730281486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24642">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73293,73.75935&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5686</value>
+                </Data>
+                <Data name="name">
+                    <value>हलीनळ</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>203</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73293</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75935</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304035157637.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304035041751.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>203/1,9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>87.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4984</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 07:30:45.395626</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सिताराम  घनश्याम  शेणईदेसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1039578.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24641">
+                <coordinates>73.759351351,15.73292994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24675">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71913,73.74765&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6072</value>
+                </Data>
+                <Data name="name">
+                    <value>कटु बाण</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>104</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71913</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74765</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413184550686.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413184607975.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5538</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>प्रभाकर  नारायण  थळी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1035978.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24674">
+                <coordinates>73.747645962,15.719133203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24707">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70737,73.75015&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5933</value>
+                </Data>
+                <Data name="name">
+                    <value>नारायण मळी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>620</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7,8</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70737</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75015</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304102335509.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304102345678.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>091</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5412</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>रघूराज  वासूदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033878.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24706">
+                <coordinates>73.750145921,15.707368157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24739">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70768,73.75041&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5934</value>
+                </Data>
+                <Data name="name">
+                    <value>नारायण मळी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>620</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70768</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75041</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304102555031.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304102601883.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>089</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5411</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>रघूराज  वासूदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1034178.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24738">
+                <coordinates>73.750406952,15.707684661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73056,73.757&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5679</value>
+                </Data>
+                <Data name="name">
+                    <value>आराडी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>198</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73056</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.757</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304095300559.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304095313135.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>198/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>258.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4976</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 07:25:45.405140</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Abdul  Kadar  Usman  Naik
+Ahmed  Usman  Naik
+Anusuya  Sakharam  Harmalkar
+Shailaji  Abdul  Shakur  Naik
+Yasin  Usman  Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1036878.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24770">
+                <coordinates>73.757004888,15.73055688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24804">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.73268,73.75884&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5687</value>
+                </Data>
+                <Data name="name">
+                    <value>हलीनल</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>203</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.73268</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75884</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304093335175.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304093353993.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>202/28; 203/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>347.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4985</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 07:30:45.395626</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सिताराम  घनश्याम  शेणईदेसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038978.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24803">
+                <coordinates>73.758838191,15.732680086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24837">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68156,73.75683&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2850</value>
+                </Data>
+                <Data name="name">
+                    <value>गावडे कुणगा</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>471</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>40</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68156</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75683</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304121320049.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304121329030.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>75/1-9,37; 471/17,19,21,23,25,27,29,31,33,35,37,40</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3482.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5072</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-24 20:18:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>डबका  सरकारी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028778.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24836">
+                <coordinates>73.75683109,15.681561882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24870">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.72976,73.75727&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2852</value>
+                </Data>
+                <Data name="name">
+                    <value>Near Konadi Devasthan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>206</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.72976</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75727</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304095035187.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304095043805.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>206/2-5,16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1938.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3432</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-24 20:18:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>गोवा  दीव  दमण  सरकार</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1036578.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24869">
+                <coordinates>73.757273957,15.729755865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24903">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69905,73.77073&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5151</value>
+                </Data>
+                <Data name="name">
+                    <value>व्हाळ भाईड</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>402</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24-25</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69905</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77073</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325101700413.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325101705903.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>402/24-25</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>291.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4035</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 10:31:37.596456</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>जयवंत  अनंत  लाड</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031778.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24902">
+                <coordinates>73.770734287,15.699052727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24936">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.7317,73.75855&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5926</value>
+                </Data>
+                <Data name="name">
+                    <value>बांध वहाळ</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>204</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>31</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.7317</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75855</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304094109569.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304094118539.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>204.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5539</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>रघुराज  वासुदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038678.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24935">
+                <coordinates>73.75855,15.731703333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24968">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69699,73.7631&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6048</value>
+                </Data>
+                <Data name="name">
+                    <value>जोशी भाटले</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>358</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-C</value>
+                </Data>
+                <Data name="village">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69699</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7631</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325104704549.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325104724517.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Corg/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>388.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5541</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Rosario Reginaldo Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964316.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032078.98610868</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24967">
+                <coordinates>73.763098283,15.696987612,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

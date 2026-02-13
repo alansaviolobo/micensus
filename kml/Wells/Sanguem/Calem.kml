@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17517">
+        <Placemark id="17519">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.291357,74.165857&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3932</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3932</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>950</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ganesh Laximan Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 736, Dukarcond, Kalay, Sanguem, Goa. 403704</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.291357</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.165857</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Calem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17518">
+                <coordinates>74.165857,15.291357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17534">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.291981,74.162342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3933</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3933</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>951</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ganesh Laximan Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 736, Dukarcond, Kalay, Sanguem, Goa. 403704</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.291981</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.162342</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Calem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17533">
+                <coordinates>74.162342,15.291981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17549">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29488,74.168598&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3991</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3991</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>70/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHIVDAS SADA SAWANT DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 227, Devnamol, Bhatwada, Kalay, Sanguem, Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29488</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.168598</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Calem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17548">
+                <coordinates>74.168598,15.29488,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

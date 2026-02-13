@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9119">
+        <Placemark id="9121">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.64253,73.89104&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4940</value>
+                </Data>
+                <Data name="name">
+                    <value>Ravalnath Ravalghadi Vetal Panchayatan Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Adwalpale</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.64253</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89104</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211132538290.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211132611359.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>39/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Advalpal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Adwa/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>833.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5093</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 15:11:23.070277</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.446028</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Dev Vetal Rawal Ghadi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029428.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9120">
+                <coordinates>73.891043849,15.642529176,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

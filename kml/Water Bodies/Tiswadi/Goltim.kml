@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="91542">
+        <Placemark id="91544">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52067,73.90011&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4845</value>
+                </Data>
+                <Data name="name">
+                    <value>Molaya de NS de Mont</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>145</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52067</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90011</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075619343.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075624641.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>145/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>145</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4370</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:28:59.750605</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria da Igreja de Piedade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91543">
+                <coordinates>73.900105014,15.520670018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91577">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53098,73.90233&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3498</value>
+                </Data>
+                <Data name="name">
+                    <value>Piqueno Santarbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53098</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90233</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230502102301756.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230502102311611.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>14/25</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Domestic</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4425</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Audut Sadashiv Narvekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018201.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91576">
+                <coordinates>73.902333121,15.530983403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91610">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51984,73.9004&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5567</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51984</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9004</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075433256.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075438740.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>83.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4376</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:17:10.350351</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016848.8527748628</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91609">
+                <coordinates>73.90040436,15.519836291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52159,73.90347&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4795</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52159</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90347</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080536810.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080543455.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/8-10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>091</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4382</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:17:49.375882</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91642">
+                <coordinates>73.903473434,15.521594503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91676">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52129,73.90355&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4796</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52129</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90355</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080505750.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080511904.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/11-12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>84.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4383</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:17:49.375882</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91675">
+                <coordinates>73.903550954,15.521289829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91709">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51975,73.89983&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5564</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51975</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89983</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075248545.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075254593.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/6-8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>57.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4375</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:17:10.350351</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017117.0886723174</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91708">
+                <coordinates>73.899832583,15.519749593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91742">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52019,73.90047&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5568</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52019</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90047</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075511744.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075517444.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/11-13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4378</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:17:10.350351</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91741">
+                <coordinates>73.900466568,15.520188392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91775">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52016,73.90092&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5569</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>131</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52016</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90092</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080024821.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080030549.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>131/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>91.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4379</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:19:10.772531</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91774">
+                <coordinates>73.900917145,15.520162135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91808">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51996,73.89977&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5563</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51996</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89977</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075215792.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075223711.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>106</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>57.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4374</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:17:10.350351</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91807">
+                <coordinates>73.899770874,15.519964162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91841">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5209,73.90057&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4846</value>
+                </Data>
+                <Data name="name">
+                    <value>Moloya</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>145</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5209</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90057</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075656446.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075702950.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>145/4-5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4371</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:28:59.750605</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Camila D'Sa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91840">
+                <coordinates>73.900570753,15.52089895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91874">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52242,73.90315&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6157</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52242</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90315</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080825058.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080838254.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>144</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5569</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91873">
+                <coordinates>73.90315092,15.522424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91906">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5204,73.90048&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6151</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13,14</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5204</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90048</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075544951.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075551169.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>089</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5639</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91905">
+                <coordinates>73.900477567,15.520403142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91938">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52111,73.90342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5560</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52111</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90342</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080416745.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080423287.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>090</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4384</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:15:10.911289</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91937">
+                <coordinates>73.903415318,15.52110658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91971">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53439,73.90163&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6145</value>
+                </Data>
+                <Data name="name">
+                    <value>Dolyar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53439</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90163</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230502103408353.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230502103421986.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5564</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="91970">
+                <coordinates>73.901630001,15.534387355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92003">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52083,73.90171&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6153</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>131</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52083</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90171</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080058151.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080104152.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5572</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vishwanath Mukund Gaude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92002">
+                <coordinates>73.901713845,15.52083286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92035">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52146,73.90296&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4797</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52146</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90296</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080312411.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080317932.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/11,22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4381</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:17:49.375882</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Ramdas P. Bhomkar
+2) Premanand P. Bhomkar
+3) Krishna P. Bhomkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92034">
+                <coordinates>73.902957281,15.52145669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92068">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52663,73.90551&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1205</value>
+                </Data>
+                <Data name="name">
+                    <value>Naquem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52663</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90551</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504083036692.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504083102442.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>40/2; 41/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>156.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>384</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017701.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92067">
+                <coordinates>73.905506113,15.526631708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92101">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52091,73.90201&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5559</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>131</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52091</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90201</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080126729.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080131305.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>131/10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>143.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4380</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:15:10.911289</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92100">
+                <coordinates>73.902009642,15.520906712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92134">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5323,73.9019&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3503</value>
+                </Data>
+                <Data name="name">
+                    <value>Santaibhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5323</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9019</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230502103610189.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230502103623251.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>143</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4427</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Baptisto Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018451.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92133">
+                <coordinates>73.901902957,15.532298171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92167">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51976,73.89999&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5565</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51976</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89999</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075323024.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075330317.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/8-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>119.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4373</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:17:10.350351</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92166">
+                <coordinates>73.899987065,15.519759784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92200">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52232,73.90376&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5561</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52232</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90376</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080642944.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080648860.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>80.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4386</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:16:11.400299</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020658.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92199">
+                <coordinates>73.90376033,15.522319557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92233">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52068,73.90092&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4847</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>131</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52068</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90092</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075800375.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075806288.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>131/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>78.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4372</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:28:59.750605</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92232">
+                <coordinates>73.900920454,15.520675926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92266">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52099,73.90311&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6156</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52099</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90311</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080347309.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080352582.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>60.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5633</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92265">
+                <coordinates>73.903110525,15.5209916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92298">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52004,73.90013&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5566</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52004</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90013</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075355629.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075403432.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>119/10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>101.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4377</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:17:10.350351</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92297">
+                <coordinates>73.900129505,15.520042083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92331">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5211,73.90258&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6154</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5211</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90258</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080233250.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080244672.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>93.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5570</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018908.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92330">
+                <coordinates>73.902577406,15.521103571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92363">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52272,73.90372&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5562</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52272</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90372</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080757889.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080805245.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4387</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-16 02:16:11.400299</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Alarico Cabral</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92362">
+                <coordinates>73.903718199,15.522717153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92396">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51988,73.89961&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6150</value>
+                </Data>
+                <Data name="name">
+                    <value>Okondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51988</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89961</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075145180.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075150164.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>105</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5574</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92395">
+                <coordinates>73.899609803,15.519881881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92428">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52103,73.9008&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6152</value>
+                </Data>
+                <Data name="name">
+                    <value>Moloya</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>145</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52103</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9008</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504075729120.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504075734934.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>50.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5573</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anthony de Sa alias Anthony D`Sa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92427">
+                <coordinates>73.900798539,15.521026914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92460">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52091,73.90256&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6155</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52091</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90256</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080203207.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080209429.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>83.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5571</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018408.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92459">
+                <coordinates>73.902560334,15.520911016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92492">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53053,73.90218&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3497</value>
+                </Data>
+                <Data name="name">
+                    <value>Piquen</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53053</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90218</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230502102327034.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230502102337537.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>13/7-8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>142</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4426</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1] Dr. Luis Cabral
+2] Rita Gomes Cabral</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976175.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017951.96498521</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92491">
+                <coordinates>73.902178135,15.530531918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92525">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52185,73.90343&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4794</value>
+                </Data>
+                <Data name="name">
+                    <value>Soklo Ack</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Goltim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52185</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90343</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504080613864.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504080619609.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>133/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Goltim-Navelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Golt/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>149.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4385</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-03 05:17:49.375882</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Goltim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996823.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020158.11944159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92524">
+                <coordinates>73.903429399,15.521845627,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

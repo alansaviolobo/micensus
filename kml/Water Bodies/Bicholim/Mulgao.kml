@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="12245">
+        <Placemark id="12247">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61527,73.92443&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5724</value>
+                </Data>
+                <Data name="name">
+                    <value>Tel Bhatlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>51</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61527</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92443</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311110650764.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311110702956.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/1-B,1-C; 2/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>553.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5183</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-21 10:26:09.340733</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.666427</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganapat Jagannath Kudalker</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030669.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12246">
+                <coordinates>73.924427826,15.615274918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12280">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61599,73.9115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5838</value>
+                </Data>
+                <Data name="name">
+                    <value>Kolam</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>East of 124</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61599</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9115</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311104359269.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218110532247.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76380.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5338</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-11-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:21.616143</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028219.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12279">
+                <coordinates>73.911502391,15.615993358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12312">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6187,73.91357&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5858</value>
+                </Data>
+                <Data name="name">
+                    <value>Saterichi Bag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>156</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6187</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91357</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211171103211.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211171112755.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>235.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5348</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.693786</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa  The Executive Engineer Work Division VII ( NH) PWD Panaji Goa
+Shivram Mahadev Shirodker</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028569.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12311">
+                <coordinates>73.913573934,15.618697753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12344">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60872,73.92531&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>51</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>South of 46</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60872</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92531</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208113551155.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208113606825.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>46/4; 47/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1168.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5177</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.637025</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023669.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12343">
+                <coordinates>73.925312405,15.608719969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12377">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61656,73.92246&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5784</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhondache Bhatle</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61656</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92246</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311105019894.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311105036909.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>181.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5368</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-26 05:54:16.509828</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.721945</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balkrishna Goma Prabhu Mahambre
+Bhasker Goma Prabhu Mahambre
+Government of Goa The Executive Engineer Work Division VII ( NH) PWD Panaji Goa
+Jaganath Goma Prabhu Mahambre</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029969.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12376">
+                <coordinates>73.922458152,15.616557179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12409">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60851,73.91827&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>48</value>
+                </Data>
+                <Data name="name">
+                    <value>Gaonkarwada; Hallen Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>71</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60851</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91827</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318094934673.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318094939967.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>69/1; 70/1; 71/0,2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>N/A</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7385.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>570</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.607577</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidad Mulgao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024719.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12408">
+                <coordinates>73.918273192,15.608507866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12442">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61024,73.92109&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4936</value>
+                </Data>
+                <Data name="name">
+                    <value>Kelbai Temple Tank; Golyacho Kungo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>61</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61024</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92109</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208114223828.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208114145035.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>61/1-2; 81/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>432.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5176</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 15:01:23.177311</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.215383</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Devi Kelbai Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027169.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12441">
+                <coordinates>73.921087013,15.610236494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12475">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61265,73.92647&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5889</value>
+                </Data>
+                <Data name="name">
+                    <value>Ravalnath and Shantadurga Temple Tank; Pomburpevada</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61265</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92647</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218103137875.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218103111835.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>347.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5376</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.242716</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Dev Ravalnath Shantadurga</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029269.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12474">
+                <coordinates>73.9264688,15.612648784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12507">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61444,73.92475&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5273</value>
+                </Data>
+                <Data name="name">
+                    <value>Vetal Maharudra Temple Tank; Tale Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>53</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61444</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92475</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208120233165.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208120313856.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/48,53</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Cover</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>972.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4086</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 09:07:47.714495</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.187581</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029619.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12506">
+                <coordinates>73.92475097,15.614444138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12540">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61587,73.92365&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5782</value>
+                </Data>
+                <Data name="name">
+                    <value>Rashtroli Temple Tank; Virnodkar Bhatle</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>142</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>59</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61587</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92365</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218101041606.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218101107941.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>201.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5285</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.270079</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030319.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12539">
+                <coordinates>73.923651809,15.61587488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12572">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61093,73.9194&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>49</value>
+                </Data>
+                <Data name="name">
+                    <value>Hagre Tali; Dagadhancha Talecho Bandh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61093</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9194</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208114831899.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230321132358336.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>78/1; 88/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7874.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5175</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.577668</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Raghu Ladoo Gad</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027519.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12571">
+                <coordinates>73.91939615,15.610930355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12605">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61583,73.93407&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>43</value>
+                </Data>
+                <Data name="name">
+                    <value>Mohale Tali; Modle Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>257</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61583</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93407</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218114933926.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218115006943.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>255/1-2; 256/0; 257/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2479.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5181</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:21.725575</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Fatu Shenvi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031719.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12604">
+                <coordinates>73.934068894,15.615829165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12638">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61876,73.91386&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5857</value>
+                </Data>
+                <Data name="name">
+                    <value>Saterichi Bag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>156</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61876</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91386</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230211170904211.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230211170916980.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>84.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5347</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.750318</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa  The Executive Engineer Work Division VII ( NH) PWD Panaji Goa
+Shivram Mahadev Shirodker</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028919.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12637">
+                <coordinates>73.913856597,15.618761246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12670">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61431,73.92575&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5725</value>
+                </Data>
+                <Data name="name">
+                    <value>Tale Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>52</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61431</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92575</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311110747397.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311110751684.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/35-36,52</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mulgao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Mulg/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>70.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5184</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-21 10:27:09.278846</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:21.764657</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031019.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12669">
+                <coordinates>73.925752728,15.614313726,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

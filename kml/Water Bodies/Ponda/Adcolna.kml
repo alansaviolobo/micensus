@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28702">
+        <Placemark id="28704">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48993,73.97643&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4263</value>
+                </Data>
+                <Data name="name">
+                    <value>Jina</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48993</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97643</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315152109236.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315152118294.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>277.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3053</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-29 10:02:33.487983</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>V S Dempo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009810.6202640943</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28703">
+                <coordinates>73.976433904,15.489933087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28736">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49135,73.96085&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>160</value>
+                </Data>
+                <Data name="name">
+                    <value>Kolamba</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49135</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96085</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228152523342.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228152341573.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2836</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Navdurga Devi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991693.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012048.6756089538</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28735">
+                <coordinates>73.960848248,15.491352713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28768">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48974,73.9773&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>162</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>East of 45</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48974</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9773</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220315152608907.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220315152640146.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>514.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3052</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1004498.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010043.6716881074</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28767">
+                <coordinates>73.977301369,15.489737815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28800">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49172,73.96497&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4431</value>
+                </Data>
+                <Data name="name">
+                    <value>Supulli ankh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49172</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96497</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228164038602.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228164049425.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>326.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3517</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-18 23:57:42.416326</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991693.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011609.090255159</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28799">
+                <coordinates>73.964972602,15.49171572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28832">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49218,73.96533&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4432</value>
+                </Data>
+                <Data name="name">
+                    <value>Muddi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49218</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96533</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228163812621.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228163825250.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>138.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3518</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-18 23:57:42.416326</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shambhavi Shripad Rau Valaulicar
+Shripad Visvonata Rau Valaulicar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991693.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011826.7563900263</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28831">
+                <coordinates>73.965327359,15.492182054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28864">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49278,73.96557&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4433</value>
+                </Data>
+                <Data name="name">
+                    <value>Muddi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49278</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96557</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228163537268.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228163528124.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>171.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3519</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-18 23:57:42.416326</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shambhavi Shripad Rau Valaulicar
+Shripad Visvonata Rau Valaulicar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991693.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012295.0099796718</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28863">
+                <coordinates>73.9655719,15.492779492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28896">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49378,73.9615&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4430</value>
+                </Data>
+                <Data name="name">
+                    <value>Pempliche Ank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>47</value>
+                </Data>
+                <Data name="village">
+                    <value>Adcolna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49378</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9615</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228162214700.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228162223047.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bhoma-Adcolna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Adco/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>196.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3516</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-18 23:52:50.627535</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991693.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012515.0259336522</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28895">
+                <coordinates>73.961496503,15.493775216,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

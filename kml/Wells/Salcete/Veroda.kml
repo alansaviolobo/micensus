@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17271">
+        <Placemark id="17273">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.195138,74.014799&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5375</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5375</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>379/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Francis Furtado &amp; Smt.Sonali Furtado</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.194A, Veroda, Cuncolim, Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.195138</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.014799</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Veroda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17272">
+                <coordinates>74.014799,15.195138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17288">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.196714,74.00899&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5689</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5689</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>789/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Mark James Moraes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 173, Veroda, Cuncolim, Salcete-goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.196714</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00899</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Veroda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17287">
+                <coordinates>74.00899,15.196714,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

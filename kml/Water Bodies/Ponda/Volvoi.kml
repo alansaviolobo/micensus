@@ -1,0 +1,2639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="41468">
+        <Placemark id="41470">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49496,74.00718&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>373</value>
+                </Data>
+                <Data name="name">
+                    <value>Amble Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49496</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00718</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318113358192.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318113415540.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>120.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3109</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chandracant Bablo Gaudo
+Julia Vales e Dias
+Sitaram Saunlo Gaudo
+Tucaram Saunlo Gaudo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41469">
+                <coordinates>74.007183746,15.494955968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41502">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49492,74.00699&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>372</value>
+                </Data>
+                <Data name="name">
+                    <value>Bedshi Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49492</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00699</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318113108249.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318113119987.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3194</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhav Narayan Patel</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41501">
+                <coordinates>74.006988259,15.494922448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41534">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49091,74.0089&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>390</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadeo Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49091</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0089</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318102722787.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318102803149.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>143</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3199</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shripad Dattatraya Vaidhya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41533">
+                <coordinates>74.008895,15.490908333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41566">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49491,74.00732&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>374</value>
+                </Data>
+                <Data name="name">
+                    <value>Amble Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49491</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00732</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318112819367.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318112832647.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>102.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3110</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balkrishna Raghunath Sinai Singbal
+Chandracant Gangaram Sinai Singbal
+Gurudas Rauji Sinai Singbal
+Kashinath Laxman Sinai Singbal
+Manguesh Raghunath Sinai Singbal
+Pracash Rauji Sinai Singbal
+Rama Shambu Sinai Singbal
+Ramesh Yeshwant Sinai Singbal
+Sadanand Shivram Sinai Singbal
+Shamba Chandroba Sinai Singbal
+Shripad Laxman Sinai Singbal
+Vassant Raghunath Sinai Singbal
+Voicunt Laxman Sinai Singbal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41565">
+                <coordinates>74.007322243,15.494911709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41598">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49297,74.00851&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>382</value>
+                </Data>
+                <Data name="name">
+                    <value>Phondche Ordh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>31</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49297</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00851</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318111134357.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318111151558.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>43.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3113</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chandracant Bablo Gaudo
+Julia Vales e Dias
+Madhav Keshav Khedekar
+Mahadeo Narayan Patel
+Sitaram Sanvlo Gaudo
+Tucaram Sanvlo Gaudo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41597">
+                <coordinates>74.008513264,15.492965626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41630">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4939,74.00721&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>379</value>
+                </Data>
+                <Data name="name">
+                    <value>Shironem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4939</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00721</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318110036984.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318110059480.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3155</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Vithal Patel
+Babu Gopal Patel
+Narayan Ram Bhat Matarbag
+Shripad Hari Patel
+Vassudeo Ramchandra Patel
+Vishnu Narayan Patel</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41629">
+                <coordinates>74.007210739,15.493903932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41662">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49026,74.00908&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4614</value>
+                </Data>
+                <Data name="name">
+                    <value>Cudeo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>27</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49026</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00908</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318050329998.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318050339098.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3732</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Shankar Singbal
+Shankar Dattaram Singbal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41661">
+                <coordinates>74.009075,15.49026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41694">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49468,74.00748&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>375</value>
+                </Data>
+                <Data name="name">
+                    <value>Amble Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49468</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00748</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318112622713.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318112659000.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>75.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3111</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balkrishna Raghunath Sinai Singbal
+Chandracant Gangaram Sinai Singbal
+Gurudas Rauji Sinai Singbal
+Kashinath Laxman Sinai Singbal
+Manguesh Raghunath Sinai Singbal
+Pracash Rauji Sinai Singbal
+Rama Shambu Sinai Singbal
+Ramesh Yeshwant Sinai Singbal
+Sadanand Shivram Sinai Singbal
+Shamba Chandroba Sinai Singbal
+Shripad Laxman Sinai Singbal
+Vassant Raghunath Sinai Singbal
+Voicunt Laxman Sinai Singbal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41693">
+                <coordinates>74.007479549,15.494680068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41726">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49412,74.00711&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4616</value>
+                </Data>
+                <Data name="name">
+                    <value>Shironem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49412</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00711</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318053200843.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318110254682.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>142</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>115.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3731</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Vithal Patel
+Shripad Hari Patel
+Vishnu Narayan Patel</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41725">
+                <coordinates>74.007112773,15.494123605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41758">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49139,74.00871&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4615</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat Panditalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49139</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00871</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318051422428.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318104443135.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>166.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3733</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>(Mahadeo Narayan Patil)
+Narayan Madhav Patil</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41757">
+                <coordinates>74.008711667,15.491385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41790">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4938,74.01237&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4612</value>
+                </Data>
+                <Data name="name">
+                    <value>Tari Society Waddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4938</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01237</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318044126772.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318044143735.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3728</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Tari Society</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41789">
+                <coordinates>74.01237,15.493798333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41822">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49215,74.0079&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>384</value>
+                </Data>
+                <Data name="name">
+                    <value>Sacote</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0079</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318111523456.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318111551772.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3114</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhav Keshav Khedecar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41821">
+                <coordinates>74.007897136,15.492145542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41854">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49473,74.00837&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4619</value>
+                </Data>
+                <Data name="name">
+                    <value>Hudo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49473</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00837</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318055351551.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318055411563.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>24.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3726</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Volvoi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41853">
+                <coordinates>74.008365,15.494731667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41886">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49371,74.00806&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4617</value>
+                </Data>
+                <Data name="name">
+                    <value>Shironem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49371</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00806</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318053643910.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318053720098.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>136.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3725</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Rama Bhat Mhatarbag</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41885">
+                <coordinates>74.008057634,15.493705106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41918">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49449,74.00622&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>377</value>
+                </Data>
+                <Data name="name">
+                    <value>Pauto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>23</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49449</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00622</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318113731332.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318113804766.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>138.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3152</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shanto Savlo Madwal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41917">
+                <coordinates>74.00621627,15.494494159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41950">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49035,74.01072&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>367</value>
+                </Data>
+                <Data name="name">
+                    <value>Adoth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49035</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01072</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318094419692.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318094442793.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>845.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2844</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dayanand Molu Fadte</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41949">
+                <coordinates>74.010724729,15.490350524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41982">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49503,74.0068&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>370</value>
+                </Data>
+                <Data name="name">
+                    <value>Bedshi Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49503</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0068</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318113256565.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318113306244.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>268.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3108</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Krishna Manguesh Sinai Singbal
+Prabhat Manguesh Sinai Singbal
+Pramod Manguesh Sinai Singbal
+Shankar Dattaram Sinai Singbal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41981">
+                <coordinates>74.00680177,15.495032417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42014">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49594,74.00551&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>368</value>
+                </Data>
+                <Data name="name">
+                    <value>Paina</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>38</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>61</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49594</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00551</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318115604213.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318115638214.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>246.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3158</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babuso Bhicaji Naik
+Chandracant Jana Naik
+Dattu Bhicaji Naik
+Dharmu Surya Naik
+Gopi Tano Naik
+Harichandra Nanu Naik
+Khapru Tatu Naik
+Mono Tatu Naik
+Mosso Tano Naik
+Narayan Gono Naik
+Nillu Vithu Naik
+Raghu Pandurang  Naik
+Raghunath Pongdu Naik
+Ramchandra Ladu Naik
+Ramnath Bhagwant Naik
+Shanu Pandu Naik
+Shivram Shankar Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42013">
+                <coordinates>74.00550678,15.495943549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42046">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49141,74.00766&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>389</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat Panditalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49141</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00766</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318104904733.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318105003227.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>163.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3157</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>(Mahadeo Narayan Patil)
+Narayan Madhav Patil</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42045">
+                <coordinates>74.007659106,15.491405466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42078">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49409,74.01222&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>386</value>
+                </Data>
+                <Data name="name">
+                    <value>Vavati Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>51</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49409</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01222</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318100931185.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318100953866.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>249.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3115</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babi Purushottam Kamat
+Balchandra Nagesh Kamat
+Chandracant Naguesh Kamat
+Hirabai Mangesh Sinai Singbal
+Jaiwant Naguesh Kamat
+Mohanlal Damodar Kamat
+Narshinv Damodar Kamat
+Pandurang Datta Kamat
+Premnath Purushttam Kamat
+Purshottam Dugo Tari 1/2
+Raghuvir Mahadeo Tari
+Ramdas Saji Kamat
+Sadanand Naguesh Kamat
+Shankar Dattaram Singbal
+Shantaram Purshottam Kamat
+Shashicant Purshottam Kamat
+Shrikrishna Kashinath Kamat
+Subraya Saji Kamat
+Voicunt Datta Kamat
+Yeshwant Naguesh Kamat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42077">
+                <coordinates>74.012217827,15.494092493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42110">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49257,74.01169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>385</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 51</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49257</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318095544277.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318095553427.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>514.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2843</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42109">
+                <coordinates>74.011690696,15.49256645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42142">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49268,74.00781&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>383</value>
+                </Data>
+                <Data name="name">
+                    <value>Phondche Ordh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>39</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49268</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00781</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318111343251.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318111405292.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>54.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3156</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Hiru Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009841.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42141">
+                <coordinates>74.007806311,15.4926753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42174">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4897,74.01127&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4611</value>
+                </Data>
+                <Data name="name">
+                    <value>Chichak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4897</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01127</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318041855636.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318041904041.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>136.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3723</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balkrishna Raghunath Sinai Singbal 2/30
+Chandrakant Gangaram Sinai Singbal 3/30
+Gurudas Rauji Sinai Singbal 1/30
+Kashinath Laxman Sinai Singbal 2/30
+Manguesh Raghunath Sinai Singbal 2/30
+Prakash Rauji Sinai Singbal 1/30
+Rama Shambu Sinai Singbal 2/30
+Ramesh Yeshwant Sinai Singbal 4/30
+Sadanand Shivram Sinai Singbal 4/30
+Shaba Chandroba Sinai Singbal 3/30
+Shripad Laxman Sinai Singbal 2/30
+Vassant Raghunath Sinai Singbal 2/30
+Voikunt Laxman Sinai Singbal 2/30</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42173">
+                <coordinates>74.011273982,15.489698276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42206">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49289,74.00895&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>381</value>
+                </Data>
+                <Data name="name">
+                    <value>Phondche Ordh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>34</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49289</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00895</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318110955327.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318111021946.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>111.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3112</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Datta Ganashayam Tari
+Krishnanath Sadashiv Tari
+Narayan Ganashayam Tari
+Nilcanth Ramgo Sheth
+Raghuvir Surya Shet</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42205">
+                <coordinates>74.00894698,15.492894589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42238">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49391,74.00939&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4618</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>South of 54</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49391</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00939</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318054959549.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318112030998.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6324.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3724</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011091.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42237">
+                <coordinates>74.009385539,15.493913829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42270">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49514,74.01305&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4613</value>
+                </Data>
+                <Data name="name">
+                    <value>Devul Pat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49514</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01305</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318044727642.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318101738994.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>144</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>48.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3727</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhav Keshav Bhat Khedekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013591.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42269">
+                <coordinates>74.013046347,15.495141827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42302">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49565,74.00594&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>369</value>
+                </Data>
+                <Data name="name">
+                    <value>Golme Path</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49565</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00594</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220318115250242.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220318115302334.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Volvoi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Volv/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3106</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013310.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014341.328909109</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42301">
+                <coordinates>74.005942335,15.495646211,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

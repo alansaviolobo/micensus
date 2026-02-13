@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="85070">
+        <Placemark id="85072">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54534,73.91017&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5450</value>
+                </Data>
+                <Data name="name">
+                    <value>Vanxim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Capao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54534</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91017</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504094528049.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504094540798.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Matias</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Capa/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>324.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4265</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:13:08.101466</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Assis Furtado
+Joanita Furtado
+Martha John DMello
+Moly Pereira (345 sq.mts.)
+St.Monica of Old Goa
+Thereza Furtado
+Thomas John Silveira.
+Verediana Fiona Silveira
+Vita Pereira alias Vita Vitorina Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85071">
+                <coordinates>73.910171105,15.545339176,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

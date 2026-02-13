@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="954">
+        <Placemark id="956">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66941,73.88177&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1234</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1234</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3214/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Naik Devidas Raghunath &amp; Parsekar Shantadurga Pundalik,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Mestawada, Pirna, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66941</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88177</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="955">
+                <coordinates>73.88177,15.66941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66543,73.88503&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1236</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1236</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>65/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Naik Subhash Parshuram,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Malag, Pirna, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66543</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88503</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="970">
+                <coordinates>73.88503,15.66543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="986">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.677713,73.881173&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1256</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1256</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>79/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Rama Vasant Ambre</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.34 Thorli Chandai, pirna bardez</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.677713</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.881173</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="985">
+                <coordinates>73.881173,15.677713,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

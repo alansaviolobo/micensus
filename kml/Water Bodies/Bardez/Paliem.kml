@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5989">
+        <Placemark id="5991">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57513,73.82811&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5642</value>
+                </Data>
+                <Data name="name">
+                    <value>Barazan Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Paliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57513</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82811</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419092154386.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419092201189.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/9-11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ucassaim,Paliem-Punola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pali/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>326.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4747</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 15:59:05.392583</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Paliem</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5990">
+                <coordinates>73.828106516,15.575133216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6024">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5734,73.82923&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2853</value>
+                </Data>
+                <Data name="name">
+                    <value>Barpato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Paliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5734</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82923</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419092219616.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419092223902.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/2-3,7,21; 16/27-28</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ucassaim,Paliem-Punola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pali/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1503.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4746</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-25 14:44:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Paliem</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6023">
+                <coordinates>73.829225395,15.573397649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6057">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57485,73.82827&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5643</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhagacho Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Paliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57485</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82827</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419092129107.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419092140826.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/12-13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ucassaim,Paliem-Punola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pali/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>88.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4748</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 15:59:05.392583</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Romano Noronha
+Luisa Maria Noronha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6056">
+                <coordinates>73.828270008,15.574852325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6090">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57431,73.82516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2854</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Paliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57431</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419095337479.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419095347763.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/5-6,9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ucassaim,Paliem-Punola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pali/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>668.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4749</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-25 14:44:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Paliem</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6089">
+                <coordinates>73.825156062,15.574311499,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

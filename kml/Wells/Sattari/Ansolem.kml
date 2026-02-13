@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19573">
+        <Placemark id="19575">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50604,74.12225&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2861</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2861</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>270/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Akbar Shah</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Nanus, Valpoi, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50604</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12225</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ansolem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19574">
+                <coordinates>74.12225,15.50604,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

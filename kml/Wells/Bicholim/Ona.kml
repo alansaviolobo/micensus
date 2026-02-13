@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4704">
+        <Placemark id="4706">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61294,73.95116&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2263</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2263</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2285/Bicholim</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Chanekar Pradeep Vasant</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.23, Bhaili Peth, Bicholim-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61294</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95116</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Ona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4705">
+                <coordinates>73.95116,15.61294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4721">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6119,73.95209&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2264</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2264</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3081/Bicholim</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Haldankar Namdev Shankar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 38, Ona Bicholim Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6119</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95209</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Ona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4720">
+                <coordinates>73.95209,15.6119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4736">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.614952,73.953004&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2403</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2403</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>BIC/163/2022</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Pramod Ramkrishna Bhide</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno. 34. Ona Maulinguem, Bicholim Goa 403504,</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.614952</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.953004</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Ona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4735">
+                <coordinates>73.953004,15.614952,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

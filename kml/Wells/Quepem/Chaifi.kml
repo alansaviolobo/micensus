@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13752">
+        <Placemark id="13754">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.228954,74.06356&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4397</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4397</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1258</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Dug well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>JOVINO FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.NO. 477, PAINGALY, AMONA, QUEPEM</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.228954</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06356</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaifi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13753">
+                <coordinates>74.06356,15.228954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13769">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.230817,74.062211&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4398</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4398</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1256</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Dug well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MARIANO FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 473, CHAIFFI, AMONA, QUEPEM</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.230817</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.062211</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaifi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13768">
+                <coordinates>74.062211,15.230817,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

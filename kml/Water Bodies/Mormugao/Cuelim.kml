@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22527">
+        <Placemark id="22529">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35363,73.89961&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2487</value>
+                </Data>
+                <Data name="name">
+                    <value>Chimulim Patolim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35363</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89961</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215061205329.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215061225728.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3527.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1740</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cuelim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997276.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22528">
+                <coordinates>73.899614175,15.353633534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22561">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35181,73.90152&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2480</value>
+                </Data>
+                <Data name="name">
+                    <value>Codsar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>42</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35181</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90152</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215_115744.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215_115747.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7234.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>285</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cuelim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997126.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22560">
+                <coordinates>73.901524634,15.351812862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22593">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35486,73.90146&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2481</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Fund</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35486</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90146</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215055751644.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215055756214.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>9491.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>286</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cuelim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997426.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22592">
+                <coordinates>73.901457548,15.354863687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22625">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35173,73.90047&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2488</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>East of 16</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35173</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90047</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215_120343.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215_120346.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4134.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>388</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996826.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22624">
+                <coordinates>73.900469965,15.351728947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22657">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35141,73.90519&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2479</value>
+                </Data>
+                <Data name="name">
+                    <value>Chun Pattoli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35141</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90519</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200206092620131.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200206092625621.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>9323.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>284</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cuelim
+Government of Goa, P.W.D. W. D. VI</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996976.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22656">
+                <coordinates>73.905185624,15.351410345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22689">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3661,73.89945&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5768</value>
+                </Data>
+                <Data name="name">
+                    <value>Adollem; Babjelem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>59</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3661</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89945</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230113111704519.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230113111727364.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>360.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5299</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-17 14:07:14.662696</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Xavier Agnelo Minguel Jose Gracias
+Francisco Maximiano Menino Costa e Gracias
+Government of Goa, P.W.D. W. D. VI
+Filomena Carina Lopes Gracias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998026.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22688">
+                <coordinates>73.89945,15.366103333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22721">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.36021,73.89125&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3012</value>
+                </Data>
+                <Data name="name">
+                    <value>Velsao Lake / Pale Lake / Tolea Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>East of 43</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.36021</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89125</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200528034708416.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200528034722659.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>214927.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1744</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-26 06:29:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>983983.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997024.088041291</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22720">
+                <coordinates>73.891251919,15.360207317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22753">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.35622,73.90122&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2482</value>
+                </Data>
+                <Data name="name">
+                    <value>Jingilem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Cuelim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.35622</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90122</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200215060330210.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200215060336838.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cansaulim-Arossim-Cuelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Cuel/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3991.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>287</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cuelim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>993907.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997576.466940524</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22752">
+                <coordinates>73.901224343,15.356224579,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16786">
+        <Placemark id="16788">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.221617,73.999271&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5371</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5371</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>N 493/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Ventakesh Narayan Kurade</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 519-G, Comba-Central, Panjorconi, Cuncolim, Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.221617</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.999271</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16787">
+                <coordinates>73.999271,15.221617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16803">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.210493,73.99587&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5472</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5472</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>442/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Milagres Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 400, Sarzora, Vitolem, Salcete-goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.210493</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99587</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16802">
+                <coordinates>73.99587,15.210493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16818">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.233098,74.001242&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5644</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5644</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>609/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Dug well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Vijay Victor Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 53, Novem Bhat, Sarzora, Salcete-Goa. 403715</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.233098</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.001242</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16817">
+                <coordinates>74.001242,15.233098,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

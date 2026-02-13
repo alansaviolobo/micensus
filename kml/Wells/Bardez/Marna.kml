@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="730">
+        <Placemark id="732">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61581,73.79742&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>366</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>366</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>149/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Holy Cross Corso Farm Welfare society,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Holy Cross Corso Farm, Marna, siolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61581</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79742</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Marna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="731">
+                <coordinates>73.79742,15.61581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.613861,73.788287&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>484</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>484</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2102/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Kamat Dalal Rahul Balkrishna</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 1 Ward no. 9 Ansa bhat , Mapusa , Bardez</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.613861</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.788287</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Marna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="746">
+                <coordinates>73.788287,15.613861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="762">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.615038,73.80106&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>707</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>707</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3450/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri.Yves Pascoal Thomas Braganza</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 259,Soares Vaddo, Marna, Siolim, Bardez 403517.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.615038</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80106</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Marna</value>
+                </Data>
+            </ExtendedData>
+            <Point id="761">
+                <coordinates>73.80106,15.615038,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

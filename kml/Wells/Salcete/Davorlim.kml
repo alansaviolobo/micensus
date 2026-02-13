@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15815">
+        <Placemark id="15817">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.265482,73.987142&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5730</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5730</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>295/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Barbina Gomes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>NULL</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.265482</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.987142</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Davorlim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15816">
+                <coordinates>73.987142,15.265482,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

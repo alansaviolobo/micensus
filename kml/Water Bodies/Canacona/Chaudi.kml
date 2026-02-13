@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15471">
+        <Placemark id="15473">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.0109,74.03879&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>576</value>
+                </Data>
+                <Data name="name">
+                    <value>Maida Tale; Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>164</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.0109</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03879</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523082300781.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523082405791.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>992.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>486</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jiva Ram Naik Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15472">
+                <coordinates>74.038793949,15.010902821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15505">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.00519,74.03903&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>574</value>
+                </Data>
+                <Data name="name">
+                    <value>Bachirk; Beluk</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.00519</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03903</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523085505464.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523085510927.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7062.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2149</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Konkan Railway Corporation Ltd.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>961910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15504">
+                <coordinates>74.039027963,15.005186355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15537">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.01275,74.03834&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>577</value>
+                </Data>
+                <Data name="name">
+                    <value>Sale Marad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>138</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.01275</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03834</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523083756735.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523083803518.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1026.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>487</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Balkrishna Sinai Nagarsekar
+Balchandra Shamba Sinai Nagarsekar
+Govind Venkatesh Sinai Nagarsekar
+Konkan Railway Corporation Ltd.
+Shivanand Krishna Kenkaro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15536">
+                <coordinates>74.038344413,15.012745083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15569">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.00844,74.0365&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>575</value>
+                </Data>
+                <Data name="name">
+                    <value>Depketali; Tale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>116</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.00844</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0365</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523073151607.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523073157195.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>622.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>313</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babi Shivram Dessai
+Babuso L. Bhagat
+Ballappa Narayan Bhagat
+Balsu Shamba Bhagat
+Bhajru K. Bhagat
+Dattu Bhikaro Bhagat
+Kamal Laxman Bhagat
+Kushali Kust Bhagat
+Laxman Gopal Dessai
+Narayan Bhajru Bhagat
+Prabhakar Jiu Naik Gaonkar
+Shivram Ganba Naik Gaonkar
+Shrikant Govind Bhagat
+Sunil D. Bhagat
+Ulhas Kalu Dessai
+Uttam Dessai
+Vasant Gaonkar
+Vinayak Sanulo Bhagat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15568">
+                <coordinates>74.036496303,15.008440867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.01374,74.03814&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5043</value>
+                </Data>
+                <Data name="name">
+                    <value>Konio,Varimio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>150</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2,3</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.01374</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03814</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523083610198.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523083620128.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>223.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3938</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Konkan Railway Corporation Ltd.
+Putu Bhiku Devidas
+Suresh Vasant Rajadexya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15600">
+                <coordinates>74.038144228,15.013735858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15633">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.00662,74.04005&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3038</value>
+                </Data>
+                <Data name="name">
+                    <value>Petomi; Bachirk</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.00662</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04005</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523085349083.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523085420896.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>94.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2140</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 09:46:40</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Konkan Railway Corporation Ltd.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15632">
+                <coordinates>74.040052562,15.006616654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15665">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.00766,74.04209&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4977</value>
+                </Data>
+                <Data name="name">
+                    <value>Thorlem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.00766</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04209</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523084538660.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523084543939.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>196.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3879</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-17 04:47:38</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kushali Pundalik Telekar
+Ramabai Shankar Shenoy</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15664">
+                <coordinates>74.042092644,15.007660772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15697">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.00765,74.04393&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>572</value>
+                </Data>
+                <Data name="name">
+                    <value>Kupat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Chaudi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.00765</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04393</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523084503460.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523084518645.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Chau/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>931.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>310</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:07:46.074167</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mallikarjun Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15696">
+                <coordinates>74.043927347,15.00765277,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

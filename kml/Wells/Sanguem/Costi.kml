@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17598">
+        <Placemark id="17600">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.271172,74.17092&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4114</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4114</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1769</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHANTABAI PUNDALIK NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 23, Costi, Kalay, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.271172</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17092</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17599">
+                <coordinates>74.17092,15.271172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17615">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.270753,74.170433&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4116</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4116</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1107</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>VAMAN SAULO NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 244, Costi, Kalay, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.270753</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.170433</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17614">
+                <coordinates>74.170433,15.270753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17630">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26914,74.16956&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4119</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4119</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>66/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>HILARINHO BOSCO VINCENT COTA</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 20/B, Chawlward, Betalbhatim, Salcete, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26914</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16956</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17629">
+                <coordinates>74.16956,15.26914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17645">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.269204,74.169624&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4121</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4121</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>65/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>HILARINHO BOSCO VINCENT COTA</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 20/B, Chawlward, Betalbhatim, Salcete, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.269204</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.169624</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Costi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17644">
+                <coordinates>74.169624,15.269204,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

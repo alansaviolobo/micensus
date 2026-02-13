@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15011">
+        <Placemark id="15013">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16214,73.985382&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5613</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5613</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>554/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Lidia Fernandes E Pinto &amp; Shri. Edwin Anthony Pinto</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.1006, Bamado, Chinchinim, Salcete-goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16214</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.985382</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15012">
+                <coordinates>73.985382,15.16214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15028">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.171044,73.966291&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5670</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5670</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1486</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Dug well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Joao Rasario D'Silva</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.179, Patnem, Ambelim, Salcete, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.171044</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.966291</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambelim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15027">
+                <coordinates>73.966291,15.171044,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

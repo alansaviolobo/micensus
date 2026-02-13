@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11351">
+        <Placemark id="11353">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46426,74.08797&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3544</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3544</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1338/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. GOKULDAS JAGANNATH GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>USGAO PONDA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46426</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08797</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Gangem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11352">
+                <coordinates>74.08797,15.46426,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

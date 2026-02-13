@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77418">
+        <Placemark id="77420">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53437,74.16115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3182</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Mahadev Vithal Kanekar; Cudcem Tisk</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Cudcem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53437</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16115</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200828090542654.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200828090555692.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>7/11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sattari)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Cudc/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>173.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2004</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-28 15:49:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Mahadev Vithal Kanekar.
+2) Shankar Vithal Kanekar.
+3) Shrikant Vithal kanekar.
+4) Devidas Vithal Kanekar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77419">
+                <coordinates>74.161150465,15.534368812,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

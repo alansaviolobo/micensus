@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82424">
+        <Placemark id="82426">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49633,74.13386&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3153</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sayad A. Khan; Gosavicho Waddo Moddi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sanvorcem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49633</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13386</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200825045808077.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200825045818341.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>37/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Birondem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sanv/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>255.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1925</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Sayad A. Khan
+2)Yussuf Khan
+3)Umar Abid Khan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82425">
+                <coordinates>74.133857664,15.496330797,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

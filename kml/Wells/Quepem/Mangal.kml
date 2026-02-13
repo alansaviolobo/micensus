@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14175">
+        <Placemark id="14177">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.075674,74.192214&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4488</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4488</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>13/Quepem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. ROHIDAS UTTAM DESAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:11, Mangal, Pirla, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.075674</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.192214</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Mangal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14176">
+                <coordinates>74.192214,15.075674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14192">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.069707,74.178837&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4532</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4532</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1200</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>VITHAL GANESH GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:42, Mangal, Caurem Pirla, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.069707</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.178837</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Mangal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14191">
+                <coordinates>74.178837,15.069707,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

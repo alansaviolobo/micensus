@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28038">
+        <Placemark id="28040">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71959,73.70898&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>678</value>
+                </Data>
+                <Data name="name">
+                    <value>Satyanarayan Saibaba Temple Tank / Namus Puranik Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Querim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71959</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.70898</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307142815144.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307142920725.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/8-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Querim-Tiracol</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Quer/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3655.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3398</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>अनंत
+गंगाधर
+गोविंद
+जयवंत
+प्रभाकर
+मुकुंद
+शंकर  लक्ष्मण  लाड
+सदाशिव</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964317.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038981.66665445</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28039">
+                <coordinates>73.708979826,15.719594563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28073">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71883,73.70516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5083</value>
+                </Data>
+                <Data name="name">
+                    <value>माईन</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17-28</value>
+                </Data>
+                <Data name="village">
+                    <value>Querim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71883</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.70516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230307144742204.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230307144836885.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>7/17-28</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Querim-Tiracol</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Quer/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>223.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3969</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-04 09:20:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>राजेंद्र  वासुदेव  देशप्रभू
+विश्र्‌वनाथ  मंगेश  करेकर
+विश्र्‌वनाथ  मंगेश  केरकर</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964317.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038681.66665445</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28072">
+                <coordinates>73.705159648,15.718827813,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25205">
+        <Placemark id="25207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48692,74.10228&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2698</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2698</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>261/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>V.G. Nawathe</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Sukad Vantem, Bhirondem, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48692</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10228</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25206">
+                <coordinates>74.10228,15.48692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25222">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49238,74.09993&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3147</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3147</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2611/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Rane Manirao Shamrao</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 388/1, Vantem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49238</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09993</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25221">
+                <coordinates>74.09993,15.49238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25237">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48847,74.08608&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3149</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3149</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3145/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Joshi Pramod Ramchandra</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 210, Vante Warcha wada Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48847</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08608</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25236">
+                <coordinates>74.08608,15.48847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25252">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48998,74.10066&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3207</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3207</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>107/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shamrao G. Rane</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 388/1, Vante, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48998</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10066</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Vantem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25251">
+                <coordinates>74.10066,15.48998,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

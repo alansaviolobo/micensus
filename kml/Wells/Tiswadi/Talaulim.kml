@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26102">
+        <Placemark id="26104">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.469821,73.887832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>566</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>566</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1515/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt Sequeira Maria Generosa</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.123, Santan, Talaulim, Tiswadi Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.469821</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.887832</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Talaulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="26103">
+                <coordinates>73.887832,15.469821,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

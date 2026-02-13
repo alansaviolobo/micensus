@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="38570">
+        <Placemark id="38572">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.38181,73.99679&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>349</value>
+                </Data>
+                <Data name="name">
+                    <value>Davli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.38181</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99679</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302093901483.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302093914156.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>14866.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3212</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Madav Ramcrisna Davlikar
+2) Satba jivaji Shenvi Cundaikar
+3) Baskar Narayan Umarye
+4) Venktesh Ganesh Kamat
+5) Narayan Ramchandra Bakhale
+Shivanand Saraswati Swami</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38571">
+                <coordinates>73.996790685,15.381809022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38604">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37772,74.00275&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4550</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhavli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37772</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00275</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302043558270.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302043606273.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>158</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3680</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Esso Saguna Naik Vaunshaj Trust
+Vinayak Padmanab Shinkre</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38603">
+                <coordinates>74.00275,15.37772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38636">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39101,73.99294&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>347</value>
+                </Data>
+                <Data name="name">
+                    <value>Kapileshwar Temple Tank; Bhandam</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39101</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99294</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302092850978.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302092932828.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2587.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3216</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kapileshwary temple</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38635">
+                <coordinates>73.992944957,15.391013809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38668">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3961,73.98594&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>348</value>
+                </Data>
+                <Data name="name">
+                    <value>Shantadurga Temple Tank; Shanta Durga Devasthan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3961</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98594</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302091334997.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302091355967.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3968.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3220</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shantadurga Dev</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38667">
+                <coordinates>73.985942334,15.396099538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38700">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39316,73.99089&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>353</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahurag Madhav Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>75</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39316</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99089</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302092251117.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302092305964.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>528.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3219</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Baba Shenvi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38699">
+                <coordinates>73.990891778,15.393161089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38732">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37755,74.00243&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4694</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhavli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37755</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00243</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405105822131.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405105831450.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3753</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Sanjay Krishna Bandodkar
+2) Krishna Sagun Bandodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38731">
+                <coordinates>74.002428614,15.377551667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38764">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.38266,73.99718&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>350</value>
+                </Data>
+                <Data name="name">
+                    <value>Davli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.38266</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99718</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302093710590.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302093723294.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>310.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3213</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Madhusudan Ganesh Behere
+2) Annapurna Madusudhan Behere</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38763">
+                <coordinates>73.997179535,15.38266235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38796">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37819,73.99796&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4548</value>
+                </Data>
+                <Data name="name">
+                    <value>Chandracho Dando</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Queula</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37819</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99796</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302041953763.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302042005778.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quela</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>159</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Queu/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3682</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2) Indirabai Venktesh Davalkar
+Gajanan Gopal Davlikar
+Narayan Sadashiv Davlikar
+Virendra Dattatraya Davlikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="38795">
+                <coordinates>73.997958333,15.378191667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

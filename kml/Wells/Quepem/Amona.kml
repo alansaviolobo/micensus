@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13391">
+        <Placemark id="13393">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.22818,74.066131&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4402</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4402</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>619</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>KUSHAVATI YESSU NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 31, AMONA, QUEPEM</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.22818</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.066131</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Amona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13392">
+                <coordinates>74.066131,15.22818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13408">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.223666,74.073286&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4413</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4413</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>864</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>PEDRINHA DIAS</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 54, Amona, Quepem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.223666</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.073286</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Amona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13407">
+                <coordinates>74.073286,15.223666,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

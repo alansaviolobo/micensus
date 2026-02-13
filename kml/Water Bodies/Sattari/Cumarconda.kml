@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77453">
+        <Placemark id="77455">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5304,74.09425&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2384</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumarconda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5304</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09425</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824113422514.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824113432732.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>26/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Cuma/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>469.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>206</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Dept.
+Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016647.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77454">
+                <coordinates>74.09425215,15.530404106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77488">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52318,74.08571&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3152</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Hirba Tatoba Rane Sardessai; Ubrachem Advon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>61</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumarconda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52318</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08571</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824105317031.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824105326476.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>61/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Cuma/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1902</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-24 14:51:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Hirba Tatoba Rane Sardessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016047.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77487">
+                <coordinates>74.085708359,15.523176436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77521">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53045,74.10304&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2386</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumarconda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53045</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10304</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824120424034.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824120454180.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Cuma/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>445.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>208</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Dept.,
+Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016347.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77520">
+                <coordinates>74.103041946,15.530450625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77554">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53111,74.09353&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2385</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumarconda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53111</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09353</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824112204249.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824112231634.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>26/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Cuma/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>440.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>207</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Forest Dept.
+Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77553">
+                <coordinates>74.093526259,15.531111384,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

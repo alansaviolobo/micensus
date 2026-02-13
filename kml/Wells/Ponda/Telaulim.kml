@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="12948">
+        <Placemark id="12950">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.38408,73.979171&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3795</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3795</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>156/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Dinesh Gaad Amonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>524, Bhatwada Talaulim, Ponda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.38408</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.979171</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Telaulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="12949">
+                <coordinates>73.979171,15.38408,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

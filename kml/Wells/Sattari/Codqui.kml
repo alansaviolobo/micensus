@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20403">
+        <Placemark id="20405">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50499,74.13916&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2575</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2575</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>140/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vishvasrao Rane</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Near Laximi Metal, Khadki ,Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50499</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13916</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codqui</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20404">
+                <coordinates>74.13916,15.50499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20420">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50951,74.13921&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2815</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2815</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>108/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gurudas Joshi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Bagayat Khadki, Khotodem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50951</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13921</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codqui</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20419">
+                <coordinates>74.13921,15.50951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20435">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50967,74.14199&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2816</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2816</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3236/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Joshi Pradeep Gopal</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 135, Khadki Valpoi, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50967</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14199</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codqui</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20434">
+                <coordinates>74.14199,15.50967,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

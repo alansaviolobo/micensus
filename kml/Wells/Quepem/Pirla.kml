@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14637">
+        <Placemark id="14639">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.101971,74.129453&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4491</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4491</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>9/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>PREMAVATI MANGUESH FALDESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 140, Dessaiwada, Pirla, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.101971</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.129453</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14638">
+                <coordinates>74.129453,15.101971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14654">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.110515,74.131086&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4494</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4494</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>44/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mr. UMESH BALKRISHNA FALDESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 30/1, Dessaiwada, Pirla, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.110515</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.131086</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14653">
+                <coordinates>74.131086,15.110515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14669">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.108225,74.135838&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4495</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4495</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1327/Quepem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>AJAY SOIRO FAL DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:211, Pirla, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.108225</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.135838</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14668">
+                <coordinates>74.135838,15.108225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14684">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.107591,74.136967&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4496</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4496</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>77/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. DEEPAK NARAYAN FAL DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:136, Pirla, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.107591</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.136967</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Pirla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14683">
+                <coordinates>74.136967,15.107591,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4724">
+        <Placemark id="4726">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52211,73.80076&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2884</value>
+                </Data>
+                <Data name="name">
+                    <value>Bama Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Marra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52211</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80076</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419071431216.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419071442720.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/16-17; 7/12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Marr/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>184.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4713</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 07:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Pilerne</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4725">
+                <coordinates>73.800760806,15.522112054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4759">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5285,73.79148&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5485</value>
+                </Data>
+                <Data name="name">
+                    <value>Luis Antonio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>84</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Marra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5285</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79148</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418121204126.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418121209599.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>84/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Marr/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1071.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4301</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:04:20.917651</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manohar Vassant Vaglo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4758">
+                <coordinates>73.7914836,15.5285027,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

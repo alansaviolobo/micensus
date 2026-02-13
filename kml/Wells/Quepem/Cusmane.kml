@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14000">
+        <Placemark id="14002">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.219543,74.062127&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4559</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4559</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1612</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mr. Sanjay Atchut Poy Raiturcar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.15/3541, above Nagesh Garden ,, Jivottam, Monte hill,, Margao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.219543</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.062127</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cusmane</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14001">
+                <coordinates>74.062127,15.219543,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

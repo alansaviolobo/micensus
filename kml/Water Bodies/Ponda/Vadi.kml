@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="41046">
+        <Placemark id="41048">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37527,73.99375&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4530</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Vadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37527</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99375</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302110407759.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302110420579.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Talaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Vadi/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>635.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3617</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-26 03:17:24.583939</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990039.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002509.191212</value>
+                </Data>
+            </ExtendedData>
+            <Point id="41047">
+                <coordinates>73.99375162,15.375271182,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

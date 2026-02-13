@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7971">
+        <Placemark id="7973">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54745,73.80091&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1108</value>
+                </Data>
+                <Data name="name">
+                    <value>Baros Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54745</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80091</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418113718738.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418113725242.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>27/3-B; 28/14-15</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sang/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2100.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4805</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7972">
+                <coordinates>73.800913061,15.547447076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8006">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5514,73.80367&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1107</value>
+                </Data>
+                <Data name="name">
+                    <value>Toyrem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5514</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80367</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131171824118.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131160459948.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/4-5,10; 16/1; 17/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sang/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2011.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4806</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade-sangolda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8005">
+                <coordinates>73.803673675,15.551396556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8039">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5537,73.80508&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1110</value>
+                </Data>
+                <Data name="name">
+                    <value>St. Antonichem Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5537</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80508</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221012083036925.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221012083046101.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/19,22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sang/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2448.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4807</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Tank</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8038">
+                <coordinates>73.805083744,15.553700285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8072">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54665,73.80605&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5491</value>
+                </Data>
+                <Data name="name">
+                    <value>Ganesh Kund; Shantadurga-shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>33</value>
+                </Data>
+                <Data name="village">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54665</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80605</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221012081907078.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221012081932738.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/33</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sangolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Sang/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>255.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4307</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:08:20.907949</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade-sangolda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8071">
+                <coordinates>73.806046491,15.546651749,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

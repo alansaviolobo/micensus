@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14143">
+        <Placemark id="14145">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.112721,74.100194&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4497</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4497</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>57/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>KUSHALI SHANU FAL DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 32, Kamona, Maina Village, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.112721</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.100194</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Maina</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14144">
+                <coordinates>74.100194,15.112721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14160">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.12824,74.085358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4499</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4499</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1205/Quepem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>RAYA VINAYAK PADIYAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 91/A, Zallerwada, Maina, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.12824</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.085358</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Maina</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14159">
+                <coordinates>74.085358,15.12824,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

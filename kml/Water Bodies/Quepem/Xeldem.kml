@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43988">
+        <Placemark id="43990">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2293,74.09308&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4386</value>
+                </Data>
+                <Data name="name">
+                    <value>Xeldevade</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>121</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Xeldem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2293</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09308</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220414091932605.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220414092021925.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>121/1(Part); 122/1-C,1(Part)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Xeldem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Xeld/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>339.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3473</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 03:50:29</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:19.749290</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Jose Francisco Furtado
+2) Bernard Furtado
+3) Maria Furtado
+4) Rai Furtado
+5) Shail Furtado
+Adolf Fernandes
+Bapu Gopal Naik
+Brijlal Ramnihor Singh
+Manjunath Krishna Bhat
+Mrs.Aura Cardozo
+Pedro D`Souza
+Sunita Sidonio Mendes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983211.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43989">
+                <coordinates>74.093080344,15.229298601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44023">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2446,74.09043&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>484</value>
+                </Data>
+                <Data name="name">
+                    <value>Xeldem Lake; Water Covored</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>50</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Xeldem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2446</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09043</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106132256640.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211014092321027.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>30/32; 49/15,17,20-24,27-28,30,32-34,37-38,54,57,59-64; 50/0; 51/0; 52/4; 53/6-13; 54/10-24,26-31; 62/1,4-7; 63/21-22,24-26,28,31,33; 452/48</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Xeldem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Xeld/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>134566.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2342</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:20.364516</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Keshav Ganesh Gaunso Dessai
+10) Krishna Sakaram Sinai Xeldekar
+11) Dev Soiru Gaunso Dessai
+12) Krishna Dattu Gaunso Dessai
+13) Benedito Fernandes
+14) Manohar Vithoba Gaunso Dessai
+15) Prabhakar Barkelo Prabhu Dessai
+16) Govind Yenku Gaunso Dessai
+17) Hari Ganesh Gaunso Dessai
+18) Dropadi Bhuto Gaunso Dessai
+19) Bhuto Ganesh Gaunso Dessai
+2) Jose Faria
+20) Krishna Chandru Gaunso Dessai
+21) Uttam Bablo Gaunso Dessai
+22) Anant Yesso Gaunso Dessai
+23) Ganesh Vithoba Gaunso Dessai
+24) Shaba Dharmu Gaunso Dessai
+25) Pundalik Raghoba Gaunso Dessai
+26) Datta Raghoba Gaunso Dessai
+27) Rama Raghoba Gaunso Dessai
+28) Dropadi Vishnu Gaunso Dessai
+29) Taramati Uttam Gaunso Dessai
+3) Yeshwant Chandru Gaunso Dessai
+30) Chandras Rama Gaunso Dessai
+31) Vilas Santu Gaunso Dessai
+32) Krishna Rama Gaunso Dessai
+33) Narayan Chandru Gaunso Dessai
+34) Uttam Bhiku Gaunso Dessai
+35) Pursho Bhikaro Gaunso Dessai
+36) Mablu Santu Gaunso Dessai
+37) Pandurang Sadashiv Gaunso Dessai
+38) Antoneta D'Souza
+39) Lourencinha Fernandes
+4) Kashinath Rama Gaunso Dessai
+40) Sukdo Ganesh Gaunso Dessai
+41) Pedru Fernandes
+42) Anastnzia Diniz
+43) Babaji Govind Gaunso Dessai
+44) Yeshwant Chandru Gaunso Dessai
+45) Anay Sadashiv Gaunso Dessai
+46) Sanjay Sadashiv Gaunso Dessai
+5) Raghu Dharmu Gaunso Dessai
+6) Vishwanath Govind Gaunso Dessai
+7) Narayan Raghoba Gaunso Dessai
+8) Yeshodi Vishnu Gaunso Dessai
+9) Janeu Kushali Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983971.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44022">
+                <coordinates>74.090429532,15.244598168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44056">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.25121,74.09001&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3898</value>
+                </Data>
+                <Data name="name">
+                    <value>Chowanto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Xeldem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.25121</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09001</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211014034911937.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211014034930064.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Xeldem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Xeld/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>237.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2596</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-10-14 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:20.672442</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Audu Govind Naik      1/4</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984351.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44055">
+                <coordinates>74.090005919,15.251206672,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

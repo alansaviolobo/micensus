@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8928">
+        <Placemark id="8930">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.64006,73.75566&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1867</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1867</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3273/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Brahm Enviroment Construction Ltd.</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Opp Primary School, Chopdem agarwado Pernem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.64006</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75566</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Chopdem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8929">
+                <coordinates>73.75566,15.64006,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

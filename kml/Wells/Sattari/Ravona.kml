@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24296">
+        <Placemark id="24298">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62389,74.04394&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2942</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2942</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>238/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Harishchandra Zipro Gawas</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Manuk Talim Rawan Poriyem\t, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62389</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04394</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ravona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24297">
+                <coordinates>74.04394,15.62389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24313">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62368,74.04805&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2949</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2949</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>235/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Nilgo M. Gawas</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Ravan, Parye, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62368</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04805</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ravona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24312">
+                <coordinates>74.04805,15.62368,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

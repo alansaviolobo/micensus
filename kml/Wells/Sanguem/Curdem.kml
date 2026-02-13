@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17724">
+        <Placemark id="17726">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.166338,74.213978&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4067</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4067</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1299</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>BABU MUMMO GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 18, Dhapala, Bhati, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.166338</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.213978</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curdem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17725">
+                <coordinates>74.213978,15.166338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17741">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.162615,74.215635&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4105</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4105</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1039</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>BALU SHAMBU GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 8, Dhapotem, Bhati, Curdi, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.162615</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.215635</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curdem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17740">
+                <coordinates>74.215635,15.162615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17756">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.162615,74.215635&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4106</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4106</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1038</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>GANESH VITHOBA GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 6, Dhapotem, Bhati, Curdi, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.162615</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.215635</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curdem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17755">
+                <coordinates>74.215635,15.162615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.16564,74.21635&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4110</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4110</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>214</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>JAIRAM H. GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 19, Dapotem, Bhati, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.16564</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21635</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curdem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17770">
+                <coordinates>74.21635,15.16564,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59119">
+        <Placemark id="59121">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34903,73.98258&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1807</value>
+                </Data>
+                <Data name="name">
+                    <value>Angaddi Tollem; Poirantnem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>406</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>33-36,44</value>
+                </Data>
+                <Data name="village">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34903</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98258</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210819094137859.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210819094239171.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Lout/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>60731.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1112</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Timotio Gracias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996840.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59120">
+                <coordinates>73.982578053,15.349027385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59153">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34377,73.99293&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3808</value>
+                </Data>
+                <Data name="name">
+                    <value>Kaneri</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>462</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34377</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99293</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210819093559486.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210819040607948.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Lout/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>164.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2511</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-19 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Luis Felip Teles D'Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996490.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59152">
+                <coordinates>73.992930459,15.343769889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59185">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34315,73.99232&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1805</value>
+                </Data>
+                <Data name="name">
+                    <value>Chovota Xeta</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>559</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3,4</value>
+                </Data>
+                <Data name="village">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34315</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99232</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210819093235530.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210819093251357.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Lout/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>986.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1115</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Loutulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996140.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59184">
+                <coordinates>73.992323349,15.343145871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59217">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34967,73.98082&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1806</value>
+                </Data>
+                <Data name="name">
+                    <value>Angdi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>405</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15,18</value>
+                </Data>
+                <Data name="village">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34967</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98082</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210819094516658.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210819094604525.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Lout/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1522.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1111</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Loutulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997190.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59216">
+                <coordinates>73.980815856,15.349673307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59249">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34297,73.97919&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4143</value>
+                </Data>
+                <Data name="name">
+                    <value>Organ Vans or Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>100</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-13</value>
+                </Data>
+                <Data name="village">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34297</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97919</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211214093824422.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211214093550827.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Loutulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Lout/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>63095.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2880</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 03:03:11.330195</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Loutulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995790.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59248">
+                <coordinates>73.979190521,15.34296798,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

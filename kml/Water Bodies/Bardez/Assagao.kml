@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="964">
+        <Placemark id="966">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60557,73.75743&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5399</value>
+                </Data>
+                <Data name="name">
+                    <value>Badem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60557</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75743</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131085154191.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131085201228.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>44/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4214</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:02:09.652422</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Max Tomas De Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="965">
+                <coordinates>73.757429745,15.605566868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59589,73.76801&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5845</value>
+                </Data>
+                <Data name="name">
+                    <value>Wadachi Pat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>242</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59589</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76801</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131122606136.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131122610976.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>22.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5330</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-01-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="998">
+                <coordinates>73.76801202,15.595886505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59359,73.77156&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5413</value>
+                </Data>
+                <Data name="name">
+                    <value>Temar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>235</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59359</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77156</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131122531108.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131122536205.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>235/16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>34.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4228</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:41:08.772800</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1030">
+                <coordinates>73.771563505,15.593586742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1064">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60318,73.75885&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5401</value>
+                </Data>
+                <Data name="name">
+                    <value>Badem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>78</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60318</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75885</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009074301253.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009074312048.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>78/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1508.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4216</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:03:08.082811</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1063">
+                <coordinates>73.758848468,15.603183885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60406,73.75843&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5400</value>
+                </Data>
+                <Data name="name">
+                    <value>Badem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>77</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60406</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75843</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131085047152.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131085121771.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>77/3; 78/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>164.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4215</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:03:08.082811</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s RBST Ventures Private Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1096">
+                <coordinates>73.758426753,15.604058998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1130">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59921,73.76424&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5409</value>
+                </Data>
+                <Data name="name">
+                    <value>Redisal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>251</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59921</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76424</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009080400938.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009080439762.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>251/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>158.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4224</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:22:08.093289</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Devadatta Purushottam Shirodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1129">
+                <coordinates>73.764241921,15.599214864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60933,73.76168&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5398</value>
+                </Data>
+                <Data name="name">
+                    <value>Afaramet Wadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>76</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60933</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76168</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131092333578.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131092345364.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>76/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>664.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4213</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:01:08.071332</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mr. Devinder Singh Sahney
+Mrs. Kanwaldeep Kaur Sahney</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1162">
+                <coordinates>73.761678719,15.609333518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1196">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60436,73.76182&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5751</value>
+                </Data>
+                <Data name="name">
+                    <value>Dutta Mandir Temple Tank / Sonarkhed Spring; Badem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60436</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76182</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009072349130.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009072416022.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>83/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>115</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>456.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5277</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-09 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1195">
+                <coordinates>73.761824284,15.60436211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59949,73.79405&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5835</value>
+                </Data>
+                <Data name="name">
+                    <value>Audumbar Dattatrey Temple Tank; Valle</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>172</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>39</value>
+                </Data>
+                <Data name="village">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59949</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79405</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419080005876.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419080045781.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assagao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Assa/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>279.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5329</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-11-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018216.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1228">
+                <coordinates>73.794048151,15.59949351,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

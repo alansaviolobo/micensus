@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20138">
+        <Placemark id="20140">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51083,74.1704&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2811</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2811</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>763/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gaonkar Dholo Zangu</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Karmali, Sawardem, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51083</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1704</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Carambolim-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20139">
+                <coordinates>74.1704,15.51083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20155">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50782,74.1809&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2813</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2813</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>993/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Harwalkar Somarge Vithal</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 19, Karmali, Badruk Savordem Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50782</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1809</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Carambolim-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20154">
+                <coordinates>74.1809,15.50782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20170">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.516833,74.181619&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2829</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2829</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3071/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Aga Khalid Mohamed</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 36, Valpoi, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.516833</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.181619</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Carambolim-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20169">
+                <coordinates>74.181619,15.516833,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

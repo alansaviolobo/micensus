@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="74997">
+        <Placemark id="74999">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24132,74.20005&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4065</value>
+                </Data>
+                <Data name="name">
+                    <value>Banda temb</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Patiem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24132</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20005</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220422063907694.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220422063954049.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Uguem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Pati/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>594.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2745</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-23 09:58:14</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sociedade Patriotica dos Baldios das Nov as Conquistas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1034452.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986349.327423708</value>
+                </Data>
+            </ExtendedData>
+            <Point id="74998">
+                <coordinates>74.200045208,15.24131919,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

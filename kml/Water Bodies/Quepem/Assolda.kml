@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="42503">
+        <Placemark id="42505">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24975,74.06152&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>501</value>
+                </Data>
+                <Data name="name">
+                    <value>Botiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24975</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06152</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211014111308862.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211014111320112.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>69/5-7; 71/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Asso/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>435.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2349</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:07.812070</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Francisco Xavier Fernandes.
+2) Marcelino fernandes.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983851.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42504">
+                <coordinates>74.061520482,15.249745871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42538">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26374,74.06534&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4390</value>
+                </Data>
+                <Data name="name">
+                    <value>Kurma tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26374</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06534</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220414073645925.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220414073733169.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Asso/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>245.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3477</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-16 03:55:55</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:08.629338</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Shankar Rama Raut Desai.
+Avelino Agnelo Moura
+Babazinho Rafael Arcanje Morais
+Bernado Luis Moura
+Gabriel Mascarenhas.
+Inacio Fernandes
+Manuel Moura
+Marcelino Moraes
+Pobrino Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985371.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42537">
+                <coordinates>74.065341398,15.263739381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42571">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26749,74.07136&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>502</value>
+                </Data>
+                <Data name="name">
+                    <value>Kontali,Korem Talem,Korem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1,27,28</value>
+                </Data>
+                <Data name="village">
+                    <value>Assolda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26749</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07136</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211014090458970.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211014090509513.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>27/2-O; 30/1,3-4,27-28; 31/1,5,27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>37 - Curchorem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assolda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Asso/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>774.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2302</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:09.128241</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Balkrishna Govind R. Desai.
+1) Shri Devi Sateri Assolda.
+1) Shrihari Subrya N. Kurade.
+2) Prakash Subrya N. Kurade.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986131.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42570">
+                <coordinates>74.071359196,15.267489644,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

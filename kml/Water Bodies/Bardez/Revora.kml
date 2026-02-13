@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7111">
+        <Placemark id="7113">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65885,73.84929&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2935</value>
+                </Data>
+                <Data name="name">
+                    <value>Mott</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>61</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84929</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006070620123.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006070642463.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>61/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>441.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4780</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7112">
+                <coordinates>73.849286604,15.658850832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7146">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66257,73.85341&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2939</value>
+                </Data>
+                <Data name="name">
+                    <value>Escrivachi Namas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66257</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85341</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104504164.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104510301.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>22/9-F; 32/2; 36/2-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>346.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4789</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7145">
+                <coordinates>73.853408476,15.66256668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7179">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66555,73.85017&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5673</value>
+                </Data>
+                <Data name="name">
+                    <value>Kunang</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66555</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85017</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104658399.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104703289.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/26-27; 19/8-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>177.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4783</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-03 09:39:28.120347</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Konkan Railway Corporation Ltd.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7178">
+                <coordinates>73.850169143,15.665545633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7212">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66067,73.85348&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2937</value>
+                </Data>
+                <Data name="name">
+                    <value>Virgacho Horta</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66067</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85348</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104308971.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104315520.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>37/2-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>459.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4782</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>St. Xavier Church</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7211">
+                <coordinates>73.853483393,15.660670764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7245">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66035,73.85305&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6089</value>
+                </Data>
+                <Data name="name">
+                    <value>Virgacho,Virgacho Horta</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6-7</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66035</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85305</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104800738.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104805781.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1335.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5502</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>St. Xavier Church</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7244">
+                <coordinates>73.853054389,15.660350552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7277">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6639,73.85217&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2940</value>
+                </Data>
+                <Data name="name">
+                    <value>Mugiak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6639</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85217</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104544033.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104550845.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>21/17; 41/1-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>193.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4785</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7276">
+                <coordinates>73.852173574,15.663896351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7310">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65712,73.84443&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2942</value>
+                </Data>
+                <Data name="name">
+                    <value>Kusto Ak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>172</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65712</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84443</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420101709720.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420101714996.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>54/4; 172/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>218.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4787</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7309">
+                <coordinates>73.844432651,15.657120638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7343">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65866,73.85243&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>906</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadashi Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65866</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85243</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006071857448.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006072009877.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>70/0,2; 71/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Cover</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>11824.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3445</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-09-12 05:08:52.970843</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7342">
+                <coordinates>73.85242763,15.658661115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7376">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66196,73.85416&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2938</value>
+                </Data>
+                <Data name="name">
+                    <value>Shimalda</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>33</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66196</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85416</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104426847.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104431011.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>33/1,4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>75.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4788</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s El Shaddai Charitable Trust</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029662.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7375">
+                <coordinates>73.854163203,15.661958954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7409">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65912,73.84888&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2936</value>
+                </Data>
+                <Data name="name">
+                    <value>Koporo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65912</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84888</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006071412150.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006071436583.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>58/18; 61/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>62.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4781</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Revora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7408">
+                <coordinates>73.848876408,15.65911665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7442">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66482,73.85226&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2941</value>
+                </Data>
+                <Data name="name">
+                    <value>Bimbecho Ak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Revora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66482</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85226</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420104622478.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420104629189.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>21/11-13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Revora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Revo/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>280.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4784</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-03 05:13:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7441">
+                <coordinates>73.85226413,15.664823962,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

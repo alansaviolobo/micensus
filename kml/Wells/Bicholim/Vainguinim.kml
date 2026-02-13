@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5151">
+        <Placemark id="5153">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.567265,73.909748&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2431</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2431</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>BIC/116/2021</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shivdas Rayu Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno. 57, Vaiguinim ,Mayem, Bicholim Goa 403504,</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.567265</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.909748</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Vainguinim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5152">
+                <coordinates>73.909748,15.567265,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

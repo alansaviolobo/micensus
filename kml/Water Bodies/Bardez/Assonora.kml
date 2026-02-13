@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1261">
+        <Placemark id="1263">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61843,73.8958&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5611</value>
+                </Data>
+                <Data name="name">
+                    <value>Kajryachi Pati</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Assonora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61843</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8958</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006090729538.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006090751966.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/15-18,27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Assanora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Asso/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1673.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4624</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-29 02:25:26</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1262">
+                <coordinates>73.895800945,15.618428183,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

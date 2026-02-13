@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25000">
+        <Placemark id="25002">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67297,73.82841&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>629</value>
+                </Data>
+                <Data name="name">
+                    <value>वरका</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>195</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67297</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82841</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323083727957.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323083737162.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>195/1-3,11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>386.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3380</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सरकारी  पाण्याचे  डबकें</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025055.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25001">
+                <coordinates>73.828411116,15.672973344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25035">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67294,73.83517&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>625</value>
+                </Data>
+                <Data name="name">
+                    <value>शेतकीर्तन</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>198</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67294</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83517</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323082459780.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323082508638.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>198/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>456.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4990</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>राजेंद्र  वासुदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025955.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25034">
+                <coordinates>73.835173592,15.672943254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25068">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67123,73.84694&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>620</value>
+                </Data>
+                <Data name="name">
+                    <value>बांदाजी फाळीं</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>539</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67123</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84694</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323133413731.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323133422115.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>534/6; 539/1,16-18,55</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>177.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3386</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>श्रीपाद  आत्माराम  देसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026555.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25067">
+                <coordinates>73.846943141,15.671228511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25101">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67165,73.83826&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6030</value>
+                </Data>
+                <Data name="name">
+                    <value>वेरके आड वेरके</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>212</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>23</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67165</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83826</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323130735301.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323130743474.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5527</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>अनंत  शंकर  शेणई  धारगळकर
+अरविंद  दत्ताराम  नाईक
+उत्तम  रामचंद्र  प्रभूदेसाई
+काशीबाई  पांडूरंग  प्रभुदेसाई
+गंगाजी  पांडूरंग  प्रभूदेसाई
+घनश्याम  यशवंत  प्रभूदेसाई
+जगन्नाथ  हिराजी  कोलवाळकर
+जयराम  बाळकृष्ण  प्रभूदेसाई
+भालचंद्र  गोपाळ  प्रभूदेसाई
+महादेव  घनश्याम  प्रभूदेसाई
+रघुनाथ  केशव  प्रभूदेसाई
+रघुनाथ  गंगाजी  प्रभूदेसाई
+राजेंद्र  वासुदेव  देशप्रभू
+रावजी  तुकाराम  प्रभूदेसाई
+रुक्मीणी  लाडकोबा  प्रभूदेसाई
+विश्र्‌वनाथ  गणेश  शेणई  धारगळकर
+व्यंकटेश  गणेश  बांदेकर</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026255.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25100">
+                <coordinates>73.838257466,15.671653699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25133">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.68596,73.85536&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>617</value>
+                </Data>
+                <Data name="name">
+                    <value>उमाळो</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>455</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.68596</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85536</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304162458321.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304162435634.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>455/17,21,27; 476/5,36</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>688.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3377</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>उत्तम  गोपाळ  प्रभूदेसाई
+जयराम  बाळकृष्ण  प्रभूदेसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027455.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25132">
+                <coordinates>73.855364245,15.685957779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25166">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69434,73.85462&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5957</value>
+                </Data>
+                <Data name="name">
+                    <value>म्हारवड</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>391</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69434</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85462</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304164057754.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304164113581.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>148.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5404</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>राजेंद्र  वासुदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028355.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25165">
+                <coordinates>73.854618879,15.694335251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25198">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69281,73.85481&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6110</value>
+                </Data>
+                <Data name="name">
+                    <value>म्हारवड</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>391</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69281</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85481</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230426140855010.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230426140833179.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>68.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5531</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-26 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>राजेंद्र  वासुदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028055.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25197">
+                <coordinates>73.854806667,15.692806667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25230">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66887,73.84254&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>621</value>
+                </Data>
+                <Data name="name">
+                    <value>मुजेकात फातर्डे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66887</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84254</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304161316440.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304161345057.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>205/3-A-1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1027.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3385</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>तळे  सरकारी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025655.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25229">
+                <coordinates>73.842542784,15.668873186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25263">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67136,73.83794&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6031</value>
+                </Data>
+                <Data name="name">
+                    <value>भाटले पुनाळेकर पालयेकराचे देवळाक</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>210</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67136</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83794</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323130909598.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323130918222.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>249.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5526</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kadambari  Prakash  Khalap
+Kalpana  Satish  Khalap
+Nandita  Narayan  Dhuri
+Narayan  Krishna  Dhuri
+Prakash  (Babushet)  Jaiwant  Khalap
+Satish  Nilkant  Khalap  @  Satish  Jaiwant  Khalap
+Suhas  Jaywant  Khalap
+Sunanda  Suhas  Khalap
+Vaishali  Vilas  Khalap
+Vilas  Krishnarao  Khalap
+अनंत  शंकर  शेणई  धारगळकर
+जयवंत  रामा  खलप
+विश्र्‌वनाथ  गणेश  शेणई  धारगळकर</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025355.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25262">
+                <coordinates>73.837943879,15.671363895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25295">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67186,73.84656&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>619</value>
+                </Data>
+                <Data name="name">
+                    <value>तळें</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>539</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67186</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84656</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323133258740.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323133314169.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>539/1-4,8-11; 540/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2866.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3387</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>आत्माराम  सदाशिव  नाईक
+यंशवत  सदाशिव  नाईक</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026855.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25294">
+                <coordinates>73.846562245,15.671855749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25328">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67254,73.84651&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5953</value>
+                </Data>
+                <Data name="name">
+                    <value>वामन जोशी भरड काने कामतीची मळी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>540</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67254</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84651</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304161758628.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304161824196.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>332.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5409</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Guita Krishna Quinlekar alias Suhasini Chandrakant Manggi
+Kamlakar K. Quinlekar
+Vimal Krishna Quinlekar alias Yeshwanti Yeshwant Vast
+Yeshwant Bapu Vast
+कोकण  रेल्वे  कॉर्पोरेशन  लीमीटेड  3890चौ  मीटर  जमीन  मालक</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027155.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25327">
+                <coordinates>73.846514661,15.672543544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25360">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70318,73.85119&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>616</value>
+                </Data>
+                <Data name="name">
+                    <value>Dadeshwar Temple Tank; हनाटी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>357</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70318</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85119</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304165048777.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304165129800.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>357/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5426.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3433</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.  of  Goa:  Executive  Engineer,W.D.VII,G.T.I.D.C.Dhargao,Pernem:Area:9105M2
+गोपाळ  अनंत  मोरजकर  फकत  100  चौ  मीटर  जमीन  मालक
+महादेव  विष्णु  शिरोडकर  फकत  160चौ  मीटर  जमीन  मालक
+राजेंद्र  वासुदेव  देशप्रभु</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028655.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25359">
+                <coordinates>73.851188986,15.703178043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25393">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67244,73.82886&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>628</value>
+                </Data>
+                <Data name="name">
+                    <value>भटाचीमळी</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>194</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67244</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82886</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323083801739.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323083807199.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>194/4,25; 195/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>652.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3381</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>घनश्याम  विठ्ठल  प्रभूदेसाई
+पुरूषोत्ताम  पांडूरंग  प्रभूदेसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024755.9629607175</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25392">
+                <coordinates>73.828856579,15.672439918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25426">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69256,73.85127&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5691</value>
+                </Data>
+                <Data name="name">
+                    <value>कापणी म्हादोशी गिमास कमळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>384</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Dargalim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69256</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85127</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230426135955650.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230426140057300.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>384/4-5; 388/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dhargal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Darg/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>541.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4989</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-05 08:00:45.811264</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सरकारी  तळी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027755.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25425">
+                <coordinates>73.851267539,15.692563633,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

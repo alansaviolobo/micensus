@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7660">
+        <Placemark id="7662">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.363889,74.214242&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4281</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4281</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>25/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Prabhakar narayan sawant</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>sante moll mollem dharbandora goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.363889</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.214242</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Molem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7661">
+                <coordinates>74.214242,15.363889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7677">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.373715,74.229964&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4282</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4282</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1447/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Agostin L. fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>mollem dharbandora goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.373715</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.229964</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Molem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7676">
+                <coordinates>74.229964,15.373715,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

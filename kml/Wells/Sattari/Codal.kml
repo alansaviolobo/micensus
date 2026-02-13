@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20309">
+        <Placemark id="20311">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5924,74.20754&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2758</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2758</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>26/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ram Barkelo Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Vadacho mol Kodal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5924</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20754</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20310">
+                <coordinates>74.20754,15.5924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20326">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59816,74.20079&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2759</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2759</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>50/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Zamil Khan</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Nalka toli Kodal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59816</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20079</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20325">
+                <coordinates>74.20079,15.59816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20341">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59708,74.18787&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2760</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2760</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>29/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Deenkar Joshi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Ambed Kodal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59708</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18787</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Codal</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20340">
+                <coordinates>74.18787,15.59708,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,2574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="65641">
+        <Placemark id="65643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28832,73.93321&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4200</value>
+                </Data>
+                <Data name="name">
+                    <value>Aslem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>89</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28832</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93321</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208082101321.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208082109957.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2926</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-08 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joao Philip de Piedade Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992165.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65642">
+                <coordinates>73.933210195,15.288318874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65675">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28982,73.93827&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2044</value>
+                </Data>
+                <Data name="name">
+                    <value>Virado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>98</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28982</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93827</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211214084507194.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211214084515489.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1162.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1562</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996015.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65674">
+                <coordinates>73.938272162,15.289816057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65707">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28587,73.94118&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2030</value>
+                </Data>
+                <Data name="name">
+                    <value>Zamchi Wadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28587</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94118</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803135744137.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803135752650.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4468.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1555</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994265.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65706">
+                <coordinates>73.941181199,15.285870716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65739">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28864,73.93401&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3761</value>
+                </Data>
+                <Data name="name">
+                    <value>Aslem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>89</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5-6</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28864</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93401</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208075937755.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208075946619.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>171.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1853</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-05-25 05:02:47.522875</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joao Philip de Piedade Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992865.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65738">
+                <coordinates>73.934006111,15.288635267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28881,73.93474&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4199</value>
+                </Data>
+                <Data name="name">
+                    <value>Aslem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>94</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28881</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93474</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208080316867.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208080325231.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>68.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2952</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-08 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993215.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65770">
+                <coordinates>73.934738323,15.288809804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65803">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28506,73.94219&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2031</value>
+                </Data>
+                <Data name="name">
+                    <value>Seraulim Lake; Odlem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28506</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94219</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803135251275.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803135302716.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2917.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1554</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993565.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65802">
+                <coordinates>73.942194503,15.285057567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65835">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28676,73.93358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2042</value>
+                </Data>
+                <Data name="name">
+                    <value>Torta Pangovin</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>91</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28676</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93358</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818105553986.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818105601225.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>722.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1569</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Espectacao Joaquim Hipolito Fernandes
+Jose Paul Ilario Fernandes
+Milagrina Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991115.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65834">
+                <coordinates>73.933579738,15.286763219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65867">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28018,73.93904&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2036</value>
+                </Data>
+                <Data name="name">
+                    <value>Bulls Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28018</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93904</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818101510304.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818101517910.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>090</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>929.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1577</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988665.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65866">
+                <coordinates>73.939038626,15.280178256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65899">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28355,73.94208&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2033</value>
+                </Data>
+                <Data name="name">
+                    <value>Odlem Tolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28355</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94208</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105090429027.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105090442283.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>408.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1578</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990415.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65898">
+                <coordinates>73.942075155,15.283548546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65931">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28622,73.94095&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2029</value>
+                </Data>
+                <Data name="name">
+                    <value>Zambado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28622</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94095</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803140234746.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803140243703.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2030.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1556</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994615.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65930">
+                <coordinates>73.940946634,15.286224121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65963">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29257,73.94316&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2050</value>
+                </Data>
+                <Data name="name">
+                    <value>Fabrica</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29257</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94316</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210811181111619.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210811181548864.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1312.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1550</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996715.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65962">
+                <coordinates>73.943164001,15.292566494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65995">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27932,73.94399&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2034</value>
+                </Data>
+                <Data name="name">
+                    <value>Colvado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27932</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94399</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805093343882.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805093353157.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1343.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1575</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988315.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65994">
+                <coordinates>73.943986344,15.279320804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66027">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28234,73.93283&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2039</value>
+                </Data>
+                <Data name="name">
+                    <value>Septa Naikalem Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>54</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>40</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28234</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93283</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818102830745.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818102840938.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>393.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1573</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989365.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66026">
+                <coordinates>73.932830703,15.282337267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66059">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28363,73.93249&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2037</value>
+                </Data>
+                <Data name="name">
+                    <value>Siko Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>77</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28363</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93249</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818104149764.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818104157297.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>091</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>877.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1571</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990065.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66058">
+                <coordinates>73.932494313,15.283633898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66091">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28687,73.94066&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2028</value>
+                </Data>
+                <Data name="name">
+                    <value>Zambado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28687</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94066</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803140528929.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803140540319.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1995.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1557</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994965.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66090">
+                <coordinates>73.940658905,15.286874638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66123">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28885,73.93849&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2045</value>
+                </Data>
+                <Data name="name">
+                    <value>Kiramoda</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>71</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93849</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105090808219.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105090849001.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>089</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>997.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1560</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade fo Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995315.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66122">
+                <coordinates>73.93849024,15.288851224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66155">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29436,73.94361&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5063</value>
+                </Data>
+                <Data name="name">
+                    <value>Kriya Tollem; Patia Bhandi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2,3,6</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29436</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94361</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220610155121927.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220610155139233.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>148</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>12584.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3962</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-06-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Florites Natercia Almeida
+Communidade of Seraulim
+Irish D'Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997065.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66154">
+                <coordinates>73.943607253,15.294363094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66187">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28758,73.93869&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5062</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhakte Tollem; Birgem or Ankto, Birgem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>71</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27,28,29,32,33,35,36</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28758</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93869</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220610153358682.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220610153423674.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>28399.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5308</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-06-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim
+Sebastiao Coutinho
+Espirito Santo Coutinho
+Smt. Julieta Coutinho
+Maria Quiteria I. Coutinho
+Narayan A. Anantu Pai Raiturkar
+Tukaram Ganpat Sawant</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993915.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66186">
+                <coordinates>73.938687159,15.287582193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66219">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29041,73.93716&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2043</value>
+                </Data>
+                <Data name="name">
+                    <value>Aslem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29041</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93716</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211214084250093.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211214084304094.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>862.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1563</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995665.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66218">
+                <coordinates>73.937161943,15.290410817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66251">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27879,73.94399&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2035</value>
+                </Data>
+                <Data name="name">
+                    <value>Colvado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27879</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94399</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210805093022743.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210805093036450.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>425.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1576</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio alias Anthony Rodrigues
+Clacy Fernandes
+Especissa Dias
+Gracinda Socorriana Cardozo E Vas
+Joaosinho Vas
+Joaquim Antonio Dias
+Joaquim Pereira
+Joicy Baptista e Rodrigues
+Luis Fernandes
+Maxy Rodrigues
+Melwyn Hillary Fernandes
+Neville Barreto
+Patrocina Pereira
+Patrocinio Dourado
+Prudencia Dias nee D Costa
+Reena Rodrigues
+Rossly Vas
+Sandry Dias
+Stanley Fernandes
+Veronica Juditha Fernandes
+Vinod Vassant Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987965.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66250">
+                <coordinates>73.943985815,15.278790337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66283">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28204,73.93413&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2040</value>
+                </Data>
+                <Data name="name">
+                    <value>Irado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>56</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28204</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93413</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818102254424.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818102303170.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>654.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1574</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989015.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66282">
+                <coordinates>73.934125039,15.282038339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66315">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28292,73.9318&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2038</value>
+                </Data>
+                <Data name="name">
+                    <value>Septanaikalem Bhat or acrado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>54</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28292</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9318</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818103603243.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818103610934.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1035.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1572</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989715.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66314">
+                <coordinates>73.931797068,15.282918305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66347">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2847,73.93321&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2041</value>
+                </Data>
+                <Data name="name">
+                    <value>Cumba Patoli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>77</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2847</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93321</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818105024767.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818105038400.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>166.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1570</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Marushka Carmen Angelica e Rebelo
+Nadia Maria de Jesus Rebelo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990765.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66346">
+                <coordinates>73.933205914,15.284697175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66379">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28792,73.93121&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3759</value>
+                </Data>
+                <Data name="name">
+                    <value>Aslem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>84</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28792</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93121</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210818110132582.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210818110142733.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>533.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1851</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-05-25 05:02:47.522875</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joao Philip de Piedade Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991465.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66378">
+                <coordinates>73.931208667,15.287919494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66411">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28886,73.93228&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3760</value>
+                </Data>
+                <Data name="name">
+                    <value>Masolem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>88</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28886</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93228</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208075254185.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208075320260.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>705.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1852</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-05-25 05:02:47.522875</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joao Philip de Piedade Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992515.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66410">
+                <coordinates>73.932279539,15.288855555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66443">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28922,73.93944&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2046</value>
+                </Data>
+                <Data name="name">
+                    <value>Sidi Bhidichem Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28922</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93944</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105090949704.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105090955808.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1270.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1561</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Seraulim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996365.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66442">
+                <coordinates>73.939441707,15.289223575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66475">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28876,73.93086&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4201</value>
+                </Data>
+                <Data name="name">
+                    <value>Aslem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28876</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93086</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208025859469.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208082908384.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sera/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>403.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2927</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-08 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joao Filip de Piedade Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987635.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991815.516376814</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66474">
+                <coordinates>73.930860297,15.288764716,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

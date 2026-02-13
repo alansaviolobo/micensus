@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82224">
+        <Placemark id="82226">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55863,74.08118&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5355</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Saleli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55863</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08118</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223120442024.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223120507403.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/2-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Honda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sale/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>121.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4171</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:06:49.565748</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Narendra Ramrao Rane Sardessai
+2)Anandrao Ramrao Rane Sardessai
+Two</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82225">
+                <coordinates>74.081175314,15.558632719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82259">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5606,74.07362&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5354</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>80</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Saleli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5606</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07362</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223122608274.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223122655803.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>80/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Honda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sale/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>161.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4170</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:05:49.558531</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balasaheb Narbarao Rane Sardessai
+Chandrakant Narayan Gaonkar and Shanu Narayan Gaonkar
+Chandrakant Vithoba Gaonkar 1500Sq.mts
+Daji Govindrao Rane Sardessai
+Executive Engineer Work Div.V Irriga-
+Executive Engineer Works Div V
+Ganesh Rajaram Salelkar
+Irrigation Dept  65800 Sq.mts
+Keshav Vithoba Gaonkar 1500Sq.mts.
+Krishna Narayan Gaonkar
+Krishnarao Appaji Rane Sardessai
+Subhash Bhahusaheb Rane
+Subhash Bhausaheb Rane
+The Executive Engineer Works Division III, Irrigation Department, Ponda-Goa
+Vishwajit Krishnarao Rane Dessai
+tion Deparment 6580Sq.mts.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013647.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82258">
+                <coordinates>74.07361738,15.560604185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82292">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54813,74.07049&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2388</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Anil Mukund Gawas</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Saleli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54813</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07049</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20191115045413283.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20191115045430709.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Honda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sale/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>201.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>205</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anil Mukund Gawas
+Krishna Babal Gaunkar
+Krishnanath Gurudas Bandekar
+Prasad Laxman Phondekar
+Pratiksha Pandurang Gaonkar
+Samiksha Pandurang Gaonkar
+Shashikant Narayan Kulkarni. 581Sq.mts
+Shubangi Siuram Gaude  586 Sq.mts
+Suchita Krishnanath Bandekar
+one</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012147.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82291">
+                <coordinates>74.07048985,15.548134389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82325">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56278,74.07482&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5353</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>80</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Saleli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56278</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07482</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223121841397.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223121903596.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>80/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Honda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sale/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>38.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4169</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:04:50.102418</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balasaheb Narbarao Rane Sardessai
+Chandrakant Narayan Gaonkar and Shanu Narayan Gaonkar
+Chandrakant Vithoba Gaonkar 1500Sq.mts
+Daji Govindrao Rane Sardessai
+Executive Engineer Work Div.V Irriga-
+Executive Engineer Works Div V
+Ganesh Rajaram Salelkar
+Irrigation Dept  65800 Sq.mts
+Keshav Vithoba Gaonkar 1500Sq.mts.
+Krishna Narayan Gaonkar
+Krishnarao Appaji Rane Sardessai
+Subhash Bhahusaheb Rane
+Subhash Bhausaheb Rane
+The Executive Engineer Works Division III, Irrigation Department, Ponda-Goa
+Vishwajit Krishnarao Rane Dessai
+tion Deparment 6580Sq.mts.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82324">
+                <coordinates>74.07482061,15.562783158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82358">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5512,74.06872&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5357</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Saleli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5512</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06872</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230309160952999.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223114143581.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>46/14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Honda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sale/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>332.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4173</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:09:49.518758</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ajay Nakul Gaonkar
+Amol Jaywant Patil
+Aniksha Amit Chodankar
+Ankush Laxman Sawardekar
+Anuja Joydeep Bose
+Arti Laxman Sawant
+Bhalchandra Raghoba Gawas
+Bhanwarlal Mularamji Lohar
+Bharati Baburao Gawas
+Chandrashekar Surya Naik
+Dnyaneshwar Harichandra Kesarkar
+Filomena Estrocio
+Harischandra Gopal Kansekar
+Jaising Ganpati Patil
+Lakhu Dhondu Humane
+Motiram Krishna Gawade
+Naushad Maqdum Shaikh
+Neha Rajendra Gaonkar
+Nilesh Shanu Sawant
+Nitesh Vithu Varak
+Oiddin A. Khan
+Perpetua Domingos Maria Po
+Pradeep Khushali Gauns
+Pradip alias Pradeep Harichandra Panjikar
+Prakash Bablo Parab
+Pravin Shablo Gaonkar
+Pundalik V. Naik Govenkar
+Rakesh Babulal Kashyap
+Ram Chauhan
+Ramjan Popat Mulani
+Roshan Shantaram Vernekar
+Rupam Pradip Panjikar
+Rupesh Ramesh Dantye
+Samir Dattaram Shinde
+Sandeep Gurunath Chari
+Sandhya Dharmendra Sapte
+Sayed Kamalodin
+Shahid Ali Shaikh
+Shivaji Kashinath Ghadi
+Shrimati Ganesh Kankonkar
+Shripad Vithoba Paryekar
+Sonali Namdev Kate
+Suman Shantaram Thakur
+Suresh Vithu Tate
+Suryakant Ganesh Gawas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013347.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82357">
+                <coordinates>74.068716985,15.551197121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82391">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5633,74.07978&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2543</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Bhagwant Ganesh Gaonkar; Sateri temple</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Saleli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5633</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07978</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200519043459547.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200519043517049.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Honda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Sale/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>688.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>588</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:33</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhagwant  Ganesh Gaonkar
+Krishnarao Appaji Rane Sardessai
+Pandurang Mahadev Gaonkar
+one</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82390">
+                <coordinates>74.079779228,15.563301669,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

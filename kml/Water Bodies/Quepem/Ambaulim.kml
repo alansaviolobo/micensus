@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="42435">
+        <Placemark id="42437">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.19022,74.04645&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>433</value>
+                </Data>
+                <Data name="name">
+                    <value>Xempen</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>124</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>32-38,46-52</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.19022</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04645</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211020083507817.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211020083516493.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>122/1; 124/22,27-28,33-40,45-50,59</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Amba/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>10368.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2360</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:05.045470</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sebastiao Michael DSilva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979671.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42436">
+                <coordinates>74.046450809,15.190217208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42470">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2117,74.04793&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4165</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Ambaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2117</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04793</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106144639717.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106144653389.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>30/77-78,119-121; 45/51,63,93; 46/24-25</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Ambaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Amba/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1230.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2902</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-02 07:44:32.355809</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:05.751049</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Christovao Furtado.
+2) Alvaro D'Loyola Furtado.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980811.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42469">
+                <coordinates>74.047930275,15.211698503,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

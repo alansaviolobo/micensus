@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="85767">
+        <Placemark id="85769">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55765,73.87615&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6171</value>
+                </Data>
+                <Data name="name">
+                    <value>Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>286</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55765</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87615</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504115744965.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504115806563.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>71.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5563</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Chorao.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85768">
+                <coordinates>73.876148954,15.557645089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85801">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55575,73.87535&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6173</value>
+                </Data>
+                <Data name="name">
+                    <value>Cava</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>255</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55575</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87535</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504115514847.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504115523951.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5559</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Chorao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85800">
+                <coordinates>73.875349365,15.555746093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85833">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55779,73.87629&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6174</value>
+                </Data>
+                <Data name="name">
+                    <value>Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>286</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55779</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87629</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504115634049.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504115641510.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>101.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5562</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Chorao.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85832">
+                <coordinates>73.876290864,15.557789438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85865">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54039,73.87777&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5588</value>
+                </Data>
+                <Data name="name">
+                    <value>Gonval and Cantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>200</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54039</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87777</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504121433513.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504121441560.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>200/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>467.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4487</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 04:39:31.729738</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jesuima Esther Monteiro
+Joema Fatima Loraine de Mello
+Marina Alba Monteiro
+Michelle Maria Monteiro
+Prianka Christina Monteiro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85864">
+                <coordinates>73.877765736,15.540390073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85898">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54362,73.87673&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3337</value>
+                </Data>
+                <Data name="name">
+                    <value>Budem Kantor; Carabhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>229</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13,17</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54362</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87673</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504120625388.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504120638262.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>229/13,17</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2175</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Hema L. Surlikar
+Lekraj K. Surlikar
+Leo Mendonsa Gonsalves</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85897">
+                <coordinates>73.876727671,15.543618096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85931">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53568,73.88044&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1137</value>
+                </Data>
+                <Data name="name">
+                    <value>Marod Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>191</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53568</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88044</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504121754496.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504121820766.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>187/44; 191/8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>615.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>385</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhavesh Harichandra Shirodkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85930">
+                <coordinates>73.880439037,15.535676151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85964">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55763,73.88865&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6169</value>
+                </Data>
+                <Data name="name">
+                    <value>Aoco</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>397</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55763</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88865</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504112642529.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504112652409.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>52.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5595</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anthony Terrence Dias
+Luis Antonio Dias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85963">
+                <coordinates>73.88865079,15.55763347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85996">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55704,73.88937&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5455</value>
+                </Data>
+                <Data name="name">
+                    <value>Ankha</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>396</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55704</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88937</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504112439549.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504112447185.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>396/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>166.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4270</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:16:08.067925</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pritabai Raghoba Dalvi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85995">
+                <coordinates>73.889368304,15.55703992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86029">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52005,73.87291&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6051</value>
+                </Data>
+                <Data name="name">
+                    <value>Amli Xet Tank (Tali); Varon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>139</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7,8,24</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52005</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87291</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230519082443453.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230519082449435.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2174.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5626</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-28 17:12:09.394073</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Aleixo Fernandes Veloso.
+2) Alcina Fernandes Veloso.
+3) Manuel Alfredo Fernandes Veloso.
+4) Annie Fernandes Veloso.
+4-Four</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86028">
+                <coordinates>73.872906401,15.520046128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86061">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55726,73.88896&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5454</value>
+                </Data>
+                <Data name="name">
+                    <value>Ankha</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>396</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55726</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88896</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504112515758.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504112523118.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>396/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>125.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4269</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:15:08.082603</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose J. Francis Albuquerque</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86060">
+                <coordinates>73.888956752,15.557263874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86094">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55652,73.87567&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6175</value>
+                </Data>
+                <Data name="name">
+                    <value>Cava</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>255</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55652</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87567</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504115420118.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504115431122.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>153.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5560</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Chorao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86093">
+                <coordinates>73.875673278,15.556515871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86126">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54312,73.87585&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3338</value>
+                </Data>
+                <Data name="name">
+                    <value>Hudo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>207</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54312</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87585</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504121607459.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504120846357.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>207/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>124</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>74.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2178</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Ivo Fereira Gonsalves</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86125">
+                <coordinates>73.875851667,15.543121667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86159">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55729,73.88924&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6168</value>
+                </Data>
+                <Data name="name">
+                    <value>Ankha</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>396</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55729</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88924</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504112550595.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504112607553.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5596</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose J. Francis Albuquerque</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86158">
+                <coordinates>73.88924449,15.557293455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86191">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5578,73.87589&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6172</value>
+                </Data>
+                <Data name="name">
+                    <value>Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>286</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5578</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87589</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504115717887.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504115728044.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5561</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Chorao.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86190">
+                <coordinates>73.875893052,15.557803446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86223">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54114,73.87773&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6176</value>
+                </Data>
+                <Data name="name">
+                    <value>Kharad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>208</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>31</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54114</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87773</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504121401808.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504121415395.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5625</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Asha D. Surlikar
+Damodar K. Surlikar
+Hema L. Surlikar
+Lekraj K. Surlikar
+Natalina Siqueira
+Nirmala S. Surlikar
+Prabhakar K.Surlikar
+Sangeeta P.Surlikar
+Sudan K.Surlikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86222">
+                <coordinates>73.877730155,15.541141786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86255">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55773,73.88824&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6170</value>
+                </Data>
+                <Data name="name">
+                    <value>Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>397</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Chorao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55773</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88824</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230504112707503.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230504112714514.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>16 - Maem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Chodan-Madel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Chor/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5594</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anthony Terrence Dias
+Luis Antonio Dias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86254">
+                <coordinates>73.888240801,15.557730478,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6898">
+        <Placemark id="6900">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.310986,74.122732&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3958</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3958</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1419</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHIVRAI KRISHNA SAWANT DESSAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. no 139, Morkanim, Bandol, Dharbandoda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.310986</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.122732</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Bandoli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6899">
+                <coordinates>74.122732,15.310986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6915">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.304074,74.136579&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4242</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4242</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>37A/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Dharma jairam naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>kudel bhandol kirlapal dabal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.304074</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.136579</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Bandoli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6914">
+                <coordinates>74.136579,15.304074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6930">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.305837,74.138541&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4295</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4295</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1415/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Amar Ramgonda Patil</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kirlapal Dharbandora Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.305837</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.138541</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Bandoli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6929">
+                <coordinates>74.138541,15.305837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6945">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.317487,74.140486&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4325</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4325</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>8/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sawardekar Vasudev Shivram</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Savargal, Kirlapal-Dabal</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.317487</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.140486</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Bandoli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6944">
+                <coordinates>74.140486,15.317487,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

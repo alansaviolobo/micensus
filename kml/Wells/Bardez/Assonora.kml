@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="247">
+        <Placemark id="249">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61703,73.9007&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>792</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>792</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1707/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mendes Abel Antonio Agusto</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 312/A Bondir waddo, Asonora, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61703</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9007</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Assonora</value>
+                </Data>
+            </ExtendedData>
+            <Point id="248">
+                <coordinates>73.9007,15.61703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="264">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61958,73.88963&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>796</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>796</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1535/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Salgaonkar Bhikaji Rohidas</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 447/A, Ganesh Nagar, Assonora, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61958</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88963</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Assonora</value>
+                </Data>
+            </ExtendedData>
+            <Point id="263">
+                <coordinates>73.88963,15.61958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61818,73.89996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1124</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1124</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3146/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Bugde Vithoba Sada,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Sancho waddo, Assonora, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61818</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89996</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Assonora</value>
+                </Data>
+            </ExtendedData>
+            <Point id="278">
+                <coordinates>73.89996,15.61818,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,3233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59315">
+        <Placemark id="59317">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31113,73.9077&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4145</value>
+                </Data>
+                <Data name="name">
+                    <value>Maga</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31113</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9077</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211206102126363.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211206102134892.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>382.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2882</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:40:58.152320</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990624.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59316">
+                <coordinates>73.90770201,15.311134926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59349">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31602,73.90312&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4148</value>
+                </Data>
+                <Data name="name">
+                    <value>Aframanto Das Prais</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>67</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31602</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90312</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105093615384.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105093628158.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>343.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2884</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:44:40.334874</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s. Adarsh Realty and Hotels Pvt. Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993424.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59348">
+                <coordinates>73.903121223,15.316020508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59381">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31602,73.91417&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1813</value>
+                </Data>
+                <Data name="name">
+                    <value>Vodlem Tollem; Pimplatoi or Chindri Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>105</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31602</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91417</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803153748776.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803153758372.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>9427.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1271</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda
+Ponda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993774.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59380">
+                <coordinates>73.914172561,15.316020493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59413">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31981,73.92536&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1834</value>
+                </Data>
+                <Data name="name">
+                    <value>Sawasarwadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>180</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31981</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92536</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809113926241.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809113938008.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>813.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1298</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997974.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59412">
+                <coordinates>73.925359563,15.319808771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59445">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30527,73.91308&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1817</value>
+                </Data>
+                <Data name="name">
+                    <value>Proband</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30527</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91308</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809190422608.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809190436574.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>390.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1122</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985374.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59444">
+                <coordinates>73.913077661,15.305274749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59477">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30425,73.90632&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1818</value>
+                </Data>
+                <Data name="name">
+                    <value>Ancanchi Adi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>60</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30425</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90632</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102111636101.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102111646614.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>106.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1037</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Vicente Rui De Erasmo Jaques
+Maria Gracinda Tereza Jaques
+Olegario Jose Jaques</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987124.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59476">
+                <coordinates>73.906320178,15.304248672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59509">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31692,73.91618&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4150</value>
+                </Data>
+                <Data name="name">
+                    <value>Pate</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>111</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31692</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91618</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105092558365.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105092611865.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>289.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2887</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:45:45.966800</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Utorda
+Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994824.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59508">
+                <coordinates>73.916183062,15.316918267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59541">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31829,73.91968&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1811</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaingan Pate</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>129</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31829</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91968</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809104854082.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809104903103.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>251.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1296</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996924.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59540">
+                <coordinates>73.919682195,15.318291981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59573">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30939,73.90813&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4146</value>
+                </Data>
+                <Data name="name">
+                    <value>Adaowado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>53</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30939</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90813</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211206104247453.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211206104255684.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>609.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2883</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:41:51.739972</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986774.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59572">
+                <coordinates>73.908133156,15.3093915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59605">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30526,73.9138&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1816</value>
+                </Data>
+                <Data name="name">
+                    <value>Pongreband</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30526</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9138</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809190216653.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809190241864.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1930.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1121</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985024.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59604">
+                <coordinates>73.913804625,15.305261027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59637">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31555,73.90495&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4147</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaingan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31555</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90495</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211206105216934.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211206105228473.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>904.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2885</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:44:40.334874</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda
+Ponda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993074.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59636">
+                <coordinates>73.904953316,15.315547245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59669">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31775,73.91923&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1809</value>
+                </Data>
+                <Data name="name">
+                    <value>Red Lotus Pond; Herta Parachoir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31775</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91923</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809104550575.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809104636140.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>9523.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1295</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda
+Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996574.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59668">
+                <coordinates>73.919225805,15.317749668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59701">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32222,73.92742&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1836</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 189</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32222</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92742</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809115552494.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809115600534.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>603.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1300</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998674.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59700">
+                <coordinates>73.9274217,15.322218873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59733">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31659,73.91812&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1810</value>
+                </Data>
+                <Data name="name">
+                    <value>5th Lote Mundo Valadi Band</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>110</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31659</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91812</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809103833491.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809103843565.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1413.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1301</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda
+Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995524.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59732">
+                <coordinates>73.918117604,15.316589383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59765">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30561,73.90654&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3955</value>
+                </Data>
+                <Data name="name">
+                    <value>Ancanchi Adi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30561</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90654</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102055241903.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102112249919.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>88.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2633</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aquamarine Resorts Private Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987824.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59764">
+                <coordinates>73.906537838,15.305605385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59797">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31759,73.9129&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1828</value>
+                </Data>
+                <Data name="name">
+                    <value>Meddem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>94</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31759</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9129</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803155554758.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803155412283.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1298.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1268</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Nossa Senhora De Boa Morte
+The Executive Engineer, W.D.VI (Roads), PWD, Fatorda Margao.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994474.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59796">
+                <coordinates>73.912898551,15.317588697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59829">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31312,73.90585&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1822</value>
+                </Data>
+                <Data name="name">
+                    <value>Fondem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>73</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31312</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90585</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105093747727.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105093758632.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>470.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1049</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade  Of Mazorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992024.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59828">
+                <coordinates>73.905851739,15.313120364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59861">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30516,73.90592&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3957</value>
+                </Data>
+                <Data name="name">
+                    <value>Ancanchi Adi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30516</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90592</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102114004074.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102114011460.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>103.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2632</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aquamarine Resorts Private Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988524.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59860">
+                <coordinates>73.905918041,15.305161455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59893">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32035,73.91522&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3770</value>
+                </Data>
+                <Data name="name">
+                    <value>Pate</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>117</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32035</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91522</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803103226002.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803103234591.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>236.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2486</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-03 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aleino D'costa
+Jose Elias D'costa
+Epifanio D'costa
+Antonio Maricio D'costa
+Placido D'costa
+Ortencia D'costa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995874.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59892">
+                <coordinates>73.915224142,15.32035477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59925">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30535,73.90589&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3956</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30535</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90589</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102113916938.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102113925040.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2631</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aquamarine Resotrs Private Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988874.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59924">
+                <coordinates>73.905887322,15.30535385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59957">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31343,73.90721&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1823</value>
+                </Data>
+                <Data name="name">
+                    <value>Unchigadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>74</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31343</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90721</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809175426309.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809175436669.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>266.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1048</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Mazorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991674.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59956">
+                <coordinates>73.90721345,15.313432246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59989">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31693,73.91409&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1812</value>
+                </Data>
+                <Data name="name">
+                    <value>Pate</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31693</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91409</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803154154331.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803154203472.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1127.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2502</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>1. Carminda Fernandes
+2. Ananda Poi Palondicar
+3. Madhav Poi Palondicar
+4. Vaman Poi Palondicar
+5. Baburao Poi Palondicar
+6. Xamrao Poi Palondicar
+7. Gopalkrishna Poi Palcondicar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994124.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="59988">
+                <coordinates>73.914090647,15.316932151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60021">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31487,73.90424&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1825</value>
+                </Data>
+                <Data name="name">
+                    <value>Aframanto Dos Prais Fatiota</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>71</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31487</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90424</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809182252066.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809182320548.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>648.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1052</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s. Adarsh Realty and Hotels Pvt. Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992724.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60020">
+                <coordinates>73.904236489,15.31487238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60053">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32239,73.91409&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1830</value>
+                </Data>
+                <Data name="name">
+                    <value>Landpem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>119</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32239</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91409</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102103933381.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102103943343.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>043</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>362.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1063</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>996224.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60052">
+                <coordinates>73.914086547,15.322389919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60085">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31177,73.91615&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1815</value>
+                </Data>
+                <Data name="name">
+                    <value>Nomos</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31177</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91615</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803152930048.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803152938954.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2290.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1273</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984674.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60084">
+                <coordinates>73.916150678,15.311774235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60117">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3209,73.92647&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1833</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>West of 188</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3209</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92647</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809114856146.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809114905198.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1869.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1299</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998324.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60116">
+                <coordinates>73.926466498,15.32090381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60149">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32128,73.91939&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1832</value>
+                </Data>
+                <Data name="name">
+                    <value>Curilo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>134</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32128</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91939</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809121410930.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809121419340.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>292.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1294</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>1. Lourenco Antonio Do Rosario
+2. Santano Do Rosario</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997274.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60148">
+                <coordinates>73.919389496,15.321284361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60181">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31373,73.91466&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1814</value>
+                </Data>
+                <Data name="name">
+                    <value>Kursa Tollem; Mazwadi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>33</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31373</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91466</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803153311892.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803153349015.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2519.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1272</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985724.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60180">
+                <coordinates>73.914655936,15.313730042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60213">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30411,73.90677&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1819</value>
+                </Data>
+                <Data name="name">
+                    <value>Ancanchi Adi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>35</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30411</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90677</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102111435578.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102111443769.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>541.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1036</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Vicente Rui De Erasmo Jaques
+Maria Gracinda Tereza Jaques
+Olegario Jose Jaques</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986424.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60212">
+                <coordinates>73.90677195,15.304112055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60245">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32156,73.92294&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1835</value>
+                </Data>
+                <Data name="name">
+                    <value>Phond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>177</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32156</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92294</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809120623120.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809120612661.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>510.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1297</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997624.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60244">
+                <coordinates>73.922941083,15.321557139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60277">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3113,73.90648&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4144</value>
+                </Data>
+                <Data name="name">
+                    <value>Nadea Gonn</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3113</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90648</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211206103243544.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211206103252721.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>821.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2881</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:40:58.152320</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Majorda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>991324.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60276">
+                <coordinates>73.906479506,15.311303394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60309">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31381,73.90412&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3795</value>
+                </Data>
+                <Data name="name">
+                    <value>Naideachi Adi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31381</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90412</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809125544324.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809125554670.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>291.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2542</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-09 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anil Lalit Kumar Jaques
+Anne Thomas Jacques
+Rommel Marshall Almeida
+Russel Vito Marchon
+Savitri Jaques alias Savitri Almeida
+Selwyn Romao Jude Albuquerque
+Snighda Jaques alias Snighda Albuquerque
+Sumitra Jaques
+Sunil Bonifacio Jacques
+Sunita Jaques alias Sunita Jacques e Marchon</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992374.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60308">
+                <coordinates>73.904116345,15.313809238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60341">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31885,73.91299&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4149</value>
+                </Data>
+                <Data name="name">
+                    <value>Tode</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>93</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91299</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211206111145761.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211206111155777.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>904.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2886</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-28 05:44:40.334874</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Carminho Luizo Andrade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>995174.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60340">
+                <coordinates>73.912987705,15.318845678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60373">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3064,73.90826&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3704</value>
+                </Data>
+                <Data name="name">
+                    <value>Namoshi Dushmathe Rashicho Bandh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3064</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90826</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102112904502.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102112916943.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Majo/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>233.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2215</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-18 07:47:40.611867</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pedro Mendes
+Philisine Santano Mendes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987636.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986074.91938089</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60372">
+                <coordinates>73.908264818,15.306396355,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1296">
+        <Placemark id="1298">
+            <ExtendedData>
+                <Data name="id">
+                    <value>6274</value>
+                </Data>
+                <Data name="name">
+                    <value>Siddheshwar Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20231019110340749.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20231019110324551.jpg</value>
+                </Data>
+                <Data name="status">
+                    <value>Pending</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="print_order">
+                    <value>--</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-10-20 14:21:20.065643</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="label_x">
+                    <value>0.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>0.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1297">
+                <coordinates>73.814721402,15.572230402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1314">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58289,73.82601&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1007</value>
+                </Data>
+                <Data name="name">
+                    <value>Lom</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>78</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58289</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82601</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006113034973.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006113124642.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>31/1; 78/0; 168/1,9-10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Bast/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1079.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4026</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Bastora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017966.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1313">
+                <coordinates>73.826007757,15.582892836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1347">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58896,73.82791&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1008</value>
+                </Data>
+                <Data name="name">
+                    <value>Pedar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58896</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82791</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419090717696.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419090722814.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>44/37,42; 45/13-14,19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Bast/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>334.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4630</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Bastora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019216.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1346">
+                <coordinates>73.827909776,15.588955264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1380">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58235,73.82474&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>825</value>
+                </Data>
+                <Data name="name">
+                    <value>Tank near Satpurush Temple; Boa Vista Vaddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58235</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82474</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006112440510.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006112518845.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/5,8-9; 10/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Bast/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3649.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3447</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Bastora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1379">
+                <coordinates>73.824739991,15.582354761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1413">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58521,73.82493&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1004</value>
+                </Data>
+                <Data name="name">
+                    <value>Gothan Komb</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24</value>
+                </Data>
+                <Data name="village">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58521</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82493</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419090817171.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419090821946.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/22,24-26</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Bast/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1414.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4626</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Bastora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018466.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1412">
+                <coordinates>73.824929166,15.585211985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1446">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58766,73.82385&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>826</value>
+                </Data>
+                <Data name="name">
+                    <value>Pelase</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>38</value>
+                </Data>
+                <Data name="village">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58766</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82385</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419090753220.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419090757425.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/4,29,38,42,44-51,63-64</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bastora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Bast/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1487.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4628</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Bastora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018716.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1445">
+                <coordinates>73.82384946,15.587656683,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5922">
+        <Placemark id="5924">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63323,73.78336&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5843</value>
+                </Data>
+                <Data name="name">
+                    <value>Fulzad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Oxel</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63323</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78336</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131104121545.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131104129800.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Oxel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Oxel/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>29.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5327</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-01-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Hermelezil Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5923">
+                <coordinates>73.78335558,15.633227339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5956">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63683,73.77544&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>881</value>
+                </Data>
+                <Data name="name">
+                    <value>Agavor Sheviche Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Oxel</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63683</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77544</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221012125222894.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221012125248064.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/7; 16/1-2,7-8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Oxel</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Oxel/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1757.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4745</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pawlin Monteiro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5955">
+                <coordinates>73.775439214,15.636825098,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

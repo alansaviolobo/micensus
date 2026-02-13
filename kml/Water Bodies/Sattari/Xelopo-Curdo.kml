@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="83442">
+        <Placemark id="83444">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48154,74.16618&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3162</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Yeshodi Rama Gaonkar; Zormenkarachem Vaigan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Xelopo-Curdo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48154</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16618</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827074825140.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827074847749.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>22/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Xelc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1906</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Yeshodi Rama Gaonkar
+2) Barkelo Krishna Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007647.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83443">
+                <coordinates>74.166183333,15.481543333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

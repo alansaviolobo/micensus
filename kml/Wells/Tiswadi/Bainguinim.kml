@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25547">
+        <Placemark id="25549">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49831,73.90117&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>132</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>132</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1142/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Gomes John Francis</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Baiguinim, Old Goa, Tiswadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49831</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90117</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Bainguinim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25548">
+                <coordinates>73.90117,15.49831,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

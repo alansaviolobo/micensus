@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19370">
+        <Placemark id="19372">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.164092,74.240056&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4093</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4093</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>40/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>DATTA VASUDEV MORAJKAR VATSALYA</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 1089, Opp. SBI, Badem, Vijaynagar, Porvorim, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.164092</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.240056</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Viliena</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19371">
+                <coordinates>74.240056,15.164092,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

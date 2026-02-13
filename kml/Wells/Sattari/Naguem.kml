@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22849">
+        <Placemark id="22851">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53019,74.11568&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2867</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2867</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>243/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sitaram Kerkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Harijan wada, Nagvem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53019</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11568</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Naguem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22850">
+                <coordinates>74.11568,15.53019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22866">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53329,74.11146&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2868</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2868</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>248/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shaikh Rashid</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Murgundichi bharad Nagvem\t</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53329</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11146</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Naguem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22865">
+                <coordinates>74.11146,15.53329,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

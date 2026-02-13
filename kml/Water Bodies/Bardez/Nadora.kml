@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5058">
+        <Placemark id="5060">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6603,73.86725&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6090</value>
+                </Data>
+                <Data name="name">
+                    <value>Jambhuche Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Nadora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6603</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86725</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420105916263.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420105922590.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nadora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>114</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nado/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>107.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5501</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade
+Gajanan Bala Gawas
+Geetanjali Gajanan Gawas
+Gurudas Bala Gawas
+Hirabai Bala Gawas
+Vandana Gurudas Gawas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5059">
+                <coordinates>73.86724703,15.660302727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5092">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66816,73.86416&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1123</value>
+                </Data>
+                <Data name="name">
+                    <value>Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Nadora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66816</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86416</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006073945125.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006074000863.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>14/1; 15/44-45; 16/2; 95/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nadora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nado/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5434.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4722</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. Tank</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5091">
+                <coordinates>73.864164104,15.668159597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5125">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.66241,73.86645&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6091</value>
+                </Data>
+                <Data name="name">
+                    <value>Jambuche Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>7</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Nadora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.66241</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86645</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230420105956175.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230420110000385.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>04 - Tivim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nadora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>113</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nado/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5500</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030662.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5124">
+                <coordinates>73.866447334,15.662407291,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

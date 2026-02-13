@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24328">
+        <Placemark id="24330">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61919,74.1596&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2800</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2800</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1603/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Prakash T Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Thane sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61919</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1596</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24329">
+                <coordinates>74.1596,15.61919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24345">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61481,74.16277&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2806</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2806</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>11/19/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ravinda Kumar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Thane sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61481</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16277</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24344">
+                <coordinates>74.16277,15.61481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24360">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63014,74.16523&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2822</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2822</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>87/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gopal D. Khot</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Ambyachi bharad, Thane, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63014</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16523</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Rivem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="24359">
+                <coordinates>74.16523,15.63014,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

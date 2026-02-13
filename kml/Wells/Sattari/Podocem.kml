@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23838">
+        <Placemark id="23840">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57249,74.0139&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2947</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2947</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1299/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Kelkar Vasudev Gajanan</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>77, Mathwada, Parye, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57249</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0139</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23839">
+                <coordinates>74.0139,15.57249,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

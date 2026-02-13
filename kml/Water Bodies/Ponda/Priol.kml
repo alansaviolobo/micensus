@@ -1,0 +1,3012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="36998">
+        <Placemark id="37000">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45065,73.98128&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4577</value>
+                </Data>
+                <Data name="name">
+                    <value>Acar Khotiye Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45065</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98128</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304092233779.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304092305184.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>36.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3656</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+Kashinath B. Kenkaro
+Ramabai Shantaram Kenkaro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36999">
+                <coordinates>73.981281667,15.450651667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37032">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44022,73.97591&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>340</value>
+                </Data>
+                <Data name="name">
+                    <value>Nawas Kando Bhatawaril Tukado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>308</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44022</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97591</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228083215927.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228083228941.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>306.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2831</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Cuncolie
+Dewasthan Mahalsa
+Executive Engineer W.D.XV(NH)P.W.D.
+Ponda
+Village Panchayat Veling, Priol,</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37031">
+                <coordinates>73.97590774,15.440218409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37064">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43567,73.98133&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4567</value>
+                </Data>
+                <Data name="name">
+                    <value>Khedem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>294</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43567</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98133</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302124209975.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302181218234.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3665</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+Shri Mahalsa Dewasthan
+Shri Shantadurga Kalangutkarin</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37063">
+                <coordinates>73.981331667,15.435671667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37096">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44863,73.98072&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4574</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>78</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44863</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98072</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304090913396.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304090941601.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>145</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>84.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3659</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Ganapati Sonu Poi Raikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37095">
+                <coordinates>73.98072,15.448625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37128">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4387,74.00742&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4594</value>
+                </Data>
+                <Data name="name">
+                    <value>Res Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4387</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00742</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304154006531.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304154014428.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>372.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3640</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Vaman Upendra Khavate</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010119.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003664.09207796</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37127">
+                <coordinates>74.007424335,15.438697185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37160">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43768,73.98253&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>337</value>
+                </Data>
+                <Data name="name">
+                    <value>Keshav Ardh,Savang Shet,Sawang Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>296</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-24</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43768</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98253</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302172730201.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302172803056.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>8599.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3205</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+1-one
+Ganapat Sonu Pai Raikar
+Ganapati Sinu Pai Raikar
+Ganapati Sonu Pai Raikar
+Ganapati sonu Pai Raikar
+Rauji Kelekar
+Ravaji Kelekar
+Rawaji Kelekar
+Shivaram Vasudev Korde
+Shivram Vasudev Korde
+Shri Keshav Devasthan  -  Priol
+Vaman Vishnu Kelekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37159">
+                <coordinates>73.982532456,15.437675002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37192">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41889,73.98592&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>334</value>
+                </Data>
+                <Data name="name">
+                    <value>Kone Tank; Conem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>273</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41889</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98592</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304075654838.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304075705550.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>7895.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2824</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37191">
+                <coordinates>73.985915318,15.418885425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37224">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45036,73.98107&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4575</value>
+                </Data>
+                <Data name="name">
+                    <value>Acar Khotiye Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45036</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98107</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304091953565.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304092001705.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/49</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3658</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+Kashinath B. Kenkaro
+Ramabai Shantaram Kenkaro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37223">
+                <coordinates>73.981073333,15.45036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37256">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43604,73.9818&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4566</value>
+                </Data>
+                <Data name="name">
+                    <value>Khedem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>294</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43604</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9818</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302123651311.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302180722466.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>143</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>230.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3632</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Umakant Bhalchandra Kenkare
+2)Fataba Bhalchandra Kenkare
+3)Shripad Bhalchandra Kenkare
+4)Shrikrishna Bhalchandra Kenkare
+5)Diwakar Bhalchandra Kenkare
+6-Six
+Rajendra Bhalchandra Kenkare
+The Executive Engineer, Works Division XV (NH), PWD, Ponda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37255">
+                <coordinates>73.981803333,15.43604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37288">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42205,73.99469&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2510</value>
+                </Data>
+                <Data name="name">
+                    <value>Magilwada Ward No.2, Veling</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>South of 213</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42205</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99469</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302165030633.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302165101716.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>798.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3044</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:13</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010119.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001664.0920779591</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37287">
+                <coordinates>73.99469,15.42205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37320">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4468,73.98015&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4123</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahar Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>76</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4468</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98015</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304085303752.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304085346186.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>467.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2833</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-27 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Manohar Kalu Parwar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37319">
+                <coordinates>73.980149775,15.446798947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37352">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45095,73.98163&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4578</value>
+                </Data>
+                <Data name="name">
+                    <value>Acar Khotiye Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45095</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98163</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304092424224.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304092436408.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>57.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3655</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+Kashinath B. Kenkaro
+Ramabai Shantaram Kenkaro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37351">
+                <coordinates>73.981625,15.450945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37384">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45065,73.98104&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4576</value>
+                </Data>
+                <Data name="name">
+                    <value>Acar Khotiye Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45065</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98104</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304092114880.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304092133798.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>103.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3657</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+Kashinath B. Kenkaro
+Ramabai Shantaram Kenkaro</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37383">
+                <coordinates>73.98104,15.450648333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37416">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44006,73.97202&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>338</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahaalasa Narayani Temple; Shri Dev Mahalsa</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44006</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97202</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228085054103.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228085129297.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4124.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2829</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Devastan of Mahalsa
+Ravindra Bhanudas Mardolkar
+Sumitra M. Borkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37415">
+                <coordinates>73.972016197,15.440064223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37448">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43783,73.98356&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>336</value>
+                </Data>
+                <Data name="name">
+                    <value>Betal Temple Tank; Keshav Ardh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>297</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43783</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98356</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302172543401.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302172555374.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1064.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3204</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Shri Keshav Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37447">
+                <coordinates>73.983557726,15.43782787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37480">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43612,73.98147&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4568</value>
+                </Data>
+                <Data name="name">
+                    <value>Khedem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>294</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43612</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98147</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302124438225.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302124504113.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>142</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>288.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3664</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+Shri Mahalsa Dewasthan
+Shri Shantadurga Kalangutkarin</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37479">
+                <coordinates>73.98147,15.43612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37512">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44603,73.96709&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>342</value>
+                </Data>
+                <Data name="name">
+                    <value>Dactifal,Daktifal,Dhactifal,Dhaktifal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>39-45</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44603</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96709</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228081451630.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228081503046.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1176.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2835</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Shri Manguesh Deo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37511">
+                <coordinates>73.967091478,15.446032661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37544">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44606,73.98014&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4573</value>
+                </Data>
+                <Data name="name">
+                    <value>Liargina</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>76</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44606</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98014</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304085735058.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304085804379.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>148</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>43.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3660</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Vasudeo Bhat Totekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37543">
+                <coordinates>73.980138333,15.446061667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37576">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43377,73.98763&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4484</value>
+                </Data>
+                <Data name="name">
+                    <value>Nallokond</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>244</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3,4</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43377</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98763</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405081206308.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405081108352.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>242.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3571</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-21 03:25:08.244848</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Shivaram V.Karde
+1)Shivaram V.Korde
+2)Purushottam V.Priolkar
+3)Mangesh Vithal Priolkar
+4)Narayan B.Priolkar
+5)Bhaskar Vithal Sinai Vagalo
+5-Five</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37575">
+                <coordinates>73.987625309,15.433767676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37608">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43939,73.97203&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>343</value>
+                </Data>
+                <Data name="name">
+                    <value>Oholem,Oholen</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-10</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43939</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97203</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228085900595.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228085910440.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3729.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2830</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Shripad R. Vaidya
+The Temple of Shree Mahalsa of Mardol</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37607">
+                <coordinates>73.972033329,15.439389495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37640">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42275,73.99448&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4563</value>
+                </Data>
+                <Data name="name">
+                    <value>Borgal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>213</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42275</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99448</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302114009187.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302114029596.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>99.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3668</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Datta Babu Zingdo
+The Executive Engineer, W.D. XVIII (Road), P.W.D. Ponda Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010119.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001914.09207796</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37639">
+                <coordinates>73.994483333,15.42275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37672">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44161,73.9665&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4693</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44161</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9665</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220402151813370.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220402151829605.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3752</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37671">
+                <coordinates>73.9665,15.441611667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37704">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44633,73.97721&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4580</value>
+                </Data>
+                <Data name="name">
+                    <value>Pedro Bhatiya Akar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>55</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44633</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97721</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304041359083.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304094526465.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>83.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3653</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Shripad Sadashiv Priolkar
+2) Somnath Jaiwant Priolkar
+3) Raghuvir Manguesh Priolkar
+4) Kashinath Shamba Priolkar
+5) Purchottam Dharma Priolkar
+6) Faudu Vaman Priolkar
+7) Balchandra Keshav Priolkar
+8 - Eight
+8) Vaikunth Rauji Priolkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37703">
+                <coordinates>73.977209212,15.44632665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37736">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44573,73.97973&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>341</value>
+                </Data>
+                <Data name="name">
+                    <value>Golibatto,Majiwa,Maziwa</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>75</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9-12</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44573</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97973</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304084928703.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304084944109.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1341.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2832</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>2-Two
+4-Four
+7-Seven
+Ganapat Dattaram Totekar
+Krishna Ramchandra Totekar
+Narayan Vassudev Totekar
+Pandharinath Vinayak Dessai
+Pramod Shambunath Priolkar
+Rajaram Dattaram Priolkar
+Ranji Kelekar
+Sadanand Ganaba Priolkar
+Sadanand Priolkar
+Sonarao Dallaram Priolkar
+Sonarao Dattaram Priolkar
+Vaman Vishnu Kelekar
+Vidyadhar Vassudev Totekar
+Vidyadhar Vinayak Dessai
+Vinayak Dattatray Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37735">
+                <coordinates>73.979725485,15.445725607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37768">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44025,73.98682&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4565</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>120</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44025</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98682</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302121319201.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302121340367.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>149</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3666</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Raghunath Damodhar Korde</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003693.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37767">
+                <coordinates>73.986818333,15.44025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37800">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42996,73.98652&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4572</value>
+                </Data>
+                <Data name="name">
+                    <value>Kone</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>247</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42996</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98652</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304024917642.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304081940281.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>147</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>61.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3661</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Pandu Sagun Gaude
+Shripad Vishnu Kamat Tarkar
+The Executive Engineer, Works Division XV (NH), PWD, Ponda
+Vaman Onu Gaude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1000443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37799">
+                <coordinates>73.986518333,15.429958333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37832">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4433,73.97791&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2524</value>
+                </Data>
+                <Data name="name">
+                    <value>Taleband Lake; Talem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10-24</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4433</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.97791</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304084148656.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304084201180.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13245.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3043</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Shri Betal Dev Temple
+Shri Betaldeo Temple
+Shri Betaldev Temple</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37831">
+                <coordinates>73.977908399,15.443297347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37864">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44777,73.98003&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4579</value>
+                </Data>
+                <Data name="name">
+                    <value>Ganabapatavaril Bhatiye</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>77</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44777</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98003</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304093520784.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304093530162.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>146</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3654</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Chedo Vassant Gaude, Ashok Vassant Gaude, Shyam Vassant Gaude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008193.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37863">
+                <coordinates>73.980031667,15.447765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37896">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44515,73.96716&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>339</value>
+                </Data>
+                <Data name="name">
+                    <value>Mangesh Temple Tank; Mangueshi Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44515</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96716</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228075122992.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228075401872.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5239.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2834</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Shri Manguesh Deo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006943.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37895">
+                <coordinates>73.967161322,15.445151035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37928">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4237,73.99519&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>335</value>
+                </Data>
+                <Data name="name">
+                    <value>Bargal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>215</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-4</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4237</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99519</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405081929645.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405081957524.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4952.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3242</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+Datta Babu Zingdi
+Datta Babu Zingdo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010119.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002414.09207796</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37927">
+                <coordinates>73.995188867,15.423699447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37960">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41944,73.98575&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4571</value>
+                </Data>
+                <Data name="name">
+                    <value>Agar Galiem Borodo Sudham</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>269</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Priol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41944</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98575</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220304075335615.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220304075356957.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>20 - Priol</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Veling,Priol,Cuncoliem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>144</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Prio/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>84.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3662</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-One
+The Executive Engineer, Works Division XV (NH), PWD Ponda
+Yeshwant Kakoba Priolkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990548.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999443.099836464</value>
+                </Data>
+            </ExtendedData>
+            <Point id="37959">
+                <coordinates>73.985746667,15.419443333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

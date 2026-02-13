@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="49163">
+        <Placemark id="49165">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3088,73.92963&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1391</value>
+                </Data>
+                <Data name="name">
+                    <value>Ateapato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3088</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92963</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809125833264.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809125848486.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1046.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1276</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calata</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998059.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49164">
+                <coordinates>73.929631681,15.308798874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49197">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31296,73.93151&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1387</value>
+                </Data>
+                <Data name="name">
+                    <value>Nagar Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>35</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31296</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93151</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809124734628.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809124923072.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1658.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1282</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999809.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49196">
+                <coordinates>73.931507777,15.312959112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49229">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31354,73.93012&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1386</value>
+                </Data>
+                <Data name="name">
+                    <value>Nagar Pato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>72</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31354</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93012</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809124244810.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809124430014.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1198.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1281</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999109.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49228">
+                <coordinates>73.93011861,15.313537963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49261">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31129,73.92888&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1388</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhakto Lotolim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>75</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3-4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31129</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92888</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211106102259951.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211106102334361.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>148</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2185.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1278</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Roque Godinho</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998409.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49260">
+                <coordinates>73.928883072,15.311291847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49293">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31323,73.92848&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1385</value>
+                </Data>
+                <Data name="name">
+                    <value>Tollea Bandh; Tolea Bando</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>76</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31323</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92848</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809123248046.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809123338912.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>147</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4503.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1280</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Filomena Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998759.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49292">
+                <coordinates>73.928483687,15.313233939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49325">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30865,73.92073&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1358</value>
+                </Data>
+                <Data name="name">
+                    <value>Mallem or Pimpla Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>83</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>26</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30865</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92073</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211029085347408.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211029090150369.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>674.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1274</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calata</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997009.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49324">
+                <coordinates>73.920728286,15.308653732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49357">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30873,73.92825&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1390</value>
+                </Data>
+                <Data name="name">
+                    <value>Ateapato</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30873</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92825</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809130640004.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809130653910.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2342.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1275</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997709.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49356">
+                <coordinates>73.928253178,15.308730178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49389">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31164,73.93166&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1392</value>
+                </Data>
+                <Data name="name">
+                    <value>Valado Donxim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>74</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31164</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93166</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809125228269.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809125104723.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1469.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1277</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calat</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999459.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49388">
+                <coordinates>73.931659008,15.311637287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49421">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.31088,73.92629&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1389</value>
+                </Data>
+                <Data name="name">
+                    <value>Tostem IV,Toxtem,Toxtem IV</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>79</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6,18,30</value>
+                </Data>
+                <Data name="village">
+                    <value>Calata</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.31088</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92629</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210809131604899.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210809131749801.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>28 - Nuvem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Majorda-Utorda-Calata</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cala/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1436.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1279</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calata
+Magarita Rodrigues alias Maria Rita Rodrigues
+Sebastiao Socorro Pereira</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997359.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49420">
+                <coordinates>73.926288299,15.310878545,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

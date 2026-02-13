@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4707">
+        <Placemark id="4709">
+            <ExtendedData>
+                <Data name="id">
+                    <value>6288</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>101</value>
+                </Data>
+                <Data name="village">
+                    <value>Marna</value>
+                </Data>
+                <Data name="status">
+                    <value>Pending</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="print_order">
+                    <value>--</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2025-12-02 03:01:19.967935</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2026-01-13 10:55:26.103992</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="label_x">
+                    <value>0.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>0.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4708">
+                <coordinates>73.785002505,15.611899879,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

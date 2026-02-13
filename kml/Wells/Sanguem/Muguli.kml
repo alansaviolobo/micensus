@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17803">
+        <Placemark id="17805">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.242821,74.158641&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4077</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4077</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>685</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>NAIK BHANDARI DEVANAND PISSO</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 61, Marangan, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.242821</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.158641</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Muguli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17804">
+                <coordinates>74.158641,15.242821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17820">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.241604,74.151273&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4078</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4078</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>64/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>RESHMA RATNAKAR NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 72, Marangan, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.241604</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.151273</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Muguli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17819">
+                <coordinates>74.151273,15.241604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17835">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.241355,74.169413&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4079</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4079</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>59/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>ROMUALDO ALEX FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 11, Bamonsai, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.241355</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.169413</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Muguli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17834">
+                <coordinates>74.169413,15.241355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17850">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.242839,74.169997&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4080</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4080</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>58/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>ROMUALDO ALEX FERNANDES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 11, Bamonsai, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.242839</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.169997</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Muguli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17849">
+                <coordinates>74.169997,15.242839,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8105">
+        <Placemark id="8107">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61912,73.77522&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5396</value>
+                </Data>
+                <Data name="name">
+                    <value>Cuttwall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Siolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61912</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77522</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131092518717.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131092524706.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>27/38; 29/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Siolim-Sodiem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Siol/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>238.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4211</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:00:10.797293</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8106">
+                <coordinates>73.775218185,15.619121304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8140">
+            <ExtendedData>
+                <Data name="id">
+                    <value>6279</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Pending</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="print_order">
+                    <value>--</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-12-26 17:22:41.043943</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="label_x">
+                    <value>0.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>0.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8139">
+                <coordinates>73.785942212,15.619875042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8153">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62089,73.79374&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5653</value>
+                </Data>
+                <Data name="name">
+                    <value>Sakhleshwar Lake; Goulan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>279</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Siolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62089</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79374</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221012101022305.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221012101039166.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>209/61; 210/1; 213/21,35,40-43; 279/1; 281/13-14; 282/38-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Siolim-Sodiem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Siol/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26775.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4810</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 19:15:04.791541</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Allwyn Almeida
+Amanda Coelho
+Cynthia Sebastiana Ferrao
+Francis Ferrao
+Isabelle Mafalda Carmelina Matilda de Braganza
+Jason Robert Ferrao
+John Ataide
+Joyce Ferrao
+Julius D Silva Fernandes
+Lili Margarida Fernandes
+Marcelino Leonard Coelho
+Marilyn Ferrao
+Sharon Almeida
+Zelia D Mello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8152">
+                <coordinates>73.793740585,15.620889077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8186">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61851,73.77478&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5652</value>
+                </Data>
+                <Data name="name">
+                    <value>Cuttwall</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Siolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61851</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77478</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131092602946.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131092609539.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>29/7-10</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Siolim-Sodiem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Siol/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>254.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4809</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 19:09:04.794272</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8185">
+                <coordinates>73.774784153,15.618513695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8219">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6201,73.78055&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5397</value>
+                </Data>
+                <Data name="name">
+                    <value>Pariachi Colsul</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Siolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6201</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78055</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131103916734.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131103925363.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/3-5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Siolim-Sodiem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>142</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Siol/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>303.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4212</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:01:08.071332</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8218">
+                <coordinates>73.780547367,15.62009893,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="811">
+        <Placemark id="813">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55821,73.78446&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>932</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>932</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2427/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Noronha Randolph</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Shri Noronha Randolph, Delux Apartment, Flat T-7, Tonca, Caranzalem Goa (Well in Nagoa)</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55821</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78446</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+            </ExtendedData>
+            <Point id="812">
+                <coordinates>73.78446,15.55821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="828">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55819,73.7852&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1123</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1123</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2998/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Divkar Ramdas Rohidas,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 131/1, Mendes vaddo, Nagoa - Arpora, Bardez - Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55819</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7852</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Nagoa</value>
+                </Data>
+            </ExtendedData>
+            <Point id="827">
+                <coordinates>73.7852,15.55819,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

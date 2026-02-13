@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7709">
+        <Placemark id="7711">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40992,74.166791&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4250</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4250</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1575/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Girish nadkarni</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>malle sacorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40992</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.166791</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Sancordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7710">
+                <coordinates>74.166791,15.40992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7726">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40688,74.174632&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4261</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4261</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>33/Dharbandora</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sitaram ramkrishna joshi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>usguin sacorda dharbandora goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40688</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.174632</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="village">
+                    <value>Sancordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7725">
+                <coordinates>74.174632,15.40688,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

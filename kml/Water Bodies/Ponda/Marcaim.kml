@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34652">
+        <Placemark id="34654">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40931,73.9423&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4531</value>
+                </Data>
+                <Data name="name">
+                    <value>Navdurga Temple Tank; Parampoi Thikan Vog Tela Khol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>505</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40931</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9423</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228040518554.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228093537961.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>88.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3620</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francisco Samiro Alkantra Piedadade Vaz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001607.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34653">
+                <coordinates>73.942303333,15.40931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34686">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41674,73.94252&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>295</value>
+                </Data>
+                <Data name="name">
+                    <value>Navdurga Lake; Devasthan Talya Varko,Devasthan Tolya Varko</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>523</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-20</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41674</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94252</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228100301715.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228100320393.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>71897.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3224</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Marcaim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002357.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34685">
+                <coordinates>73.94252047,15.416738589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34718">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41604,73.94393&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>293</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>521</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41604</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94393</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228100706322.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228100721992.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4512.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3223</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Laximi Narayan Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002107.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34717">
+                <coordinates>73.943933304,15.41603826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34750">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41455,73.93228&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4534</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41455</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93228</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228102549547.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228102608047.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2710.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3621</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Marcaim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003107.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34749">
+                <coordinates>73.932282994,15.414549679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34782">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42976,73.95119&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>298</value>
+                </Data>
+                <Data name="name">
+                    <value>Avad Mad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>299</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-10</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42976</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95119</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228104646274.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228104712211.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>74901.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3226</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Comunidade
+Gajanan Shrinivas Lawande}
+Krishna Narayan Kamat
+Ramchandra Govind Sinai Nevarakar }1/2
+Ramchandra Trivikram Kamat
+Smt. Shantabai Narsinha Naik }1/2</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004357.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34781">
+                <coordinates>73.951185712,15.429763452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34814">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43138,73.95078&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4535</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>255</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43138</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95078</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228105855618.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228105921508.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>354.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3622</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-28 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Dnyneshwar Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004607.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34813">
+                <coordinates>73.950777291,15.431378112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34846">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41675,73.92752&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4280</value>
+                </Data>
+                <Data name="name">
+                    <value>Adon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-5</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41675</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92752</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228103234832.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228103254610.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85397.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3230</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-31 08:28:34.210608</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alka Vallabh Kamat
+Anjali Ashok Kamat
+Ashok Narayan Kamat
+Indira Shriram Kamat
+Naguesh Ramachondra Naik
+Narahari Ram Kamat
+Narayan Ram Kamat
+Oceanic Acqua Culture P.Ltd
+Shrirama Sripada Camotim alias Ajit Shripad Kamat
+Vallabh Narayan Kamat
+Vinayak Ram Kamat
+[ Kashinath Pandhari Tari ]
+[ Pandurang Rama Tari ]
+[Shripad Ram Kamat]</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003857.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34845">
+                <coordinates>73.92751952,15.416745589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34878">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41839,73.94251&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>294</value>
+                </Data>
+                <Data name="name">
+                    <value>Navdurga Temple Tank; Devalaya Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41839</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94251</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228095426298.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228095505420.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1778.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3228</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Navdurga Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002607.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34877">
+                <coordinates>73.942512687,15.418389263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34910">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42021,73.94124&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>296</value>
+                </Data>
+                <Data name="name">
+                    <value>Gawla,Gawle</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>136</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18,19</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42021</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94124</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228095825400.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228095843396.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3825.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3227</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Executive Engineer,Division XVIII(Roads) P.W.D. Ponda-Goa (Area:10 )
+Shri Navdurga Devasthan</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003607.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34909">
+                <coordinates>73.941243619,15.4202105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34942">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41609,73.93438&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>292</value>
+                </Data>
+                <Data name="name">
+                    <value>Sakti Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>42</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41609</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93438</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220228101411072.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220228101435472.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Marcaim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Marc/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1749.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3210</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003357.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34941">
+                <coordinates>73.934381694,15.416090973,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

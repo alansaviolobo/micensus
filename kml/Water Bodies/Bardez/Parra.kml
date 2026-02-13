@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6123">
+        <Placemark id="6125">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57764,73.78806&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5505</value>
+                </Data>
+                <Data name="name">
+                    <value>Jamnabai Paryat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>85</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57764</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78806</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009153831290.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009153911731.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>85/16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>575.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4321</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:20:09.104764</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Joseph S. Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6124">
+                <coordinates>73.78805991,15.577644465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6158">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57722,73.78484&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5504</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhattiwado Tank; Patim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>81</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57722</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78484</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009154341616.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009154408514.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>81/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>316.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4320</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:19:21.928679</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6157">
+                <coordinates>73.784838431,15.577222516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6191">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56427,73.79087&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5501</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>147</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56427</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79087</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009152909061.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009152937172.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>147/27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4317</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:15:20.918641</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6190">
+                <coordinates>73.790869264,15.564270304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6224">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57635,73.7892&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>885</value>
+                </Data>
+                <Data name="name">
+                    <value>Jamanabai Paryut</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>86</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>34</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57635</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7892</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325171850167.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325171914048.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>86/17,34; 87/4,6-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1665.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4751</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Avelino Tarasas Rodrigues
+Caroline Anne Rodrigues</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6223">
+                <coordinates>73.789195732,15.576353449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6257">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57202,73.7798&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5503</value>
+                </Data>
+                <Data name="name">
+                    <value>Namas - Mahar - Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57202</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7798</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009155411582.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009155444330.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>10/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>124</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>484.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4319</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:16:20.926211</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Delilah S Lobo
+Michael Lobo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6256">
+                <coordinates>73.779795203,15.572016722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6290">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56627,73.77788&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>884</value>
+                </Data>
+                <Data name="name">
+                    <value>Patyem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56627</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77788</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009155941162.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009160006257.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>192/7-8; 205/24-25,27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5355.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4753</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6289">
+                <coordinates>73.777880597,15.566274443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6323">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56937,73.77929&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5645</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>216</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56937</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77929</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415123710848.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415123722648.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>216/16-17</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>812.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4752</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 16:12:05.390768</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Loyola Peter D` Cunha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6322">
+                <coordinates>73.779290579,15.569371537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6356">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56936,73.78636&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5502</value>
+                </Data>
+                <Data name="name">
+                    <value>Sonaye</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56936</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78636</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415125045899.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415125052835.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>5/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>68.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4318</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:16:20.926211</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6355">
+                <coordinates>73.786358084,15.56936379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6389">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56146,73.77447&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5431</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>184</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56146</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77447</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415103917817.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415103922709.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>183/3; 184/11-14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>129.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4246</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:56:08.110217</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6388">
+                <coordinates>73.774467025,15.561460546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6422">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56325,73.78754&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5500</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>157</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>38,39</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56325</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78754</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418111045877.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418111052271.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>157/38-39</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>214.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4316</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 15:14:20.895495</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Celcia Fretas
+Celcio Freitas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6421">
+                <coordinates>73.787536208,15.563248041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6455">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5646,73.784&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6077</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>178</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Parra</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5646</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.784</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415151810044.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415151840000.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>08 - Calangute</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parra</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Parr/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>377.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5494</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+Nakul K. Sawal
+The Executive Engineer Works Div. XIII (Roads) P.W.D. Mapusa (For an area 35 sq mts )</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6454">
+                <coordinates>73.783995041,15.564602017,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

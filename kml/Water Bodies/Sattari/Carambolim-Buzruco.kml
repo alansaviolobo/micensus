@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="76347">
+        <Placemark id="76349">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51155,74.17927&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3167</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Gaothan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Carambolim-Buzruco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51155</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17927</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200828053755895.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200828053809252.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sattari)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Carz/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>69.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1911</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-28 15:49:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009938.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76348">
+                <coordinates>74.179268333,15.511546667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76382">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50965,74.17767&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3271</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Gaothan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Carambolim-Buzruco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50965</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17767</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200923150738674.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200923150747640.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>/</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanvordem(Sattari)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Carz/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2022</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009638.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76381">
+                <coordinates>74.177666667,15.509648333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

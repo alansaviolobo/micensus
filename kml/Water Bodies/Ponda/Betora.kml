@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="29410">
+        <Placemark id="29412">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37469,74.04573&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4507</value>
+                </Data>
+                <Data name="name">
+                    <value>Sayad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37469</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04573</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331114237238.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331114149693.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>172.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3593</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 06:07:39.582091</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-Pundalic Laxman Gaunkar   1/2
+2-Ramanath Narayan Gaonkar ]1/4
+3-Kashinath Babay Gaonkar  ]1/4</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002068.2131424495</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29411">
+                <coordinates>74.045731137,15.374694806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29444">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39693,74.04297&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>180</value>
+                </Data>
+                <Data name="name">
+                    <value>Madiyere</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>209</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39693</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04297</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331111157263.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331111139369.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1298.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3074</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chicoo Ramchandra Gaunekar
+Damodar Pandu Prabhu
+Gurudas Topyo Gaonkar
+Pradeep Anand Velip
+Shansandeep Tulshidas Kodarkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002844.173627556</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29443">
+                <coordinates>74.042970107,15.396926919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29476">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37215,74.03887&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4504</value>
+                </Data>
+                <Data name="name">
+                    <value>Karje Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>51</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03887</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331115127388.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331115152631.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>36.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3590</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 06:02:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Shankar Prabhu Gaonkar
+Ramnath Sonu Gaonkar
+The Executive Engineer, W.D. XVIII (R) P.W.D. Ponda</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001798.2266383308</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29475">
+                <coordinates>74.038871687,15.372152736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29508">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3899,74.0255&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>186</value>
+                </Data>
+                <Data name="name">
+                    <value>Bindu Kasar Bhata Varil Dongri</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>164</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3899</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0255</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220405112531402.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220405112555757.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1075.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2853</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kaji Mahamad Issac
+M/s. United Spirit Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002572.0371912809</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29507">
+                <coordinates>74.025500483,15.389896142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29540">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37079,74.04027&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4505</value>
+                </Data>
+                <Data name="name">
+                    <value>Korne Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37079</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04027</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331120050659.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331120113943.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3591</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-02-22 06:03:46.446720</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-Chandrakant Krishna Chari
+2-Shanu Surya Chari
+3-Yeshwant Sagun Chari
+4-Hanumant Sagun Chari</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001318.2061133448</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29539">
+                <coordinates>74.040269371,15.370786734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29572">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.37104,74.04023&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4667</value>
+                </Data>
+                <Data name="name">
+                    <value>Korne Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>38</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.37104</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04023</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331120225350.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331120248004.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>37.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3739</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-31 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Hanumant Sagun Chari</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001548.1914928067</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29571">
+                <coordinates>74.04023,15.371043333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29604">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.3766,74.03982&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>183</value>
+                </Data>
+                <Data name="name">
+                    <value>Mahadev Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Betora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.3766</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03982</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220331113043718.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220331113005055.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>22 - Siroda</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Betora-Nirancal</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Beto/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>592.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3180</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1-Ramakant Babi Gaonkar
+2-Nani Babi Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1013004.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002318.3045208122</value>
+                </Data>
+            </ExtendedData>
+            <Point id="29603">
+                <coordinates>74.039822407,15.376601217,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

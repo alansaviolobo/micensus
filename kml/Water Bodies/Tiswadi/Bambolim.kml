@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="83944">
+        <Placemark id="83946">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45862,73.86038&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1041</value>
+                </Data>
+                <Data name="name">
+                    <value>Contora Novidade</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Bambolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45862</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86038</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510065726737.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510065735967.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>63/3P; 64/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Curca,Bambolim,Talaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Bamb/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>732</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:06:40.019000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Jeronimo Filomeno Xavier
+Dias Bareto.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="83945">
+                <coordinates>73.860381054,15.458615757,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5722">
+        <Placemark id="5724">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57241,73.87385&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5638</value>
+                </Data>
+                <Data name="name">
+                    <value>Barsak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Olaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57241</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87385</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006155527525.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006155546132.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>33/1-2,13-15; 271/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pomburpa-Olaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Olau/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>292.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4740</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 06:33:48.619773</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Olavali</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5723">
+                <coordinates>73.873852982,15.572405148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5757">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57254,73.87166&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5641</value>
+                </Data>
+                <Data name="name">
+                    <value>Chiroti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Olaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57254</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87166</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419132101578.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419132108090.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/12,14; 31/7-8,19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pomburpa-Olaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Olau/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>240.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4743</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 06:35:48.280617</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Olavali</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5756">
+                <coordinates>73.871660081,15.572540781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5790">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57132,73.87504&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5640</value>
+                </Data>
+                <Data name="name">
+                    <value>Madadal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>50</value>
+                </Data>
+                <Data name="village">
+                    <value>Olaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57132</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87504</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419131008494.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419131022606.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/35,49-53</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pomburpa-Olaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Olau/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>119.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4742</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 06:34:48.284600</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Olavali</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5789">
+                <coordinates>73.87503621,15.571318792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5823">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5716,73.87538&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5746</value>
+                </Data>
+                <Data name="name">
+                    <value>Barsak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Olaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5716</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87538</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006154721659.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006154731689.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pomburpa-Olaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Olau/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5275</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-06 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Francy Malachi Afonso Fernandes
+Joseph Santana Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019662.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5822">
+                <coordinates>73.875381058,15.57160267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5856">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57375,73.8671&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>898</value>
+                </Data>
+                <Data name="name">
+                    <value>Nere</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>34</value>
+                </Data>
+                <Data name="village">
+                    <value>Olaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57375</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8671</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006160539806.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006160602464.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>11/15; 12/10; 20/1,34; 21/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pomburpa-Olaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Olau/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>678.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4739</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. Nala</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5855">
+                <coordinates>73.867100956,15.57375454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5889">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57226,73.8743&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5639</value>
+                </Data>
+                <Data name="name">
+                    <value>Mazlek</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>33</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Olaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57226</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8743</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006155334708.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006155354634.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>33/1,19-21-22-23</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pomburpa-Olaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Olau/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>120.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4741</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 06:33:48.619773</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. - Pond</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020162.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5888">
+                <coordinates>73.874303125,15.572255224,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

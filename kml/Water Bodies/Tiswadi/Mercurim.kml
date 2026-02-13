@@ -1,0 +1,4020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="96273">
+        <Placemark id="96275">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43067,73.90321&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6240</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43067</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90321</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510123355677.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510123403919.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>106</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>97.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5681</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:57.761850</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96274">
+                <coordinates>73.903211366,15.430674696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96307">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43018,73.903&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6236</value>
+                </Data>
+                <Data name="name">
+                    <value>L. Bainchem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43018</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.903</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510122641080.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510122651477.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>095</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>136.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5685</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:57.559807</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mercurim         One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96306">
+                <coordinates>73.903003028,15.43017898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96339">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43329,73.90195&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6218</value>
+                </Data>
+                <Data name="name">
+                    <value>Udem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43329</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90195</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510113852720.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510113910252.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>60.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5691</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:02.267137</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96338">
+                <coordinates>73.901951228,15.433293342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96371">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42709,73.90091&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3590</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42709</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90091</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506085635855.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506085658552.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>23/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>107.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4896</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:56.944499</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Norvin Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96370">
+                <coordinates>73.900908348,15.427087066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96404">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42869,73.90702&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3586</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42869</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90702</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510133146889.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510133220434.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>40/3,5-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>112</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>82.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4892</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:55.945225</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96403">
+                <coordinates>73.907020309,15.428693295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96437">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42852,73.90673&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6246</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42852</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90673</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510125305638.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510125321369.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>37.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5582</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:55.621544</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96436">
+                <coordinates>73.906731624,15.428518126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96469">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42541,73.90861&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3583</value>
+                </Data>
+                <Data name="name">
+                    <value>Lanco</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>50</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42541</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90861</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510131729828.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510131745362.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>50/3P,4P</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>090</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>266.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4850</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:52.362749</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mercurim  (one)</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96468">
+                <coordinates>73.908613722,15.42540529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96502">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42617,73.90853&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5465</value>
+                </Data>
+                <Data name="name">
+                    <value>Marac</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42617</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90853</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510131207175.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510131217381.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>44/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4280</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:29:08</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:52.848549</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96501">
+                <coordinates>73.90853228,15.426169494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96535">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4271,73.90131&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3594</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4271</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90131</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506085943579.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506085833765.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>23/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4895</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:56.663756</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Norvin Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96534">
+                <coordinates>73.901313678,15.427099844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96568">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42495,73.90467&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3595</value>
+                </Data>
+                <Data name="name">
+                    <value>Touvi XI-1 or Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42495</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90467</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506091042486.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506091105155.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>70/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>093</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>147.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4900</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:51.950198</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Imelda Braganca e Menezes
+Rui de Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96567">
+                <coordinates>73.904667955,15.424950238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42683,73.90259&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3593</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42683</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90259</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506090425941.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506090409881.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>094</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>136.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4898</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:54.616175</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Norvin Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96600">
+                <coordinates>73.902588628,15.42683454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96634">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43188,73.9036&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6233</value>
+                </Data>
+                <Data name="name">
+                    <value>Alto de Maltte</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43188</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9036</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510120840577.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510120900461.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>092</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>185.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5684</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:59.707765</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96633">
+                <coordinates>73.903595559,15.431884859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96666">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4313,73.90316&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6232</value>
+                </Data>
+                <Data name="name">
+                    <value>Coissoro xett</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4313</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90316</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510120641749.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510120651200.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>87.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5682</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:59.409359</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gregorio Vaz
+Maria Georgina Vaz
+Two</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96665">
+                <coordinates>73.903160579,15.431300699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96698">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43299,73.90182&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6217</value>
+                </Data>
+                <Data name="name">
+                    <value>Donk,Gorbhatt</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11,12,20</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43299</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90182</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510113728127.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510113747184.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5715</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:01.155586</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Xavier Ferrao
+Bernardo Ignatius Ferrao
+Lourdes Ferrao
+Roque Ferrao               One
+Roque Ferrao             One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96697">
+                <coordinates>73.901823966,15.432991251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96730">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42592,73.90901&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6250</value>
+                </Data>
+                <Data name="name">
+                    <value>Marac</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42592</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90901</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510131939237.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510131950769.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5703</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:52.563676</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96729">
+                <coordinates>73.909012683,15.425918693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96762">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43192,73.90254&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6231</value>
+                </Data>
+                <Data name="name">
+                    <value>Egitachi Alli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43192</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90254</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510115952011.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510115959603.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>54.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5705</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:59.938949</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mercurim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96761">
+                <coordinates>73.902539696,15.431920613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96794">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43246,73.90233&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6230</value>
+                </Data>
+                <Data name="name">
+                    <value>Baimchem Xett Consl.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43246</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90233</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510115809235.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510115827032.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>122</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>62.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5706</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:00.145310</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96793">
+                <coordinates>73.902329022,15.432455889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96826">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43311,73.90233&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6229</value>
+                </Data>
+                <Data name="name">
+                    <value>Gorbhatt</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43311</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90233</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510115513290.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510115532143.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5689</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:00.657319</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Xavier Ferrao
+Bernardo Ignatius Ferrao
+Lourdes Ferrao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96825">
+                <coordinates>73.902333433,15.433114294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96858">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43157,73.90374&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6234</value>
+                </Data>
+                <Data name="name">
+                    <value>Alto de Matte</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3,5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43157</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90374</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510121030733.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510121123073.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5683</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:59.120412</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96857">
+                <coordinates>73.903736667,15.431565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96890">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43094,73.90325&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6235</value>
+                </Data>
+                <Data name="name">
+                    <value>Coissoro xett</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43094</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90325</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510122424844.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510122435610.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>114</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>73.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5680</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:58.278032</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Nascimenta Vaz         One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96889">
+                <coordinates>73.903251209,15.430944559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96922">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43234,73.90092&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3588</value>
+                </Data>
+                <Data name="name">
+                    <value>Soviem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43234</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90092</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510113218467.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510113238685.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/3,6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>65.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4928</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:02.472667</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Iggreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96921">
+                <coordinates>73.900916231,15.43233793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96955">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42554,73.9065&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6243</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42554</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9065</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510124456404.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510124520408.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>113</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>74.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5576</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:52.158767</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St. Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96954">
+                <coordinates>73.906499901,15.425539929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96987">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42907,73.90664&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6247</value>
+                </Data>
+                <Data name="name">
+                    <value>Gouem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42907</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90664</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510125513671.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510125526095.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/40</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>43.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5584</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:56.457235</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ambrosio Dias
+Cosme Dias
+Five
+Heirs of Late Heraclito Dias
+Henrique Dias
+Jose Dias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96986">
+                <coordinates>73.906639651,15.429069427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97019">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42659,73.90664&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6241</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42659</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90664</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510124117826.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510124133593.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/42</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>36.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5578</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:53.896254</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourence</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97018">
+                <coordinates>73.906637485,15.426593201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97051">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42314,73.9103&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3582</value>
+                </Data>
+                <Data name="name">
+                    <value>Follachem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>62</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42314</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9103</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506091940513.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506091957312.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>62/7,9-11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>096</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>133.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4937</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:51.215491</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Gaunsi           One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97050">
+                <coordinates>73.910297124,15.423141629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97084">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42648,73.90644&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6242</value>
+                </Data>
+                <Data name="name">
+                    <value>Santo Antonio</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42648</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90644</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510124208511.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510124218536.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>71.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5577</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:53.054941</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St. Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97083">
+                <coordinates>73.906439906,15.426478246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97116">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43368,73.90184&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6219</value>
+                </Data>
+                <Data name="name">
+                    <value>Donk,Udem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4,9</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43368</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90184</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510114002592.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510114010509.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>116.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5690</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:02.701629</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco
+Pedro Gonsalves             One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97115">
+                <coordinates>73.90184172,15.433676748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97148">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42715,73.90672&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6244</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42715</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90672</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510124929678.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510124938167.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>52.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5580</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:54.181193</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97147">
+                <coordinates>73.906724347,15.42714751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97180">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42826,73.90595&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6249</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3,4</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42826</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90595</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510125835511.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510125843156.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>48.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5581</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:55.316680</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97179">
+                <coordinates>73.905948943,15.428262168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97212">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42949,73.90304&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6237</value>
+                </Data>
+                <Data name="name">
+                    <value>L. Bainchem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42949</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90304</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510122838206.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510122846045.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>105</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>98.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5686</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:57.274997</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mercurim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97211">
+                <coordinates>73.903044605,15.429494842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97244">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43086,73.90275&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6239</value>
+                </Data>
+                <Data name="name">
+                    <value>Egitachi Ali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43086</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90275</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510123209658.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510123219823.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>71.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5679</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:58.505169</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St.Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97243">
+                <coordinates>73.902751844,15.430858212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97276">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42504,73.89685&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6251</value>
+                </Data>
+                <Data name="name">
+                    <value>Terceiro Lote Fondiem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>151</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42504</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89685</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510135644670.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510135618250.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>091</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>213.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5702</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:39.346829</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Menino D'mello</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003417.5567262623</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97275">
+                <coordinates>73.896851643,15.425042425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97308">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42662,73.90805&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3585</value>
+                </Data>
+                <Data name="name">
+                    <value>Uddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>45</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42662</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90805</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510131456557.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510131507659.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>45/13,17-18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>115</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>71.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4888</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:53.284446</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mercurim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97307">
+                <coordinates>73.908053967,15.426615229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97341">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42666,73.90853&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3584</value>
+                </Data>
+                <Data name="name">
+                    <value>Marac</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42666</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90853</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510131327611.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510131338212.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>44/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>110.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4891</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:53.598743</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Paulina Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97340">
+                <coordinates>73.90852787,15.426659919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97374">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42706,73.9019&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3591</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42706</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9019</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506090057954.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506090110747.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>111</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>83.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4889</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:55.023923</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Norvin Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97373">
+                <coordinates>73.901895167,15.427059235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97407">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43265,73.90083&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3589</value>
+                </Data>
+                <Data name="name">
+                    <value>Soviem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43265</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90083</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510113106871.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510113125831.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/3-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>124</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>57.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4899</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:03.009888</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Igreja de St. Lourenco</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97406">
+                <coordinates>73.900833813,15.432652405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97440">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42884,73.90625&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6248</value>
+                </Data>
+                <Data name="name">
+                    <value>Gouem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11,12</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42884</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90625</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510125655525.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510125702167.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5583</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:56.230188</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ambrosio Dias
+Cosme Dias
+Five
+Heirs of Late Henaclito Dias
+Heirs of Late Heraclito Dias
+Henrique Dias
+Jose Dias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97439">
+                <coordinates>73.906254344,15.428837752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97472">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4335,73.90218&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6228</value>
+                </Data>
+                <Data name="name">
+                    <value>Donk</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4335</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90218</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510115344868.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510115402282.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>109</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5688</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:01.992192</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pedro Gonsalves             One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97471">
+                <coordinates>73.902181018,15.433501072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97504">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.43048,73.90264&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6238</value>
+                </Data>
+                <Data name="name">
+                    <value>L. Bainchem Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.43048</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90264</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510123059649.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510123111109.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5704</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:57.997261</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Teotonio Pereira              One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97503">
+                <coordinates>73.902644922,15.430482224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97536">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42685,73.9022&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3592</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42685</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9022</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506090251017.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506090328137.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>25/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>98.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4897</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:54.818561</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Savio Norvin Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007167.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97535">
+                <coordinates>73.902195426,15.426852747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97569">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42735,73.90647&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6245</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42735</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90647</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230510125033858.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230510125042977.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>110</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>85.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5579</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:54.408274</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narashinv Y. Xette Modkaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97568">
+                <coordinates>73.906469381,15.427353018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42477,73.90517&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3596</value>
+                </Data>
+                <Data name="name">
+                    <value>Palmar Aguiar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>70</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mercurim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42477</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90517</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230506090938432.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230506090948564.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>70/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sao Lourence(Agassaim)</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Merc/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>129.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4932</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:51.631329</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Maria Imelda Braganca e Menezes
+Rui de Menezes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="97600">
+                <coordinates>73.905170664,15.42476629,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

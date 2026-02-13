@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8171">
+        <Placemark id="8173">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.408098,73.840897&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5946</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5946</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>107/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Daulatrao Chowgule</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>R/o 60-61, Alto Mangor, Vasco Da Gama-goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.408098</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.840897</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Chicalim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8172">
+                <coordinates>73.840897,15.408098,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

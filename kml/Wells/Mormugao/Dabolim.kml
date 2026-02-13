@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8237">
+        <Placemark id="8239">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.387217,73.856237&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6000</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>6000</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>79/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Reedhi Ritesh Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Villa No. 28, Gulmohar Park, Near Smrc Hospital Chicalim Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.387217</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.856237</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Dabolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8238">
+                <coordinates>73.856237,15.387217,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

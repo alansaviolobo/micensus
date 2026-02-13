@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10724">
+        <Placemark id="10726">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.509083,73.978965&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3877</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3877</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>290/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Abhijit Kalidas Sawaikar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 77 Tamsuli Candola P.O. Marcela,Ponda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.509083</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.978965</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Candola</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10725">
+                <coordinates>73.978965,15.509083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10741">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.509912,73.978574&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3878</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3878</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>289/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Abhijit Kalidas Sawaikar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 77,Tamsuli,Candola,P.O. Marcela,Ponda,Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.509912</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.978574</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Candola</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10740">
+                <coordinates>73.978574,15.509912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10756">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.515949,73.968754&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3879</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3879</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>302/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri.Kushta Venkatesh Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 178, Haldanwada khandola,Marcela ,Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.515949</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.968754</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Candola</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10755">
+                <coordinates>73.968754,15.515949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10771">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.511831,73.976349&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3926</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3926</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>290/1</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Abhijit Kalidas Sawaikar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno 77 Tamsuli candola Marcela Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.511831</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.976349</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Candola</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10770">
+                <coordinates>73.976349,15.511831,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

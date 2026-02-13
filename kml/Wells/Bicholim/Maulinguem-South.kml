@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4199">
+        <Placemark id="4201">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56151,74.00649&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2039</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2039</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3227/Bicholim</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Dr. Vinayak Subray Karre</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 1114, Satpurush Krupa, Nr. Vaishya Bhavan Vasant Nagar, Sankhali Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56151</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00649</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Maulinguem-South</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4200">
+                <coordinates>74.00649,15.56151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4216">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.550803,74.015461&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2434</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2434</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>55/2020/BICHOLIM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Prithviraj Vithalrao Jadhav</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>HNo. 429, Khalchawada, Gauthan, Sankhalim Goa 403505,</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.550803</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.015461</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Maulinguem-South</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4215">
+                <coordinates>74.015461,15.550803,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

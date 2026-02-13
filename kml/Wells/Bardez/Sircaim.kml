@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1705">
+        <Placemark id="1707">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62774,73.87462&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>788</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>788</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>105/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Sawant Arun Govind</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kelwada Pirna, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62774</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87462</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Sircaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1706">
+                <coordinates>73.87462,15.62774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1722">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.61968,73.88194&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>789</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>789</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2863/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>EL Martio Winery (P) Ltd represented by Anand Shripad Salgaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 93, Near Our Lady of Miracle Church,Sirsaim, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.61968</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88194</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Sircaim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1721">
+                <coordinates>73.88194,15.61968,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

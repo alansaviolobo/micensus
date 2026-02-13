@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="96107">
+        <Placemark id="96109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45021,73.92202&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1210</value>
+                </Data>
+                <Data name="name">
+                    <value>Ussan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Mandur</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45021</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92202</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505115937238.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505120003039.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>37/2,8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>155</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Mand/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>393.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>786</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:00.939777</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mandur</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96108">
+                <coordinates>73.922019884,15.450208148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96142">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45053,73.92114&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6187</value>
+                </Data>
+                <Data name="name">
+                    <value>Deu Bhat Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mandur</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45053</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92114</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505120719975.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505120741069.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>157</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Mand/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>54.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5653</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-05-05 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:01.756829</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sabina Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013667.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96141">
+                <coordinates>73.921138333,15.45053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96174">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44818,73.93089&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3321</value>
+                </Data>
+                <Data name="name">
+                    <value>Vishnu and Nagdevta Temple Tank; Daktem Bhatt</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Mandur</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44818</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93089</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20201125105329072.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20201125105343098.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>21/11-12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Mand/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>211.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2161</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:40:58.790091</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Devi Shastti Shanta Durga</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010917.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96173">
+                <coordinates>73.930888262,15.448176096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45036,73.92115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3570</value>
+                </Data>
+                <Data name="name">
+                    <value>Deu Bhat Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Mandur</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45036</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92115</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505122354315.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505122408603.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>36/5pt</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>156</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Mand/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4926</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:01.476596</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sabina Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96206">
+                <coordinates>73.921150097,15.450361337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96240">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.44878,73.92281&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1209</value>
+                </Data>
+                <Data name="name">
+                    <value>Talap</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>28</value>
+                </Data>
+                <Data name="village">
+                    <value>Mandur</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.44878</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92281</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230505123428058.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230505123502371.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>30/1-28,32</value>
+                </Data>
+                <Data name="constituency">
+                    <value>14 - St. Andre</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Azossim-Mandur</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>154</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Mand/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>638.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>787</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-24 18:41:00.426204</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Mandur</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996822.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012417.55672626</value>
+                </Data>
+            </ExtendedData>
+            <Point id="96239">
+                <coordinates>73.922807959,15.448776357,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

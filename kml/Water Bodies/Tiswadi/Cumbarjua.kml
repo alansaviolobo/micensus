@@ -1,0 +1,4847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="86555">
+        <Placemark id="86557">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5188,73.9461&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1145</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5188</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9461</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429095433499.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429095529468.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>65/7 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>650</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86556">
+                <coordinates>73.946104178,15.518804312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86590">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50742,73.94751&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1151</value>
+                </Data>
+                <Data name="name">
+                    <value>Zorcantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50742</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94751</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429110948442.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429111030741.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>48/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>252.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>637</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:10:01.797000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Amita Rajendra Saperkar
+Anandi Digambar Fadte
+Anant Harichandra Shirodkar
+Anita Ganesh Naik
+Appa Mahadev Ghadi
+Arjun Prasad Saini
+Ashok Laximan Chinkate
+Ashwini Ashok Chinkate
+Audut alias Audutta Ladu Parab and Ghanasham Ladu Parab
+Baliram B. Jaswal
+Ballappa Mallappa Harijan
+Bhagyawan Chandrakant Ghonsekar
+Chandrashekhar Kalpanath Gupta
+Collin Fernandes (300 sq.mts.)
+DNYANESHWAR P GAWADE
+Deepa Nandu Marathe
+Dilip Surya Naik .
+Dnyaneshwar Chudu Sawant
+Dnyaneshwar Krishna Korgaonkar
+Doddappa Harijan
+Durga Thakur
+Fondudas Mortu Parab. 859 Sq. mts.
+Ganesh Ramdhani Saini
+Gautam Uttam Kutikar alias Kuttikar alias Kurtiker
+Gopal G. Sawant.
+Govind Shiva Morye
+Gracy Peter Moses
+Harishchandra alias Kashinath Dattaram Shet
+Indrayani Shreeram Fadte
+Jaisingh Mahendra Saini
+Jayant Gunaji Shet
+Jayant Ratnakant Parab
+John Arnaldo Gomes
+Jose Maria Fernandes (300 sq.mts.)
+Kanhaiyalal Deviprasad Gupta
+Kaptan Shitlaprasad Singh
+Kasimsab P. Shaik
+Ketaki Kalidas Sawant
+Krishna Kumar Yadav
+Krishnanath Sitaram Divkar (300 sq. mts.)
+Kusta Pandurang Tari
+Lakhaba alias Anand Nagoji Naik Pratap Rau Sardessai
+Lalla Sahani
+Laximi Dina Narvekar
+Liladhar Pundalik Halarnkar
+Lilesh Venku Naik
+Mahesh Anant Nagvekar (350 sq.mts.)
+Malesh Pujari
+Manguesh Harichandra Shirodkar
+Manisha Nagesh Naik
+Manjunath Dyamappa Pujari
+Maria Remy Fernandes
+Maya Rajendra Chodankar
+Mayeshi Negappa Lamani
+Milan Vithal Kubal
+Nagesh Lakho Naik
+Nagesh Raya Gunagi
+Nagoji Ramchandra Naik Prataprao Sardessai
+Nandu D. Marathe
+Naresh Nilu Naik
+Nilesh Narayan Naik
+Nilkanth Uttam Shet
+Ningappa Ramappa Dhunshi
+Omsidha Saibanna Kattimani (260 sq.mts.)
+Padmanabh Shamba Tari (315 sq.mts.)
+Panchappa C Kuchekar
+Parmesh Ramesh Nayak (200 sq.mts)
+Peter Anthony Moses
+Prakash Vishwanath Sawant
+Pralhad Gunaji Shet
+Purvoday Chandrakant Shirodkar
+Pushpa Sunil Jaswal
+Rachayya Nagayya Chikmat
+Rajesh Premanand Pednekar
+Ramdas Cholu Naik
+Ramdas Gangaram Tari
+Ramdas Surya Sawant
+Ramdas Yeshwant Kankonkar
+Ramesh Gopal Sawant
+Ranjeeta Raghuvir Gaunekar
+Ranjit Kumar Prasad
+Ravi Meghappa Lamani (200 sq.mts.)
+Remy Jose Fernandes
+Riya Rupesh Kerkar
+Rupesh Yadu Sawant
+SMT. TRIVENI TUKARAM JAMBOTKAR
+Samidha Samadhan Shirodkar
+Sandeep Govind Gawde
+Sandeep Pradeep Prabhu alias Parab
+Sandhya Millind Parab
+Sandip Shridhar Naik
+Sanjay Prakash Karekar
+Santana Fernandes (300 sq.mts.)
+Santosh Basuraj Vasumani
+Shabuddin Bani
+Shailaja Shriram Naik
+Shailesh Chandrakant Ghonsekar
+Shailesh Ganesh Fadte alias Phadte
+Shanti Shailesh Ghonsekar
+Shanti Shailesh Ghonsekar.
+Shanu Yesulo Gaude
+Shirishkumar Giri Tari
+Shitalkumar Bhaubali Patil
+Shivling Siddappa Kamble
+Shobha Kisan Yadav
+Shobhana Gaude (200 sq.mts.)
+Shridevi Yallappa Hadimani
+Shrikant G.Gurav
+Shyam Shivram Chodankar
+Somnath Lakkappa Rathod
+Sudha Tau Parsekar.
+Sugandha Pandurang Sawant
+Sunaina Suryakant Gaude
+Sunil B. Jaswal
+Suresh R Kattimani
+Suresh Ragloo Tari
+Suryakant Sada Tari
+Thomas S. Gracias (300 sq.mts.)
+Tilu Vassu Andrade
+Tukaram Mahadev Mardolkar
+Tulshidas Laxman Pilgaonkar
+Vaman Dewoo Redkar
+Vanessa Gomes
+Vidhya Vaman Redkar
+Vijaya Vinayak Korgaonkar
+Vijayanand Saulo Phadte
+Vilasini Mohan Tulsulkar
+Vithal Pandhari Kubal
+Yallappa Sayabanna Hadimani
+Yogeshwar Tukaram Bhomkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86589">
+                <coordinates>73.947513371,15.507417407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86623">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51883,73.94553&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5595</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51883</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94553</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429102550254.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429102559915.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>65/4 (PART)&quot;,&quot;5 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>176.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4501</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 08:53:31.301511</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86622">
+                <coordinates>73.945531415,15.518830079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86656">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5067,73.95513&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3394</value>
+                </Data>
+                <Data name="name">
+                    <value>Supullo Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5067</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95513</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429113215161.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429113224298.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>96.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4507</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Anuradha Ganesh Phadte.
+2) Suhas Hari Phadte.
+3) Umesh Hari Phadte
+4) Dinesh Hari Phadte.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86655">
+                <coordinates>73.955134885,15.506699997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86689">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50628,73.95674&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6136</value>
+                </Data>
+                <Data name="name">
+                    <value>Vadancho Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50628</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95674</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429120358577.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429120432730.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5629</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Vithoba Senavi Dhume.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86688">
+                <coordinates>73.956743333,15.506278333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86721">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5058,73.95805&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3420</value>
+                </Data>
+                <Data name="name">
+                    <value>Tirkazan Pathle Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5058</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95805</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429114901908.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429120857385.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 16/8-9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/43</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>29.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4514</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Yeshwant Atmaram Mahatme
+2) Vithal B. Vagle
+3) Suryaji Vishnu Mahatme
+4) Moreshwar Hari Mahatme
+5) Yeshoda Natekar
+6) Shripad B. Natekar
+7) Gangabai J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jagannath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86720">
+                <coordinates>73.958049555,15.505800434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86754">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50536,73.95826&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3418</value>
+                </Data>
+                <Data name="name">
+                    <value>Thapan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50536</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95826</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429115045319.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429115055661.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 16/12-14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>75.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4516</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anand Arjun Tari alias Tarkar
+Anirudra Ganesh Fadte
+Cumbarjua
+Madhusudan Sawant
+Ramakant Pandurang Narvekar
+Sawant, Tari &amp; Fadte Society of
+Shankar Krishna Naik
+Shankar Pandurang Sawant.
+Shiva Vithu Naik
+Shivaji Prabhakar Tari
+Tulshi Purushottam Sawant
+Uttam Jagannath Tari (two plot 960 sq.mts each)
+Vinod Pundalik Halarnkar
+Yeshumati Molu Halarnkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86753">
+                <coordinates>73.958256899,15.505364684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86787">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51683,73.9422&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3405</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51683</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9422</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429105404144.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429105423068.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>60/18 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>94.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4494</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86786">
+                <coordinates>73.942204747,15.516826157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86820">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50724,73.94893&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1153</value>
+                </Data>
+                <Data name="name">
+                    <value>Mada Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>43</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50724</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94893</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429110802660.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429110818463.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>43/1P.T</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>144.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>638</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pramod Damodar Duklo.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86819">
+                <coordinates>73.948927678,15.507239839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86853">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50641,73.95503&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3395</value>
+                </Data>
+                <Data name="name">
+                    <value>Lauralo Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50641</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95503</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429113249912.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429113257644.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>068</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>91.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4508</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhalchandra Morto Kenkre Agashikar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86852">
+                <coordinates>73.955029715,15.506409666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86886">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50783,73.94831&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3643</value>
+                </Data>
+                <Data name="name">
+                    <value>Zorcantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>48</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50783</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94831</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429110839961.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429110918446.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>48/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>482.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2180</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-02-10 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Amita Rajendra Saperkar
+Anandi Digambar Fadte
+Anant Harichandra Shirodkar
+Anita Ganesh Naik
+Appa Mahadev Ghadi
+Arjun Prasad Saini
+Ashok Laximan Chinkate
+Ashwini Ashok Chinkate
+Audut alias Audutta Ladu Parab and Ghanasham Ladu Parab
+Baliram B. Jaswal
+Ballappa Mallappa Harijan
+Bhagyawan Chandrakant Ghonsekar
+Chandrashekhar Kalpanath Gupta
+Collin Fernandes (300 sq.mts.)
+DNYANESHWAR P GAWADE
+Deepa Nandu Marathe
+Dilip Surya Naik .
+Dnyaneshwar Chudu Sawant
+Dnyaneshwar Krishna Korgaonkar
+Doddappa Harijan
+Durga Thakur
+Fondudas Mortu Parab. 859 Sq. mts.
+Ganesh Ramdhani Saini
+Gautam Uttam Kutikar alias Kuttikar alias Kurtiker
+Gopal G. Sawant.
+Govind Shiva Morye
+Gracy Peter Moses
+Harishchandra alias Kashinath Dattaram Shet
+Indrayani Shreeram Fadte
+Jaisingh Mahendra Saini
+Jayant Gunaji Shet
+Jayant Ratnakant Parab
+John Arnaldo Gomes
+Jose Maria Fernandes (300 sq.mts.)
+Kanhaiyalal Deviprasad Gupta
+Kaptan Shitlaprasad Singh
+Kasimsab P. Shaik
+Ketaki Kalidas Sawant
+Krishna Kumar Yadav
+Krishnanath Sitaram Divkar (300 sq. mts.)
+Kusta Pandurang Tari
+Lakhaba alias Anand Nagoji Naik Pratap Rau Sardessai
+Lalla Sahani
+Laximi Dina Narvekar
+Liladhar Pundalik Halarnkar
+Lilesh Venku Naik
+Mahesh Anant Nagvekar (350 sq.mts.)
+Malesh Pujari
+Manguesh Harichandra Shirodkar
+Manisha Nagesh Naik
+Manjunath Dyamappa Pujari
+Maria Remy Fernandes
+Maya Rajendra Chodankar
+Mayeshi Negappa Lamani
+Milan Vithal Kubal
+Nagesh Lakho Naik
+Nagesh Raya Gunagi
+Nagoji Ramchandra Naik Prataprao Sardessai
+Nandu D. Marathe
+Naresh Nilu Naik
+Nilesh Narayan Naik
+Nilkanth Uttam Shet
+Ningappa Ramappa Dhunshi
+Omsidha Saibanna Kattimani (260 sq.mts.)
+Padmanabh Shamba Tari (315 sq.mts.)
+Panchappa C Kuchekar
+Parmesh Ramesh Nayak (200 sq.mts)
+Peter Anthony Moses
+Prakash Vishwanath Sawant
+Pralhad Gunaji Shet
+Purvoday Chandrakant Shirodkar
+Pushpa Sunil Jaswal
+Rachayya Nagayya Chikmat
+Rajesh Premanand Pednekar
+Ramdas Cholu Naik
+Ramdas Gangaram Tari
+Ramdas Surya Sawant
+Ramdas Yeshwant Kankonkar
+Ramesh Gopal Sawant
+Ranjeeta Raghuvir Gaunekar
+Ranjit Kumar Prasad
+Ravi Meghappa Lamani (200 sq.mts.)
+Remy Jose Fernandes
+Riya Rupesh Kerkar
+Rupesh Yadu Sawant
+SMT. TRIVENI TUKARAM JAMBOTKAR
+Samidha Samadhan Shirodkar
+Sandeep Govind Gawde
+Sandeep Pradeep Prabhu alias Parab
+Sandhya Millind Parab
+Sandip Shridhar Naik
+Sanjay Prakash Karekar
+Santana Fernandes (300 sq.mts.)
+Santosh Basuraj Vasumani
+Shabuddin Bani
+Shailaja Shriram Naik
+Shailesh Chandrakant Ghonsekar
+Shailesh Ganesh Fadte alias Phadte
+Shanti Shailesh Ghonsekar
+Shanti Shailesh Ghonsekar.
+Shanu Yesulo Gaude
+Shirishkumar Giri Tari
+Shitalkumar Bhaubali Patil
+Shivling Siddappa Kamble
+Shobha Kisan Yadav
+Shobhana Gaude (200 sq.mts.)
+Shridevi Yallappa Hadimani
+Shrikant G.Gurav
+Shyam Shivram Chodankar
+Somnath Lakkappa Rathod
+Sudha Tau Parsekar.
+Sugandha Pandurang Sawant
+Sunaina Suryakant Gaude
+Sunil B. Jaswal
+Suresh R Kattimani
+Suresh Ragloo Tari
+Suryakant Sada Tari
+Thomas S. Gracias (300 sq.mts.)
+Tilu Vassu Andrade
+Tukaram Mahadev Mardolkar
+Tulshidas Laxman Pilgaonkar
+Vaman Dewoo Redkar
+Vanessa Gomes
+Vidhya Vaman Redkar
+Vijaya Vinayak Korgaonkar
+Vijayanand Saulo Phadte
+Vilasini Mohan Tulsulkar
+Vithal Pandhari Kubal
+Yallappa Sayabanna Hadimani
+Yogeshwar Tukaram Bhomkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86885">
+                <coordinates>73.948312151,15.507830703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86919">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51753,73.94411&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3397</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51753</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94411</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429105026957.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429105039998.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>64/20</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>218.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4867</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86918">
+                <coordinates>73.944110237,15.517533791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86952">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50709,73.95505&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3391</value>
+                </Data>
+                <Data name="name">
+                    <value>Supullo Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50709</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95505</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429113037898.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429113057530.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>73.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4504</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Anuradha Ganesh Phadte.
+2) Suhas Hari Phadte.
+3) Umesh Hari Phadte
+4) Dinesh Hari Phadte.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86951">
+                <coordinates>73.955049612,15.507090757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86985">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50582,73.95709&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3410</value>
+                </Data>
+                <Data name="name">
+                    <value>Tambadi Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50582</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95709</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429120228320.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429120241621.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 23/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4524</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Vinayak Senavi Dhume.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86984">
+                <coordinates>73.957089847,15.505819462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87018">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50781,73.94727&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1152</value>
+                </Data>
+                <Data name="name">
+                    <value>Kela Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>47</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5,8,9</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50781</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94727</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200526022723860.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200526022743604.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>47/8-9; 48/5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>250.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>636</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mhamai Kamat.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87017">
+                <coordinates>73.947271831,15.507808743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87051">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50952,73.95659&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5596</value>
+                </Data>
+                <Data name="name">
+                    <value>Tir Khazan Deu Tali Ack Gutak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50952</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95659</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429124307836.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429124313669.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>10/10-11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>83.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4509</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 09:03:36.271086</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Moreshwar Hari Mahatme
+10)Manoramabai Suryaji  Mahatme
+11) Ganba alias Mohan Suryaji Mahatme.
+12) Sadanand Suryaji Mahatme.
+13) Vishnu Suryaji Mahatme.
+2) Smt.Yeshoda Natekar
+3) Yeshwant R. Mahatme
+4) Vithal B. Vagle
+5) Shripad B. Natekar
+6) Gangabai J. Natekar
+7) Vishwasrao B. Mahatme
+8) Jagannat Natekar
+9) Mangesh Suryaji Mahatme</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87050">
+                <coordinates>73.95658693,15.509522814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87084">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50871,73.95226&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5441</value>
+                </Data>
+                <Data name="name">
+                    <value>Kurt Surgachem Varik</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50871</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95226</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429111203263.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429111227274.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>39/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>186.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4256</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:02:08.669099</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shankar Gopal Naik.
+Vaman Gopal Naik.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87083">
+                <coordinates>73.952256882,15.508711956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87117">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50484,73.95767&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3414</value>
+                </Data>
+                <Data name="name">
+                    <value>Bavancho Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50484</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95767</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429122211647.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429122218211.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>20/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>54.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4520</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Tukaram Rupo Gavade.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87116">
+                <coordinates>73.957666462,15.504837596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87150">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51808,73.94451&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6133</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51808</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94451</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429104943612.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429104953891.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>142</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/40</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5632</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87149">
+                <coordinates>73.944511792,15.518081637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87182">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5184,73.94486&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1147</value>
+                </Data>
+                <Data name="name">
+                    <value>Kanturli; Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5184</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94486</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429103033311.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429103113785.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>64/1 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>648</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87181">
+                <coordinates>73.944857345,15.518397851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87215">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50478,73.95808&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6135</value>
+                </Data>
+                <Data name="name">
+                    <value>Pautak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50478</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95808</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429121801433.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429121929719.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/46</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>17.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5628</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Yeshwant Atmaram Mahatme
+2) Vithal B. Vagle
+3) Suryaji Vishnu Mahatme
+4) Moreshwar Hari Mahatme
+5) Yeshoda  Natekar
+6) Shripad B. Natekar
+7) Gangabai J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jagannath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87214">
+                <coordinates>73.958079208,15.504784967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87247">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50596,73.9582&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3421</value>
+                </Data>
+                <Data name="name">
+                    <value>Tirkhazan Pathule Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50596</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9582</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429120942660.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429120958594.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/44</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>27.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4513</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Yeshwant Atmaram Mahatme
+2) Vithal B. Vagle.
+3) Suryaji Vishnu Mahatme
+4) Moreshwar Hari Mahatme
+5) Yeshoda Natekar
+6) Shripad B. Natekar
+7) Gangabai J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jaganath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87246">
+                <coordinates>73.958195683,15.505956466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87280">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50753,73.95513&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6134</value>
+                </Data>
+                <Data name="name">
+                    <value>Supullo Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50753</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95513</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429113315998.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429113326088.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5630</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Anuradha Ganesh Phadte.
+2) Suhas Hari Phadte.
+3) Umesh Hari Phadte
+4) Dinesh Hari Phadte.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87279">
+                <coordinates>73.955129019,15.507532248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87312">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50811,73.9577&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5599</value>
+                </Data>
+                <Data name="name">
+                    <value>Tir Khazan Don Tali Aak Kanne Aak.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50811</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9577</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429122932221.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429122945227.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>14/4-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>167.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4512</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 09:04:31.324182</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Moreshwar Hari  Mahatme
+2) Suryaji Visnu Mahatme
+3) Smt. Yeshoda Natekar
+4) Yeshwant R. Mahatme
+5) Vithal B. Vagle
+6) Shripad B. Natekar
+7) Gangabai J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jagannath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87311">
+                <coordinates>73.957703404,15.508107427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87345">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50596,73.95688&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3409</value>
+                </Data>
+                <Data name="name">
+                    <value>Tambadi Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50596</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95688</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429120556798.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429122359391.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>23/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>43.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4525</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Vinayak Senavi Dhume.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87344">
+                <coordinates>73.956876578,15.505956466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87378">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50531,73.95737&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3412</value>
+                </Data>
+                <Data name="name">
+                    <value>Bavancho Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50531</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95737</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429122312850.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429122323253.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 20/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/42</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>33.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4522</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Tukaram Rupo Gavade.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87377">
+                <coordinates>73.957370255,15.505307599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87411">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50512,73.95745&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3413</value>
+                </Data>
+                <Data name="name">
+                    <value>Bavancho Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50512</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95745</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429122247000.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429122254477.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 20/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4521</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Tukaram Rupo Gavade.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87410">
+                <coordinates>73.957449244,15.505123023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87444">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5184,73.94801&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3399</value>
+                </Data>
+                <Data name="name">
+                    <value>Kanturli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>67</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5184</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94801</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429095246983.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429095339221.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>67/1 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>066</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4503</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mogabai Srinivassa Porobo Loundo
+Rajendra Shiva More.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87443">
+                <coordinates>73.948012655,15.518396244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87477">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50477,73.95783&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3415</value>
+                </Data>
+                <Data name="name">
+                    <value>Bavancho Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50477</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95783</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429122058195.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429122144332.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 20/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4519</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Tukaram Rupo Gavade.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87476">
+                <coordinates>73.957826413,15.504769094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87510">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50905,73.95697&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5597</value>
+                </Data>
+                <Data name="name">
+                    <value>Tis Khajan Deu Tali Ack Gutak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50905</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95697</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429123234059.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429124215917.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/0; 10/14-15</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>067</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4510</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 09:04:31.324182</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Moreshwar Hari Mahatme.
+10)Manoramabai Suryaji Mahatme.
+11) Ganba alias Mohan Suryaji Mahatme.
+12) Sadanand Suryaji Mahatme.
+13)Vishnu Suryaji Mahatme.
+2)Smt. Yeshoda Natekar.
+3)Yeshwant R. Mahatme.
+4)Vithal B. Vagle.
+5)Shripad B. Natekar.
+6)Gangabai J. Natekar.
+7)Vishwasrao B. Mahatme.
+8)Jagannath Natekar.
+9)Mangesh Suryaji Mahatme.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87509">
+                <coordinates>73.956973595,15.509053131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87543">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5179,73.94425&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1148</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>64</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5179</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94425</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429093206236.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429093226374.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>64/12 (PART)&quot;,&quot;13 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>647</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87542">
+                <coordinates>73.944250293,15.517904819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87576">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50556,73.95725&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3411</value>
+                </Data>
+                <Data name="name">
+                    <value>Tambadi Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50556</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95725</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429120122708.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429120131189.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 23/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/45</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4523</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Vinayak Senavi Dhume.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87575">
+                <coordinates>73.957251773,15.505558773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87609">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50872,73.95715&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5598</value>
+                </Data>
+                <Data name="name">
+                    <value>Tir Khazan Don Tali Aak Kannem Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50872</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95715</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429123131444.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429123138886.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>14/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>156.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4511</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-18 09:04:31.324182</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Moreshwar Hari Mahatme
+2) Suryaji Vishnu Mahatme
+3) Smt. Yeshoda Natekar
+4) Yeshwant R. Mahatme
+5) Vithal B. Vagle
+6) Shripad B. Natekar
+7) Gangabai J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jagannath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87608">
+                <coordinates>73.957147728,15.508716317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87642">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51636,73.94339&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1149</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51636</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94339</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429105746628.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429105805614.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>60/16 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>52.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>641</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87641">
+                <coordinates>73.943393029,15.516357098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87675">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50607,73.95294&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1154</value>
+                </Data>
+                <Data name="name">
+                    <value>Gutak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50607</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95294</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429104141855.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429104153147.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>26/2,4; 27/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2932.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>639</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pramod Damodar Dukle.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87674">
+                <coordinates>73.952941174,15.5060731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87708">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50735,73.94949&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3408</value>
+                </Data>
+                <Data name="name">
+                    <value>Pimpla Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>43</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50735</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94949</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429110718625.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429110737307.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>43/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>149.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4956</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant Guiri Naik Raikar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87707">
+                <coordinates>73.949494935,15.507345303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87741">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51841,73.94523&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3401</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51841</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94523</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429104819095.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429104847609.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>65/2 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>143</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>38.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4950</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87740">
+                <coordinates>73.945231343,15.518405918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87774">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50516,73.95831&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3417</value>
+                </Data>
+                <Data name="name">
+                    <value>Thapan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50516</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95831</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429115143703.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429115151374.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1; 16/15-16</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4517</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anand Arjun Tari alias Tarkar
+Anirudra Ganesh Fadte
+Cumbarjua
+Madhusudan Sawant
+Ramakant Pandurang Narvekar
+Sawant, Tari &amp; Fadte Society of
+Shankar Krishna Naik
+Shankar Pandurang Sawant.
+Shiva Vithu Naik
+Shivaji Prabhakar Tari
+Tulshi Purushottam Sawant
+Uttam Jagannath Tari (two plot 960 sq.mts each)
+Vinod Pundalik Halarnkar
+Yeshumati Molu Halarnkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87773">
+                <coordinates>73.958308242,15.505157274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87807">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51864,73.94535&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6132</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51864</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94535</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429102906645.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429102916208.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>102.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5618</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87806">
+                <coordinates>73.945351896,15.518637425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87839">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50573,73.95821&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3419</value>
+                </Data>
+                <Data name="name">
+                    <value>Savaricho Aak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50573</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95821</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429114750304.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429114818686.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/39</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4515</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Yeshwant Atmaram Mahatme
+2) Vithal B. Vagle
+3) Suryaji Vishnu Mahatme
+4) Moreshwar Hari Mahatme
+5) Yeshoda Natekar
+6) Shripad B. Natekar
+7) Gangabai  J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jaganath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87838">
+                <coordinates>73.958205557,15.505733834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87872">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51884,73.94589&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1146</value>
+                </Data>
+                <Data name="name">
+                    <value>Chunem Kantor; Chunem Kantor.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>65</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51884</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94589</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429095553556.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429095618190.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>65/6 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>212.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>649</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manguesh Devasthan.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87871">
+                <coordinates>73.945886695,15.518838096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87905">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51569,73.94451&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1150</value>
+                </Data>
+                <Data name="name">
+                    <value>Madrichem Bhat Tereno Situado Margo De Cumbarjua</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51569</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94451</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200526032409689.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200526032419277.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>58/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>209.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>640</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Laximibai Kashinath Naik.
+2) Vaikunth Gopal Naik.
+3) Shankar Gopal Naik.
+4) Vaman Gopal Naik.
+5) Bhikaro Dattu Naik.
+Dharma Krishna Phadte
+Kunda N. Garudi
+Pundalik Krishna Phadte
+Robert Jose Menezes
+Robert Jose Menezes.
+Shamu Krishna Phadte
+Sitabai Dattaram Sawant
+Tulshidas Krishna Phadte
+Vinayak Krishna Phadte</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87904">
+                <coordinates>73.944505381,15.515691003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87938">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50486,73.95832&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3416</value>
+                </Data>
+                <Data name="name">
+                    <value>Pautak</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50486</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95832</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429115229840.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429115252336.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>18/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>41.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4518</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Yeshwant Atmaram Mahatme
+2) Vithal B. Vagle
+3) Suryaji Vishnu Mahatme
+4) Moreshwar Hari Mahatme
+5) Yeshoda  Natekar
+6) Shripad B. Natekar
+7) Gangabai J. Natekar
+8) Vishwasrao B. Mahatme
+9) Jagannath Natekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87937">
+                <coordinates>73.958318115,15.504864236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87971">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50694,73.95502&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3393</value>
+                </Data>
+                <Data name="name">
+                    <value>Supullo Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50694</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95502</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429113121438.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429113153278.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>130.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4506</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Anuradha Ganesh Phadte.
+2) Suhas Hari Phadte.
+3) Umesh Hari Phadte
+4) Dinesh Hari Phadte.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="87970">
+                <coordinates>73.955024978,15.506935549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88004">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51879,73.94781&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3398</value>
+                </Data>
+                <Data name="name">
+                    <value>Kanturli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>67</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51879</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94781</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429095156146.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429095218821.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>67/1 (PART)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>107.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4502</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Mogabai Srinivassa Porobo Loundo
+Rajendra Shiva More.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88003">
+                <coordinates>73.947809686,15.51878669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88037">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50722,73.95535&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3392</value>
+                </Data>
+                <Data name="name">
+                    <value>Supullo Anck</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cumbarjua</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50722</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95535</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429112630715.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429112935705.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>24/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cumbharjua</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cumb/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4505</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-05 08:40:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Anuradha Ganesh Phadte.
+2) Suhas Hari Phadte.
+3) Umesh Hari Phadte
+4) Dinesh Hari Phadte.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="88036">
+                <coordinates>73.955349016,15.507222227,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="450">
+        <Placemark id="452">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52291,73.77087&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1010</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1010</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>212/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Goveia Ludovico, c/o Goveia Holiday Homes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Aradi, Candolim Bardez</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52291</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77087</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Candolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="451">
+                <coordinates>73.77087,15.52291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50494,73.76981&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1169</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1169</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2479/bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Fernandes Minguel Richard,.</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 209, Dandop Candolim, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50494</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76981</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Candolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="466">
+                <coordinates>73.76981,15.50494,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

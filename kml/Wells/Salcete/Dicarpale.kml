@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15954">
+        <Placemark id="15956">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.261025,73.989248&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5387</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5387</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>74/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Luis Rebello</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 30,Campeawaddo, Dicarpale, Navelim, Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.261025</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.989248</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Dicarpale</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15955">
+                <coordinates>73.989248,15.261025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15971">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.258828,73.989664&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5388</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5388</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>500/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Joaquim Moura</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 226, Fuslabhat, Aquem-Baixo, Navelim, Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.258828</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.989664</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Dicarpale</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15970">
+                <coordinates>73.989664,15.258828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15986">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.259045,73.990458&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5389</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5389</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>546/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Alston Joy Vales</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.4/A, Rucol, Dicarpale, Salcete-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.259045</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.990458</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Dicarpale</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15985">
+                <coordinates>73.990458,15.259045,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

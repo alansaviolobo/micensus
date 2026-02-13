@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8350">
+        <Placemark id="8352">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.381695,73.905091&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5883</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5883</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>164/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Raya Narayan Borkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.354/2, Xindolim,sancoale, Mormugao Goa 403710</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.381695</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.905091</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Sancoale</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8351">
+                <coordinates>73.905091,15.381695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8367">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.384287,73.867502&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5902</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5902</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>165/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Girish Kumar Pillai</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Flat No.g-2, Chowgule Garden, Zorint,zuarinagar, Mormugao Goa 403726</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.384287</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.867502</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Sancoale</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8366">
+                <coordinates>73.867502,15.384287,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20301">
+        <Placemark id="20303">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40035,74.09391&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2452</value>
+                </Data>
+                <Data name="name">
+                    <value>Dayanand Nagar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Piliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40035</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09391</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220119101945426.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220119101953397.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>058</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Pili/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6281.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2287</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman Diu
+Government of Goa P.W.D. XV (NH)
+Revenue Department, Government of Goa
+Sanjivani Co-op. Sugar Karkhana Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003662.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20302">
+                <coordinates>74.093913831,15.400346414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20335">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41963,74.09662&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4327</value>
+                </Data>
+                <Data name="name">
+                    <value>Gauton Xir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Piliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41963</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09662</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220119082359097.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220119082409344.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Pili/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3302</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-19 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganesh Govind Upadhye   1/2
+Pandurang Ganesh Upadhye  1/2</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005912.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20334">
+                <coordinates>74.096623333,15.419631667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20367">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40287,74.09222&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4330</value>
+                </Data>
+                <Data name="name">
+                    <value>Dayanand Nagar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Piliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40287</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09222</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220119104000021.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220119104129393.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Pili/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>714.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3304</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-19 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman Diu
+Government of Goa P.W.D. XV (NH)
+Revenue Department, Government of Goa
+Sanjivani Co-op. Sugar Karkhana Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003912.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20366">
+                <coordinates>74.092219159,15.402868795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20399">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41885,74.09479&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4328</value>
+                </Data>
+                <Data name="name">
+                    <value>Gauton Xir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Piliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41885</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09479</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220119083315157.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220119083326361.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Pili/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>740.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3303</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-01-19 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganesh Govind Upadhye   1/2
+Pandurang Ganesh Upadhye  1/2</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005412.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20398">
+                <coordinates>74.094786222,15.418854999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20431">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.40188,74.08053&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4106</value>
+                </Data>
+                <Data name="name">
+                    <value>Nadi Khuti</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>42</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Piliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.40188</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08053</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220119094101750.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220119094110085.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Pili/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3548.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2791</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-26 04:34:14.076467</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003412.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20430">
+                <coordinates>74.080527524,15.401884763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20463">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.42029,74.09769&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4162</value>
+                </Data>
+                <Data name="name">
+                    <value>Agor Cutomban Gautona</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Piliem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.42029</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09769</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220119081828826.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220119081840356.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>38 - Sanvordem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dharbandora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Da/Pili/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3162.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2899</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-11-29 05:15:00.765029</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganesh Govind Upadhye   1/4
+Pandurang Ganesh Upadhye  3/4</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1005763.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006162.852777316</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20462">
+                <coordinates>74.097685196,15.420293463,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

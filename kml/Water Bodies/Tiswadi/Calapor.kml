@@ -1,0 +1,3120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="84014">
+        <Placemark id="84016">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47469,73.84468&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1081</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47469</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84468</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092511669.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092533643.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>29/3-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>038</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>199.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>673</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:21.195000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jano Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84015">
+                <coordinates>73.844683662,15.47468903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84049">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47244,73.82905&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1065</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>349</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47244</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82905</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428071759869.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428071808516.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>349/3-4,24</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>031</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>611.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>691</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:06:15.175000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84048">
+                <coordinates>73.829047568,15.472438946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84082">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46689,73.8291&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1067</value>
+                </Data>
+                <Data name="name">
+                    <value>Madiac Foro</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>243</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14-15</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46689</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8291</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428074953419.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428075035507.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>243/13-15; 341/9,18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>032</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>557.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>819</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor
+Xavier Cunha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84081">
+                <coordinates>73.829097872,15.466892949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84115">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47628,73.82949&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5546</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>465</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47628</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82949</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425083802460.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425083808875.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>465/6-8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1349.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4349</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-09 08:06:31.469429</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84114">
+                <coordinates>73.829492913,15.476275808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84148">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46613,73.84455&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1071</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>152</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46613</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84455</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428090314035.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428090325504.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>152/12,14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>037</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>213.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>697</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Confraria de Calapor</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84147">
+                <coordinates>73.844553554,15.466132645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84181">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47998,73.84476&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1087</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>593</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47998</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84476</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428094810518.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428094825745.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>593/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>039</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>187.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>668</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:46.602000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Terra Firma Developers</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84180">
+                <coordinates>73.844763902,15.479976812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84214">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47206,73.82769&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5544</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>349</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47206</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82769</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428071928517.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428071936347.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>349/5-6,18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>030</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>659.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4347</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-09 08:02:30.648983</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84213">
+                <coordinates>73.827687314,15.472060495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84247">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47317,73.84315&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1076</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>33</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47317</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84315</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092941512.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092950186.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>33/4-5,15-16,18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>034</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>393.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>704</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Cofre de Nossa Senhora de Ruzai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84246">
+                <coordinates>73.843149434,15.473166299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84280">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47284,73.84364&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1077</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47284</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84364</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092859266.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092912537.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>38/16; 39/6-11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>033</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>499.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>705</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Cofre de Nossa Senhora de Ruzai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84279">
+                <coordinates>73.843642728,15.472844404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84313">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47467,73.84297&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1082</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>405</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47467</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84297</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092151228.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092200319.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>405/1-2; 406/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>941.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>671</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:26.694000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Church Property</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84312">
+                <coordinates>73.84297281,15.474670218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84346">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47305,73.84458&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1079</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>41</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47305</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84458</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092627932.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092637143.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>41/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>040</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>173.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>707</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:04.200000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Quitino Carmo Lobo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84345">
+                <coordinates>73.844578891,15.47304717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84379">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48337,73.83932&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1057</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>526</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48337</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83932</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428095425147.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428095434515.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>526/4-7,19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3825.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>729</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Francis Paul Fonseco.
+2) Antonio Pinto.
+Francisco Xavier Agnelo Dias
+Santana Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84378">
+                <coordinates>73.83932464,15.483367452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84412">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46982,73.84793&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1053</value>
+                </Data>
+                <Data name="name">
+                    <value>Cabeca</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46982</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84793</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428090156110.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428090205702.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>58/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>769.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>713</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:06:32.919000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Umakant Balchandra Kenkre
+2) Shripad Balchandra Kenkre
+3) Fatu Balchandra Kenkre
+4) Divaker Balchandra Kenkre
+5) Shrikrishna Balchandra Kenkre
+6) Rajendra Balchandra Kenkre</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84411">
+                <coordinates>73.847926594,15.469815601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84445">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4621,73.8403&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1046</value>
+                </Data>
+                <Data name="name">
+                    <value>Bondava Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>144</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4621</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8403</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428081501540.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428081514182.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>87/1; 129/0; 131/0; 143/0; 144/0; 193/0; 199/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>176827.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1734</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84444">
+                <coordinates>73.840300258,15.462096211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84478">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47642,73.82803&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1063</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>465</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47642</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82803</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425081123193.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425081147373.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>465/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>838.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>682</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84477">
+                <coordinates>73.828028916,15.476420494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84511">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47346,73.82944&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1066</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>365</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47346</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82944</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428071730495.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428071737370.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/1; 364/1,4; 365/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>028</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>729.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>690</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:06:22.992000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84510">
+                <coordinates>73.829444968,15.473462629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84544">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4725,73.82781&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5545</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>349</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4725</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82781</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428071833178.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428071908274.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/1; 349/1,4,18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1872.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4348</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-09 08:02:30.648983</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84543">
+                <coordinates>73.827808667,15.472500366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84577">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4725,73.83952&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1084</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>297</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24-26,29-31</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4725</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83952</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428091926412.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428091938797.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>296/1-5; 297/1-2,24-26,29-31; 307/14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1725.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2154</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84576">
+                <coordinates>73.839521932,15.472496109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84610">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47913,73.82683&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5473</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>490</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47913</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82683</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425080249573.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425080307500.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>490/3-4,6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>694.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4288</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:36:08.048499</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shashank Damodor Mahatme</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012094.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84609">
+                <coordinates>73.826828145,15.479129929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47431,73.84475&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1080</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47431</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84475</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092426983.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092450929.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>30/3; 49/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>029</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>683.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>674</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:15.339000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Datta Jaiwant Malyenkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84642">
+                <coordinates>73.844753411,15.474313385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84676">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46955,73.84609&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1052</value>
+                </Data>
+                <Data name="name">
+                    <value>Bordas de Sangria</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>163</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-13</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46955</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84609</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428090227664.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428090235172.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>163/5-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Delete</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>73.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>711</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Calapor
+Communidade of Calapor
+Ivo Antonio Gonsalo Pulquerio Socorro de Araujo
+Ivo Antonio Gonsalo Pulqurio do Socorro de Araujo
+Juloo Vaz
+Lipoldin Araujo
+Pinto.
+Teofilo Eutermiano Xavier de Cruz</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84675">
+                <coordinates>73.846091986,15.469550108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84709">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45781,73.83458&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5470</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>222</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45781</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83458</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428080409883.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428080448432.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>222/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Rainwater Harvesting</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>106</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>768.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4285</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:32:08.073762</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Goa University at Bambolim - Dona Paula Plateau</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1004844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84708">
+                <coordinates>73.834579058,15.457810713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84742">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46559,73.8446&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1073</value>
+                </Data>
+                <Data name="name">
+                    <value>Sarsawati Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>81</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46559</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8446</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428084650204.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428084709834.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>81/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>097</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>357.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>696</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ivon Braganza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84741">
+                <coordinates>73.844603935,15.465591785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84775">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47646,73.83108&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6123</value>
+                </Data>
+                <Data name="name">
+                    <value>Une Grande</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>462</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47646</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83108</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425084223599.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425084228102.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>347.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5655</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84774">
+                <coordinates>73.831084422,15.476457063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84807">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46607,73.83011&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1069</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>246</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46607</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.83011</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428075129714.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428075141243.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>245/10; 246/1P</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>829.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>693</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:06:18.258000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84806">
+                <coordinates>73.830107355,15.466066422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84840">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4746,73.8298&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1064</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>366</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4746</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8298</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428071654744.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428071706539.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>366/3-5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>861.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>684</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84839">
+                <coordinates>73.829804641,15.474599495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84873">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48053,73.8419&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1086</value>
+                </Data>
+                <Data name="name">
+                    <value>Varzia Anydo Palmar Beroad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>421</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48053</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8419</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428094852525.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428094909834.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>420/1-3,5-6; 421/1-3,5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>794.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>669</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012594.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84872">
+                <coordinates>73.841901748,15.480529287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84906">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46581,73.84253&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1049</value>
+                </Data>
+                <Data name="name">
+                    <value>Bandvol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>147</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46581</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84253</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428090501052.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428090511579.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>146/1; 147/10,14-15</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1466.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>695</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1005844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84905">
+                <coordinates>73.842533362,15.465810734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84939">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47466,73.84266&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1083</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>405</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47466</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84266</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092035004.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092042127.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>403/2; 405/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>036</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>306.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>672</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:29.406000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Church Property</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009344.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84938">
+                <coordinates>73.842657186,15.474657676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84972">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47266,73.84412&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1078</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5-6</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47266</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84412</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428092745152.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428092757333.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>40/2-3,5-6; 41/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>027</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>731.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>706</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:08:00.798000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Cofre de Nossa Senhora de Ruzai
+Quitino Carmo Lobo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1006844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84971">
+                <coordinates>73.84411512,15.472656283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85005">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47746,73.84619&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1056</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47746</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84619</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230428093640147.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230428093652801.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>727.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>714</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Elvino Rego Gonsalves</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1011844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85004">
+                <coordinates>73.846186785,15.477464177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85038">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47606,73.82996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6122</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>464</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Calapor</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47606</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82996</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230425084810939.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230425084820928.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>13 - St. Cruz</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>St. Cruz</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Cala/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>78.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5661</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-25 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Calapor.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>976176.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1010844.86666437</value>
+                </Data>
+            </ExtendedData>
+            <Point id="85037">
+                <coordinates>73.829961193,15.476058697,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

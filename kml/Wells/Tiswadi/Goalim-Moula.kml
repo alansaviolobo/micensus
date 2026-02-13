@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25818">
+        <Placemark id="25820">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46507,73.89996&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>131</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>131</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>159/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Naik Kamlakant Raghuvir</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Moula Batim, Goa - Velha Tiswadi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46507</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89996</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Goalim-Moula</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25819">
+                <coordinates>73.89996,15.46507,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

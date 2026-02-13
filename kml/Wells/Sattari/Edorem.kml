@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21456">
+        <Placemark id="21458">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56745,74.13897&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2748</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2748</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>19/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Ashok Joshi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Bokul mol</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56745</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13897</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Edorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21457">
+                <coordinates>74.13897,15.56745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21473">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56223,74.14545&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2749</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2749</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>18/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gopal Joshi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Gharakadil dando Hedodem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56223</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14545</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Edorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21472">
+                <coordinates>74.14545,15.56223,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13938">
+        <Placemark id="13940">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.257512,74.111201&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4454</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4454</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>69/Quepem</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. JAMNADAS DAYALJI SAGLANI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 3776(1), Carriamoddi, Cacora, Curchorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.257512</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.111201</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curchorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13939">
+                <coordinates>74.111201,15.257512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13955">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.265675,74.101088&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4480</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4480</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1212</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>ROHIDAS HARI VASTA</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 878, Shirfod, Curchorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.265675</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.101088</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curchorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13954">
+                <coordinates>74.101088,15.265675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13970">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.263263,74.121378&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4562</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4562</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1216</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>JAYESH RAJENDRA NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:24,Astamol, Curchorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.263263</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.121378</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curchorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13969">
+                <coordinates>74.121378,15.263263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13985">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.268729,74.120422&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4563</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4563</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>46/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>ASHWINI ASHOK NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:475,Devlemol, Curchorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.268729</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.120422</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Curchorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13984">
+                <coordinates>74.120422,15.268729,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

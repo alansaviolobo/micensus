@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14699">
+        <Placemark id="14701">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.215197,74.070949&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4180</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4180</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>83/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. SUSHANT RAMESH SHIRWAIKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 6/65, Biptimola, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.215197</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.070949</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Quepem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14700">
+                <coordinates>74.070949,15.215197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14716">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.219488,74.065983&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4377</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4377</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1262</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>BRAZ LUIS D'COSTA</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 123, CONDY, QUEPEM, GOA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.219488</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.065983</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Quepem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14715">
+                <coordinates>74.065983,15.219488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14731">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.209994,74.072245&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4580</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4580</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>33/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MRS.ROSY LUIS BARBOSA</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:149, Zogla Moddi,Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.209994</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.072245</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Quepem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14730">
+                <coordinates>74.072245,15.209994,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21794">
+        <Placemark id="21796">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47719,74.11181&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3219</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3219</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>206/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Harishchandra Hazare</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Guleli sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47719</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11181</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Guleli</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21795">
+                <coordinates>74.11181,15.47719,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

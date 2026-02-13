@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25564">
+        <Placemark id="25566">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.454432,73.843342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>634</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>634</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3139/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri maruti madhav prasad</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Plot no.15 , Aldeia De Goa,P.O Goa University Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.454432</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.843342</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Bambolim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="25565">
+                <coordinates>73.843342,15.454432,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

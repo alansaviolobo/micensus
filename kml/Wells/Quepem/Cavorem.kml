@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13718">
+        <Placemark id="13720">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.150194,74.065491&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4500</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4500</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>19/QUEPEM</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. GANESH SHANU VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 117, Velipwada, Caurem, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.150194</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.065491</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Cavorem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13719">
+                <coordinates>74.065491,15.150194,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

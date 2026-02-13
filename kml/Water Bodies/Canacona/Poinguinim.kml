@@ -1,0 +1,4217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18011">
+        <Placemark id="18013">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96884,74.055&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5049</value>
+                </Data>
+                <Data name="name">
+                    <value>Garjin</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>166</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96884</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.055</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524071722254.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524071736013.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>602.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3948</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhava Gopalkrishna Venkatrao Prabhu Ga onkar              1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>953554.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18012">
+                <coordinates>74.055004827,14.968837619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18045">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97215,74.06999&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4954</value>
+                </Data>
+                <Data name="name">
+                    <value>Colem Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>62</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06999</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513164635701.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513164650041.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>159</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/46</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3917</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Betal Devasthan of Poiguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>954410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18044">
+                <coordinates>74.069986667,14.972151667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18077">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97406,74.06949&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3087</value>
+                </Data>
+                <Data name="name">
+                    <value>Vassal Tali (Near Koleband); Vasal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>145</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97406</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06949</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524074346612.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524074355101.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/33</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2112</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:23:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Narshinva Devalaya of Poinguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>956910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18076">
+                <coordinates>74.069494325,14.974060872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97436,74.08834&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3020</value>
+                </Data>
+                <Data name="name">
+                    <value>Patapurush Tali; Talekadil; Tadvo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97436</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08834</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523181237935.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523181248852.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>154</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/35</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>74.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2122</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:27:08</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dayanand Pandhari Phal Desai
+Vishwanath Pandhari Phal Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>948554.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18108">
+                <coordinates>74.088338594,14.974364849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18141">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.9736,74.06966&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5053</value>
+                </Data>
+                <Data name="name">
+                    <value>Vasal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>146</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.9736</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06966</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524074425540.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524074431998.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>158</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/45</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3950</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Rama Bombo Velip 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>956660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18140">
+                <coordinates>74.069656094,14.973601563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18173">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97871,74.09212&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5048</value>
+                </Data>
+                <Data name="name">
+                    <value>Madantil Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97871</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09212</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523185002665.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523185009689.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>157</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/44</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3951</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alpana Samir Bhobe
+Ganesh Academy Pvt. LTD.
+Hemalata Sadashiva Bhobe
+Nikhil Sadashiv Bhobe
+Sadashiv Keshav Bhobe
+Samir Sadashiv Bhobe
+Saniya Nikhil Bhobe
+Shobha Nikhil Bhobe</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>958160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18172">
+                <coordinates>74.092117142,14.978712997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18205">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97422,74.09589&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3019</value>
+                </Data>
+                <Data name="name">
+                    <value>Parshuram Temple Tank / Shristhal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>85</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97422</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09589</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523183847839.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523185729575.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>554.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2126</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:21:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Parshuram Devalaya of Poinguinim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1001865.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>949075.356525197</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18204">
+                <coordinates>74.095888204,14.974219606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18237">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97041,74.0731&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3091</value>
+                </Data>
+                <Data name="name">
+                    <value>Sittol Tali; Sitto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>18</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97041</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0731</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513172417108.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513172426637.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>053</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/38</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>59.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2119</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:33:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vaman Ganaba Poiguinkar 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>951054.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18236">
+                <coordinates>74.073098619,14.970407351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18269">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.9724,74.0472&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4980</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>181</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>39</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.9724</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0472</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524071446485.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524071452408.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/23</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>175.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3881</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 04:32:06</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>955160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18268">
+                <coordinates>74.047201466,14.972395132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18301">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.99342,74.06006&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3017</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhate Tank (Sadolxem); Shiro</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>223</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.99342</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06006</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523163313451.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523163319172.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>045</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/15</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>284.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2129</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:14:16</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Executive Engineer W.D XXV (R) P.W.D Fatorda, Margao Goa
+Suhas Vasudeo Pai Bhatikar
+Sulbha Bhikaro Pai Bhatekar
+Vamona Bhikaro Pai Bhatekar alias Vaman Bhikaro Pai Bhatikar
+Vishwanath Manju Pai
+Vithal Manju Pai Four</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>959410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18300">
+                <coordinates>74.060063122,14.993420957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18333">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97118,74.07108&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4957</value>
+                </Data>
+                <Data name="name">
+                    <value>Colem Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>20</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97118</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07108</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513165737604.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513165749715.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>150</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/30</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>122.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3921</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Betal Dewasthan of Poinguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>952804.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18332">
+                <coordinates>74.071078333,14.971178333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18365">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97328,74.0749&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3077</value>
+                </Data>
+                <Data name="name">
+                    <value>Brahma Tali (Mahalwada); Karmalem; Mashe Vol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>139</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97328</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0749</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513174647639.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513174712172.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/27</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2123</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 05:33:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Damodar Prabhakar Shenvi alias Damodar P hal Gaonkar
+Prafulla Damodar Shenvi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>955910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18364">
+                <coordinates>74.0749,14.973278333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18397">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97118,74.05936&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3086</value>
+                </Data>
+                <Data name="name">
+                    <value>Fondly Tali; Fondlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>161</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97118</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05936</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513163050972.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513163114548.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>148</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/26</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>135.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2111</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:23:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Devendra Krishna Sinai Paraz
+Laximinarayan Krishna Sinai Paraz 2-Two</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>953910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18396">
+                <coordinates>74.059356568,14.971177823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18429">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.9733,74.04764&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3069</value>
+                </Data>
+                <Data name="name">
+                    <value>Sateridevi Tali; Deva Talom</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>180</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.9733</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04764</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220511120331459.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220511120518641.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1109.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2106</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 11:56:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Damu Giri Prabhu Gaonkar
+Narayan Giri Prabhu Gaonkar
+Sandip Krishna Prabhugaonkar
+Santosh Krishna Prabhugaonkar
+Vaman Bhiku Prabhu Gaonkar
+Vinayak Bhiku Prabhu Gaonkar
+Vishnu Bhiku Prabhu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>955660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18428">
+                <coordinates>74.047642654,14.973302779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18461">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97659,74.04672&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4880</value>
+                </Data>
+                <Data name="name">
+                    <value>Kulen Tali, Behind Krishna Temple; Undir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>186</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>23</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97659</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04672</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220511060637783.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220511060707276.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>609.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3914</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>957160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18460">
+                <coordinates>74.046719975,14.976592669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18493">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97538,74.08742&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5033</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhindi Molem or Kuspote</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>104</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97538</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08742</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523181408728.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523181414343.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5429.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3889</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhao Sadashiv Tengse
+Shri Parshuram Devalaya of Poinguinim
+Yeso Vaman Fal Desai 3-Three</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>949554.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18492">
+                <coordinates>74.087418253,14.97538171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18525">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97859,74.09173&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3081</value>
+                </Data>
+                <Data name="name">
+                    <value>Madantil Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97859</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09173</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523184853937.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523184900016.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>044</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1776.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2124</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:03:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dilip Ram Fal Desai  1/4
+Ganesh Academy Pvt. LTD
+Pritesh Shridhar Phal Desai
+Vasant Venkatesh Phal Desai
+Vithal Venkatesh Phal Desai
+Yesso Vaman Fal Desai  1/4</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>957910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18524">
+                <coordinates>74.091729601,14.978585505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18557">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.99485,74.1462&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5038</value>
+                </Data>
+                <Data name="name">
+                    <value>Dabel</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.99485</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1462</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523122609195.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523122615354.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>139</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>311.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3897</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anand Narayan Velip and Veenanti Anand Velip
+Gopal K. Shettigar
+Krishna Narayan Velip
+Lalita S. Kakarmath
+Laxman Datta Gaonkar
+Prasad Velip
+Pratima Krishnanand Madiwal
+Sarvanand Mhalgo Velip
+Shri Saunsthan Gokarn Partagali Jivottam Math                     1 - One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965037.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18556">
+                <coordinates>74.146199578,14.994846133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18589">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.98352,74.13488&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2711</value>
+                </Data>
+                <Data name="name">
+                    <value>Amona village, Cotigao WLS; Amonem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.98352</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13488</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220514161755391.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220514161809656.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>146</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/24</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>171.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1770</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:41:55</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babu Purso Gaonkar
+Bhiki Ram Gaonkar
+Bhiso Purso Gaonkar
+Bombo Janu Gaonkar 10 - Ten
+Buto Bhiso Deikar
+Gonsu Puno Gaonkar
+Govt. of Goa P.W.D. (Roads Division South) Fatorda Margao Goa
+Kusht Kondlo Deikar
+Ram Janu Deikar
+Tolu Panglo Deikar
+Vithoba Ram Deikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>964537.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18588">
+                <coordinates>74.134877819,14.983516981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18621">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97147,74.07081&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4956</value>
+                </Data>
+                <Data name="name">
+                    <value>Colem Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>74</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97147</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07081</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513165450605.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513165519907.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>151</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/31</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3923</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Betal Devasthan of Poiguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>953804.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18620">
+                <coordinates>74.070811867,14.971471008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18653">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97203,74.04748&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4981</value>
+                </Data>
+                <Data name="name">
+                    <value>Futradi Vadem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>181</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97203</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04748</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524071355621.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524071411265.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/29</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>124.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3882</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 04:32:06</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Devappa Narayan Bhandari Two
+Shiva Narayan Bhandari</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>954910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18652">
+                <coordinates>74.047482071,14.972032894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18685">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97359,74.06924&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5054</value>
+                </Data>
+                <Data name="name">
+                    <value>Sheta Addo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>146</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97359</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06924</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524074450133.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524074457026.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/36</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>74.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3949</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balu Rama Velip 6-Six
+Govind Bhiki Velip
+Janu Babai Velip
+Narayan Coiro Velip
+Purso Babai Velip
+Vithoba Bhisso Velip</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>956160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18684">
+                <coordinates>74.069240753,14.973593643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18717">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96969,74.0776&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3022</value>
+                </Data>
+                <Data name="name">
+                    <value>Mharava Tali; Soiru Prabhulem Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>121</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96969</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0776</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513180858377.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513181147341.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>140</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>296.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2120</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:46:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anant N. Mahale
+Madhukar Yeshwant Prabhu Gaonkar
+Samiksha S. Prabhu Gaonker
+Shaila R.Prabhu Gaonker
+Sudin H.Prabhu Gaonker
+Sushma Anant Mahale
+Vimal Prabhu Gaonker</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>949054.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18716">
+                <coordinates>74.077602516,14.969692639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18749">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97774,74.09205&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4979</value>
+                </Data>
+                <Data name="name">
+                    <value>Saradi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>91</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97774</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09205</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523184429390.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523184446930.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>625.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3880</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 04:13:46.937726</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Lila Vaman Phal Desai
+Smt. Indirabai Waman Phal Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>957660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18748">
+                <coordinates>74.092053889,14.977740378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18781">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97046,74.07282&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3090</value>
+                </Data>
+                <Data name="name">
+                    <value>Khazan Tali; Varco</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97046</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07282</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513172127456.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513172151733.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>054</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/40</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>54.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2118</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:33:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhukar Ramkrishna Narveker
+Shridhar Anant Poiguinker 2-Two</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>951804.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18780">
+                <coordinates>74.072818588,14.970456641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18813">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97528,74.08808&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5046</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhamne</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97528</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08808</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523181515767.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523181522485.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>156</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/43</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3943</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Manohar Sanvlo Prabhu Gaonkar
+Vithal Laxman Prabhu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>949304.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18812">
+                <coordinates>74.088080188,14.975276515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18845">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97452,74.04749&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4881</value>
+                </Data>
+                <Data name="name">
+                    <value>Bolo Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>183</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97452</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04749</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220511062036868.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220511062100984.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>055</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/42</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>52.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3915</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-11 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sandip Krishna Prabhugaonkar
+Santosh Krishna Prabhugaonkar
+Vaman Bhiku Prabhu Gaonkar
+Vinayak Bhiku Prabhu Gaonkar
+Vishnu Bhiku Prabhu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>956410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18844">
+                <coordinates>74.047489359,14.974524453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18877">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.98404,74.04518&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3018</value>
+                </Data>
+                <Data name="name">
+                    <value>Dindibag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>195</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.98404</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04518</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524095140787.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524095155702.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/17</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>236.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2104</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:21:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Saunsthan Gokarn Partagali Jivottam Math                     One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>958410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18876">
+                <coordinates>74.045176552,14.984044205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18909">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96947,74.10503&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3021</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhagwati Temple Tank (Khawat); Gharbhat; Macodsem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>52</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96947</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10503</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523170720872.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523170810543.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/20</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>201.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2127</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:46:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhagavati Devalaya of Poiguinim 1 - One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1001865.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>946575.356525197</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18908">
+                <coordinates>74.105025574,14.96947275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18941">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97896,74.09169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3082</value>
+                </Data>
+                <Data name="name">
+                    <value>Darwaten Tank; Madantil Thikan or Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97896</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523185138887.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523185147131.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>326.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2125</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:13:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pritesh Shridhar Phal Desai
+Vasant Venkatesh Phal Desai
+Vithal Venkatesh Phal Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>958660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18940">
+                <coordinates>74.091692579,14.978957799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18973">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.9702,74.07434&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4961</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>140</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.9702</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07434</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513173049439.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513173100512.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>056</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/47</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>28.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3927</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Prabhakar Upendra Shenvi 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>950054.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="18972">
+                <coordinates>74.074336667,14.970195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19005">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97118,74.0713&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4958</value>
+                </Data>
+                <Data name="name">
+                    <value>Vorko Tali; Varco</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97118</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0713</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513165828170.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513165845259.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>153</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/34</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>76.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3928</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shridhar Anant Poiguinkar 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>952304.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19004">
+                <coordinates>74.071300657,14.971182933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19037">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97202,74.07021&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3076</value>
+                </Data>
+                <Data name="name">
+                    <value>Ado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>144</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>58</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97202</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07021</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513165013287.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513165050201.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>147</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/25</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>148.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2114</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 05:13:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Balu Pundalik Velip
+Budho Vithoba Vithoba
+Devu Govind Velip
+Molu Bhisso Velip
+Prabhavati Yeshwant Velip 6-Six
+Shantaram Bhikaro Velip</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>953660.9501396302</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19036">
+                <coordinates>74.070207638,14.972018603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19069">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97162,74.07063&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4955</value>
+                </Data>
+                <Data name="name">
+                    <value>Colem Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>72</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97162</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07063</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513165307521.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513165329702.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>143</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/19</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>222.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3922</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Betal Devasthan of Poiguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>954054.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19068">
+                <coordinates>74.070630749,14.971619162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19101">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97051,74.07321&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4959</value>
+                </Data>
+                <Data name="name">
+                    <value>Sittol Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>140</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97051</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07321</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513172530101.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513172609553.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>149</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/28</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>125.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3924</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shridhar Anant Poiguinkar 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>951554.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19100">
+                <coordinates>74.07321067,14.970505484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19133">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97038,74.07405&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4960</value>
+                </Data>
+                <Data name="name">
+                    <value>Gharbhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>140</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97038</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07405</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513172924227.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513172945925.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>152</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/32</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>94.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3926</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Naguesh Narayan Poiguinkar 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>950804.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19132">
+                <coordinates>74.074051667,14.970378333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19165">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96993,74.074&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4962</value>
+                </Data>
+                <Data name="name">
+                    <value>Sitto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>140</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96993</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.074</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513173234115.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513173247330.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/48</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>17.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3925</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Naguesh Narayan Poinguinkar 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>949804.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19164">
+                <coordinates>74.073999138,14.969926732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19197">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97066,74.0489&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3079</value>
+                </Data>
+                <Data name="name">
+                    <value>Colsor Tali; Balsuvadem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>178</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97066</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0489</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220511121939852.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220511122009611.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>142</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/18</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>227.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2109</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:03:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Budo Tuko Namshikar  1/4 Two
+Sebastiao F. Afonso  3/4</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>954160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19196">
+                <coordinates>74.048898828,14.970660292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19229">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.99544,74.06447&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3016</value>
+                </Data>
+                <Data name="name">
+                    <value>Balewada Tank; Subraibalealem and Vamnalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>237</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.99544</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06447</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523164728853.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523164743965.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/37</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>70.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2128</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:14:16</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Satyandradas U. Bale</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>960160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19228">
+                <coordinates>74.064470347,14.995443957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19261">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97092,74.07171&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3093</value>
+                </Data>
+                <Data name="name">
+                    <value>Vorko Tali; Vorqua Pelem; Varco</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>141</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>12</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97092</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07171</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513170336979.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513170456404.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>155</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/41</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>54.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2117</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-07 06:33:18</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Madhukar Ramkrishna Narveker 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>952054.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19260">
+                <coordinates>74.071713736,14.970916197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19293">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97256,74.06956&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3023</value>
+                </Data>
+                <Data name="name">
+                    <value>Madhgye Tali (Mahalvada); Madgem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>146</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>42</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97256</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06956</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513164223080.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513164250441.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>144</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/21</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>184.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2113</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 07:49:37</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Betal Devasthan of Poinguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>955410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19292">
+                <coordinates>74.069560384,14.972561239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19325">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.97676,74.09356&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5020</value>
+                </Data>
+                <Data name="name">
+                    <value>Mumramal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>90</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.97676</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.09356</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523185525321.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523185533916.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>138</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>324.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3892</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dilip Ram Phal Desai
+Shilpa Vadiraj Kedlaya
+Vadiraj Vishnumurthy Kedlaya</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995347.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>947804.198933077</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19324">
+                <coordinates>74.093562043,14.976759703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19357">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.9722,74.06979&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4953</value>
+                </Data>
+                <Data name="name">
+                    <value>Talem Colem Khajan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>143</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.9722</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06979</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220513164440374.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220513164454301.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>145</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/22</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>184.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3916</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Betal Devasthan of Poinguinim 1-One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>954660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19356">
+                <coordinates>74.069785094,14.972202512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19389">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96822,74.10121&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5023</value>
+                </Data>
+                <Data name="name">
+                    <value>Bharaovalem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>59</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96822</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.10121</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523171843080.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523171857876.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poinguinim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>141</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Poin/16</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>237.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3888</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dayanand Pandhari Fal Desai 2 - Two
+Vishnu Pandhari Fal Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1001865.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>948325.356525197</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19388">
+                <coordinates>74.101214967,14.968223385,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

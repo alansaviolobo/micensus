@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14984">
+        <Placemark id="14986">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.55076,73.99365&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4920</value>
+                </Data>
+                <Data name="name">
+                    <value>Shantadurga Temple Tank; Bhard Sateri</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Virdi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.55076</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99365</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230221111153498.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230221111210901.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/5,8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>17 - Sanquelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sanquelim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Vird/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>150.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5252</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 14:31:23.068431</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.550219</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Shantadurga Devi Virdi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1010522.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026164.961864778</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14985">
+                <coordinates>73.993648715,15.55076109,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

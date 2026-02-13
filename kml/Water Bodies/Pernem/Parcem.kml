@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27260">
+        <Placemark id="27262">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67123,73.78192&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>672</value>
+                </Data>
+                <Data name="name">
+                    <value>Harihareshwar Temple Tank; शेणई कुणगो</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>32</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>93</value>
+                </Data>
+                <Data name="village">
+                    <value>Parcem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67123</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78192</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230325115309312.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230325115336042.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>32/93</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parcem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Parc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2013.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3390</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>केशव  श्रीराम  प्रभु  देसाई
+यशवंत  लक्ष्मण  प्रभु  देसाई
+शांताराम  बाळकृष्ण  प्रभु  देसाई
+शिवाजी  गोविंद  प्रभु  देसाई
+सगुण  हरी  प्रभु  देसाई
+सदानंद  लक्ष्मण  प्रभु  देसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964317.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026081.66665445</value>
+                </Data>
+            </ExtendedData>
+            <Point id="27261">
+                <coordinates>73.781924523,15.67123493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27295">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65729,73.77885&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5949</value>
+                </Data>
+                <Data name="name">
+                    <value>धाकटो डोंगर</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>55</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Parcem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65729</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.77885</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304135242205.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304135308450.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Parcem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Parc/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>360.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5407</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-04 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gizelle Dolarose Fernandes
+Govt.  Of  Goa  .  Executive  Engineer  ,Works  Division  II  (  R  &amp;  B  ),  P.W.D.Panaji-Goa.
+Mary Conceicao Fernandes
+Santan N. Fernandes
+Suresh  Vaman  Kaskar:  An  area  300.00  Sq.Mts.
+आत्माराम  गोपाळ  प्रभु  देसाई
+कृष्णाजी  गोपाळ  प्रभु  देसाई
+नारायण  लाडकोबा  प्रभु  देसाई
+पुरुषोत्तम  रघुनाथ  प्रभु  देसाई
+रघुनाथ  गोपाळ  प्रभु  देसाई
+रामचंद्र  रघुनाथ  प्रभु  देसाई
+विश्राम  गोपाळ  प्रभु  देसाई
+शिवाजी  गोविंद  प्रभु  देसाई
+श्रीपाद  आत्माराम  शेणई  देसाई
+श्रीपाद  राजाराम  प्रभु  देसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964317.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025481.6666544469</value>
+                </Data>
+            </ExtendedData>
+            <Point id="27294">
+                <coordinates>73.778846498,15.657287716,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

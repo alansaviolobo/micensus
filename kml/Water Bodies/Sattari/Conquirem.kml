@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77282">
+        <Placemark id="77284">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4524,74.11585&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3281</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Gopal Yenu Gaonkar; Deusum</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Conquirem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4524</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11585</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200924182223992.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200924182232627.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Guleli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Conq/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>102.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2031</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-25 16:49:11</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Gopal Yenu Gaonkar
+Prabhakar Krishna Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998722.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007347.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="77283">
+                <coordinates>74.115852358,15.452398658,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13342">
+        <Placemark id="13344">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.490849,74.008911&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3925</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3925</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>280/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Ulhas Dattaram Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno.340,Sateribhat,Volvoi,Ponda ,Goa 403401</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.490849</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.008911</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Volvoi</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13343">
+                <coordinates>74.008911,15.490849,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

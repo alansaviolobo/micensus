@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="49647">
+        <Placemark id="49649">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27261,73.9352&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3711</value>
+                </Data>
+                <Data name="name">
+                    <value>Ponval</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27261</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9352</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208083921012.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208083855928.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>025</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>68.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2258</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-24 04:54:27.655638</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>987183.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49648">
+                <coordinates>73.935202609,15.272609421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49681">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26832,73.93219&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1402</value>
+                </Data>
+                <Data name="name">
+                    <value>Cana</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>24</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26832</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93219</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208093824266.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208093838508.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1007.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>987</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989659.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49680">
+                <coordinates>73.932187733,15.268323401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49713">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26678,73.9324&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1404</value>
+                </Data>
+                <Data name="name">
+                    <value>Fondago</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26678</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9324</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824135957460.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824140010909.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>024</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>182.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1138</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>988959.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49712">
+                <coordinates>73.932400786,15.266783752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49745">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26817,73.93547&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3712</value>
+                </Data>
+                <Data name="name">
+                    <value>Vailem Vaigon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26817</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93547</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208092259695.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208092349615.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>226.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2229</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-24 04:54:27.655638</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986483.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49744">
+                <coordinates>73.935469422,15.268169846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49777">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27006,73.93164&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1400</value>
+                </Data>
+                <Data name="name">
+                    <value>Galli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27006</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93164</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824140623044.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824140644835.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>465.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>986</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Olinto D'Silva</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990359.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49776">
+                <coordinates>73.931637908,15.270063535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49809">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.26729,73.93125&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1403</value>
+                </Data>
+                <Data name="name">
+                    <value>Fondonga</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>29</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.26729</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93125</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824135823715.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824135831832.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>829.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>989</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Luis Alberto Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>989309.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49808">
+                <coordinates>73.931249962,15.267289611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49841">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.27171,73.93476&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1398</value>
+                </Data>
+                <Data name="name">
+                    <value>Ponval</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.27171</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93476</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211208084553799.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211208084614028.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>242.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1156</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008338.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986833.156424282</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49840">
+                <coordinates>73.934759718,15.271712654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49873">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2698,73.93126&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1401</value>
+                </Data>
+                <Data name="name">
+                    <value>Lancos</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cana</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2698</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93126</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824140750030.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824140815068.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Benaulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>149</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Cana/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2372.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>985</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Cana</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987638.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>990009.766316455</value>
+                </Data>
+            </ExtendedData>
+            <Point id="49872">
+                <coordinates>73.931260043,15.269802762,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

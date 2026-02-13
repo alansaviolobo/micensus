@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1018">
+        <Placemark id="1020">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5724,73.89919&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>814</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>814</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2297/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Luis Francisco Gracias</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 14, Panolem, Carona, Aldona, Bardez Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5724</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89919</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponolem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1019">
+                <coordinates>73.89919,15.5724,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

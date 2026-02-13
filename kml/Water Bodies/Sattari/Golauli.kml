@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="78616">
+        <Placemark id="78618">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6228,74.15874&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3234</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sadanand Laxman Nadkarni; Gholicho Sarad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6228</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15874</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905070554258.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905070607556.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>106</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gola/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1949</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Sadanand Laxman Nadkarni
+10) U. K. Nadkarni
+11) V. K. Nadkarni
+12) M. K. Nadkarni
+13) S. P. Nadkarni
+14) S. M. Nadkarni
+15) Madhav M. Nadkarni
+16) D.M. Nadkarni
+17) Anand S. Nadkarni
+18) Ashok S. Nadkarni
+19) V.S.Nadkarni
+2) Satchitanand L. Nadkarni
+20) S. S. Nadkarni
+21) A.S.Nadkarni
+22) Jayanand L.Nadkarni
+23) T.V.S.Nadkarni
+24) P.V.S.Nadkarni
+25) G.V.S.Nadkarni
+26) Ghansham V.S.Nadkarni
+27) Rajaram V.Nadkarni
+28) Dinanath V.Nadkarni
+29) Gajanand V.Nadkarni
+3) Shripad A. Nadkarni
+30) Babulnath V.Nadkarni
+4) Mohan M. Nadkarni
+5) Dattaram M. Nadkarni
+6) Mahesh M. Nadkarni
+7) Damodar M. Nadkarni
+8) R. G. Nadkarni
+9) M. G. Nadkarni
+Sivaram Anant Sinai Nadkarni</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1030938.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78617">
+                <coordinates>74.158735,15.622796667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78651">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63024,74.16361&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3218</value>
+                </Data>
+                <Data name="name">
+                    <value>Asnache Bharad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63024</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16361</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904075414382.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904075422653.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gola/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1946</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Puno Pandu Khot
+2) Arjun Puno Khot
+3) Harichandra Puno Khot
+4) Pandu Puno Khot</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031838.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78650">
+                <coordinates>74.163613333,15.630238333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78684">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62483,74.16077&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3233</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Deulem Apa Khot; Deulakadil Vaingon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62483</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16077</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905065955351.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905070002022.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>10/8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gola/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1948</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Deulem Apa Khot</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031238.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78683">
+                <coordinates>74.160771667,15.624826667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78717">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62996,74.16339&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3219</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Asnache Bharad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Golauli</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62996</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16339</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200904075626729.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200904075633594.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>107</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gola/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1947</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Div</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031538.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78716">
+                <coordinates>74.16339,15.62996,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

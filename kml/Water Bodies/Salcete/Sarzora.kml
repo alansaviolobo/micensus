@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="65223">
+        <Placemark id="65225">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.22602,73.98836&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4213</value>
+                </Data>
+                <Data name="name">
+                    <value>Pank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>97</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.22602</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.98836</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211210060727002.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211210060740917.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>269.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2920</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ashwini Kumar Sarin
+Celine Sebastiana Fernandes
+Jaykishor Bindeshwar Jha
+Jose Aniceto Gilberto Fernandes
+Kamal Parge
+M/s Proview Construction Ltd.
+Monoo construction And Developers Pvt Ltd
+Nandkumar Laxman Anandache
+Nilima Naik
+Pantaleon Americo Pereira
+Prabhakar Rangappa Parge
+Prabhakar Sanvlo Naik
+Ramesh Ramjidas Tandon
+Rukmavati Parge
+Sagar Shivaji Kerwadkar
+Shubert Stanford Furtado
+Sophia Luzia Judith Pereira
+Zameer A. Shaikh</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986748.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65224">
+                <coordinates>73.988363394,15.226017594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65257">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2142,73.99571&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2020</value>
+                </Data>
+                <Data name="name">
+                    <value>Nomosi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>153</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2142</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99571</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220106145850773.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220106145903562.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1191.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1389</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chapel</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980798.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65256">
+                <coordinates>73.995706319,15.214204021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65289">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23031,74.00389&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2027</value>
+                </Data>
+                <Data name="name">
+                    <value>Cumsal; Chonue Cumbersac Banda</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23031</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00389</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211106131645080.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211106131659475.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2132.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1379</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aniciete Mascarenhas
+Caetario Dias
+Jeronimo Mascarenhas
+Joaquim Remedio Mascarenhas
+Jose Francisco Antur Fernandes
+Konkan Railway Corporation Ltd
+Luis Piedade Furtado
+Marcelina Mascarenhas
+Ritina Mascarenhas
+Rosy Fernandes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>986398.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65288">
+                <coordinates>74.003894157,15.230305063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65321">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21925,73.99158&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2024</value>
+                </Data>
+                <Data name="name">
+                    <value>Miranda</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>132</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21925</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99158</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824160228792.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824160341726.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3726.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1385</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio  Rosario Venacio Mascarenhas</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983598.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65320">
+                <coordinates>73.991575098,15.219247181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65353">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21687,73.99882&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2023</value>
+                </Data>
+                <Data name="name">
+                    <value>Tamdem Salka Tollem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21687</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99882</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824164402795.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824164410906.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1132.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1386</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Public</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982548.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65352">
+                <coordinates>73.998822216,15.216873532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65385">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.22237,73.99264&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4211</value>
+                </Data>
+                <Data name="name">
+                    <value>Sarzon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.22237</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99264</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211210055252515.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211210112300298.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>342.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2946</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-10 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade de Sarzora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983948.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65384">
+                <coordinates>73.992641667,15.222365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65417">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.22237,73.99183&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4241</value>
+                </Data>
+                <Data name="name">
+                    <value>Sarzon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>126</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.22237</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99183</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211221110151828.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211221110210043.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>583.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2921</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-12 14:34:10.800819</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Sarzora
+Exec. Engineer, Works Div X -Govt of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984298.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65416">
+                <coordinates>73.991829087,15.222374485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65449">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.22408,73.99111&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2026</value>
+                </Data>
+                <Data name="name">
+                    <value>Donkon</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>99</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.22408</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99111</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824171142903.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824171156610.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1814.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1381</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>984998.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65448">
+                <coordinates>73.991105261,15.224082545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65481">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20883,74.00254&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3822</value>
+                </Data>
+                <Data name="name">
+                    <value>Ghottea; Poror.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>187</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20883</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00254</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824105332763.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824105342901.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>52.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2530</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-24 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Sarzora</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>979748.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65480">
+                <coordinates>74.002536507,15.208827049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65513">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21878,74.00463&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2018</value>
+                </Data>
+                <Data name="name">
+                    <value>Sarzora Lake; Hoedamambo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21878</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00463</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824170011656.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824170024917.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>229826.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1370</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>983248.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65512">
+                <coordinates>74.004626634,15.218779528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65545">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21691,73.99751&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2022</value>
+                </Data>
+                <Data name="name">
+                    <value>Mochozot</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>142</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9,10</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21691</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99751</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211210111620200.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211210111632558.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>590.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1388</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade
+The Executive Engineer Works Div.-XIV</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982898.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65544">
+                <coordinates>73.997505,15.216906667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65577">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2168,73.99806&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2021</value>
+                </Data>
+                <Data name="name">
+                    <value>Rock-Vaddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2168</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99806</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824164719983.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824164726802.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>959.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1387</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Public</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982198.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65576">
+                <coordinates>73.998061194,15.216795345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65609">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2247,73.99142&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2025</value>
+                </Data>
+                <Data name="name">
+                    <value>Lambo Tollem C1</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>100</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>40</value>
+                </Data>
+                <Data name="village">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2247</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99142</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210824171251687.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210824114443931.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>35 - Velim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sarzora</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Sarz/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1654.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1380</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>5</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dr. Bazilio Cota</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008335.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>985348.087559794</value>
+                </Data>
+            </ExtendedData>
+            <Point id="65608">
+                <coordinates>73.991416983,15.224698385,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

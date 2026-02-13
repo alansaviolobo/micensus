@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="81225">
+        <Placemark id="81227">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48727,74.08039&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5365</value>
+                </Data>
+                <Data name="name">
+                    <value>Khutiachem Talem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48727</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08039</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230224102931144.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314071859920.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pono/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1221.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4179</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 07:23:50.027938</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>2) Shripad Babano Savaikar      1/2
+Rajaram Babusso Sawaikar
+Shaila alias Ranjana Rajaram Sawaikar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009175.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81226">
+                <coordinates>74.080386655,15.487273014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81260">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48778,74.07904&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3150</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Raghu Dhaku Gaudo; Ghar-Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48778</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07904</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824080207538.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824080221325.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/14; 3/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pono/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1889</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-24 14:51:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Raghu Dhaku Gaudo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009475.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81259">
+                <coordinates>74.07904,15.48778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81293">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49069,74.07614&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3149</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Nanda Raghu Gaudo; Ghar-Bhat Vada Gali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49069</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07614</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200824075328029.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200824075337691.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pissurlem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>077</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pono/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>153.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1888</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-24 14:51:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Nanda Raghu Gaudo
+2) Raghu Dhaku Gaudo
+3) Dhaku Raghu Gaudo
+4) Sitaram Ramachandra Gaude</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009775.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81292">
+                <coordinates>74.076143449,15.49068558,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

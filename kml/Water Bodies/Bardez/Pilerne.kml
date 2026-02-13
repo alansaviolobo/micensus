@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6608">
+        <Placemark id="6610">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53039,73.80358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2888</value>
+                </Data>
+                <Data name="name">
+                    <value>Moicawaddo Lake; Lingdichem Bhatt</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>165</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53039</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80358</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009145320580.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009145339493.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>165/6-7,10-12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pile/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4695.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4757</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 08:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade De Pilerne</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6609">
+                <coordinates>73.803577193,15.53038934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6643">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52776,73.82392&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>888</value>
+                </Data>
+                <Data name="name">
+                    <value>Mayane</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52776</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82392</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419065802806.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419065814789.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>21/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>042</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pile/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1805.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4759</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arundatti Vitoba Naique Panvelkar
+Gopala Vishnum Naique Panvelkar
+Narcinva Vishnum Naique Panvelkar
+Rekha Gopal Naique Panvelkar
+Sangita Vivek Naique Panvelcar
+Vitoba Visnum Naique Panvelkar
+Vivek Govinda Naique Panvelcar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6642">
+                <coordinates>73.823921316,15.527760682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6676">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53477,73.81379&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>886</value>
+                </Data>
+                <Data name="name">
+                    <value>Pilerne Lake; Volvado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>205</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53477</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81379</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131171244838.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131171250397.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>205/1-2; 206/3; 207/1-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pile/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>100363.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3448</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Krishna Balchandra Hadfadkar
+Shri Somnath Balchandra Hadfadkar
+Shri Vinayak Balchandra Hadfadkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6675">
+                <coordinates>73.813790664,15.534765532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6709">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52263,73.81607&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2889</value>
+                </Data>
+                <Data name="name">
+                    <value>Azmethicho Xendo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>10</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52263</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81607</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221012072424999.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221012072441176.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>10/5-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pile/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1790.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4755</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 08:03:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Pilern</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6708">
+                <coordinates>73.816070822,15.522630339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6742">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53388,73.80118&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>889</value>
+                </Data>
+                <Data name="name">
+                    <value>Zollone</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>46</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53388</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80118</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418115619854.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418115627927.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>46/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Pilerne</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>041</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Pile/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3216.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4758</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Antonio Nazareth</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1017908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="6741">
+                <coordinates>73.801184658,15.533880531,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

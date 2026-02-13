@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15019">
+        <Placemark id="15021">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.06097,73.99696&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>531</value>
+                </Data>
+                <Data name="name">
+                    <value>Digui</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.06097</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99696</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220524121340698.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220524121351368.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>958.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>255</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Deu Lakhaneshwar of Agonda One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>968410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15020">
+                <coordinates>73.996960663,15.060970631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15053">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.03994,73.99501&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3034</value>
+                </Data>
+                <Data name="name">
+                    <value>Indrem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>115</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.03994</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99501</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509164057608.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509164115615.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>300.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2063</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 09:36:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ramdas Nilu Naik Gaunkar Two
+Vithoba Keshav Naik Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965410.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15052">
+                <coordinates>73.995005,15.039935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15085">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.03986,73.99422&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3033</value>
+                </Data>
+                <Data name="name">
+                    <value>Near Agonda Club; Indrem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>115</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.03986</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99422</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509163654152.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509163719406.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>125.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2064</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 09:36:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Shri Mallikarjun Devasthan One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15084">
+                <coordinates>73.994215,15.039863333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15117">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.04639,74.00481&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3035</value>
+                </Data>
+                <Data name="name">
+                    <value>Belkem Avalachem Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.04639</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00481</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20201229115643276.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20201229115653154.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2062</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 09:36:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babu Shiva Phal Dessai
+Devappa Bhikan Phal Dessai
+Mali Raghoba Phal Dessai
+Vishvanath Katu Phal Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966660.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15116">
+                <coordinates>74.00481218,15.04639446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15149">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.03919,74.01786&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>528</value>
+                </Data>
+                <Data name="name">
+                    <value>Gotor Gal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.03919</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01786</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523065742977.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523065753107.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>385.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>490</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pandhari Shambhu Naik Gaunkar One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15148">
+                <coordinates>74.017860756,15.039190554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15181">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.06019,73.99924&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3032</value>
+                </Data>
+                <Data name="name">
+                    <value>Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>21</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.06019</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99924</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220509165604527.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220509165615292.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2059</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 09:36:39</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Ganesh Jandu Phal Dessai
+Shripad Ganesh Amshekar
+Soiru Shiva Phal Dessai Three</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>968160.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15180">
+                <coordinates>73.999237498,15.060187764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15213">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.05258,73.99352&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3641</value>
+                </Data>
+                <Data name="name">
+                    <value>Ranjanipaik Temple Tank; Tali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>150</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.05258</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99352</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20201229123434203.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20201229123452284.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>088</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2060</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-12-29 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anselnco D.Cruz
+Arnaldo D.Vaz e Cruz
+Caitan Francisco Sales e Gomes
+Jose Vicent Gomes
+Lepodlina Lobo e Gomes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15212">
+                <coordinates>73.993523333,15.052583333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15245">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.0408,74.00075&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>529</value>
+                </Data>
+                <Data name="name">
+                    <value>Konale</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.0408</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00075</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20201229122154626.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20201229122205307.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Agonda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Agon/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>731.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>253</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Suresh Nilba Naik Gaunkar One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989231.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>965910.95013963</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15244">
+                <coordinates>74.000748265,15.040799005,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

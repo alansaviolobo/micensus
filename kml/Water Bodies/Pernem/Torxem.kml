@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28106">
+        <Placemark id="28108">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.76602,73.84538&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>686</value>
+                </Data>
+                <Data name="name">
+                    <value>आंडयाचे आडवण</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>222</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.76602</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84538</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413110728167.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413110753136.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>222/1-2; 223/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1418.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3438</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>सरकार  सार्वजनीक  तळे</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038855.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28107">
+                <coordinates>73.845381064,15.76602344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28141">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.78544,73.85349&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5173</value>
+                </Data>
+                <Data name="name">
+                    <value>वायंगणतळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>76</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.78544</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85349</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413103043712.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413103051029.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>75/0; 76/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>263.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4058</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:23:53.921470</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>पुरूषोत्तम  रामनाथ  केणी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1039155.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28140">
+                <coordinates>73.853491383,15.78543941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28174">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.79175,73.85435&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5174</value>
+                </Data>
+                <Data name="name">
+                    <value>खालचेतळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>106</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>15</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.79175</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85435</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413104016748.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413104035247.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>106/10,12,14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>88.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4059</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:27:40.441757</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>पुरूषोत्तम  रामनाथ  केणी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1040955.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28173">
+                <coordinates>73.854354327,15.791751782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.78168,73.86332&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6061</value>
+                </Data>
+                <Data name="name">
+                    <value>सासण्याचेतळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>153</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.78168</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86332</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413102147298.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413102156387.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>157.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5473</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>विष्णू  गणेश  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1040655.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28206">
+                <coordinates>73.8633243,15.781675622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28239">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.79197,73.85464&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6062</value>
+                </Data>
+                <Data name="name">
+                    <value>खालचेतळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>106</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.79197</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85464</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413104057567.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413104109025.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>57.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5472</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>पुरूषोत्तम  रामनाथ  केणी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1041255.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28238">
+                <coordinates>73.854642279,15.791967357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28271">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.78122,73.86328&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5176</value>
+                </Data>
+                <Data name="name">
+                    <value>सासण्याचेतळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>153</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.78122</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86328</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413102056264.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413102110809.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>153/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>302.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4061</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:27:40.441757</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>विष्णू  गणेश  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1040355.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28270">
+                <coordinates>73.863275758,15.781218889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28304">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.77282,73.87791&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6066</value>
+                </Data>
+                <Data name="name">
+                    <value>फकिरपाटा</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>173</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.77282</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87791</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413134607922.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413134616816.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Torxem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Torx/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5476</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-04-13 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>शिवाजी  माधव  शेणई  देसाई</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1039455.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28303">
+                <coordinates>73.877909243,15.772817201,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

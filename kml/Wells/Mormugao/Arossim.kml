@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8092">
+        <Placemark id="8094">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.33545,73.894358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5952</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5952</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>336</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>M/s Gm Goa Inn Pvt Ltd (gujaral V.s)</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>C-2/2010, Vasant Kuni, New Delhi, Cansaulim Goa 403601</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.33545</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.894358</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8093">
+                <coordinates>73.894358,15.33545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8109">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.335937,73.896042&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5953</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5953</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>162</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>M/s. Daffodil Hotels Pvt. Ltd.</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>f-2, Landscape Exelsior, 1st Floor, Opp. Academy, D.b. Road, Campal, Panjim Goa 403002</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.335937</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.896042</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Arossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8108">
+                <coordinates>73.896042,15.335937,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

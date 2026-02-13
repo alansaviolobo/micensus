@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9810">
+        <Placemark id="9812">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.779038,73.843072&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1913</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1913</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2048/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Bhagat Budhaji Dattaram,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No.53/2,Torse Naikwada,Ward No.4, Pernem Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.779038</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.843072</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9811">
+                <coordinates>73.843072,15.779038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9827">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.76524,73.84381&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1917</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1917</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2051/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Shetye Uttam Ladu,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 90,Shetye wada, Torse, Pernem Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.76524</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84381</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9826">
+                <coordinates>73.84381,15.76524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9842">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.76826,73.84551&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1919</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1919</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2049/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Mangaonkar Raghuvir Shivram,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 63, Shetyewada, Torse,</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.76826</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84551</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9841">
+                <coordinates>73.84551,15.76826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9857">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.770979,73.843819&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1921</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1921</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2053/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Shetye Vilas Kshav,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 31,Shetye wada, Torse, Pernem Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.770979</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.843819</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Torxem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9856">
+                <coordinates>73.843819,15.770979,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

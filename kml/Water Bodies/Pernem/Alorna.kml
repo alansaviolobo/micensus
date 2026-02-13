@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23306">
+        <Placemark id="23308">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69735,73.91291&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5528</value>
+                </Data>
+                <Data name="name">
+                    <value>तळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>211</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69735</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91291</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318091542341.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318091548142.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>211/5A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6670.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4960</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-04 04:35:31</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>बाबा  नारायण  देसाई
+सरस्वती  रघूनाथ  परब</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031955.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23307">
+                <coordinates>73.912912201,15.697351943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23341">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.72777,73.89905&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5153</value>
+                </Data>
+                <Data name="name">
+                    <value>आईन मळो</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>353</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.72777</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89905</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318110335232.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318110341963.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>353/4-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>006</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>574.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4037</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 10:33:44.659658</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>आत्माराम  विष्णु  परब
+फटी  तुके  परब
+बापू  तुके  परब</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1039155.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23340">
+                <coordinates>73.899052333,15.72777178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23374">
+            <ExtendedData>
+                <Data name="id">
+                    <value>6278</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="status">
+                    <value>Pending</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="print_order">
+                    <value>123</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-12-01 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2026-01-13 10:55:26.103992</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="label_x">
+                    <value>0.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>0.0</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23373">
+                <coordinates>73.917529729,15.69969449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23388">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.72037,73.94236&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5081</value>
+                </Data>
+                <Data name="name">
+                    <value>ओमाचेतळे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.72037</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94236</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230413081641115.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230413081914146.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>22/0,3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>005</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1307.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3965</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-03 10:03:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>विनायक  आत्माराम  मोरजीकर</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1037955.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23387">
+                <coordinates>73.942355665,15.720369424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23421">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70591,73.8962&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5999</value>
+                </Data>
+                <Data name="name">
+                    <value>महार टेंब</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>273</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70591</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8962</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318083836360.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318083857908.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>052</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>95.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5525</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>भालचंद्र  लक्ष्मण  किनळेकर</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031355.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23420">
+                <coordinates>73.896202699,15.70590543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23453">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.72731,73.93593&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5154</value>
+                </Data>
+                <Data name="name">
+                    <value>श्रीचोपाचा</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.72731</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93593</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318131459637.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318131527843.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>11/3; 46/11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>315.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4038</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 10:34:50.659696</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>केशव  कृष्णाजी  लाड</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1038855.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23452">
+                <coordinates>73.935934289,15.727307958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23486">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69611,73.91597&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>590</value>
+                </Data>
+                <Data name="name">
+                    <value>Sateri Bhumika Temple Tank; नमस खरारे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>199</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69611</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91597</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318091458971.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318091505239.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>199/4-5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Cover</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>050</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5627.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3347</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-09-12 05:13:15.233098</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>श्रीदेव  सातेरी  हळर्ण</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032255.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23485">
+                <coordinates>73.915970841,15.696114481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23519">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.7338,73.92525&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2782</value>
+                </Data>
+                <Data name="name">
+                    <value>बामन तखाळ</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.7338</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.92525</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318125847231.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318125852135.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>69/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>064</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>5980.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3349</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-04-19 04:58:29</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Pundalik  Govind  Narulkar
+कार्यकारी  अभियता  विभाग  नं7  जलसिचन  खाते  1775  चौ.मि.पुरती</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1039755.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23518">
+                <coordinates>73.92524635,15.73379546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23552">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70049,73.90573&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5080</value>
+                </Data>
+                <Data name="name">
+                    <value>Alorna Fort Tank; कोट</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>242</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70049</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90573</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318084638296.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318084713947.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>/</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>065</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>51.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3966</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-03 10:03:41</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>सरकार</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031655.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23551">
+                <coordinates>73.905730747,15.700488201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23585">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.69635,73.91583&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5256</value>
+                </Data>
+                <Data name="name">
+                    <value>Sateri Tank (Small); नमस खरारे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>199</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.69635</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91583</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318090634621.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318090734068.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>199/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Alorna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>051</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Alor/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>116.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4069</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-26 03:30:47.194555</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>श्रीदेव  सातेरी  हळर्ण</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032555.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23584">
+                <coordinates>73.915833412,15.696354588,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11289">
+        <Placemark id="11291">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.41786,74.02126&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3550</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3550</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>844/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. GURUDAS MADHAV KHANDEPAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>CURTI PONDA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.41786</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02126</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Curti</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11290">
+                <coordinates>74.02126,15.41786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11306">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.400091,74.019932&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3635</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3635</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>839/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHIVDAS ATMARAM SHET SATARKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>SHIVANAGAR PONDA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.400091</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.019932</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Curti</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11305">
+                <coordinates>74.019932,15.400091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11321">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.406169,74.022437&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3789</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3789</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>79/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Madhav Sahakari</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>47/1, Mestawada Curti Ponda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.406169</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.022437</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Curti</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11320">
+                <coordinates>74.022437,15.406169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11336">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.405717,74.022798&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3790</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3790</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>80a/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Madhav Atmaram Sahakari</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>47/1, Mestawada Curti Ponda Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.405717</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.022798</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Curti</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11335">
+                <coordinates>74.022798,15.405717,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

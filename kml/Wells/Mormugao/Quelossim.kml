@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8303">
+        <Placemark id="8305">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.390567,73.93831&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5940</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5940</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>106/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mr. Ezbon Epher De Souza</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 5, Near Olps Chapel, Curpavaddo, Quelossim-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.390567</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93831</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Quelossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8304">
+                <coordinates>73.93831,15.390567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8320">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.377728,73.929092&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5941</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5941</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>130/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Agnelo Dsilva</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H No. 346/1(2), Kesarval,quelossim Mormugao- Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.377728</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.929092</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Quelossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8319">
+                <coordinates>73.929092,15.377728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8335">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.379332,73.951909&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5943</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5943</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>95/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Subhash Quexoa Pandit</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 395, Cabasa St. Cruz, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.379332</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.951909</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Quelossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8334">
+                <coordinates>73.951909,15.379332,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

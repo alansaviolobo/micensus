@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14650">
+        <Placemark id="14652">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60927,73.902&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5896</value>
+                </Data>
+                <Data name="name">
+                    <value>Kasvachi Peth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>59</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60927</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.902</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230221100411254.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230221100422587.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sirigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>108</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Siri/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>87.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5387</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-21 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:24.541973</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhagwant Bhaskar Gaonkar
+Namdev Vithu Gaonkar Area 500 Sq.Mts.
+Naraina Rajaram Shet Bandekar
+Narshiv Babali Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025769.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14651">
+                <coordinates>73.902003333,15.609273333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14684">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60998,73.90289&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4935</value>
+                </Data>
+                <Data name="name">
+                    <value>Lairaee Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>59</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60998</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.90289</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230208123046183.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230208122939950.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>59/1-2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Sirigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Siri/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>479.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5237</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 15:01:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:23.494430</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986001.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026469.7237766335</value>
+                </Data>
+            </ExtendedData>
+            <Point id="14683">
+                <coordinates>73.902891699,15.609983113,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

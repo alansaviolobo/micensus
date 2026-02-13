@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9750">
+        <Placemark id="9752">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60819,73.93561&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2535</value>
+                </Data>
+                <Data name="name">
+                    <value>Taleshwar Temple Lake; Shano</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Bordem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60819</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93561</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311111502124.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311111506856.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>60/2-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>003</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Bord/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>13020.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3453</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:29</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:07.225143</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025928.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9751">
+                <coordinates>73.935608922,15.608192931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9785">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60023,73.9369&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5888</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhakti Kalari</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Bordem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60023</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.9369</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230218094617388.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230218094644486.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Bord/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>207.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5375</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-02-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:10.305265</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025228.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9784">
+                <coordinates>73.93689602,15.600225561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9817">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59901,73.93926&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5718</value>
+                </Data>
+                <Data name="name">
+                    <value>Devasu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>24</value>
+                </Data>
+                <Data name="village">
+                    <value>Bordem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59901</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93926</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311112801549.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311112805228.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/22,25</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Bord/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>46.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5107</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-16 05:45:05.010524</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:07.816929</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa
+Government of Goa the Executive Engineer work Division VII(NH) PWD Panaji Goa
+Mangesh Damodar Karapurkar
+Narayan Ganesh Lamgaokar
+Premnath Mangesh Shirodkar
+Smruti Rajesh Desai
+Smruti Rajesh Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020678.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9816">
+                <coordinates>73.939255308,15.599008214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9850">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59927,73.93905&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5288</value>
+                </Data>
+                <Data name="name">
+                    <value>Fatrakmali</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Bordem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59927</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93905</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230311112732411.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230311112737731.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/13-14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>03 - Bicholim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Bord/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>38.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4101</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-28 10:47:48.305568</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:10.336640</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Krishnarao Rawloba Sardesai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>986000.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021378.7365250612</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9849">
+                <coordinates>73.939049071,15.5992659,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

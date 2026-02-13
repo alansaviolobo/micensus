@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22134">
+        <Placemark id="22136">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52474,74.14251&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2658</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2658</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1103/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gawas Gopal Shivlo</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Massordem, Valpoi, Sattari, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52474</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14251</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Massordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22135">
+                <coordinates>74.14251,15.52474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22151">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.52925,74.13362&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3269</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3269</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2013</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Fernandes francisco zhavier</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 229, ward 7, valpoi sattari goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.52925</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13362</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Massordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22150">
+                <coordinates>74.13362,15.52925,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

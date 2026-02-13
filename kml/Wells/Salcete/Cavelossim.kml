@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15323">
+        <Placemark id="15325">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.186552,73.945657&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5158</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5158</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>989</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>FRANCISCO AUGUSTO RODRIGUES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>36/1,IGREJAWARD,CAVELOSSIM, SALCETE</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.186552</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.945657</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Cavelossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15324">
+                <coordinates>73.945657,15.186552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15340">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.185949,73.946741&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5173</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5173</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>985</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>NOBERT FRANCIS REBELLO</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:68,IGREJAWARD CAVELOSSIM, SALCETE</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.185949</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.946741</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Cavelossim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15339">
+                <coordinates>73.946741,15.185949,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

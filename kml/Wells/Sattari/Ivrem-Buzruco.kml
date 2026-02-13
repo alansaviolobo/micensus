@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21811">
+        <Placemark id="21813">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62765,74.13342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2580</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2580</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>91/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Fondu Y. Gawas</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Ghodachi moli , Charavnem ,Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62765</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13342</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21812">
+                <coordinates>74.13342,15.62765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21828">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62411,74.14457&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2581</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2581</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>103/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Dharma Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Irrigation well at Hiverem 2, Hiverem , Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62411</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14457</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21827">
+                <coordinates>74.14457,15.62411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21843">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.62303,74.13989&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2582</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2582</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>102/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shiva Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Irrigation well at Hiverem 1,Hiverem , Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.62303</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.13989</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Buzruco</value>
+                </Data>
+            </ExtendedData>
+            <Point id="21842">
+                <coordinates>74.13989,15.62303,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

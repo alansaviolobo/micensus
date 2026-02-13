@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="86287">
+        <Placemark id="86289">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49719,73.94145&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3328</value>
+                </Data>
+                <Data name="name">
+                    <value>Tank at Deccan fine Chemicals; Ciba Area</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49719</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94145</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230322154005861.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230322154015156.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/1-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>21287.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2168</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 10:38:19</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Asstt. Eng. S.D.IV, W.D.XV (NH), P.W.D .Ponda Goa
+Synagenta India Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008604.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86288">
+                <coordinates>73.941445912,15.497187358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86322">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49561,73.93676&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1141</value>
+                </Data>
+                <Data name="name">
+                    <value>Kumar Sal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>27</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2-B</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49561</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93676</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429081721956.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429081728648.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>27/2-B</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>691.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>630</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:07:28.345000</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Montfort Brothers of St. Gabriel</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1007854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86321">
+                <coordinates>73.936761903,15.495608569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86355">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49583,73.94121&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1140</value>
+                </Data>
+                <Data name="name">
+                    <value>Tank at Deccan fine Chemicals; Ciba Area</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49583</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94121</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230322153910677.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230322153920342.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/1-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>40277.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>632</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:09:07</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Asstt. Eng. S.D.IV, W.D.XV (NH), P.W.D .Ponda Goa
+Synagenta India Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86354">
+                <coordinates>73.941212918,15.495828164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86388">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49769,73.94963&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5440</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhave Detta Akh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>19</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49769</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94963</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429132222451.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429132246520.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/17,19-20,23</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>329.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4255</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:02:08</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>L Viagas Martias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86387">
+                <coordinates>73.949627916,15.497693252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86421">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49852,73.94908&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5670</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhavem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>58</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49852</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94908</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429132750318.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429132810939.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/0; 37/56-59</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>395.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4849</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-03 05:29:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Luzinda V . Mateus</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009104.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86420">
+                <coordinates>73.949080018,15.498523293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86454">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49453,73.94234&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1139</value>
+                </Data>
+                <Data name="name">
+                    <value>Tank at Deccan fine Chemicals; Ciba Area</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49453</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94234</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230322153706258.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230322153739764.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/1-A</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>278009.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>631</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-11-30 11:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Asstt. Eng. S.D.IV, W.D.XV (NH), P.W.D .Ponda Goa
+Synagenta India Limited</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008354.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86453">
+                <coordinates>73.942344675,15.494527488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86487">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.49787,73.94924&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5669</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhave Datta Akh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.49787</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.94924</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230429132459230.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230429132538676.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>34/8-14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>15 - Cumbarjua</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Corlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ti/Corl/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>319.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4848</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-03 05:28:27</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Benjamin D Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>996824.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008854.39998422</value>
+                </Data>
+            </ExtendedData>
+            <Point id="86486">
+                <coordinates>73.949243874,15.497867504,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

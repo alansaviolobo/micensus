@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16880">
+        <Placemark id="16882">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.264651,73.925012&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4344</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4344</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>315/SALCETE</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MR.SHELIO DIAS</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>HNO:178,DESSONAIK ORLIM,SALCETE-GOA</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.264651</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.925012</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sernabatim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16881">
+                <coordinates>73.925012,15.264651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16897">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.264594,73.920941&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5085</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5085</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>408/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mrs. Maria Filomena Furtado</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno.93, Ambeaxir Sernabatim Salcete</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.264594</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.920941</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Sernabatim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16896">
+                <coordinates>73.920941,15.264594,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

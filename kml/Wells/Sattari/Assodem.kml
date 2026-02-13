@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19590">
+        <Placemark id="19592">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4792,74.17899&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2606</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2606</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>152/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Satyawati D. Zarekar.</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Madacho Kano Assodem.Valpoi.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4792</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17899</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Assodem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19591">
+                <coordinates>74.17899,15.4792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19607">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47535,74.18011&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2712</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2712</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>122/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Dattatray Naik</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Borichi moli ossodem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47535</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18011</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Assodem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19606">
+                <coordinates>74.18011,15.47535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19622">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.47491,74.18113&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2713</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2713</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>148/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Babani Dhuri</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Assodem, Khotodem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.47491</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.18113</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Assodem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19621">
+                <coordinates>74.18113,15.47491,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

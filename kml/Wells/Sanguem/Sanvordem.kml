@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19122">
+        <Placemark id="19124">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.275012,74.126506&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3952</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3952</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>110/Sanguem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>NANDADEEP KHUSHALI NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. no. 605, Dhadem, Sanvordem, Sanguem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.275012</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.126506</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Sanvordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19123">
+                <coordinates>74.126506,15.275012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19139">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.279551,74.110067&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3986</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3986</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>392</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SANTOSH G NAIK</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. no 486, near Saibaba Temple, Viswambarwadi, Savordem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.279551</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.110067</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="village">
+                    <value>Sanvordem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="19138">
+                <coordinates>74.110067,15.279551,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

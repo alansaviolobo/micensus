@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="78954">
+        <Placemark id="78956">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.63527,74.14984&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3230</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vishnu Ladu Gaonkar; Gauthan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>30</value>
+                </Data>
+                <Data name="village">
+                    <value>Ivrem-Curdo</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.63527</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.14984</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200905061700676.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200905061711500.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>20/30</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>113</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Ivec/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>92.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1940</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vishnu Ladu Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032738.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78955">
+                <coordinates>74.149837122,15.635269045,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

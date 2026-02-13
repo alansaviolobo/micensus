@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82902">
+        <Placemark id="82904">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67149,74.16829&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2955</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Boro Tano Gaonkar; Kelache Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>3</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67149</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.16829</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200819071654652.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200819071829976.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>3/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>026</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Surl/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>175.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1938</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-14 07:53:08</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Boro Tano Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029547.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82903">
+                <coordinates>74.168289243,15.671491299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82937">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6797,74.17731&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3137</value>
+                </Data>
+                <Data name="name">
+                    <value>Deusu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>13</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6797</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17731</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200819080414492.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200819080424557.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/7; 13/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Dongurli</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>113</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Surl/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>543.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1937</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-19 15:01:49</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sateri Devalaya of Surla</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029847.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="82936">
+                <coordinates>74.177310958,15.679701195,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

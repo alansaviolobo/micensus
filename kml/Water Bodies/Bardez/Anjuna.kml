@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="432">
+        <Placemark id="434">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57579,73.75323&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>810</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>22</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57579</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75323</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009092248328.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009092323725.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>14/2-3,12,22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>909.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4621</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="433">
+                <coordinates>73.75322656,15.575785765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5853,73.74931&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5416</value>
+                </Data>
+                <Data name="name">
+                    <value>Rautawado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>265</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>35</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5853</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74931</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009090610571.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009090641510.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>265/28,31,35,57</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>432.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4231</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:43:08.069980</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Marcus Marcelino Braganza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="466">
+                <coordinates>73.749311804,15.585303811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="500">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57736,73.75555&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5418</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhatulem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57736</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75555</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009105112686.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415175843364.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>8/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>423.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4233</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:44:08.108065</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Our Lady Saud De Chapel</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="499">
+                <coordinates>73.755552514,15.577360097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58068,73.75501&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1000</value>
+                </Data>
+                <Data name="name">
+                    <value>Palxet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>32</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58068</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75501</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415175557265.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415175602036.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/31-33; 92/23</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>820.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4618</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="532">
+                <coordinates>73.75500801,15.580681362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="566">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57634,73.75012&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5417</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57634</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75012</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009092717958.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009092730874.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>23/16; 24/4; 81/16,28-29</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1549.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4232</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:44:08.108065</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="565">
+                <coordinates>73.750118633,15.576343539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5927,73.74865&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5402</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagatore</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>250</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5927</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74865</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009085242245.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009085305909.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>250/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>310.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4217</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:18:08.391056</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Audrey Estelita Dlima alias Audrey Delima
+Bharat Sanchar Nigam Ltd.
+Communidade Of Anjuna
+Datta Jagannath Agarwadekar
+Digamber M. Naik
+Lalita A. Vast
+Mr. Pelegrino Fernandes Area - 500 Sq. M ts.
+Sharad R. Morajkar
+Vithal Durga Talwar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="598">
+                <coordinates>73.748646282,15.592702154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="632">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58839,73.75099&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>808</value>
+                </Data>
+                <Data name="name">
+                    <value>Anjuna Lake; Tolencalo Bandar</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>593</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58839</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75099</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009083807546.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009083852652.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>593/1,5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>002</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>8338.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3446</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="631">
+                <coordinates>73.750991847,15.588392474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57704,73.75751&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>809</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhatlem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>8</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>21</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57704</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75751</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415175638187.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415175747095.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>8/21,64</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>012</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4232.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4620</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Baburao Shabi Kanolkar
+Nitesh Madkaikar
+Riya Rupesh Korgaonkar alias Seema Ulhas Nagvekar
+Rupesh Korgaonkar
+Sapna Ulhas Nagvekar
+Smita Nitesh Madkaikar alias Smita Ulhas Nagvekar
+Sweta Baburao Kanolkar alias Sweta Ulhas Nagvekar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="664">
+                <coordinates>73.757509104,15.577037654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="698">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58338,73.75408&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1001</value>
+                </Data>
+                <Data name="name">
+                    <value>Konshet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>609</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>17</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58338</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75408</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415175159633.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415175215785.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>1/8; 609/3,16-18; 614/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1346.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4617</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="697">
+                <coordinates>73.754075493,15.583379209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58448,73.75462&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1002</value>
+                </Data>
+                <Data name="name">
+                    <value>Foneseth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>531</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58448</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75462</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415175125254.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415175133774.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>531/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>125</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1229.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4616</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027796.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="730">
+                <coordinates>73.754620927,15.584475942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="764">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59062,73.76692&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5412</value>
+                </Data>
+                <Data name="name">
+                    <value>Kumarwada</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>479</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59062</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76692</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009081804682.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009081933633.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>479/1,3-5; 481/42</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>126</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>273.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4227</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:26:08.048395</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="763">
+                <coordinates>73.766919511,15.590623349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57853,73.74353&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>811</value>
+                </Data>
+                <Data name="name">
+                    <value>Tumxet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>114</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>63</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57853</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.74353</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230415180653469.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230415180659556.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>114/63; 117/4-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4622</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024296.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="796">
+                <coordinates>73.74353117,15.578532717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="830">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5912,73.75903&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5405</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhatu</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>600</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5912</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.75903</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230131122443824.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230131122501474.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>600/6-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>127</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>158.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4220</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 05:20:11.304145</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028546.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="829">
+                <coordinates>73.759034315,15.591200749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59248,73.76128&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5750</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>North of 547</value>
+                </Data>
+                <Data name="village">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59248</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.76128</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009071651697.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009071716505.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>547/1-33</value>
+                </Data>
+                <Data name="constituency">
+                    <value>06 - Siolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Anjuna</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Anju/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>128.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5278</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-10-09 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970137.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029046.25664916</value>
+                </Data>
+            </ExtendedData>
+            <Point id="862">
+                <coordinates>73.761275531,15.592478812,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

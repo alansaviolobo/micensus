@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17055">
+        <Placemark id="17057">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.230573,73.936101&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5154</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5154</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>813</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MARIAZINHA RODRIGUES</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>REPROVADDO, VARCA SALCETE</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.230573</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.936101</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Varca</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17056">
+                <coordinates>73.936101,15.230573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17072">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.217318,73.935713&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5328</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5328</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>113</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>M/s Venture Resort Holding</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Suvarn Bandekar Building, Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.217318</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.935713</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Varca</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17071">
+                <coordinates>73.935713,15.217318,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

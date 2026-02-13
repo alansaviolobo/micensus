@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28336">
+        <Placemark id="28338">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65917,73.81259&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5166</value>
+                </Data>
+                <Data name="name">
+                    <value>Miranda Shet Tank; मीरानदीपालये</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>148</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>47</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65917</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81259</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323084931339.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323084947242.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>148/47-49</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>240.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4051</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:14:51.878676</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>कामीलो  रॉड्रीगीस  }
+मारीया  संताना  लेमोस  }
+व्हॅनासीओ  रॉड्रीगीस  }</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027455.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28337">
+                <coordinates>73.812587757,15.659167242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28371">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65921,73.8122&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5164</value>
+                </Data>
+                <Data name="name">
+                    <value>मीरानदीपालये</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>148</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>38</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65921</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8122</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323085054774.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323085110982.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>147/0; 148/38-41</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>237.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4049</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:14:51.878676</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>कामीलो  रॉड्रीगीस  }
+मारीया  संताना  लेमोस  }
+व्हॅनासीओ  रॉड्रीगीस  }</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027155.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28370">
+                <coordinates>73.812198751,15.659205128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28404">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65904,73.81347&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5167</value>
+                </Data>
+                <Data name="name">
+                    <value>Miranda Shet Tank; मीरानदीपालये</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>148</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>64</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65904</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81347</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323084706109.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323084715310.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>139/1; 148/65</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>224.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4052</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:17:31.629604</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>कामीलो  रॉड्रीगीस  }
+मारीया  संताना  लेमोस  }
+व्हॅनासीओ  रॉड्रीगीस  }</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1027755.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28403">
+                <coordinates>73.813465358,15.659035398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28437">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65942,73.81072&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5708</value>
+                </Data>
+                <Data name="name">
+                    <value>Madhlo Pudicho Aakh Tank; खेमोगुडो</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>155</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>65</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65942</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81072</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323085508195.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323085520944.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value/>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>347.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5083</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-10 10:59:58.516430</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>राजेंद्र  वासुदेव  देशप्रभू</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026555.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28436">
+                <coordinates>73.810720182,15.659416434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28470">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.65938,73.81094&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5709</value>
+                </Data>
+                <Data name="name">
+                    <value>Madhlo Pudicho Aakh Tank; मिरानदीपालये</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>148</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>5</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.65938</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81094</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323085725476.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323085611113.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>148/5,7-11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>258.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5084</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-10 11:00:58.408420</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>कामीलो  रॉड्रीगीस  }
+मारीया  संताना  लेमोस  }
+व्हॅनासीओ  रॉड्रीगीस  }</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026855.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28469">
+                <coordinates>73.810944575,15.659380991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28503">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.6591,73.81307&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5699</value>
+                </Data>
+                <Data name="name">
+                    <value>Miranda Shet Tank; मीरानदीपालये</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>148</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>58</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.6591</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81307</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230323084809823.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230323084828043.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>147/0; 148/58-60</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>57.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5028</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-09-09 15:06:02.286326</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>कामीलो  रॉड्रीगीस  }
+मारीया  संताना  लेमोस  }
+व्हॅनासीओ  रॉड्रीगीस  }</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995166.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1028055.64998704</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28502">
+                <coordinates>73.813066946,15.659099724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28536">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.67118,73.79757&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5228</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhagwati Temple Tank; देवसू</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>263</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.67118</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79757</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230304140858079.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230304140840924.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>263/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>01 - Mandrem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Tuem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>057</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Tuem/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>527.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4068</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-26 02:35:43.831043</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>श्रीदेव  भगवती</value>
+                </Data>
+                <Data name="label_x">
+                    <value>964317.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025781.66665445</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28535">
+                <coordinates>73.797572624,15.671176221,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

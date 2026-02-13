@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22981">
+        <Placemark id="22983">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.38887,73.82009&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3010</value>
+                </Data>
+                <Data name="name">
+                    <value>Dakle Tollem / Paddy Field</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>158</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>49</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.38887</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82009</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/3010_1.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/3010_2.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>10430.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1756</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-26 06:21:28</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001515.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="22982">
+                <coordinates>73.820094215,15.388866933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23015">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39889,73.8232&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2264</value>
+                </Data>
+                <Data name="name">
+                    <value>Mundvel Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>92</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39889</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.8232</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200909114613512.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200909115025295.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>90851.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>307</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002565.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23014">
+                <coordinates>73.823196062,15.398893945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23047">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39971,73.82957&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2263</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaddem Tank, opp. Flora Grand Hotel</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>37</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39971</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82957</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200211061119836.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200211061125834.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4404.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>306</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002865.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23046">
+                <coordinates>73.829572743,15.399708793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23079">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39659,73.81658&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2251</value>
+                </Data>
+                <Data name="name">
+                    <value>Bellabai Tollem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>101</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-5</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39659</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81658</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200211053027642.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200211053032111.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>047</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>25276.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>303</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002115.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23078">
+                <coordinates>73.816576154,15.396589086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23111">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39672,73.82018&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2265</value>
+                </Data>
+                <Data name="name">
+                    <value>Maimollem Tank - II, behind Tanya Hotel</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>100</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-20</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39672</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82018</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200211052319493.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200211052325935.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>046</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>86316.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>292</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002265.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23110">
+                <coordinates>73.820182653,15.396722637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23143">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39469,73.82169&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2255</value>
+                </Data>
+                <Data name="name">
+                    <value>Maimollem Tank - I</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>122</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>14-15</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39469</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82169</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200211054457773.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200211054502224.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>351844.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>293</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001965.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23142">
+                <coordinates>73.821687089,15.394688654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23175">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39978,73.82769&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2261</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaddem Lake</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>68,71</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39978</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82769</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/2261_1.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/2261_2.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>16827.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>304</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1003015.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23174">
+                <coordinates>73.827686101,15.399782822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23207">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.38673,73.81383&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2259</value>
+                </Data>
+                <Data name="name">
+                    <value>Baina / Sasmollem Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>171</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>117</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.38673</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81383</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200211044310455.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200211044319713.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>018</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>11279.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>513</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1001365.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23206">
+                <coordinates>73.813833218,15.386726866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23239">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39915,73.82888&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2262</value>
+                </Data>
+                <Data name="name">
+                    <value>Vaddem Tank, behind Vasco Hotel</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="syno">
+                    <value>95</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>59</value>
+                </Data>
+                <Data name="village">
+                    <value>Vasco</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39915</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.82888</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200211062312706.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200211062318455.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>24 - Mormugao ! 25 - Vasco da Gama</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Mo/Vasc/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>4049.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>305</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-08-01 05:49:15.477328</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>975890.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1002715.2284775</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23238">
+                <coordinates>73.828884732,15.399149984,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

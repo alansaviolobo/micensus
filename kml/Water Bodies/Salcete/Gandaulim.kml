@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58537">
+        <Placemark id="58539">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29076,73.91936&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1777</value>
+                </Data>
+                <Data name="name">
+                    <value>Molgad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29076</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91936</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102124751158.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102124800468.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>134</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>126.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1018</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993979.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58538">
+                <coordinates>73.919356484,15.290759177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58571">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.28848,73.91631&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4858</value>
+                </Data>
+                <Data name="name">
+                    <value>Dandal Tollem; Segund Bairo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1,2</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.28848</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91631</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220623153546314.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220623153613839.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>135</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>113.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3963</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-05 13:36:36</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Julio Antonio Fernandes
+Simao Costa
+Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992229.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58570">
+                <coordinates>73.916312342,15.288479975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58603">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29185,73.91825&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1781</value>
+                </Data>
+                <Data name="name">
+                    <value>Tamirem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29185</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91825</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102124126584.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102124136743.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>131</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>292.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1021</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993629.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58602">
+                <coordinates>73.91824867,15.291849275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58635">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.2919,73.91897&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1780</value>
+                </Data>
+                <Data name="name">
+                    <value>Cholki</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>20</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.2919</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91897</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102123741091.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102123806180.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>132</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>153.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1020</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Natividade Rodrigues</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>994329.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58634">
+                <coordinates>73.918971825,15.291899842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58667">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29103,73.91903&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1779</value>
+                </Data>
+                <Data name="name">
+                    <value>Molgad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29103</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91903</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102125319607.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102125335986.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>66.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1019</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>993279.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58666">
+                <coordinates>73.919028152,15.291034285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58699">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29201,73.91717&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3710</value>
+                </Data>
+                <Data name="name">
+                    <value>Olonga</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>14</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29201</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91717</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102121006974.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102121014333.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>55.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2228</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-03-24 04:54:27.655638</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992929.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58698">
+                <coordinates>73.917169209,15.29200615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58731">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29046,73.91925&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1778</value>
+                </Data>
+                <Data name="name">
+                    <value>Molgad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>18</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Gandaulim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29046</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.91925</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211102124945295.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211102124956994.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Colva</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Gand/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>147.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1017</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>992579.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58730">
+                <coordinates>73.919245771,15.290462231,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

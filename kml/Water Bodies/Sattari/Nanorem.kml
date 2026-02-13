@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="80422">
+        <Placemark id="80424">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58207,74.1981&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2961</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Dattaram Ramachandra Marathe; Nanorem Sukad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nanorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58207</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1981</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200518034920083.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200518034929497.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/1 pt</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nano/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>56.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1748</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-14 11:18:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Dattaram Ramachandra Marathe.
+Keshav Ramachandra Marathe
+Krishna Ramachandra Marathe
+Prabhakar Ramachandra Marathe
+Vaman Ramachandra marathe.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022347.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80423">
+                <coordinates>74.19809834,15.582066685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80457">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58043,74.1976&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3189</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Gopal Narayan Barve; Sukad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Nanorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58043</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1976</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200829093840338.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200829093850940.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/3 pt</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>059</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nano/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>829.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1955</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gopal Narayan Barve</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022047.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80456">
+                <coordinates>74.197596453,15.580432532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80490">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58554,74.19994&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2988</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Bhalchandra Atmaram Barve; Bambar Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>19</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Nanorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58554</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19994</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200829101422497.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200829101430400.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nano/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>71.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1953</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 10:27:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhalchandra Atmaram Barve
+Pandurang Atmaram Barve
+Ramakrishna Atmaram Barve
+Vivekanand Atmaram Barve</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022947.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80489">
+                <coordinates>74.199938225,15.585542396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80523">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5858,74.19241&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2987</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Govt Field; Bambarachem Mal.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>17</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Nanorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5858</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19241</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200829103302510.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200829103328400.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>17/4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>063</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nano/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>48.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1952</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 10:27:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023247.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80522">
+                <coordinates>74.192412983,15.58580458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80556">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58276,74.19838&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3106</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vishwanath Kelkar; Casear Vaigan or Bambar Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Nanorem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58276</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19838</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200829094623677.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200829094636136.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>16/9,11</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nagargao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>060</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Nano/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>181.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1857</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-07-24 07:42:15</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Vishwanath Gajanan Kelkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022647.35417379</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80555">
+                <coordinates>74.198381777,15.582760862,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

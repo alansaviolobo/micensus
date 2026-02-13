@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="75683">
+        <Placemark id="75685">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.10431,74.19929&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3912</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagra Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Vichundrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.10431</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19929</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211015062929542.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211015115937059.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neturlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Vich/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1038.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2658</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-10-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anandibai Nunu Prabu Dessai
+Ghanashyam Keshav Prabu Dessai
+Government of Goa
+Madhukar Keshav Prabu Dessai
+Raghunath Damodar Prabhu Dessai
+Ramdas Vinayak Sinai Dessai
+Roque Joao Furtado
+Shripad Damodar Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1006898.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966354.443516674</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75684">
+                <coordinates>74.19929267,15.104307614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75717">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.10802,74.19731&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>736</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagrea Mol,Vagreana Mol,Vagrem Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>23</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8,9,10</value>
+                </Data>
+                <Data name="village">
+                    <value>Vichundrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.10802</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19731</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220420071815368.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220420071836730.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neturlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Vich/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>946.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2322</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anandibai Shrinivas Prabhu Dessai
+Anandibai Shrinivass Prabhu Dessai
+Ganashyam Keshav Prabhu Dessai
+Ghanashyam Keshav Prabhu Dessai
+Madhukar Keshav P.Dessai
+Madhukar Keshav Prabhu Dessai
+Raghunath Damodar Prabhu Dessai
+Ramdas Vinayak Sinai Dessai
+Roque Joao Furtado
+Shripad Damodar P.Dessai
+Shripad Damodar Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1006898.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>967404.443516674</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75716">
+                <coordinates>74.197308557,15.108017382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75749">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.1051,74.19918&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>735</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagra Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Vichundrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.1051</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.19918</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220420071125701.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220420071144942.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neturlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Vich/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1074.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2323</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anandibai Nunu Prabu Dessai
+Ghanashyam Keshav Prabu Dessai
+Government of Goa
+Madhukar Keshav Prabu Dessai
+Raghunath Damodar Prabhu Dessai
+Ramdas Vinayak Sinai Dessai
+Roque Joao Furtado
+Shripad Damodar Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1006898.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966704.443516674</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75748">
+                <coordinates>74.199179637,15.105099309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75781">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.11129,74.1997&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>737</value>
+                </Data>
+                <Data name="name">
+                    <value>Gainotam Moli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>25</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Vichundrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.11129</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1997</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220420072852766.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220420072916052.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neturlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Vich/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>479.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2321</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Aruna S.Prabhu Desai
+Dr. Nandini G. Prabhu Desai
+Govind Sadashiv Prabhu Dessai
+Rajendra S. Prabhu Desai
+Rajlaximi S. Prabhu Desai
+Satish S. Prabhu Desai
+Sheela R. Prabhu Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1006898.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>968454.443516674</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75780">
+                <coordinates>74.19970426,15.111291209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75813">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.10413,74.2001&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4738</value>
+                </Data>
+                <Data name="name">
+                    <value>Vagrem Mol or Dulanga</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sanguem</value>
+                </Data>
+                <Data name="syno">
+                    <value>34</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Vichundrem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.10413</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.2001</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220415121644238.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220415121701252.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>39 - Sanguem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Neturlim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sg/Vich/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>280.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3843</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-04-15 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babuso Shirvaikar
+Christo Furtado
+Communidade of Vichundrem
+Government of Goa Police Department
+Madhusudan Krishna Naik
+Raghunath Damodar Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1006898.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>966004.443516674</value>
+                </Data>
+            </ExtendedData>
+            <Point id="75812">
+                <coordinates>74.200101476,15.104126709,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

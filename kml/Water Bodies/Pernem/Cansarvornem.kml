@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23786">
+        <Placemark id="23788">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70782,73.87214&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>601</value>
+                </Data>
+                <Data name="name">
+                    <value>काकुळणे</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>125</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansarvornem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70782</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87214</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318083313765.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318083321419.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>125/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kasarvanem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>071</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Cans/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>107.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3393</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>M/s  Heera  Farm</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029855.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23787">
+                <coordinates>73.87213992,15.707823461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23821">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71863,73.88724&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>600</value>
+                </Data>
+                <Data name="name">
+                    <value>नमस</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>57</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansarvornem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71863</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88724</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318111653062.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318111709174.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>57/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kasarvanem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>072</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Cans/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>105.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3394</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.  of  Goa:Executive  Engineer,  W.D.VII.D.T.I.P.Tivim
+सरकारी</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033455.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23820">
+                <coordinates>73.887239044,15.718634559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23854">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71651,73.88623&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5179</value>
+                </Data>
+                <Data name="name">
+                    <value>घोडगोचे फोंड</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>55</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>7,8</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansarvornem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71651</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88623</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318112131271.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318112212585.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>55/7-8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kasarvanem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Cans/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>314.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4064</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:30:09</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>महादेव  शिवराम  परब
+रघुनाथ  जयराम  परब
+वसंत  लाडू  परब
+विठ्ठल  केशव  परब
+श्रीराम  लाडू  परब</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1032855.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23853">
+                <coordinates>73.886227739,15.716513633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23887">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70856,73.86623&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5177</value>
+                </Data>
+                <Data name="name">
+                    <value>पुर्वाची वाड</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>148</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansarvornem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70856</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.86623</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318073312857.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318073336020.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>148/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kasarvanem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>070</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Cans/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>117.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4062</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-07-23 11:29:42.097183</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt.of  Goa,Executive  Engineer,W.D.VII,GTIDC,Dhargal,  Pernem
+नवसो  बाबू  कोरगांवकर</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1029555.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23886">
+                <coordinates>73.866233309,15.708559241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23920">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71863,73.88683&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>6000</value>
+                </Data>
+                <Data name="name">
+                    <value>नमस</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>57</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansarvornem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71863</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88683</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318111840670.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318111854044.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kasarvanem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>073</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Cans/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5528</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-18 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>अनुरूपा  गोविंद  परब</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1033155.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23919">
+                <coordinates>73.886831055,15.71863333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23952">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71285,73.88516&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5527</value>
+                </Data>
+                <Data name="name">
+                    <value>वेतावडो</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="syno">
+                    <value>67</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansarvornem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71285</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88516</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230318113438411.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230318113445235.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>54/37,39; 67/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>02 - Pernem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Kasarvanem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Pe/Cans/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>407.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4964</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-04 04:35:31</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>आत्माराम  रघुनाथ  पाळयेकर
+गंगाराम  भिकाजी  पाळयेकर
+गोपाळ  पांडूरंग  शेटकर
+चंद्रकांत  अर्जून  परब
+नागेश  रघुनाथ  नाईक
+फटी  बाबली  पाळयेकर
+बाजी  विठू  परब
+बाबाली  आत्माराम  नाईक
+म्हादेव  सोनू  पाळयेकर
+रामा  शंभा  होडावडेकर
+लक्ष्मण  बाबाली  गावडे
+वामन  विठू  परब
+विठू  रामा  पाळयेकर
+विठोबा  आत्माराम  नाईक
+विश्राम  भिसाजी  सावंत
+विष्णु  सगुण  परब</value>
+                </Data>
+                <Data name="label_x">
+                    <value>995165.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1031055.96296072</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23951">
+                <coordinates>73.885156835,15.712853916,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

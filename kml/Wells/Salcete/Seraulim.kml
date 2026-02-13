@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16833">
+        <Placemark id="16835">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.283452,73.935889&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5086</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5086</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>390/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mr. Santan Carvalho</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno. 163B, Tolloi, Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.283452</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.935889</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16834">
+                <coordinates>73.935889,15.283452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16850">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.283457,73.936312&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5087</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5087</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>391/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mr. Santan Carvalho</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno.163/B, Tolloi Colva</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.283457</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.936312</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16849">
+                <coordinates>73.936312,15.283457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16865">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.285818,73.934086&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5103</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5103</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>196/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Mrs. Christina Mesqueta Rebello</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hno-38/b,per Seraulim Colva,salcete</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.285818</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.934086</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Seraulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16864">
+                <coordinates>73.934086,15.285818,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

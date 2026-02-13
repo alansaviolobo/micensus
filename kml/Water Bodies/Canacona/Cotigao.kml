@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15955">
+        <Placemark id="15957">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.01478,74.20995&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5044</value>
+                </Data>
+                <Data name="name">
+                    <value>Gottachem Ran</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>132</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.01478</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.20995</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523131311968.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523131335119.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>104</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>48.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3952</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-23 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Bhik Janu Gaonkar
+Bombo Chandru Gaonkar
+Chandru Bhamto Gaonkar
+Dhaulo Ram Gaonkar
+Dhoulo Janu Gaonkar
+Gurko Bhamto Gaonkar
+Janu Bamto Gaonkar
+Kusta Janu Gaonkar
+Laxman Janu Gaonkar
+Malgo Fesso Gaonkar
+Mono Yesso Gaonkar
+Nango Bhamto Gaonkar
+Pauti Bhik Gaonkar
+Pauti Gurko Gaonkar
+Pauti Mono Gaonkar
+Pauto Bamto Gaonkar
+Purso Laxman Gaonkar
+Shaba Chandru Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963787.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15956">
+                <coordinates>74.209947172,15.01478175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15989">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.01491,74.21&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3053</value>
+                </Data>
+                <Data name="name">
+                    <value>Kuske Tali; Kossomolo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>133</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.01491</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.21</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523131144556.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523131201896.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>103</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>79.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2086</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 10:40:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Arjun Kusta Gaonkar
+Bhiva Mhalgo Gaonkar
+Dhavlo Ram Gaonkar
+Laxman Janu Gaonkar
+Purso Laxman Gaonkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>964037.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="15988">
+                <coordinates>74.209999138,15.014905959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16021">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.9618,74.11909&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3297</value>
+                </Data>
+                <Data name="name">
+                    <value>Dhaklo Bag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>173</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.9618</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11909</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523174622787.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523174629735.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>102</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>186.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2147</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-10-03 15:31:25</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>964287.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16020">
+                <coordinates>74.11908676,14.961796027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16053">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96327,74.1553&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4971</value>
+                </Data>
+                <Data name="name">
+                    <value>Wagatikhuti Lake, Cotigao WLS; Forest</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96327</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1553</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220514152816694.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220514152834906.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>101</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>686.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3930</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-14 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962287.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16052">
+                <coordinates>74.155298333,14.963265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16085">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.95392,74.15235&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4970</value>
+                </Data>
+                <Data name="name">
+                    <value>Bela Lake, Cotigao WLS; Arka</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>53</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.95392</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.15235</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220514151708893.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220514151758696.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>098</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>12327.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3855</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-14 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu, Forest Department</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962037.0212082857</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16084">
+                <coordinates>74.152351955,14.953915443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16117">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96103,74.12645&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3052</value>
+                </Data>
+                <Data name="name">
+                    <value>Khargal; Morod</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>167</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96103</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12645</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523174332999.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523174339622.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>099</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>880.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2087</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-06-05 10:40:21</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Babu Prabhu Dessai
+Ramchandra Babu Prabhu Dessai
+Vassant Babu Prabhu Dessai
+Vithal Babu Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>963037.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16116">
+                <coordinates>74.12645439,14.961027584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16149">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.96718,74.1583&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4972</value>
+                </Data>
+                <Data name="name">
+                    <value>Tree Top Lake, Cotigao WLS; Forest</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>63</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.96718</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.1583</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220514154716123.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220514154738543.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>100</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>737.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3856</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-14 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa, Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962537.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16148">
+                <coordinates>74.158298333,14.967176667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16181">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=14.95607,74.12178&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3298</value>
+                </Data>
+                <Data name="name">
+                    <value>Khargal; Saddichi Olli</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Canacona</value>
+                </Data>
+                <Data name="syno">
+                    <value>174</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>14.95607</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12178</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220523173954278.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220523174002564.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>40 - Canacona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotigao</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>019</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ca/Coti/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>560.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2088</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-10-03 15:31:25</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Narayan Babu Prabhu Dessai
+Ramchandra Babu Prabhu Dessai
+Vassant Babu Prabhu Dessai
+Vithal Babu Prabhu Dessai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1028783.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>962787.021208286</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16180">
+                <coordinates>74.12177929,14.95606528,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

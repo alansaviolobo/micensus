@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7010">
+        <Placemark id="7012">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51445,73.81848&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2885</value>
+                </Data>
+                <Data name="name">
+                    <value>Freirichem Batto</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>37</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Reis-Magos</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51445</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81848</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418065112508.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418065120714.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>37/2,6-7,18-19</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Reis Magos</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>133</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Reis/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2484.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4776</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 07:23:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Santa Monica Convent,archdiocese Of Goa/ daman</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1016158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7011">
+                <coordinates>73.818476884,15.514446037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7045">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50907,73.80601&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2886</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>5</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Reis-Magos</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50907</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.80601</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418071054058.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418071130431.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>5/8; 10/10-13,26</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Reis Magos</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>049</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Reis/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>755.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4774</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 07:23:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7044">
+                <coordinates>73.80600559,15.509074629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7078">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51347,73.81768&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>903</value>
+                </Data>
+                <Data name="name">
+                    <value>Catacome</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>35</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Reis-Magos</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51347</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81768</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418065030802.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418065041059.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>35/0; 36/1; 37/2,12-14</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Reis Magos</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>048</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Reis/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3282.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4775</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Seminary Of Saligao</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="7077">
+                <coordinates>73.817676081,15.513473012,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

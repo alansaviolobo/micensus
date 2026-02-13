@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11717">
+        <Placemark id="11719">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.511341,73.964517&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3742</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3742</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>189/PONDA</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>M/S Goan Paradise</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kante bharad, tivrem orgao, ponda goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.511341</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.964517</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Orgao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11718">
+                <coordinates>73.964517,15.511341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11734">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.521867,73.952693&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3883</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3883</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>211/ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Siddharth Ramanand Palang</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Shiv-Tirth,Deulwada,Marcela,Ponda,Goa403401</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.521867</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.952693</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Orgao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11733">
+                <coordinates>73.952693,15.521867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11749">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51568,73.953034&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3927</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3927</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>247/Ponda</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri.Shraddha Dnyaneshwar Sawant</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>9822126461</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51568</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.953034</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="village">
+                    <value>Orgao</value>
+                </Data>
+            </ExtendedData>
+            <Point id="11748">
+                <coordinates>73.953034,15.51568,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

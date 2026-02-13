@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43817">
+        <Placemark id="43819">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20696,74.0926&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>480</value>
+                </Data>
+                <Data name="name">
+                    <value>Someshwar Temple Tank; Tollo Gougoll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>160</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20696</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0926</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211015091605600.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211015091656533.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>160/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>078</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Sirv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>765.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2374</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:19.135666</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Sagun Krishna Naik Kurade
+2) Ernasto D'Costa              1/2
+Kanny Carmo Da Costa
+Montin  Godinho
+Richard DCosta
+Shannon Mary D Souza
+Someshwar Devasthan Samiti
+Virangan Datta Shetkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982451.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43818">
+                <coordinates>74.092596743,15.206962692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43852">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20507,74.08527&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5060</value>
+                </Data>
+                <Data name="name">
+                    <value>Vadeshwar Mahadev Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>173</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>25</value>
+                </Data>
+                <Data name="village">
+                    <value>Sirvoi</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20507</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.08527</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220623111033288.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220623111103940.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>173/25</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Sirv/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>653.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3956</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-06-20 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:16:18.827004</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Sirvoi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1021518.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982071.6881207087</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43851">
+                <coordinates>74.085269348,15.205065153,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

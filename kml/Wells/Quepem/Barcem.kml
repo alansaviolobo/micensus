@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13579">
+        <Placemark id="13581">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.072717,74.060791&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4365</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4365</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>335</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MONO PAIK VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 371 Shrilem, Barcem Padi, Barcem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.072717</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.060791</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Barcem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13580">
+                <coordinates>74.060791,15.072717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13596">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.078278,74.069017&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4366</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4366</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>58/Quepem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>MONO PAIK VELIP</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no 377 Shrilem, Barcem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.078278</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.069017</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Barcem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13595">
+                <coordinates>74.069017,15.078278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13611">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.068569,74.034358&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4367</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4367</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>463</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>FONDU DHOLO GAONKAR</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Veli, Paroda, Barcem, Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.068569</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.034358</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Barcem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13610">
+                <coordinates>74.034358,15.068569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13626">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.061989,74.029867&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4525</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4525</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>84</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>SHRI. DINESH VENKATESH PAI</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no: 69, Patnem, Canacona</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.061989</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.029867</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="village">
+                    <value>Barcem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="13625">
+                <coordinates>74.029867,15.061989,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

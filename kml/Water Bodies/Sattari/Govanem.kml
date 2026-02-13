@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="78818">
+        <Placemark id="78820">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4705,74.17412&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5389</value>
+                </Data>
+                <Data name="name">
+                    <value>Goulea Mala Varil Dongor</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>26</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Govanem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4705</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17412</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/5389_1.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/5389_2.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>26/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Animal Drinking</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gova/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>303.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4204</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 08:18:49.769240</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Department
+Government of Goa Daman and Diu Forest</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1009338.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78819">
+                <coordinates>74.174116515,15.47049691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78853">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.46453,74.17737&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2957</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Gavakadil Tad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Govanem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.46453</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17737</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827051819821.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827051838893.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>111</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gova/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1909</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-14 10:24:12</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008738.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78852">
+                <coordinates>74.177368333,15.464531667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78886">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4601,74.17456&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3157</value>
+                </Data>
+                <Data name="name">
+                    <value>Govt Field; Luz</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>11</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Govanem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4601</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.17456</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200827052715468.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200827052725401.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/2; 11/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>19 - Valpoi</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cotorem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Gova/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1080.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>598</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-09-21 09:09:10</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman and Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1030746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1008438.96349877</value>
+                </Data>
+            </ExtendedData>
+            <Point id="78885">
+                <coordinates>74.17456384,15.460100545,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

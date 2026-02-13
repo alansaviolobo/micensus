@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23855">
+        <Placemark id="23857">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48882,74.07504&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3080</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3080</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1661/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Executive Engineer, W.D.III, W.R.D, Ponda- Goa. (B.win in the field of Bhiku Hari Dessai )</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Panshe, Pissurlem, Sattari - Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48882</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07504</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23856">
+                <coordinates>74.07504,15.48882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23872">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48773,74.07835&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3082</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3082</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2981/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Gawade Rukmini Shantaram</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 79, Panshe, Pissurlem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48773</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07835</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23871">
+                <coordinates>74.07835,15.48773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23887">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4884,74.07612&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3088</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3088</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1615/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Suraj V. Sawaikar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Pissurlem, Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4884</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07612</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Ponocem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23886">
+                <coordinates>74.07612,15.4884,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

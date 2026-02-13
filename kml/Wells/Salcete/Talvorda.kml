@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16974">
+        <Placemark id="16976">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.193645,74.021276&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5372</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5372</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>152/Salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Laxman Chandrakant Udekar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 74, Talwada, Cuncolim, Salcete-Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.193645</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.021276</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16975">
+                <coordinates>74.021276,15.193645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16991">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.194271,74.020758&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5691</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5691</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>635</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Shashank V Dessai</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no.196/B,Veroda, Cuncolim, Salcete Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.194271</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.020758</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Talvorda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16990">
+                <coordinates>74.020758,15.194271,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

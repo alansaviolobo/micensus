@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5357">
+        <Placemark id="5359">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50373,73.78502&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5481</value>
+                </Data>
+                <Data name="name">
+                    <value>Veshli Grand Pequena Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>116</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>9</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50373</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78502</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009133557092.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009133613150.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>115/2,9</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>121</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>250.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4297</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:42:08.074947</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5358">
+                <coordinates>73.785023802,15.503729798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5392">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50556,73.78796&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2877</value>
+                </Data>
+                <Data name="name">
+                    <value>Tiprem Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50556</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78796</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418073045434.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418073057261.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>107/7; 108/3-7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>118</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2111.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4730</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 06:33:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5391">
+                <coordinates>73.787960321,15.505559287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5425">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50532,73.78628&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2876</value>
+                </Data>
+                <Data name="name">
+                    <value>Doming Luis</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>112</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50532</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78628</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418073133680.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418073140291.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>112/1,6,8</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>022</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>715.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4729</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 06:33:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5424">
+                <coordinates>73.786282644,15.505323575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5458">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50537,73.78883&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2878</value>
+                </Data>
+                <Data name="name">
+                    <value>Tiprem Xet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>108</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50537</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78883</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418072737540.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418072741985.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>107/5-6; 108/11-13</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>120</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>765.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4731</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 06:33:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5457">
+                <coordinates>73.788825634,15.505365035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5491">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50405,73.79105&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2880</value>
+                </Data>
+                <Data name="name">
+                    <value>Dana Dandi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>98</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50405</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79105</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009134404970.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009134426919.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>98/3-4</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>023</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>407.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4732</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 06:33:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Premabai Rauji Borkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013158.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5490">
+                <coordinates>73.791049096,15.504046454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5524">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51544,73.78843&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>877</value>
+                </Data>
+                <Data name="name">
+                    <value>Bhatyer</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>44</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51544</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78843</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418080303707.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418080313101.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>44/11,13-14,16-18</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3782.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4737</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Edgar Melo Furtado
+Eleutheiro Eugenio D'Mello
+Elvira Melo Furtado
+Ishwarappa Virappa Konuri
+Sushila Gurupadapa Bhupale
+Vincent Dominic Luis</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5523">
+                <coordinates>73.788428217,15.515439926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5557">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50881,73.78166&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>876</value>
+                </Data>
+                <Data name="name">
+                    <value>Toleant</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-6,11-13</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50881</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78166</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009131801580.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009131819868.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>7/1; 8/3-5; 9/1-6,8,10-12</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>020</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>11312.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4738</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Anthony Soares
+Antonio Jose Macario Lopes alias Antonio J. M. Lopes
+Feliciana Soares
+Government Of Goa, Work Div. Xxiii, P. W . D. Panaji
+Kevin Francis D Souza
+Kevin Francis Dsouza
+Sunita Lopes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5556">
+                <coordinates>73.781661068,15.508812089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5590">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5034,73.79042&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2879</value>
+                </Data>
+                <Data name="name">
+                    <value>Figueanche Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>105</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5034</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79042</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418072624857.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418072630207.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>105/1; 106/5-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>119</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2007.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4733</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-02 06:33:23</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govind Santu Shenvi Varty</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1012908.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5589">
+                <coordinates>73.790419025,15.503398191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5623">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5083,73.79726&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>879</value>
+                </Data>
+                <Data name="name">
+                    <value>Orlicho Akh</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5083</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.79726</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230418071152713.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230418071158830.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>65/4-5,7-17; 66/0; 67/24,26-27,32</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>021</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2206.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4736</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1014658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5622">
+                <coordinates>73.797264777,15.508304075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5656">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50482,73.78283&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>875</value>
+                </Data>
+                <Data name="name">
+                    <value>Topato Khan Sheth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>135</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>13</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50482</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78283</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221009132840793.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221009132914907.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>135/1-2,13-14; 143/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>115</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>6240.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4734</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Nerul</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013658.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5655">
+                <coordinates>73.782833976,15.504816313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5689">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.51366,73.78808&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>878</value>
+                </Data>
+                <Data name="name">
+                    <value>Soma Agor Cadil Shet</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>53</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.51366</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.78808</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221012074013331.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221012074024068.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>52/9; 53/1-5,7</value>
+                </Data>
+                <Data name="constituency">
+                    <value>07 - Saligao</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nerul</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>117</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Neru/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>3771.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4735</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Lucilia Gomes</value>
+                </Data>
+                <Data name="label_x">
+                    <value>970138.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1015408.07914979</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5688">
+                <coordinates>73.788083723,15.513656658,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

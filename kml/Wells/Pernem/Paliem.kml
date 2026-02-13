@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9701">
+        <Placemark id="9703">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.71198,73.73162&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1858</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1858</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1587/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Bore well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Executive Engineer, W. D. III, W. R. D, Ponda -Goa</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>W.D.III, W.R.D, Ponda-Goa. (B.win in the field of Rajendra M.Bhat &amp; Others)</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.71198</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.73162</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Paliem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9702">
+                <coordinates>73.73162,15.71198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9718">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.70539,73.7186&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1859</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>1859</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3252/Pernem</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Parab Suresh Jairam,</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 311, Deulwada,, Paliem, Pernem Goa 403524</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.70539</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.7186</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Pernem</value>
+                </Data>
+                <Data name="village">
+                    <value>Paliem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="9717">
+                <coordinates>73.7186,15.70539,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58407">
+        <Placemark id="58409">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.30084,73.93999&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2507</value>
+                </Data>
+                <Data name="name">
+                    <value>Duncolim Tollem; 8th Part Valad De Lagoa,Oitava Partvalad</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-22</value>
+                </Data>
+                <Data name="village">
+                    <value>Duncolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.30084</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93999</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210811175156034.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210811175312192.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade / Pvt</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Dunc/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>73448.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1319</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-03-26 07:23:12</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Alvaro Simao Bernado D' Souza Faria
+Alvaro Simao Bernando D' Souza Faria (77 ),(8)
+Commuidade Of Duncolim
+Commundade of Duncolim
+Communidade OF Duncolim
+Communidade Of Duncolim
+Jose Pedro Rebello
+Jose Roque C. Andrade
+Jose Roque C. Andrade(83)
+Jose Serapiao Calazancio Gomes
+Jose Simplicio D' Souza</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999929.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58408">
+                <coordinates>73.939987642,15.300844526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58441">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29215,73.93573&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1771</value>
+                </Data>
+                <Data name="name">
+                    <value>Odha Bhag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Duncolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29215</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93573</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220105090602729.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220105090617326.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>130</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Dunc/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>321.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1565</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade Of Duncolim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997129.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58440">
+                <coordinates>73.935729902,15.292147519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58473">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29612,73.93882&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1774</value>
+                </Data>
+                <Data name="name">
+                    <value>Murda Grande Tollem; Dhakte Tole</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>40</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>82</value>
+                </Data>
+                <Data name="village">
+                    <value>Duncolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29612</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93882</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210811180313969.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210811180324279.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>128</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Dunc/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1586.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1549</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Communidade of Duncolim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998529.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58472">
+                <coordinates>73.938819912,15.296119595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58505">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.29163,73.93689&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1772</value>
+                </Data>
+                <Data name="name">
+                    <value>Amul Bhag</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>16</value>
+                </Data>
+                <Data name="village">
+                    <value>Duncolim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.29163</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.93689</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210803144606935.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210803144615838.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>32 - Benaulim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Seraulim</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>129</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Dunc/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1099.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1564</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>3</value>
+                </Data>
+                <Data name="owners">
+                    <value>Commuidade Of Duncolim</value>
+                </Data>
+                <Data name="label_x">
+                    <value>987639.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997479.730834663</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58504">
+                <coordinates>73.936889784,15.291626309,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

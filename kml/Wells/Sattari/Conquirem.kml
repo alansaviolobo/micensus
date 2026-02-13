@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20782">
+        <Placemark id="20784">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45522,74.11507&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2660</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2660</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>204/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Prabhakar Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Prabhakar Gaonkar, Kankirem, Guleli, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45522</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11507</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Conquirem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20783">
+                <coordinates>74.11507,15.45522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20799">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.45359,74.11139&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2661</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2661</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>201/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Tatu Devu Gawade</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Gayeshem mol, Kankirem, Guleli, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.45359</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.11139</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Conquirem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20798">
+                <coordinates>74.11139,15.45359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20814">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.4525,74.12024&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2663</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2663</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>804/Sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Umarye Ramkrishna Narayan</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Kankirem, Paikul, Guleli, Sattari-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.4525</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.12024</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Conquirem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="20813">
+                <coordinates>74.12024,15.4525,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

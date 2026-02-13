@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5089">
+        <Placemark id="5091">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.513597,74.032986&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2389</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2389</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>72/2020/BIC</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri.Murtimant Vaman Kelkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>HNo. 237, Kadchal Surla, Sankhalim Goa 403504</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.513597</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.032986</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5090">
+                <coordinates>74.032986,15.513597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5106">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.492865,74.037183&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2390</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2390</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>166/2022/BIC</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vasudev Fakru Kudav</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Gaonkarwada, Surla, Bicholim Goa 403504</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.492865</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.037183</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5105">
+                <coordinates>74.037183,15.492865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5121">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.491555,74.047962&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2391</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2391</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>99/2021/BIC</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Abhilash Pundalik Ghadi</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>HNo. 642, Surla , Ghadi Wada,, Bicholim Goa 403504,</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.491555</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.047962</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5120">
+                <coordinates>74.047962,15.491555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5136">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.502029,74.04837&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2392</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>2392</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>68/2020/BIC</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Manohar Kashinath Gaonkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>HNo. 620, Gaonkar wada, Surla,, Bicholim Goa 403504,</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.502029</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.04837</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="village">
+                    <value>Surla</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5135">
+                <coordinates>74.04837,15.502029,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43209">
+        <Placemark id="43211">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.20685,74.06364&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3871</value>
+                </Data>
+                <Data name="name">
+                    <value>Tollem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>22</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>10</value>
+                </Data>
+                <Data name="village">
+                    <value>Deao</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.20685</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.06364</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211228132220128.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211228132231393.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>19/102-107,139-144,182-204,256-257,259-269,285-287,331-343,406,412-413; 20/13-29,31-33,55-83,137-150,152-154; 21/1-4,4-7,7-9,9-21-22-25,29-30,30-32-33; 22/1-3,3-21-22-24-58,61-65-66,68-76-77-83,85-87-88-98-99-100-110-111-118,118-124,124-136,138-174,176-201-202-203,205-211-212-217,219-221-222-231-232-241-242-251-252-261-262-264,266-271-272-281-282-291-292-302-303-311,326-332-333-342-343-352-353-362-363-365,376-382-383-392-393-403-404-408,412,472,474-483-484-489,491-493-494-513-514-515-516,520-523,526,529; 24/0; 25/1-2,4-21-22-32-33-43-44-47; 129/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>004</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Deao/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>47494.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2593</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-09-30 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:05.252194</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>The Cathedral Chapter of the Archdio-
+cese of Goa and Daman, Old Goa.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980051.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="43210">
+                <coordinates>74.063637949,15.206854701,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

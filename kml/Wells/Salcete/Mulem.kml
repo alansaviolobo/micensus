@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16358">
+        <Placemark id="16360">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.231043,74.03264&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4503</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4503</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1202</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>KUNJAL R. KAMATH</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:137/2, Agramorod, Paroda, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.231043</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03264</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16359">
+                <coordinates>74.03264,15.231043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16375">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.232351,74.033513&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4504</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>4504</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1201</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>KUNJAL R. KAMATH</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no:137/2,Agramorod, Paroda, Quepem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.232351</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.033513</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16374">
+                <coordinates>74.033513,15.232351,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16309">
+        <Placemark id="16311">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.32492,73.919826&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5114</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5114</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>405/salcete</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Idiana Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No:-505 Igrejwado, Majorda</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.32492</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.919826</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16310">
+                <coordinates>73.919826,15.32492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16326">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.318202,73.928162&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5355</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5355</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>N562</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Carmo Gabriel Aluvizio Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 94/A, Duguem, Nuvem, Salcete-Goa. 403604</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.318202</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.928162</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="village">
+                    <value>Majorda</value>
+                </Data>
+            </ExtendedData>
+            <Point id="16325">
+                <coordinates>73.928162,15.318202,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

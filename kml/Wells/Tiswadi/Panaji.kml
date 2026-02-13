@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26055">
+        <Placemark id="26057">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50142,73.87172&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>289</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>289</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1255/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Desa Savio Ligorio</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.No. 86/A, Next to Police Oil Post, Ribandar, Tiswadi Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50142</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87172</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+            </ExtendedData>
+            <Point id="26056">
+                <coordinates>73.87172,15.50142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26072">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.48696,73.81293&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>306</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>306</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>31/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Martins Rony Florieno</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Martins Bldg.,D.B. Marg, Miramar Tiswadi Goa (Mums Kitchen)</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.48696</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.81293</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+            </ExtendedData>
+            <Point id="26071">
+                <coordinates>73.81293,15.48696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26087">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.50059,73.826702&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>657</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>657</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3004/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Vivek Govind Panvelkar</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Hotel Plaza Azad maidan, Panaji, Tiswadi-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.50059</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.826702</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Panaji</value>
+                </Data>
+            </ExtendedData>
+            <Point id="26086">
+                <coordinates>73.826702,15.50059,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

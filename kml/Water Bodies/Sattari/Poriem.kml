@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="81326">
+        <Placemark id="81328">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5709,74.03085&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3119</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sukdo Govind Sawant</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5709</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03085</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818152628015.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818152634081.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>017</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/11</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>33.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1880</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Sukdo Govind Sawant
+2)Sakolo Fotco Sawant
+3)Krishna Mahadev Sawant
+4)Narayan Ganu Sawant
+5)Fotco Khemlo Sawant
+6)Govind Nargo Sawant
+7)Soma Laximan Sawant
+8)Govind Tano Sawant
+9)Saji Bablo Sawant</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018775.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81327">
+                <coordinates>74.030848333,15.570901667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81361">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59178,74.00999&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3006</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Botto Barkelo Mazik; Camar Fondy Ameshi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59178</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00999</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818123215830.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818123233944.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>96/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>086</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1871</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 12:45:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Botto Barkelo Mazik.
+2)Rama Barkelo Mazik.
+3)Gharo Jango Mazik.
+4)Ramchandra Mukund Mazik.
+5)Suryakant Narayan Mazik.
+6)Kashinath Narayan Mazik.
+Bicholim Goa  Area 75 Sq mts.
+Executive Engineer Work Div VI I. D.
+Executive Engineer, Works Division VI, Irrigation Department, Bicholim-Goa.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1024775.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81360">
+                <coordinates>74.009991906,15.591775189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81394">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58876,74.03219&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5339</value>
+                </Data>
+                <Data name="name">
+                    <value>Baman vado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58876</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03219</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314094542925.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314094558419.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Fish Farming</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>081</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>207.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4156</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:40:47.128726</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Raguvir Shankar Nadkarni
+10)Mahesh Manguesh Nadkarni
+11)Taturaya Vaman Nadkarni
+12)Prabhakar Vaman Nadkarni
+13)Ganpat Vaman Nadkarni
+14)Ghanasham Vaman Nadkarni
+15)Sadanand Laximan Nadkarni
+16)Zayanand Laximan Nadkarni
+17)Satchidanand Laximan Nadkarni
+18)Ramchandra Govind Nadkarni
+19)Damodar Govind Nadkarni
+2)Sagun Purshotam Nadkarni
+20)Naguesh Kashinath Nadkarni
+21)Vassant Kashinath Nadkarni
+22)Mogora Kashinath Nadkarni
+23)Vasudev Shantaram Nadkarni
+24)Sadashiva Shantaram Nadkarni
+25)Aruna Shantaram Nadkarni
+26)Shripad Anant Nadkarni
+27)Rajaram Venkatesh Nadkarni
+28)Gajanand Venkatesh Nadkarni
+29)Babulnath Venkatesh Nadkarni
+3)Shankar Mukund Nadkarni
+30)Dinanath Venkatesh Nadkarni
+4)Mahadev Mukund Nadkarni
+5)Dwarkanath Mukund Nadkarni
+6)Anand Shambu Nadkarni
+7)Ashok Shambu Nadkarni
+8)Mohan Manguesh Nadkarni
+9)Dattaram Manguesh Nadkarni</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025675.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81393">
+                <coordinates>74.032193688,15.58875972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81427">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5839,74.03821&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3128</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Laximan Pandurang Mazik; Arunem</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>9</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5839</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03821</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818125449277.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818125557076.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>9/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>082</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>112.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1875</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Laximan Pandurang Mazik      )
+10)Sukado Ganesh Mazik      )-----1/7
+11)Budo Vithal Mazik
+12)Chandrakant Vithal Mazik
+13)Babali Mahadev Mazik
+14)Babi Shankar Mazik
+15)Vasudev Ladu Mazik
+16)Vithoba Ladu Mazik
+17)Dayanand Bombdo Mazik
+18)Pandurang Bombdo Mazik
+2)Govind Pandurang Mazik       )--1/7
+3)Gopal Deugo Mazik         )
+4)Fotti Deugo Mazik         )
+5)Dolo Deugo Mazik          )
+6)Vishnu Deugo Mazik        )
+7)Tamgo Deugo Mazik         )-----1/7
+8)Dharma Krishna Mazik      )
+9)Soma Rama Mazik           )</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025075.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81426">
+                <coordinates>74.038206667,15.583901667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81460">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57093,74.02679&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2952</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Arjun Bablo Sawant; Molo Dath</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57093</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02679</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818115207566.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818115237136.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>58/1-C-3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>LDPE Sheets</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>079</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1234.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>589</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-12 07:49:54</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>(52)   area 32632 Sq Mts
+(66)         area  3600 Sq Mts
+1)Arjun Bablo Sawant
+10)Durgabai Shantaram Rane Sardessai
+11)Krishna Sakharam Rane Sardessai
+12)Babaji Sakharam Rane Sardessai
+13)Santoba Rauji Rane Sardessai
+14)Hanumantrao Anasaheb Rane Sardessai
+15)Amrutrao Bhimrao Rane Sardessai
+17)Laxmanrao Manikrao Rane Sardessai
+18)Shivajirao Shamburao Rane Sardessai
+19)Vilasrao Shamburao Rane Sardessai
+2) Pratapsingh Rauji Rane Sardessai
+2) Smt Sazu Tato Sawant
+20)Ganpatrao Shamburao Rane Sardessai
+21)Balvantrao Ganpatrao Rane Sardessai
+3)Dharma Soma Sawant
+3)Fattesingh Rauji Rane Sardessai
+4) Rajsingh Satroji Rane Sardessai
+4)Smt Sundari Rama Sawant
+5)Buvasaheb Yeshwantrao Rane Sardessai
+6)Balasaheb Yeshwantrao Rane Sardessai
+7)Yeshwantrao Raosaheb Rane Sardessai
+8)Laxmanrao Vithoba Rane Sardessai
+Ajay Daulatrao Rane Sardesai
+Anil Bablo Gaonkar
+Aparna Ajay Rane Sardesai
+Bodio Pundalik Gaonkar area 60760 Sq Mts
+Dashrath Mahadev Sawant
+Fati Babi Sawant
+Gharo Fondu Sawant  area 9400 Sq Mts
+Krishna Babi Sawant
+Laxman Rauji Gaonkar
+Laxman Shivlo Kharpalkar
+Laxmi Bablo Gaonkar
+Mono Guno Gaonkar area 25550 Sq Mts
+Nakul Raghunath Sawant area 9400 Sq Mts
+Narayan Fati Sawant
+Parvati Mahadev Sawant
+Raghunath Atma Sawant area 9400 Sq Mts
+Rajendra Mahadev Sawant
+Rama Shivlo Kharpalkar
+Sanjay Daulatrao Rane Sardesai
+Sayli Sanjay Rane Sardesai
+Seema Shantaram Rane Sardesai
+Shakuntala Daulatrao Rane Sardesai
+Shankar Chandru Gaonkar
+Shantaram Daulatrao Rane Sardesai
+Sitaram Ganesh Sawant
+Sunil Bablo Gaonkar
+Suresh Mahadev Sawant
+Vibhavari Viraj Desai
+Vijay Daulatrao Rane Sardesai
+Viraj Daulatrao Desai
+Vithoba Pandu Gaonkar
+area 21055 Sq Mts
+area 22385 Sq Mts
+area 47990 Sq Mts
+area 7955 Sq Mts</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019075.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81459">
+                <coordinates>74.026786599,15.57093129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81493">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57342,74.0307&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3121</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Apa Poto Gaunkar; Gaunkar vaddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>31</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57342</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0307</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818150708752.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818150726584.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>31/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>083</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/09</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>61.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1878</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Apa Poto Gaunkar
+10)Dhano Ramchandra Gaunkar
+11)Dulo Sadio Gaunkar
+12)Malgo Bhingo Gaunkar
+13)Bablo Pandu Gaunkar
+14)Rajaram Pandu Gaunkar
+15)Nakul Bhisso Gaunkar
+16)Sahadev Vassu Gaunkar
+17)Keshav Bhingo Gaunkar
+18)Namdev Sagun Gaunkar
+19)Pandu Vishnu Gaunkar
+2)Datta Vithal Gaunkar
+20)Ladu Bombdo Gaunkar
+21)Vishnu Bombdo Gaunkar
+22)Zinghu Rama Gaunkar
+23)Krishna Bhimgo Gaunkar
+24)Pandurang Arjun Gaunkar
+25)Sukdo Pandu Gaunkar
+26)Shankar Chandro Gaunkar
+27)Bablo Chandro Gaunkar
+28)Ladu Yesso Gaunkar
+29)Pandurang Yesso Gaunkar
+3)Rama Krishna Gaunkar
+30)Shamba Yesso Gaunkar
+31)Sadha Laxman Gaunkar
+32)Sitaram Barkelo Gaunkar
+33)Pundalik Barkelo Gaunkar
+34)Amanabi Laximan Gaunkar
+35)Ladu Sadyo Gaunkar
+36)Dharma Sadyo Gaunkar
+37)Ramkrishna Sadyo Gaunkar
+38)Barkelo Govind Gaunkar
+39)Champu Arjun Gaunkar
+4)Vithoba Pandu Gaunkar
+40)Puno Bablo Gaunkar
+41)Ramchandra Vithoba Gaunkar
+5)Barkelo Tolio Gaunkar
+6)Mahadev Kusta Gaunkar
+7)Shantaram Ramchandra Gaunkar
+8)Rodio Bhisso Gaunkar
+9)Deugo Bombdo Gaunkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022375.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81492">
+                <coordinates>74.03070217,15.573419689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81526">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59202,74.02919&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3126</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Manoramabai Rauji Rane Sar Desai; Belvaddo</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>128</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59202</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02919</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818131838894.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818131856093.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>128/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Laterite</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>085</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>31.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1874</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>---------------------1/8
+--------------------1/16
+--------------------1/8
+-------------------1/2
+------------------1/8
+-----------------1/16
+1) Manoramabai Rauji Rane Sar Desai--}
+10)Durgabai Shantaram Rane Sar Desai-}
+11)Babaji Sakharam Rane Sar Desai----}
+12)Krishna Sakharam Rane Sar Desai---}
+13)Santoba Rauji Rane Sar Desai.  1/8
+14)Hanumantrao Anasaheb Rane Sar Desai
+15)Amrutrao Bhimrao Rane Sar Desai.1/8
+16)Suryajirao Manikrao Rane Sar Desai}
+17)Laxman Manikrao Rane Sar Desai.  }
+18)Shivajirao Shambhurao Rane Sar
+19)Vilasrao Shambhurao Rane Sar Desai}
+2) Fattesingh Rauji Rane Sar Desai.  }
+20)Ganpatrao Shambhurao Rane SarDesai}
+21)Balasheb Ganpatrao Rane Sar Desai
+3) Raghsingh Sotroji Rane Sar Desai--}
+5) Buvasaheb Yashwantrao Rane Sar
+6) Balasaheb Yashwantrao Rane Sar
+7) Yashwantrao Rausaheb Rane Sar Desai
+8)Laxmanrao Vithoba Rane Sar Desai---}
+Ajay Daulatrao Rane Sardesai
+Aparna Ajay Rane Sardesai
+Desai.                            }
+Desai.                         ----}
+Desai.----------------------------}
+Sanjay Daulatrao Rane Sardesai
+Sayli Sanjay Rane Sardesai
+Seema Shantaram Rane Sardesai
+Shantaram Daulatrao Rane Sardesai
+Vibhavari Viraj Desai
+Vijay Daulatrao Rane Sardesai
+Viraj Daulatrao Desai</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1026275.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81525">
+                <coordinates>74.029192723,15.592018218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81559">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5804,74.02805&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3122</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sadgo Bhiku Mazik; Vodlo Temb or Kolosh Temb</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>39</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5804</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02805</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818145240611.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818145258876.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>39/3</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>084</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/10</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>61.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1877</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Sadgo Bhiku Mazik      |
+10)Vithoba Govind Mazik  |
+11)Malgo Shuba Mazik    |
+12)Narayan Shaba Mazik  |-1/7
+13)Ganesh Suba Mazik    |
+14)Sogun Shuba Mazik    |
+2)Rauji Bhiku Mazik      | -1/7
+3)Soklo Poto Mazik        1/7
+4)Vithoba Bombi Mazik    |
+5)Krishna Bombi Mazik    | -1/7
+6)Arjun Budho Mazik       1/7
+7)Pandurang Vassu Mazik   1/7
+8)Guno Vithoba Mazik     |
+9)Rama Vithoba Mazik     |-1/7</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022975.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81558">
+                <coordinates>74.028050882,15.580395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81592">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56957,74.01946&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3004</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vaman Ramnath Naik; Moth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56957</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01946</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818110644349.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818110705140.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>66/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>080</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>638.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1881</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-05-18 12:27:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Vaman Ramnath Naik
+2)Vassant Ramnath Naik
+3)Balaji Ramnath Naik
+4)Vishnu Krishna Naik
+5)Hari Krishna Naik
+6)Suresh Krishna Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019675.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81591">
+                <coordinates>74.019458657,15.56957202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81625">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56811,74.01768&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3135</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Jaiwant Dipa Dubhashi; Mot</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>67</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56811</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01768</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200819053031798.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200819053041739.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>67/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>014</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>335.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1883</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-19 15:01:49</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Jaiwant Dipa Dubhashi
+2)Umakant Dipa Dubhashi
+3)Prabhakar  Dipa Dubhashi
+4)Govind Vishnu Dubhashi
+5)Subhash Vishnu Dubhashi
+6)Manohar Vaikunt Dubhashi
+7)BHaskar Vaikunt Dubhashi
+8)Shrikant Vaikunt Dubhashi
+9)Bhalchandra Vaikunt Dubhashi</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019375.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81624">
+                <coordinates>74.017683894,15.568115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81658">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57448,74.02559&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5338</value>
+                </Data>
+                <Data name="name">
+                    <value>Molo Dath</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>58</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57448</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02559</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223161722987.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223161750468.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>58/1-C(Part)</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Dry</value>
+                </Data>
+                <Data name="print_order">
+                    <value>016</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/08</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>96.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4155</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:39:01.379523</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>(52)   area 32632 Sq Mts
+(66)         area  3600 Sq Mts
+1)Arjun Bablo Sawant
+10)Durgabai Shantaram Rane Sardessai
+11)Krishna Sakharam Rane Sardessai
+12)Babaji Sakharam Rane Sardessai
+13)Santoba Rauji Rane Sardessai
+14)Hanumantrao Anasaheb Rane Sardessai
+15)Amrutrao Bhimrao Rane Sardessai
+17)Laxmanrao Manikrao Rane Sardessai
+18)Shivajirao Shamburao Rane Sardessai
+19)Vilasrao Shamburao Rane Sardessai
+2) Pratapsingh Rauji Rane Sardessai
+2) Smt Sazu Tato Sawant
+20)Ganpatrao Shamburao Rane Sardessai
+21)Balvantrao Ganpatrao Rane Sardessai
+3)Dharma Soma Sawant
+3)Fattesingh Rauji Rane Sardessai
+4) Rajsingh Satroji Rane Sardessai
+4)Smt Sundari Rama Sawant
+5)Buvasaheb Yeshwantrao Rane Sardessai
+6)Balasaheb Yeshwantrao Rane Sardessai
+7)Yeshwantrao Raosaheb Rane Sardessai
+8)Laxmanrao Vithoba Rane Sardessai
+Ajay Daulatrao Rane Sardesai
+Anil Bablo Gaonkar
+Aparna Ajay Rane Sardesai
+Bodio Pundalik Gaonkar area 60760 Sq Mts
+Dashrath Mahadev Sawant
+Fati Babi Sawant
+Gharo Fondu Sawant  area 9400 Sq Mts
+Krishna Babi Sawant
+Laxman Rauji Gaonkar
+Laxman Shivlo Kharpalkar
+Laxmi Bablo Gaonkar
+Mono Guno Gaonkar area 25550 Sq Mts
+Nakul Raghunath Sawant area 9400 Sq Mts
+Narayan Fati Sawant
+Parvati Mahadev Sawant
+Raghunath Atma Sawant area 9400 Sq Mts
+Rajendra Mahadev Sawant
+Rama Shivlo Kharpalkar
+Sanjay Daulatrao Rane Sardesai
+Sayli Sanjay Rane Sardesai
+Seema Shantaram Rane Sardesai
+Shakuntala Daulatrao Rane Sardesai
+Shankar Chandru Gaonkar
+Shantaram Daulatrao Rane Sardesai
+Sitaram Ganesh Sawant
+Sunil Bablo Gaonkar
+Suresh Mahadev Sawant
+Vibhavari Viraj Desai
+Vijay Daulatrao Rane Sardesai
+Viraj Daulatrao Desai
+Vithoba Pandu Gaonkar
+area 21055 Sq Mts
+area 22385 Sq Mts
+area 47990 Sq Mts
+area 7955 Sq Mts</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022675.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81657">
+                <coordinates>74.025591366,15.574481265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81691">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.59522,74.02163&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5337</value>
+                </Data>
+                <Data name="name">
+                    <value>Zamba Codol mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>115</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.59522</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02163</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230302095305246.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230302095323852.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>115/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>454.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4154</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:37:27.115292</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sharda Jayprakash Chavda.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1025975.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81690">
+                <coordinates>74.021626151,15.595218463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81724">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56922,74.01869&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3136</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Vaman Ramnath Naik; Moth</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56922</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01869</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200819053652202.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200819053713412.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>66/3,5</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>015</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>140.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1882</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-19 15:01:49</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Vaman Ramnath Naik
+2)Vassant Ramnath Naik
+3)Balaji Ramnath Naik
+4)Vishnu Ramnath Naik
+5)Hari Krishna Naik
+6)Suresh Krishna Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019975.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81723">
+                <coordinates>74.018685,15.569218333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81757">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57106,74.03106&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3120</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sukdo Govind Sawant</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>28</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57106</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03106</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818152316673.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818152336646.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>28/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>087</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Pori/14</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>26.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1879</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1)Sukdo Govind Sawant
+2)Sakolo Fotco Sawant
+3)Krishna Mahadev Sawant
+4)Narayan Ganu Sawant
+5)Fotco Khemlo Sawant
+6)Govind Nargo Sawant
+7)Soma Laximan Sawant
+8)Govind Tano Sawant
+9)Saji Bablo Sawant</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1018475.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81756">
+                <coordinates>74.031057997,15.571058333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

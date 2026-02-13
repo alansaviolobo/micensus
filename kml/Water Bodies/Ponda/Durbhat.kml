@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34488">
+        <Placemark id="34490">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39332,73.95992&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4555</value>
+                </Data>
+                <Data name="name">
+                    <value>Bag Korsa Ghor Bhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>90</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Durbhat</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39332</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.95992</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302071518227.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302071526318.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Durbhat</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>115</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Durb/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>189.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3674</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1. Padmaker Dattaraya Bhakle
+2. Sadashiv Dattatraya Bhakle
+3. Bhasker Ramchandra Bhakle
+4. Narayan Ramchandra Bhakle
+5. Balkrishna Anant Bhakle
+6. Shrikant Anant Bhakle
+7. Ramesh Anant Bhakle
+8. Madhukar Dattatraya Bhakle
+9. Sumati Damodar Bhakle</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>998857.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34489">
+                <coordinates>73.959923333,15.39332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34522">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.39442,73.96086&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4556</value>
+                </Data>
+                <Data name="name">
+                    <value>Lotlikar Thikan</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>96</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Durbhat</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.39442</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96086</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302072417757.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302072425443.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Durbhat</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>116</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Durb/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>69.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3675</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1. Padmakar Datta Bhakle
+10.Balkrishna Anant Bhakle
+11.Ramesh Anant Bhakle
+2. Sadashiv D. Bhakle
+3. Shrikant Anant Bhakle
+4. Sumati Damodar Bhakle
+5. Govind Dattatraya Bhakle
+6. Madhuker Dattatraya Bhakle
+7. Madhav Keshev Bhakle
+8. Bhasker Ramchandra Bhakle
+9. Narayan Ramchandra Bhakle
+Ganpat Govind Bakhle</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>999107.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34521">
+                <coordinates>73.960863333,15.394421667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34554">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.38841,73.96457&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4278</value>
+                </Data>
+                <Data name="name">
+                    <value>Madhav, Govind, Rameshwar Temple Tank; Pandane</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Ponda</value>
+                </Data>
+                <Data name="syno">
+                    <value>80</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Durbhat</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.38841</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.96457</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220302123332797.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220302123429536.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>23 - Marcaim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Durbhat</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Po/Durb/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>439.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3222</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-12-31 08:15:41.455662</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1. Balkrishna Shivram Sinvi Kundaiker
+Prema Tukaram Naik
+Truptesh Kushta Gaude
+Tukaram Bhaju Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>989975.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>997857.581436924</value>
+                </Data>
+            </ExtendedData>
+            <Point id="34553">
+                <coordinates>73.96456761,15.388409958,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

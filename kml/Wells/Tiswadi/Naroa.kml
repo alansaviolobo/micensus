@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26038">
+        <Placemark id="26040">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.529102,73.923658&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>417</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>417</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>3133/Tiswadi</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Smt. Monserratte Maria Lourdes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Malar, Divar, Tiswadi Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.529102</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.923658</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Tiswadi</value>
+                </Data>
+                <Data name="village">
+                    <value>Naroa</value>
+                </Data>
+            </ExtendedData>
+            <Point id="26039">
+                <coordinates>73.923658,15.529102,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

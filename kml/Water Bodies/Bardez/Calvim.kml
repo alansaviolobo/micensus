@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2766">
+        <Placemark id="2768">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56455,73.89275&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5456</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>36</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>2</value>
+                </Data>
+                <Data name="village">
+                    <value>Calvim</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56455</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.89275</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230419125539738.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230419125546175.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>36/2</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Aldona</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Calv/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>354.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4271</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-02 06:17:08.069729</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Jose Noronha</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990746.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1019466.08831014</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2767">
+                <coordinates>73.892753988,15.564554327,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

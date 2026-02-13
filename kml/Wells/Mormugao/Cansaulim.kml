@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8124">
+        <Placemark id="8126">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.346402,73.895697&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5922</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5922</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>36/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>horticulture</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>John Pereira</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 57-1, Largos De Estesao Camaulim Mormugao Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.346402</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.895697</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansaulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8125">
+                <coordinates>73.895697,15.346402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8141">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.340338,73.895114&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5961</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5961</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>11/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Jose Francisco Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 89, Praial, Cansaulim, Mormugao- Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.340338</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.895114</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansaulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8140">
+                <coordinates>73.895114,15.340338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8156">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.34547,73.901461&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5963</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>5963</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>9/Mor</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Jose Francisco Fernandes</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H.no. 89, Praial, Cansaulim, Mormugao- Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.34547</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.901461</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Mormugao</value>
+                </Data>
+                <Data name="village">
+                    <value>Cansaulim</value>
+                </Data>
+            </ExtendedData>
+            <Point id="8155">
+                <coordinates>73.901461,15.34547,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

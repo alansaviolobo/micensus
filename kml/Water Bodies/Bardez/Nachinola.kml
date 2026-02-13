@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4990">
+        <Placemark id="4992">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58918,73.85097&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>873</value>
+                </Data>
+                <Data name="name">
+                    <value>Talikade; Bhamon Vado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>6</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Nachinola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58918</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.85097</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006121745775.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006121822977.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>6/1,3-4,20</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nachinola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>112</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nach/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1298.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4030</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Nachinola</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021912.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="4991">
+                <coordinates>73.850969648,15.589183771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5025">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.58604,73.84988&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5633</value>
+                </Data>
+                <Data name="name">
+                    <value>Kumaochi Shir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="syno">
+                    <value>4</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>31</value>
+                </Data>
+                <Data name="village">
+                    <value>Nachinola</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.58604</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.84988</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20221006121358563.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20221006121426532.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>4/31-33; 77/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>10 - Aldona</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Nachinola</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Communidade</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>013</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Ba/Nach/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>307.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4718</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-31 05:26:48.234427</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Comunidade Nachinola</value>
+                </Data>
+                <Data name="label_x">
+                    <value>990747.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021412.06248108</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5024">
+                <coordinates>73.849875203,15.586043653,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

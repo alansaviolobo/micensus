@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60518,73.87366&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>800</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>800</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1465/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri. Palni Rohidas Ramkrishna</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>DSa vaddo, Quitla Aldona, Bardez - Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60518</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87366</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2">
+                <coordinates>73.87366,15.60518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.60495,73.87743&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>801</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>801</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2304/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Fernandes Jose Marie Minguel</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 121, Dauzawaddo, Quitla, Aldona, Bardez Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.60495</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87743</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="17">
+                <coordinates>73.87743,15.60495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.601,73.87675&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>802</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>802</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2747/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Lawrence Mathais Bosco</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 168, Ranoi, Aldona, Bardez-Goa</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.601</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.87675</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="32">
+                <coordinates>73.87675,15.601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.56965,73.88342&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>812</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>812</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>2183/Bardez</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Shri Falkar Chandrakant Soma</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>H. No. 1058, Carona, Aldona, BARDEZ Goa (Nilye, Calvim)</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.56965</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.88342</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bardez</value>
+                </Data>
+                <Data name="village">
+                    <value>Aldona</value>
+                </Data>
+            </ExtendedData>
+            <Point id="47">
+                <coordinates>73.88342,15.56965,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

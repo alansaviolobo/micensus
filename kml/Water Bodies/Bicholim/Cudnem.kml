@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10599">
+        <Placemark id="10601">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.54149,74.00785&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4887</value>
+                </Data>
+                <Data name="name">
+                    <value>Sateri Temple Tank; Sateribhat</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>12</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>27</value>
+                </Data>
+                <Data name="village">
+                    <value>Cudnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.54149</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00785</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230316125346223.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230316125350842.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>12/27</value>
+                </Data>
+                <Data name="constituency">
+                    <value>17 - Sanquelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cudnem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Temple Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>069</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Cudn/13</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>595.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5115</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 13:21:23.026020</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:09.856180</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Gopal Govind Malik
+Guno Rama Malik
+Hasu Vasu Malik
+Sarswati Saji Malik
+Tukaram Arjun Malik
+Vaman Arjun Malik
+Visharam Arjun Malik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008685.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013819.3902380535</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10600">
+                <coordinates>74.0078505,15.541485706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10634">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53908,74.01177&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5536</value>
+                </Data>
+                <Data name="name">
+                    <value>Salvai,Salvoi,Satiche bhat.</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>193</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1-56</value>
+                </Data>
+                <Data name="village">
+                    <value>Cudnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53908</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.01177</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230314113933968.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230314113939508.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>190/2; 192/1; 193/1-57</value>
+                </Data>
+                <Data name="constituency">
+                    <value>17 - Sanquelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cudnem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Lake</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>007</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Cudn/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>95928.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5116</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-04 07:08:03.898099</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:07.378399</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Sadashiv Manguesh  S. Borkar
+Sadashiv Manguesh S  Borkar
+Sadashiv Manguesh S Borkar
+Sadashiv Manguesh S. Borkar
+Sadashiv Manguesh S.Borkar
+Shamba  Vishnu Dhavale
+Shamba Vishnu Dhavale
+Surya Vishnu Kannekar
+Suya Vishnu Kannekar
+Vinayak Nikanth S Borkar
+Vinayak Nikanth S. Borkar
+Vinayak Nikanth Shenai Borkar
+Vinayak Nilkanth S. Borkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008685.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013469.3902380535</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10633">
+                <coordinates>74.011774311,15.539075257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10667">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5314,74.02163&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5535</value>
+                </Data>
+                <Data name="name">
+                    <value>Ubir</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Bicholim</value>
+                </Data>
+                <Data name="syno">
+                    <value>175</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>8</value>
+                </Data>
+                <Data name="village">
+                    <value>Cudnem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5314</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02163</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230316131743957.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230316131750089.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>174/1-9; 175/21-22</value>
+                </Data>
+                <Data name="constituency">
+                    <value>17 - Sanquelim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Cudnem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Natural Collection</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>035</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Bi/Cudn/12</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>887.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5119</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-04 07:03:35</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2024-09-22 05:42:08.375053</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>Daya Vaikunth Sinav Gharse</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008685.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1013119.3902380535</value>
+                </Data>
+            </ExtendedData>
+            <Point id="10666">
+                <coordinates>74.021627304,15.531398902,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

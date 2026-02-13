@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="42604">
+        <Placemark id="42606">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23528,74.05039&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>494</value>
+                </Data>
+                <Data name="name">
+                    <value>Gaunkar Wado</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Quepem</value>
+                </Data>
+                <Data name="syno">
+                    <value>16</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Avedem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23528</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05039</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211021080556954.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211021080605732.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>15/15; 16/4-6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>36 - Quepem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Avedem-Cotombi</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Qu/Aved/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>747.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2355</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-11-13 14:35:06.702930</value>
+                </Data>
+                <Data name="book_id">
+                    <value>1</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Sukdow Chemot Gaunkar.
+2) Uttam Ganesh Gaunkar.
+3) Gopal Ducklo Gaunkar.
+4) Ganesh Gaunkar.
+5) Govind Kust Gaunkar.
+6) Shankar Ducklo Gaunkar.
+7) Damu Okru Gaunkar.
+8) Shamy Ganesh Gaunkar.
+9) Abole Shamy Gaunkar.</value>
+                </Data>
+                <Data name="label_x">
+                    <value>991894.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>981951.583312875</value>
+                </Data>
+            </ExtendedData>
+            <Point id="42605">
+                <coordinates>74.050394084,15.235280269,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

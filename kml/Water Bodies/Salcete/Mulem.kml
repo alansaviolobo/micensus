@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60791">
+        <Placemark id="60793">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.24295,74.03222&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3802</value>
+                </Data>
+                <Data name="name">
+                    <value>Alya Male</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>15</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.24295</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03222</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20210817055107591.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20210817055117569.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Paroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>137</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Mule/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>380.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>2550</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2021-08-17 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Chales Dias
+Dr. Rui Antonio do Rosario Aguiar
+Filomena Dias
+Francisco Emerico da Piedade Gracias
+Joaquim Antonio Dias
+Joaquim Miguel Ismael Gracias
+Jose Antonio Ciriaco da Piedade Gracias</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>982140.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60792">
+                <coordinates>74.032220247,15.242954305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60825">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.22969,74.02913&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1841</value>
+                </Data>
+                <Data name="name">
+                    <value>--</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>0</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>North of 136</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.22969</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.02913</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103150028579.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103150057789.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Paroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>061</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Mule/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>2221.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1372</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>980040.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60824">
+                <coordinates>74.029133916,15.229687988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60857">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.21684,74.03334&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>4877</value>
+                </Data>
+                <Data name="name">
+                    <value>Chandreswar Bhoothnath Temple Tank</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>84</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>4</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.21684</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.03334</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20220601182286618.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20220601182506619.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Paroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>136</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Mule/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1696.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>3849</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-05-12 03:24:30</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Govt. of Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978990.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60856">
+                <coordinates>74.033336635,15.216839744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60889">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.23237,74.0115&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>1840</value>
+                </Data>
+                <Data name="name">
+                    <value>Dady Candal</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Salcete</value>
+                </Data>
+                <Data name="syno">
+                    <value>171</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>11</value>
+                </Data>
+                <Data name="village">
+                    <value>Mulem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.23237</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0115</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20211103152028656.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20211103152041653.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>34 - Cuncolim</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Paroda</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>062</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>Sc/Mule/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>729.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1373</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>4</value>
+                </Data>
+                <Data name="owners">
+                    <value>Babai Verenkar
+Cashinath Verenkar
+Vinayak Verenkar</value>
+                </Data>
+                <Data name="label_x">
+                    <value>1008336.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>978640.205493758</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60888">
+                <coordinates>74.01149537,15.232374456,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

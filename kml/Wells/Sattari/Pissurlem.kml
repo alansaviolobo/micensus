@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23791">
+        <Placemark id="23793">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53868,74.05582&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3063</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3063</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>1114/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>agricultural</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gawade Harishchandra Sonko</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Dhargal, Pissurlem. Sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53868</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05582</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Pissurlem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23792">
+                <coordinates>74.05582,15.53868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23808">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.53902,74.05845&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3155</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3155</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>187/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Gajanan Gawade</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Pissurlem sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.53902</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.05845</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Pissurlem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23807">
+                <coordinates>74.05845,15.53902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23823">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5137,74.07616&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3156</value>
+                </Data>
+                <Data name="Sr.No">
+                    <value>3156</value>
+                </Data>
+                <Data name="Reg No">
+                    <value>189/sattari</value>
+                </Data>
+                <Data name="Category">
+                    <value>irrigation</value>
+                </Data>
+                <Data name="Type Of Well">
+                    <value>Open Well</value>
+                </Data>
+                <Data name="Applicant Name">
+                    <value>Vishvasrao Desai</value>
+                </Data>
+                <Data name="Applicant Address">
+                    <value>Pissurlem sattari Goa.</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5137</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.07616</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="village">
+                    <value>Pissurlem</value>
+                </Data>
+            </ExtendedData>
+            <Point id="23822">
+                <coordinates>74.07616,15.5137,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

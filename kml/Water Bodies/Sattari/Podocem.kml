@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="80993">
+        <Placemark id="80995">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5748,73.99861&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5333</value>
+                </Data>
+                <Data name="name">
+                    <value>Santiniche Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>68</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>0</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5748</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99861</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230309081422798.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230309081436791.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>68/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>009</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/02</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>779.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4151</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:32:42.456140</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Deu Vaman Sawal
+Executive Engineer, W.D. VI, Irrigation Department, Bicholim Goa.
+Ganpat Rajaram Desai
+Pundalik Vaman Sawal
+Ramapati Keshav Pitre
+Ramkrishna Gajanan Bacre
+Savitribai Vaman Sawal
+Shripad alias Mohan Ramkrishna Bakre and Manjiri Shripad Bakre
+The Executive Engineer Work Div VI Irrigation Department, Bicholim-Goa. Area 3100 Sq Mts.
+Tukaram Vaman Sawal
+Vishant Rama Gawas
+Vithalapur Dnyan Prasarak Mandal</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021775.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="80994">
+                <coordinates>73.998612189,15.574795748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81028">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57602,73.99846&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5334</value>
+                </Data>
+                <Data name="name">
+                    <value>Cazreachem Moll</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>69</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57602</value>
+                </Data>
+                <Data name="longitude">
+                    <value>73.99846</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230309081311702.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230309081344600.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>69/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>010</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/03</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>719.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4150</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:32:42.456140</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman &amp; Diu
+One</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1022075.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81027">
+                <coordinates>73.99845848,15.5760233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81061">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57182,74.00082&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5336</value>
+                </Data>
+                <Data name="name">
+                    <value>Ozravoril Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>66</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57182</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00082</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230223163951595.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230223164018465.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>66/1 (PART); 67/1 pt.; 68/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private / Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>008</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/01</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>1425.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4152</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:35:29.156337</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Devalaia Shri Deus Vithal of Carapura
+Executive Engineer, Works Division VI, Irrigation Department, Bicholim Goa</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021475.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81060">
+                <coordinates>74.000816817,15.571818816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81094">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57011,74.0071&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>3124</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Simon Sebastian Lobo; Ozravoril</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>60</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57011</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0071</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20200818135926513.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20200818135946070.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>60/1</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Concrete</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>075</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/06</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>133.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>1869</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-08-18 15:13:05</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Simon Sebastian Lobo</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1020575.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81093">
+                <coordinates>74.007103333,15.570113333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81127">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.57348,74.0121&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>2344</value>
+                </Data>
+                <Data name="name">
+                    <value>Field of Sadanand Laxman Nadkarni; Katoloi</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>30</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>1</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.57348</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0121</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20191115064533219.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20191115064550920.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>30/0</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Pond</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Storage</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>011</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/04</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>546.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>250</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2020-02-28 15:24:34</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>1) Sadanand Laxman Nadkarni
+10) Mohan Manguesh Nadkarni
+11) Mahesh Manguesh Nadkarni
+12) Taturaya Vaman Nadkarni
+13) Prabhakar Vaman Nadkarni
+14) Ganpat Vaman Nadkarni
+15) Ganasham Vaman Nadkarni
+16) Dattaram Manguesh Nadkarni
+17) Zayanand Laximan Nadkarni
+18) Satchidanand Laximan Nadkarni
+19) Ramchandra Govind Nadkarni
+2) Sripad Anant Nadkarni
+20) Damodar Govind Nadkarni
+21) Naguesh Kashinath Nadkarni
+22) Vassant Kashinath Nadkarni
+23) Magana Kashinath Nadkarni
+24) Vasudev Shantaram Nadkarni
+25) Sadashiv Shantaram Nadkarni
+26) Aruna Shantaram Nadkarni
+27) Rajaram Venkatesh Nadkarni
+28) Gajanand Venkatesh Nadkarni
+29) Babulnath Venkatesh Nadkarni
+3) Roguvir Xankar Nadkarni
+30) Dinanath Venkatesh Nadkarni
+4) Sagun Purshottam Nadkarni
+5) Shankar Mukund Nadkarni
+6) Mahadev Mukund Nadkarni
+7) Dhuvarkanath Mukund Nadkarni
+8) Anand Shambu Nadkarni
+9) Ashok Shambu Nadkarni
+Thirty</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1021175.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81126">
+                <coordinates>74.012097447,15.573477239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81160">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5837,74.00391&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5335</value>
+                </Data>
+                <Data name="name">
+                    <value>Savarivoril Mol</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>2</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>6</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5837</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.00391</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230302085755142.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230302085828737.jpg</value>
+                </Data>
+                <Data name="syno_pt_list">
+                    <value>2/6</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Public</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Needs Maintenance</value>
+                </Data>
+                <Data name="print_order">
+                    <value>074</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/05</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>178.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>4153</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2022-08-01 03:35:29.156337</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Government of Goa Daman &amp; Diu</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023275.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81159">
+                <coordinates>74.003905,15.583703333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81193">
+            <ExtendedData>
+                <Data name="direction">
+                    <value>https://maps.google.com?q=15.5841,74.0038&amp;t=h</value>
+                </Data>
+                <Data name="id">
+                    <value>5922</value>
+                </Data>
+                <Data name="name">
+                    <value>Raim</value>
+                </Data>
+                <Data name="taluka">
+                    <value>Sattari</value>
+                </Data>
+                <Data name="syno">
+                    <value>1</value>
+                </Data>
+                <Data name="subdiv">
+                    <value>3</value>
+                </Data>
+                <Data name="village">
+                    <value>Podocem</value>
+                </Data>
+                <Data name="latitude">
+                    <value>15.5841</value>
+                </Data>
+                <Data name="longitude">
+                    <value>74.0038</value>
+                </Data>
+                <Data name="photo_1">
+                    <value>DCIM/20230302090111024.jpg</value>
+                </Data>
+                <Data name="photo_2">
+                    <value>DCIM/20230302090121625.jpg</value>
+                </Data>
+                <Data name="constituency">
+                    <value>18 - Poriem</value>
+                </Data>
+                <Data name="status">
+                    <value>Completed</value>
+                </Data>
+                <Data name="panchayat">
+                    <value>Poriem</value>
+                </Data>
+                <Data name="wb_type">
+                    <value>Tank</value>
+                </Data>
+                <Data name="owner_type">
+                    <value>Private</value>
+                </Data>
+                <Data name="purpose">
+                    <value>Irrigation</value>
+                </Data>
+                <Data name="construction">
+                    <value>Natural/Man Made</value>
+                </Data>
+                <Data name="condition">
+                    <value>Good</value>
+                </Data>
+                <Data name="print_order">
+                    <value>076</value>
+                </Data>
+                <Data name="wb_id">
+                    <value>St/Podo/07</value>
+                </Data>
+                <Data name="storage_capacity">
+                    <value>64.0</value>
+                </Data>
+                <Data name="wb_surface_id">
+                    <value>5401</value>
+                </Data>
+                <Data name="created_at">
+                    <value>2023-03-02 00:00:00</value>
+                </Data>
+                <Data name="updated_at">
+                    <value>2023-07-22 14:03:14.307690</value>
+                </Data>
+                <Data name="book_id">
+                    <value>2</value>
+                </Data>
+                <Data name="owners">
+                    <value>Kashinath Atmaram Naik</value>
+                </Data>
+                <Data name="label_x">
+                    <value>998723.0</value>
+                </Data>
+                <Data name="label_y">
+                    <value>1023875.74999705</value>
+                </Data>
+            </ExtendedData>
+            <Point id="81192">
+                <coordinates>74.0038,15.5841,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
