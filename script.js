@@ -91,16 +91,28 @@ function displayCurrentItem() {
     pageInfo.textContent = `Item ${currentIndex + 1} of ${filteredData.length}`;
     
     const thumbnailColumns = ['Close-up shot', 'Wide angle shot', 'Selfie'];
+    const ignoredColumns = ['State', 'District', 'Sub-District', 'Town', 'Ward Number', 'Ward Name',
+        'Timestamp of Survey', 'Latitude °N', 'Longitude °E', 'Elevation (m, a.m.s.l.)', 'Serial no. of spring',
+        'Spring Video', 'Outlet 4 volume (l)', 'Outlet 4 duration (min:sec)', 'Outlet 4 discharge (lpm)',
+        'Outlet 5 volume (l)', 'Outlet 5 duration (min:sec)', 'Outlet 5 discharge (lpm)', 'Outlet 6 volume (l)',
+        'Outlet 6 duration (min:sec)', 'Outlet 6 duration (min:sec)', 'Outlet 6 discharge (lpm)', 'Outlet 7 volume (l)',
+        'Outlet 7 duration (min:sec)', 'Outlet 7 discharge (lpm)', 'Outlet 8 volume (l)', 'Outlet 8 duration (min:sec)',
+        'Outlet 8 discharge (lpm)'];
 
     // Function to rewrite image URL
     const rewriteImageUrl = (url) => {
         if (!url || typeof url !== 'string') return url;
         const filename = url.substring(url.lastIndexOf('/') + 1);
-        return `https://github.com/alansaviolobo/micensus/blob/master/img/${filename}?raw=true`;
+        return `https://raw.githubusercontent.com/alansaviolobo/micensus/refs/heads/master/img/${filename}`;
     };
 
     // Display all keys and values
     for (const [key, value] of Object.entries(item)) {
+
+        if (ignoredColumns.includes(key)) {
+            continue;
+        }
+
         if (thumbnailColumns.includes(key)) {
             if (value && value.startsWith('http')) {
                 const rewrittenUrl = rewriteImageUrl(value);
@@ -113,35 +125,9 @@ function displayCurrentItem() {
         const th = document.createElement('th');
         th.textContent = key;
         const td = document.createElement('td');
-        
-        // Handle images/links
-        if (typeof value === 'string' && (value.startsWith('http://') || value.startsWith('https://'))) {
-            if (value.match(/\.(jpg|jpeg|png|gif)$/i)) {
-                const rewrittenUrl = rewriteImageUrl(value);
-                const img = document.createElement('img');
-                img.src = rewrittenUrl;
-                img.style.maxWidth = '300px';
-                img.style.display = 'block';
-                img.style.cursor = 'pointer';
-                img.onclick = () => openModal(rewrittenUrl, key);
-                
-                const link = document.createElement('a');
-                link.href = rewrittenUrl;
-                link.target = '_blank';
-                link.textContent = 'View Full Size';
-                td.appendChild(img);
-                td.appendChild(link);
-            } else {
-                const link = document.createElement('a');
-                link.href = value;
-                link.target = '_blank';
-                link.textContent = value;
-                td.appendChild(link);
-            }
-        } else {
-            td.textContent = value || 'N/A';
-        }
-        
+
+        td.textContent = value || 'N/A';
+
         row.appendChild(th);
         row.appendChild(td);
         tableBody.appendChild(row);
@@ -156,7 +142,7 @@ function addThumbnail(label, url) {
     div.className = 'thumbnail-item';
     
     const img = document.createElement('img');
-    img.src = url;
+    img.src = url.replace('img', 'img/resized');
     img.alt = label;
     img.onclick = () => openModal(url, label);
     

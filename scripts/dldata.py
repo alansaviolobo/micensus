@@ -20,10 +20,20 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Configuration
+def load_env():
+    if os.path.exists(".env"):
+        with open(".env") as f:
+            for line in f:
+                if line.strip() and not line.startswith("#"):
+                    key, value = line.strip().split("=", 1)
+                    os.environ[key] = value
+
+load_env()
 LOGIN_URL = os.getenv("LOGIN_URL")
 ANTI_CAPTCHA_API_KEY = os.getenv("ANTI_CAPTCHA_API_KEY")
 DOWNLOAD_DIR = os.path.join(os.getcwd(), "downloads")
-CREDENTIALS = json.loads(os.getenv("CREDENTIALS", "[]"))
+CREDENTIALS_STR = os.getenv("CREDENTIALS", "[]")
+CREDENTIALS = json.loads(CREDENTIALS_STR[1:-1])
 
 # Create directory if it doesn't exist (but don't clear it yet)
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)

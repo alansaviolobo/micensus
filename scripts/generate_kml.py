@@ -4,10 +4,16 @@ import simplekml
 import json
 import traceback
 
-# ==========================================
-# DATABASE CONFIGURATION
-# Please update these values to match your environment
-# ==========================================
+def load_env():
+    if os.path.exists(".env"):
+        with open(".env") as f:
+            for line in f:
+                if line.strip() and not line.startswith("#"):
+                    key, value = line.strip().split("=", 1)
+                    os.environ[key] = value
+
+load_env()
+
 DB_HOST = os.getenv("DB_HOST")
 DB_NAME = os.getenv("DB_NAME")
 DB_USER = os.getenv("DB_USER")

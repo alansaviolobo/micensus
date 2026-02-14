@@ -7,6 +7,15 @@ import psycopg2
 import pandas as pd
 import os
 
+def load_env():
+    if os.path.exists(".env"):
+        with open(".env") as f:
+            for line in f:
+                if line.strip() and not line.startswith("#"):
+                    key, value = line.strip().split("=", 1)
+                    os.environ[key] = value
+
+load_env()
 URL = os.getenv("GSHEET_URL")
 INPUT_FILE = os.getenv("INPUT_FILE")
 OUTPUT_FILE = os.getenv("OUTPUT_FILE")
