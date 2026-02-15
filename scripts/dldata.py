@@ -367,11 +367,24 @@ def download_all_schedules():
         username = cred["username"]
         password = cred["password"]
         
-        print(f"Starting process for: {username}")
-        success = download_schedules_for_user(username, password)
+        MAX_DOWNLOAD_RETRIES = 3
+        for attempt in range(1, MAX_DOWNLOAD_RETRIES + 1):
+            print(f"Starting process for: {username} (Attempt {attempt}/{MAX_DOWNLOAD_RETRIES})")
+            success = download_schedules_for_user(username, password)
+            if success:
+                return {
+                    "username": username,
+                    "success": True
+                }
+            
+            if attempt < MAX_DOWNLOAD_RETRIES:
+                wait_time = 5 * attempt
+                print(f"⚠️ Process failed for {username}. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+        
         return {
             "username": username,
-            "success": success
+            "success": False
         }
 
     # Use ThreadPoolExecutor for parallel execution

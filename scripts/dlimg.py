@@ -5,8 +5,6 @@ import json
 import requests
 import pandas as pd
 import urllib3
-import urllib.request
-import ssl
 import urllib.parse
 import subprocess
 from selenium import webdriver
@@ -16,7 +14,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-# Suppress InsecureRequestWarning
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configuration
@@ -29,7 +26,7 @@ def load_env():
                     os.environ[key] = value
 
 load_env()
-GSHEET_URL = os.getenv("GSHEET_URL")
+INPUT_FILE = os.getenv("INPUT_FILE")
 TARGET_FOLDER = os.getenv("TARGET_FOLDER")
 LOGIN_URL = os.getenv("LOGIN_URL")
 ANTI_CAPTCHA_API_KEY = os.getenv("ANTI_CAPTCHA_API_KEY")
@@ -158,11 +155,9 @@ def main():
 
     cleanup_text_files(TARGET_FOLDER)
 
-    # Fetch Google Sheet with SSL verification disabled
-    print("Fetching Google Sheet...")
-    ssl_context = ssl._create_unverified_context()
-    with urllib.request.urlopen(GSHEET_URL, context=ssl_context) as response:
-        df = pd.read_csv(response)
+    # Read local CSV file
+    print(f"Reading local file: {INPUT_FILE}...")
+    df = pd.read_csv(INPUT_FILE)
     
     image_cols = ["Close-up shot", "Wide angle shot", "Selfie"]
     all_image_urls = []
