@@ -327,6 +327,14 @@ def concatenate_excel_files():
                 
                 print(f"Filled blanks in Block/Village using Town mapping for {mask.sum()} rows and fallback for {remaining_mask.sum()} rows.")
             
+            # Sort by "Spring ID" column
+            if "Spring ID" in merged_df.columns:
+                print("Sorting by Spring ID...")
+                merged_df = merged_df.sort_values(by="Spring ID")
+            elif "Spring Id" in merged_df.columns:
+                print("Sorting by Spring Id...")
+                merged_df = merged_df.sort_values(by="Spring Id")
+            
             output_file = os.path.join(DOWNLOAD_DIR, "combined_schedules.csv")
             merged_df.to_csv(output_file, index=False)
             
