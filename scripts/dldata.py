@@ -401,6 +401,7 @@ def concatenate_excel_files():
                     "Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
                     "Quepem": {"Block": "Quepem", "Village": "Quepem"},
                     "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
+                    "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
                     "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
                     "Vasco": {"Block": "Mormugao", "Village": "Vasco"},
                     "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
