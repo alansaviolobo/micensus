@@ -105,8 +105,9 @@ def validate_url(value, name):
 
 def validate_location_in_db(cursor, lat, lon, taluka, village):
     try:
-        # Normalize village name using translation table if exists
+        # Normalize names using translation table if exists
         search_village = VILLAGE_TRANSLATIONS.get(village, village)
+        search_taluka = TALUKA_TRANSLATIONS.get(taluka, taluka)
 
         # Normalize names: remove (CT) and other suffixes if necessary for broader matching
         # But first try exact match (case insensitive)
@@ -126,7 +127,7 @@ def validate_location_in_db(cursor, lat, lon, taluka, village):
             )
             LIMIT 1
         """
-        cursor.execute(query, (lon, lat, taluka, search_village, search_village))
+        cursor.execute(query, (lon, lat, search_taluka, search_village, search_village))
         result = cursor.fetchone()
         
         if result:
@@ -169,6 +170,10 @@ VILLAGE_TRANSLATIONS = {
     "" : "",
 }
 
+TALUKA_TRANSLATIONS = {
+    "satari": "Sattari",
+}
+
 WHITELIST_SPRING_NATURE = [
     'S-U-30-552-252082-932927-01',
     'S-R-30-552-5932-626864-04',
@@ -184,6 +189,7 @@ WHITELIST_SPRING_NATURE = [
     'S-R-30-552-5932-626872-03',
     'S-R-30-552-5938-924823-01',
     'S-R-30-552-5935-924820-03',
+    'S-R-30-551-5933-626790-01'
 ]
 
 WHITELIST_NEWLY_EMERGED = [
@@ -202,6 +208,7 @@ WHITELIST_SEASONAL_VARIABILITY = [
     'S-R-30-552-5932-626872-03',
     'S-R-30-552-5938-924823-01',
     'S-R-30-552-5935-924820-03',
+    'S-R-30-551-5933-626790-01'
 ]
 
 WHITELIST_COLOUR = [

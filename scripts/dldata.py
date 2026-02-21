@@ -35,9 +35,103 @@ DOWNLOAD_DIR = os.path.join(os.getcwd(), "downloads")
 CREDENTIALS_STR = os.getenv("CREDENTIALS", "[]")
 CREDENTIALS = json.loads(CREDENTIALS_STR[1:-1])
 
+# Taluka to login username mapping
+TALUKA_LOGIN_MAP = {
+    "Bardez": "bdobardez@gmail.com",
+    "Bicholim": "bicholimbdo@gmail.com",
+    "BicholimCity": "ee6-wrd.goa@gov.in",
+    "Canacona": "bdo_can@yahoo.in",
+    "CanaconaCity": "wrdcanacona1@gmail.com",
+    "CuncolimCity": "wrdwd2@gmail.com",
+    "CurchoremCity": "ee14-wrd.goa@gov.in",
+    "Dharbandora": "bdo-darbandora.goa@nic.in",
+    "MapusaCity": "aeiimapusa@gmail.com",
+    "MargaoCity": "sub.division.1.wd2.wrd@gmail.com",
+    "Mormugao": "bdomormugao2013@gmail.com",
+    "PanajiCity": "wrdsubiwdiporvorim@gmail.com",
+    "Pernem": "pernembdo@gmail.com",
+    "PernemCity": "ee7-wrd.goa@gov.in",
+    "Ponda": "sdiv.wdii.wrdponda@gmail.com",
+    "PondaCity": "ee11-wrd.goa@gov.in",
+    "Quepem": "bdo.quepem@gmail.com",
+    "QuepemCity": "quepemwrd@gmail.com",
+    "Sanguem": "bdo-sanguem.goa@nic.in",
+    "SanguemCity": "ee10-wrd.goa@nic.in",
+    "SankhaliCity": "ae1wd6wrd@gmail.com",
+    "Salcete": "bdosalcete@yahoo.co.in",
+    "Sattari": "bdo-sattari.goa@nic.in",
+    "Tiswadi": "bdo-tiswadi@gmail.com",
+    "ValpoiCity": "bdosattari45@gmail.com",
+    "VascoCity": "bdo-mormugao.goa@nic.in",
+}
+
+# Inverse map for easy lookup
+LOGIN_TALUKA_MAP = {v: k for k, v in TALUKA_LOGIN_MAP.items()}
+
 # Create directory if it doesn't exist (but don't clear it yet)
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 print(f"Download directory ready: {DOWNLOAD_DIR}\n")
+
+
+def wait_for_download_and_rename(download_dir, taluka_name, timeout=60):
+    """
+    Wait for a new .xlsx file to appear in the download directory and rename it.
+    
+    Args:
+        download_dir: Directory where the file is being downloaded
+        taluka_name: Name to rename the file to
+        timeout: Maximum time to wait in seconds
+        
+    Returns:
+        str: Path to the renamed file, or None if failed
+    """
+    print(f"Waiting for download to complete for {taluka_name}...")
+    start_time = time.time()
+    
+    while time.time() - start_time < timeout:
+        # Look for .xlsx files that are NOT temporary chrome downloads (.crdownload)
+        xlsx_files = glob.glob(os.path.join(download_dir, "*.xlsx"))
+        # Also check for .crdownload to see if download is in progress
+        cr_files = glob.glob(os.path.join(download_dir, "*.crdownload"))
+        
+        # If we have an xlsx file and no crdownload files, or if the xlsx file is new
+        # We need to be careful because there might be other files from other threads
+        # But each thread should ideally have a unique filename or we rename it immediately
+        
+        # A better approach: find the most recently created .xlsx file that is not already renamed
+        if xlsx_files:
+            # Sort by modification time
+            xlsx_files.sort(key=os.path.getmtime, reverse=True)
+            newest_file = xlsx_files[0]
+            
+            # Check if this file was created AFTER we started waiting
+            if os.path.getmtime(newest_file) >= start_time - 2: # 2s buffer
+                # Check if it's still being written (size changing)
+                last_size = -1
+                while True:
+                    current_size = os.path.getsize(newest_file)
+                    if current_size == last_size and current_size > 0:
+                        break
+                    last_size = current_size
+                    time.sleep(1)
+                
+                # Rename the file
+                new_path = os.path.join(download_dir, f"{taluka_name}.xlsx")
+                try:
+                    # If target exists, remove it first
+                    if os.path.exists(new_path):
+                        os.remove(new_path)
+                    os.rename(newest_file, new_path)
+                    print(f"✅ Renamed {os.path.basename(newest_file)} to {taluka_name}.xlsx")
+                    return new_path
+                except Exception as e:
+                    print(f"Error renaming file: {e}")
+                    return None
+        
+        time.sleep(1)
+        
+    print(f"❌ Timeout waiting for download of {taluka_name}")
+    return None
 
 
 def solve_captcha_with_anticaptcha(image_base64):
@@ -239,12 +333,16 @@ def download_schedules_for_user(username, password):
         download_button = wait.until(EC.element_to_be_clickable((By.ID, "downloadExcelBtn")))
         download_button.click()
         
-        # Wait for download to complete
-        print("Waiting for download to complete...")
-        time.sleep(5)
+        # Wait for download to complete and rename
+        taluka_name = LOGIN_TALUKA_MAP.get(username, username.replace("@", "_").replace(".", "_"))
+        renamed_path = wait_for_download_and_rename(DOWNLOAD_DIR, taluka_name)
         
-        print(f"✅ Download complete for {username}! Check {DOWNLOAD_DIR} for the file.")
-        return True
+        if renamed_path:
+            print(f"✅ Download and rename complete for {username}! File: {renamed_path}")
+            return True
+        else:
+            print(f"❌ Failed to find or rename downloaded file for {username}.")
+            return False
         
     except Exception as e:
         print(f"❌ Error occurred for {username}: {e}")
