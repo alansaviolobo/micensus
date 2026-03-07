@@ -401,7 +401,7 @@ def concatenate_excel_files():
                     "Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
                     "Quepem": {"Block": "Quepem", "Village": "Quepem"},
                     "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
-                    "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
+                        "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
                     "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
                     "Vasco": {"Block": "Mormugao", "Village": "Vasco"},
                     "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
@@ -427,13 +427,10 @@ def concatenate_excel_files():
                 print(f"Filled blanks in Block/Village using Town mapping for {mask.sum()} rows and fallback for {remaining_mask.sum()} rows.")
             
             # Sort by "Spring ID" column
-            if "Spring ID" in merged_df.columns:
+            if "spring_id" in merged_df.columns:
                 print("Sorting by Spring ID...")
-                merged_df = merged_df.sort_values(by="Spring ID")
-            elif "Spring Id" in merged_df.columns:
-                print("Sorting by Spring Id...")
-                merged_df = merged_df.sort_values(by="Spring Id")
-            
+                merged_df = merged_df.sort_values(by="spring_id")
+
             output_file = os.path.join(DOWNLOAD_DIR, "combined_schedules.csv")
             merged_df.to_csv(output_file, index=False)
             

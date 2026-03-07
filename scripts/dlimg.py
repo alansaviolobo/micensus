@@ -159,7 +159,7 @@ def main():
     print(f"Reading local file: {INPUT_FILE}...")
     df = pd.read_csv(INPUT_FILE)
     
-    image_cols = ["Close-up shot", "Wide angle shot", "Selfie"]
+    image_cols = ["close_up_image", "wide_image", "selfie"]
     all_image_urls = []
     for col in image_cols:
         if col in df.columns:
