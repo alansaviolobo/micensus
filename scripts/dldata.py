@@ -390,8 +390,8 @@ def concatenate_excel_files():
             # Concatenate all dataframes
             merged_df = pd.concat(all_dfs, ignore_index=True)
             
-            # For every row where "Block" and "Village" are blank, use the Town mapping
-            if all(col in merged_df.columns for col in ["Block", "Village", "Town"]):
+            # For every row where "block" and "village" are blank, use the Town mapping
+            if all(col in merged_df.columns for col in ["block", "village", "town"]):
                 # Map of Town to (Block, Village)
                 town_map = {
                     "Margao": {"Block": "Salcete", "Village": "Margao"},
@@ -407,22 +407,22 @@ def concatenate_excel_files():
                     "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
                 }
                 
-                mask = (merged_df['Block'].isna() | (merged_df['Block'] == '')) & \
-                       (merged_df['Village'].isna() | (merged_df['Village'] == '')) & \
-                       (merged_df['Town'].isin(town_map.keys()))
+                mask = (merged_df['block'].isna() | (merged_df['block'] == '')) & \
+                       (merged_df['village'].isna() | (merged_df['village'] == '')) & \
+                       (merged_df['town'].isin(town_map.keys()))
                 
                 for town, mapping in town_map.items():
-                    town_mask = mask & (merged_df['Town'] == town)
-                    merged_df.loc[town_mask, 'Block'] = mapping['Block']
-                    merged_df.loc[town_mask, 'Village'] = mapping['Village']
+                    town_mask = mask & (merged_df['town'] == town)
+                    merged_df.loc[town_mask, 'block'] = mapping['Block']
+                    merged_df.loc[town_mask, 'village'] = mapping['Village']
                 
                 # Fallback for towns not in the map
-                remaining_mask = (merged_df['Block'].isna() | (merged_df['Block'] == '')) & \
-                                (merged_df['Village'].isna() | (merged_df['Village'] == '')) & \
-                                (~merged_df['Town'].isna()) & (merged_df['Town'] != '')
+                remaining_mask = (merged_df['block'].isna() | (merged_df['block'] == '')) & \
+                                (merged_df['village'].isna() | (merged_df['village'] == '')) & \
+                                (~merged_df['town'].isna()) & (merged_df['town'] != '')
                 
-                merged_df.loc[remaining_mask, 'Block'] = merged_df.loc[remaining_mask, 'Town']
-                merged_df.loc[remaining_mask, 'Village'] = merged_df.loc[remaining_mask, 'Town']
+                merged_df.loc[remaining_mask, 'block'] = merged_df.loc[remaining_mask, 'town']
+                merged_df.loc[remaining_mask, 'village'] = merged_df.loc[remaining_mask, 'town']
                 
                 print(f"Filled blanks in Block/Village using Town mapping for {mask.sum()} rows and fallback for {remaining_mask.sum()} rows.")
             

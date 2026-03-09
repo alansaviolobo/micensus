@@ -23,7 +23,7 @@ Papa.parse('downloads/combined_schedules.csv', {
     download: true,
     header: true,
     complete: function(results) {
-        allData = results.data.filter(row => row['Spring ID']); // Filter out empty rows
+        allData = results.data.filter(row => row['spring_id']); // Filter out empty rows
         populateTalukas();
         applyFilters();
     },
@@ -34,7 +34,7 @@ Papa.parse('downloads/combined_schedules.csv', {
 });
 
 function populateTalukas() {
-    const talukas = [...new Set(allData.map(row => row['Block']))].filter(Boolean).sort();
+    const talukas = [...new Set(allData.map(row => row['block']))].filter(Boolean).sort();
     talukas.forEach(taluka => {
         const option = document.createElement('option');
         option.value = taluka;
@@ -49,10 +49,10 @@ function populateVillages(selectedTaluka) {
     
     let filteredForVillages = allData;
     if (selectedTaluka !== 'all') {
-        filteredForVillages = allData.filter(row => row['Block'] === selectedTaluka);
+        filteredForVillages = allData.filter(row => row['block'] === selectedTaluka);
     }
 
-    const villages = [...new Set(filteredForVillages.map(row => row['Village']))].filter(Boolean).sort();
+    const villages = [...new Set(filteredForVillages.map(row => row['village']))].filter(Boolean).sort();
     villages.forEach(village => {
         const option = document.createElement('option');
         option.value = village;
@@ -66,8 +66,8 @@ function applyFilters() {
     const selectedVillage = villageFilter.value;
 
     filteredData = allData.filter(row => {
-        const matchesTaluka = selectedTaluka === 'all' || row['Block'] === selectedTaluka;
-        const matchesVillage = selectedVillage === 'all' || row['Village'] === selectedVillage;
+        const matchesTaluka = selectedTaluka === 'all' || row['block'] === selectedTaluka;
+        const matchesVillage = selectedVillage === 'all' || row['village'] === selectedVillage;
         return matchesTaluka && matchesVillage;
     });
 
@@ -90,14 +90,8 @@ function displayCurrentItem() {
     const item = filteredData[currentIndex];
     pageInfo.textContent = `Item ${currentIndex + 1} of ${filteredData.length}`;
     
-    const thumbnailColumns = ['Close-up shot', 'Wide angle shot', 'Selfie'];
-    const ignoredColumns = ['State', 'District', 'Sub-District', 'Town', 'Ward Number', 'Ward Name',
-        'Timestamp of Survey', 'Latitude °N', 'Longitude °E', 'Elevation (m, a.m.s.l.)', 'Serial no. of spring',
-        'Spring Video', 'Outlet 4 volume (l)', 'Outlet 4 duration (min:sec)', 'Outlet 4 discharge (lpm)',
-        'Outlet 5 volume (l)', 'Outlet 5 duration (min:sec)', 'Outlet 5 discharge (lpm)', 'Outlet 6 volume (l)',
-        'Outlet 6 duration (min:sec)', 'Outlet 6 duration (min:sec)', 'Outlet 6 discharge (lpm)', 'Outlet 7 volume (l)',
-        'Outlet 7 duration (min:sec)', 'Outlet 7 discharge (lpm)', 'Outlet 8 volume (l)', 'Outlet 8 duration (min:sec)',
-        'Outlet 8 discharge (lpm)'];
+    const thumbnailColumns = ['close_up_image', 'wide_image', 'selfie'];
+    const ignoredColumns = ['spring_id', 'enu_name', 'enu_mobile', 'state', 'district', 'sector', 'block', 'sub_district', 'village', 'town', 'ward', 'sno_spring', 'timestamp', 'lat', 'long', 'elevation', 'spring_video', 'Outlet_4_volume_litre', 'Outlet_4_duration_min_sec', 'outlet_4_discharge_lpm', 'Outlet_5_volume_litre', 'Outlet_5_duration_min_sec', 'outlet_5_discharge_lpm', 'Outlet_6_volume_litre', 'Outlet_6_duration_min_sec', 'outlet_6_discharge_lpm', 'Outlet_7_volume_litre', 'Outlet_7_duration_min_sec', 'outlet_7_discharge_lpm', 'Outlet_8_volume_litre', 'Outlet_8_duration_min_sec', 'outlet_8_discharge_lpm'];
 
     // Function to rewrite image URL
     const rewriteImageUrl = (url) => {
@@ -165,7 +159,7 @@ function performSearch() {
     const searchTerm = searchInput.value.trim();
     if (!searchTerm) return;
 
-    const index = allData.findIndex(row => row['Spring ID'] === searchTerm);
+    const index = allData.findIndex(row => row['spring_id'] === searchTerm);
     if (index !== -1) {
         // Reset filters to show the found item
         talukaFilter.value = 'all';

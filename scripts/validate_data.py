@@ -383,62 +383,62 @@ def main():
         row_errors = []
         
         # Identify row context
-        block = row.get("Block", "Unknown Block")
-        surveyor = row.get("Surveyor Name", "Unknown Surveyor")
-        row_id = row.get("Spring ID", f"Row {i+2}")
+        block = row.get("block", "Unknown Block")
+        surveyor = row.get("enu_name", "Unknown Surveyor")
+        row_id = row.get("spring_id", f"Row {i+2}")
 
         # Define rules per row to inject row_id if needed
         rules = {
-            "Latitude °N": [
+            "lat": [
                 lambda v: validate_required(v, "Latitude"),
                 lambda v: validate_numeric(v, "Latitude", 14.5, 16.0) 
             ],
-            "Longitude °E": [
+            "long": [
                 lambda v: validate_required(v, "Longitude"),
                 lambda v: validate_numeric(v, "Longitude", 73.5, 74.5)
             ],
-            "Close-up shot": [lambda v: validate_url(v, "Close-up shot")],
-            "Wide angle shot": [lambda v: validate_url(v, "Wide angle shot")],
-            "Selfie": [lambda v: validate_url(v, "Selfie")],
-            "Spring Video": [lambda v: validate_url(v, "Spring Video")],
-            "Spring Type": [lambda v: validate_required(v, "Spring Type")],
-            "Outlet 1 discharge (lpm)": [
+            "close_up_image": [lambda v: validate_url(v, "Close-up shot")],
+            "wide_image": [lambda v: validate_url(v, "Wide angle shot")],
+            "selfie": [lambda v: validate_url(v, "Selfie")],
+            "spring_video": [lambda v: validate_url(v, "Spring Video")],
+            "spring_type": [lambda v: validate_required(v, "Spring Type")],
+            "outlet_1_discharge_lpm": [
                 lambda v: validate_discharge(v, row_id)
             ],
-            "Temperature of spring water": [
+            "temparature_water": [
                 lambda v: True
             ],
-            "Local Nomenclature for spring": [
+            "local_nomenclature": [
                  lambda v: validate_regex(v, r"(?i).*zara.*", "Local Nomenclature", "Correct local name to 'Zara'")
             ],
-            "Whether the spring has undergone any springshed/watershed management program?": [
+            "springshed_management": [
                 lambda v: True
             ],
-            "Spring Nature": [
+            "spring_nature": [
                 lambda v: validate_spring_nature(v, row_id)
             ],
-            "Whether this is a newly emerged spring": [
+            "newly_emerged": [
                 lambda v: validate_newly_emerged(v, row_id)
             ],
-            "Seasonal variability (across the year)": [
+            "seasonal_variability": [
                 lambda v: validate_seasonal_variability(v, row_id)
             ],
-            "Colour of spring water": [
+            "colour_water": [
                 lambda v: validate_colour(v, row_id)
             ],
-            "Smell/odour of water": [
+            "smell_odour_water": [
                 lambda v: validate_odour(v, row_id)
             ],
-            "Taste of water ": [
+            "taste_water": [
                 lambda v: validate_taste(v, row_id)
             ],
-            "Dominant land use land cover in spring upstream": [
+            "land use_cover_upstream": [
                 lambda v: validate_required(v, "Dominant land use land cover in spring upstream")
             ],
-            "Land use land cover in and around spring location ": [
+            "land_use_cover_location": [
                 lambda v: validate_required(v, "Land use land cover in and around spring location")
             ],
-            "Resource threat": [
+            "resource_threat": [
                 lambda v: validate_required(v, "Resource threat")
             ]
         }
@@ -452,10 +452,10 @@ def main():
                     row_errors.append(result)
 
         # 2. Cross-column validation: Temperature vs Spring Nature
-        temp = row.get("Temperature of spring water", "").strip()
-        spring_nature = row.get("Spring Nature", "").strip()
-        watershed = row.get("Whether the spring has undergone any springshed/watershed management program?", "").strip()
-        resource_threat = row.get("Resource threat", "").strip()
+        temp = row.get("temparature_water", "").strip()
+        spring_nature = row.get("spring_nature", "").strip()
+        watershed = row.get("springshed_management", "").strip()
+        resource_threat = row.get("resource_threat", "").strip()
         
         if spring_nature == "Dried":
             if temp.upper() != "N.A.":
@@ -473,8 +473,8 @@ def main():
                 row_errors.append("Resource threat cannot be 'N.A.'")
 
         # 2.1. Cross-column validation: Land Use vs Spring Nature
-        land_use_upstream = row.get("Dominant land use land cover in spring upstream", "").strip()
-        land_use_around = row.get("Land use land cover in and around spring location ", "").strip()
+        land_use_upstream = row.get("land use_cover_upstream", "").strip()
+        land_use_around = row.get("land_use_cover_location", "").strip()
         
         if land_use_upstream.upper() == "N.A." and spring_nature != "Dried":
             row_errors.append("Dominant land use land cover in spring upstream cannot be 'N.A.'")
@@ -483,9 +483,9 @@ def main():
             row_errors.append("Land use land cover in and around spring location cannot be 'N.A.'")
 
         # 3. Cross-column validation: Seep type
-        spring_type = str(row.get("Spring Type", "")).strip().lower()
-        discharge_measurable = str(row.get("Whether spring discharge could be measured? ", "")).strip().upper()
-        num_outlets = str(row.get("No. of spring outlets", "")).strip()
+        spring_type = str(row.get("spring_type", "")).strip().lower()
+        discharge_measurable = str(row.get("discharge_measured", "")).strip().upper()
+        num_outlets = str(row.get("number_outlets", "")).strip()
 
         if spring_type == "Seep":
             if discharge_measurable != "No":
@@ -506,7 +506,7 @@ def main():
                 row_errors.append("If Spring discharge could be measured, then no. of spring outlets should be greater than zero")
 
         # 3.1 Cross-column validation: Perennial discharge
-        discharge_val = str(row.get("Outlet 1 discharge (lpm)", "")).strip()
+        discharge_val = str(row.get("outlet_1_discharge_lpm", "")).strip()
         
         # New validation: if number of outlets is zero then there should not be any discharge
         try:
@@ -524,7 +524,7 @@ def main():
                 pass
 
         # 3.2 Cross-column validation: Dependent Type vs Land Use
-        dependent_type = str(row.get("Dependent Type", "")).strip()
+        dependent_type = str(row.get("dependent_type", "")).strip()
         if dependent_type.lower() == "wild animals":
             allowed_land_use = ["forest", "shrubs", "pasture"]
             if land_use_around.lower() not in allowed_land_use:
@@ -532,23 +532,23 @@ def main():
 
         # 3.3 Cross-column validation: Dependent Type vs Dependent Villages
         if dependent_type.lower() in ["wild animals", "non-residents"]:
-            dependent_villages = str(row.get("Name Dependent Villages", "")).strip()
+            dependent_villages = str(row.get("dependent_population", "")).strip()
             if dependent_villages != "" and dependent_villages.upper() != "N.A.":
                 row_errors.append(f"If dependent type is {dependent_type}, then there will be no dependent villages")
 
         # 3.4 Cross-column validation: Dependency level vs Other source
-        dependency = str(row.get("Dependency", "")).strip().lower()
+        dependency = str(row.get("dependency_level", "")).strip().lower()
         if dependency in ["low", "moderate"]:
-            other_source = str(row.get("Other available source of water", "")).strip()
+            other_source = str(row.get("other_source_water_1", "")).strip()
             # "कोई नहीं" means "None" in Hindi
             if other_source.lower() in ["none", "n.a.", "कोई नहीं", ""]:
                 row_errors.append(f"If dependency level is {dependency}, then other available source of water cannot be None")
 
         # 3.5 Cross-column validation: Water quality vs Usage
-        colour = str(row.get("Colour of spring water", "")).strip().lower()
-        odour = str(row.get("Smell/odour of water", "")).strip().lower()
-        taste = str(row.get("Taste of water ", "")).strip().lower()
-        usage = str(row.get("Usage of spring water", "")).strip().lower()
+        colour = str(row.get("colour_water", "")).strip().lower()
+        odour = str(row.get("smell_odour_water", "")).strip().lower()
+        taste = str(row.get("taste_water ", "")).strip().lower()
+        usage = str(row.get("usage_water_1", "")).strip().lower()
 
         if colour == "coloured" and odour == "non-agreeable":
             if taste != "objectionable":
@@ -557,13 +557,13 @@ def main():
                 row_errors.append("If Spring water is coloured and smell of water is non-agreeable, then water should not be used for drinking purpose")
 
         # 4. Row-level Geospatial ID Check
-        lat = row.get("Latitude °N")
-        lon = row.get("Longitude °E")
-        taluka = str(row.get("Block", "")).strip()
-        village = str(row.get("Village", "")).strip()
+        lat = row.get("lat")
+        lon = row.get("long")
+        taluka = str(row.get("block", "")).strip()
+        village = str(row.get("village", "")).strip()
         
         if not village or village.lower() == "nan":
-            village = str(row.get("Town", "")).strip()
+            village = str(row.get("town", "")).strip()
         
         if lat and lon and row_id not in WHITELIST_LOCATION:
             try:
