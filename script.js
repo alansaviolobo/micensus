@@ -91,7 +91,7 @@ function displayCurrentItem() {
     pageInfo.textContent = `Item ${currentIndex + 1} of ${filteredData.length}`;
     
     const thumbnailColumns = ['close_up_image', 'wide_image', 'selfie'];
-    const ignoredColumns = ['spring_id', 'enu_name', 'enu_mobile', 'state', 'district', 'sector', 'block', 'sub_district', 'village', 'town', 'ward', 'sno_spring', 'timestamp', 'lat', 'long', 'elevation', 'spring_video', 'Outlet_4_volume_litre', 'Outlet_4_duration_min_sec', 'outlet_4_discharge_lpm', 'Outlet_5_volume_litre', 'Outlet_5_duration_min_sec', 'outlet_5_discharge_lpm', 'Outlet_6_volume_litre', 'Outlet_6_duration_min_sec', 'outlet_6_discharge_lpm', 'Outlet_7_volume_litre', 'Outlet_7_duration_min_sec', 'outlet_7_discharge_lpm', 'Outlet_8_volume_litre', 'Outlet_8_duration_min_sec', 'outlet_8_discharge_lpm'];
+    const ignoredColumns = ['enu_name', 'enu_mobile', 'state', 'district', 'sector', 'block', 'sub_district', 'village', 'town', 'ward', 'sno_spring', 'timestamp', 'lat', 'long', 'elevation', 'spring_video', 'Outlet_4_volume_litre', 'Outlet_4_duration_min_sec', 'outlet_4_discharge_lpm', 'Outlet_5_volume_litre', 'Outlet_5_duration_min_sec', 'outlet_5_discharge_lpm', 'Outlet_6_volume_litre', 'Outlet_6_duration_min_sec', 'outlet_6_discharge_lpm', 'Outlet_7_volume_litre', 'Outlet_7_duration_min_sec', 'outlet_7_discharge_lpm', 'Outlet_8_volume_litre', 'Outlet_8_duration_min_sec', 'outlet_8_discharge_lpm'];
 
     // Function to rewrite image URL
     const rewriteImageUrl = (url) => {
@@ -99,6 +99,18 @@ function displayCurrentItem() {
         const filename = url.substring(url.lastIndexOf('/') + 1);
         return `https://raw.githubusercontent.com/alansaviolobo/micensus/refs/heads/master/img/${filename}`;
     };
+
+    let gmapdiv = document.createElement('div');
+    let gmapicon = document.createElement('img');
+    gmapicon.src = 'icon.png';
+    gmapicon.width = 32;
+    let gmaplink = document.createElement('a');
+    gmaplink.href = 'http://maps.google.com/maps?z=12&t=m&q=loc:' + item['lat'] + '+' + item['long'];
+    gmaplink.target = '_blank';
+    gmaplink.textContent = item.lat + ' : ' + item.long;
+    gmapdiv.appendChild(gmapicon);
+    gmapdiv.appendChild(gmaplink);
+    thumbnailDisplay.appendChild(gmapdiv);
 
     // Display all keys and values
     for (const [key, value] of Object.entries(item)) {
