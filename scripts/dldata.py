@@ -368,11 +368,21 @@ def concatenate_excel_files():
     # Filter out any existing combined file to avoid recursion if run multiple times
     xlsx_files = [f for f in xlsx_files if "combined_schedules" not in f]
     
-    if not xlsx_files:
-        print("No Excel files found to concatenate.")
+    # Validation: Verify that there are exactly 26 .xlsx files
+    if len(xlsx_files) != 26:
+        print(f"❌ Error: Expected 26 Excel files, but found {len(xlsx_files)}.")
         return
 
-    print(f"Found {len(xlsx_files)} Excel files.")
+    # Validation: Verify that none of them have "crdwonload" or "Schedule" in them
+    forbidden_words = ["crdwonload", "Schedule"]
+    files_with_forbidden_words = [f for f in xlsx_files if any(word in os.path.basename(f) for word in forbidden_words)]
+    if files_with_forbidden_words:
+        print("❌ Error: Some files have forbidden words in their filenames:")
+        for f in files_with_forbidden_words:
+            print(f"  - {os.path.basename(f)}")
+        return
+
+    print(f"Found {len(xlsx_files)} Excel files. All validations passed.")
     
     all_dfs = []
     for file in xlsx_files:
@@ -426,10 +436,12 @@ def concatenate_excel_files():
                 
                 print(f"Filled blanks in Block/Village using Town mapping for {mask.sum()} rows and fallback for {remaining_mask.sum()} rows.")
             
-            # Sort by "Spring ID" column
+            # Sort by "Spring ID" column and remove duplicates
             if "spring_id" in merged_df.columns:
-                print("Sorting by Spring ID...")
+                print("Sorting by Spring ID and removing duplicates...")
                 merged_df = merged_df.sort_values(by="spring_id")
+                # Drop duplicates based on spring_id, keep the first occurrence
+                merged_df = merged_df.drop_duplicates(subset=["spring_id"], keep='first')
 
             output_file = os.path.join(DOWNLOAD_DIR, "combined_schedules.csv")
             merged_df.to_csv(output_file, index=False)
