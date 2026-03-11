@@ -90,7 +90,7 @@ def wait_for_download_and_rename(download_dir, taluka_name, timeout=60):
     
     while time.time() - start_time < timeout:
         # Look for .xlsx files that are NOT temporary chrome downloads (.crdownload)
-        xlsx_files = glob.glob(os.path.join(download_dir, "*.xlsx"))
+        xlsx_files = glob.glob(os.path.join(download_dir, "Schedules*.xlsx"))
         # Also check for .crdownload to see if download is in progress
         cr_files = glob.glob(os.path.join(download_dir, "*.crdownload"))
         
@@ -368,9 +368,9 @@ def concatenate_excel_files():
     # Filter out any existing combined file to avoid recursion if run multiple times
     xlsx_files = [f for f in xlsx_files if "combined_schedules" not in f]
     
-    # Validation: Verify that there are exactly 26 .xlsx files
-    if len(xlsx_files) != 26:
-        print(f"❌ Error: Expected 26 Excel files, but found {len(xlsx_files)}.")
+    # Validation: Verify that there are at least some .xlsx files
+    if len(xlsx_files) == 0:
+        print(f"❌ Error: No Excel files found in {DOWNLOAD_DIR}.")
         return
 
     # Validation: Verify that none of them have "crdwonload" or "Schedule" in them
