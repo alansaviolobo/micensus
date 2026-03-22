@@ -3,60 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spring Schedules Viewer</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Census Data Viewers</title>
+    <link rel="stylesheet" href="springcensus.css">
+    <style>
+        .dashboard {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 50px;
+        }
+        .card {
+            flex: 1;
+            min-width: 300px;
+            max-width: 450px;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            background: white;
+            display: flex;
+            flex-direction: column;
+        }
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+        .card img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+        }
+        .card-content {
+            padding: 20px;
+            text-align: center;
+        }
+        .card-content h2 {
+            margin: 0;
+            color: #007bff;
+        }
+        .card-content p {
+            margin: 10px 0 0;
+            color: #666;
+        }
+        h1 {
+            margin-top: 40px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Spring Schedules Viewer</h1>
+        <h1>Census Data Viewers</h1>
         
-        <div class="filters">
-            <div class="filter-group">
-                <label for="search-input">Search Spring ID:</label>
-                <input type="text" id="search-input" placeholder="Enter Spring ID...">
-                <button id="search-btn">Search</button>
-            </div>
-            <div class="filter-group">
-                <label for="taluka-filter">Taluka (Block):</label>
-                <select id="taluka-filter">
-                    <option value="all">All Talukas</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="village-filter">Village:</label>
-                <select id="village-filter">
-                    <option value="all">All Villages</option>
-                </select>
-            </div>
-        </div>
-
-        <div class="navigation">
-            <button id="prev-btn">Previous</button>
-            <span id="page-info">Item 0 of 0</span>
-            <button id="next-btn">Next</button>
-        </div>
-
-        <div id="content-wrapper">
-            <div id="data-display">
-                <table id="data-table">
-                    <tbody id="table-body">
-                        <!-- Data will be populated here -->
-                    </tbody>
-                </table>
-            </div>
-            <div id="thumbnail-display">
-                <!-- Thumbnails will be populated here -->
-            </div>
+        <div class="dashboard">
+            <a href="springcensus.html" class="card">
+                <img src="https://picsum.photos/seed/spring/800/600?blur=1" alt="Spring Census">
+                <div class="card-content">
+                    <h2>Spring Census</h2>
+                    <p>View collected data for spring schedules</p>
+                </div>
+            </a>
+            
+            <a href="waterbodyschedule.html" class="card">
+                <img src="https://picsum.photos/seed/water/800/600?blur=1" alt="Water Body Schedule">
+                <div class="card-content">
+                    <h2>Water Body Schedule</h2>
+                    <p>View collected data for water body schedules</p>
+                </div>
+            </a>
         </div>
     </div>
 
-    <div id="image-modal" class="modal">
-        <span class="close-modal">&times;</span>
-        <img class="modal-content" id="modal-img">
-        <div id="caption"></div>
-    </div>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
-    <script src="script.js"></script>
+    <script>
+        // Use random images from the local img folder if possible, 
+        // but for "hdr" feel and simplicity, picsum with seeds is great.
+        // If the user strictly wanted local random images:
+        /*
+        const images = [
+            'img/S-R-30-551-5929-626668-01_w_698a1266e1c35.jpg',
+            'img/S-R-30-551-5929-626669-01_w_69983ca1a63ff.jpg',
+            'img/S-R-30-551-5929-626670-01_w_6997f622b4bf2.jpg'
+        ];
+        // However, picsum provides a better "HDR" aesthetic for a dashboard.
+        */
+    </script>
 </body>
 </html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring Schedules Viewer</title>
+    <link rel="stylesheet" href="springcensus.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Spring Schedules Viewer</h1>
+        
+        <div class="filters">
+            <div class="filter-group">
+                <label for="search-input">Search Spring ID:</label>
+                <input type="text" id="search-input" placeholder="Enter Spring ID...">
+                <button id="search-btn">Search</button>
+            </div>
+            <div class="filter-group">
+                <label for="taluka-filter">Taluka (Block):</label>
+                <select id="taluka-filter">
+                    <option value="all">All Talukas</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="village-filter">Village:</label>
+                <select id="village-filter">
+                    <option value="all">All Villages</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="navigation">
+            <button id="prev-btn">Previous</button>
+            <span id="page-info">Item 0 of 0</span>
+            <button id="next-btn">Next</button>
+        </div>
+
+        <div id="content-wrapper">
+            <div id="data-display">
+                <table id="data-table">
+                    <tbody id="table-body">
+                        <!-- Data will be populated here -->
+                    </tbody>
+                </table>
+            </div>
+            <div id="thumbnail-display">
+                <!-- Thumbnails will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <div id="image-modal" class="modal">
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="modal-img">
+        <div id="caption"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="springcensus.js"></script>
+</body>
+</html>

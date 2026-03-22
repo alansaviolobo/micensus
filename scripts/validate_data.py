@@ -16,7 +16,6 @@ def load_env():
                     os.environ[key] = value
 
 load_env()
-URL = os.getenv("GSHEET_URL")
 INPUT_FILE = os.getenv("INPUT_FILE")
 OUTPUT_FILE = os.getenv("OUTPUT_FILE")
 REVERT_FILE = os.getenv("REVERT_FILE")
@@ -35,14 +34,6 @@ DB_USER = os.getenv("DB_USER")
 DB_PASS = os.getenv("DB_PASS")
 DB_PORT = os.getenv("DB_PORT")
 SSLMODE = os.getenv("SSLMODE")
-
-def fetch_csv(url):
-    try:
-        response = urllib.request.urlopen(url)
-        return response.read().decode('utf-8')
-    except Exception as e:
-        print(f"Failed to fetch CSV: {e}")
-        return None
 
 def get_db_connection():
     try:
