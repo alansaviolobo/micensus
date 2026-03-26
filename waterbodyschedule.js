@@ -148,7 +148,6 @@ function addThumbnail(label, url) {
     div.className = 'thumbnail-item';
     
     const img = document.createElement('img');
-    img.src = url.replace('img', 'img/resized');
     img.alt = label;
     img.onclick = () => openModal(url, label);
     
