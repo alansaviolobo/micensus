@@ -101,7 +101,7 @@ def wait_for_download_and_rename(download_dir, taluka_name, orig_filename, suffi
                 last_size = -1
                 while True:
                     current_size = os.path.getsize(newest_file)
-                    if current_size == last_size and current_size > 0:
+                    if current_size == last_size:
                         break
                     last_size = current_size
                     time.sleep(1)
