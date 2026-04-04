@@ -195,3 +195,117 @@ tr:nth-child(even) {
     text-decoration: none;
     cursor: pointer;
 }
+
+/* Schedule View Styles (mimicking PDF) */
+.schedule-view {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-size: 0.9em;
+    width: 100%;
+}
+
+.schedule-header {
+    text-align: center;
+    border-bottom: 2px solid #000;
+    margin-bottom: 10px;
+}
+
+.schedule-header h2 {
+    margin: 5px 0;
+    font-size: 1.2em;
+}
+
+.schedule-header h3 {
+    margin: 5px 0;
+    font-size: 1em;
+}
+
+.identification-box {
+    border: 1px solid #000;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.grid-row {
+    display: flex;
+    border-bottom: 1px solid #eee;
+    padding: 5px 0;
+}
+
+.grid-item {
+    flex: 1;
+}
+
+.label {
+    font-weight: bold;
+    display: block;
+    color: #555;
+    font-size: 0.85em;
+}
+
+.value {
+    display: block;
+    padding: 2px 0;
+}
+
+.unique-id-key {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px dashed #999;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.unique-id-key .label {
+    margin-bottom: 5px;
+}
+
+.unique-id-key .value {
+    font-family: monospace;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.section-title {
+    background-color: #eee;
+    padding: 5px 10px;
+    font-weight: bold;
+    margin: 15px 0 10px 0;
+    border-left: 4px solid #333;
+}
+
+.info-item {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.info-item .label {
+    font-size: 0.9em;
+}
+
+.info-item .value {
+    padding-left: 10px;
+}
+
+.two-col {
+    display: flex;
+    gap: 20px;
+}
+
+.two-col > div {
+    flex: 1;
+}
+
+.remark-box {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.officer-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
