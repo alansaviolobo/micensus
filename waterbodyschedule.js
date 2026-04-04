@@ -286,8 +286,9 @@ function addThumbnail(label, url) {
     
     const img = document.createElement('img');
     img.alt = label;
+    img.src = url;
     img.onclick = () => openModal(url, label);
-    
+
     const span = document.createElement('span');
     span.className = 'thumbnail-label';
     span.textContent = label;
