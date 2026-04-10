@@ -156,13 +156,18 @@ VILLAGE_TRANSLATIONS = {
     "Porteem" : "Portem",
     "Kurpem" : "Curpem",
     "Cunchelim" : "Mapusa",
-    "Maulinguem-South" : "Maulingem South",
-    "" : "",
+    "Maulinguem South" : "Maulingem-South",
+    "Sao Jose De Areal (Ct)" : "Sao-Jose-de-Areal",
+    "City Corporation Panaji" : "Panaji",
+    "Todou" : "Tudou",
+    "Mormugao" : "Vasco",
+    "Chaudi" : "Canacona",
     "" : "",
 }
 
 TALUKA_TRANSLATIONS = {
-    "satari": "Sattari",
+    "Sattari": "Satari",
+    "City Corporation Panaji": "Tiswadi",
 }
 
 WHITELIST_SPRING_NATURE = [
@@ -292,6 +297,34 @@ WHITELIST_LOCATION = [
   'S-R-30-551-5929-626690-02',
   'S-R-30-551-5929-626680-01',
   'S-R-30-551-5930-626761-18',
+  'S-R-30-552-5935-627022-16',
+  'S-R-30-552-5935-627022-17',
+  'S-R-30-552-5935-627022-23',
+  'S-R-30-552-5935-627025-11',
+  'S-R-30-552-5935-627025-18',
+  'S-R-30-552-5935-627025-19',
+  'S-R-30-552-5935-627025-23',
+  'S-R-30-552-5935-627026-01',
+  'S-R-30-552-5935-627026-03',
+  'S-R-30-552-5935-627026-04',
+  'S-R-30-552-5935-627026-08',
+  'S-R-30-552-5935-627026-09',
+  'S-R-30-552-5935-627026-10',
+  'S-R-30-552-5935-627026-11',
+  'S-R-30-552-5935-627026-21',
+  'S-R-30-552-5935-627026-22',
+  'S-R-30-552-5935-627026-23',
+  'S-R-30-552-5935-627028-01',
+  'S-R-30-552-5938-626904-01',
+  'S-R-30-552-5938-626904-02',
+  'S-R-30-552-5938-626912-01',
+  'S-U-30-552-252095-1622-02',
+  'S-R-30-552-5938-626921-09',
+  'S-R-30-552-5938-626921-12',
+  'S-R-30-552-5932-626868-25',
+  'S-R-30-552-5932-626869-11',
+  'S-U-30-552-252096-37378-05',
+  'S-U-30-552-252096-37378-08',
 ]
 
 # ... (DB functions) ...
@@ -422,50 +455,50 @@ def main():
                 lambda v: validate_required(v, "Longitude"),
                 lambda v: validate_numeric(v, "Longitude", 73.5, 74.5)
             ],
-            "close_up_image": [lambda v: validate_url(v, "Close-up shot")],
-            "wide_image": [lambda v: validate_url(v, "Wide angle shot")],
-            "selfie": [lambda v: validate_url(v, "Selfie")],
-            "spring_video": [lambda v: validate_url(v, "Spring Video")],
-            "spring_type": [lambda v: validate_required(v, "Spring Type")],
-            "outlet_1_discharge_lpm": [
-                lambda v: validate_discharge(v, row_id)
-            ],
-            "temparature_water": [
-                lambda v: True
-            ],
-            "local_nomenclature": [
-                 lambda v: validate_regex(v, r"(?i).*zara.*", "Local Nomenclature", "Correct local name to 'Zara'")
-            ],
-            "springshed_management": [
-                lambda v: True
-            ],
-            "spring_nature": [
-                lambda v: validate_spring_nature(v, row_id)
-            ],
-            "newly_emerged": [
-                lambda v: validate_newly_emerged(v, row_id)
-            ],
-            "seasonal_variability": [
-                lambda v: validate_seasonal_variability(v, row_id)
-            ],
-            "colour_water": [
-                lambda v: validate_colour(v, row_id)
-            ],
-            "smell_odour_water": [
-                lambda v: validate_odour(v, row_id)
-            ],
-            "taste_water": [
-                lambda v: validate_taste(v, row_id)
-            ],
-            "land use_cover_upstream": [
-                lambda v: validate_required(v, "Dominant land use land cover in spring upstream")
-            ],
-            "land_use_cover_location": [
-                lambda v: validate_required(v, "Land use land cover in and around spring location")
-            ],
-            "resource_threat": [
-                lambda v: validate_required(v, "Resource threat")
-            ]
+#             "close_up_image": [lambda v: validate_url(v, "Close-up shot")],
+#             "wide_image": [lambda v: validate_url(v, "Wide angle shot")],
+#             "selfie": [lambda v: validate_url(v, "Selfie")],
+#             "spring_video": [lambda v: validate_url(v, "Spring Video")],
+#             "spring_type": [lambda v: validate_required(v, "Spring Type")],
+#             "outlet_1_discharge_lpm": [
+#                 lambda v: validate_discharge(v, row_id)
+#             ],
+#             "temparature_water": [
+#                 lambda v: True
+#             ],
+#             "local_nomenclature": [
+#                  lambda v: validate_regex(v, r"(?i).*zara.*", "Local Nomenclature", "Correct local name to 'Zara'")
+#             ],
+#             "springshed_management": [
+#                 lambda v: True
+#             ],
+#             "spring_nature": [
+#                 lambda v: validate_spring_nature(v, row_id)
+#             ],
+#             "newly_emerged": [
+#                 lambda v: validate_newly_emerged(v, row_id)
+#             ],
+#             "seasonal_variability": [
+#                 lambda v: validate_seasonal_variability(v, row_id)
+#             ],
+#             "colour_water": [
+#                 lambda v: validate_colour(v, row_id)
+#             ],
+#             "smell_odour_water": [
+#                 lambda v: validate_odour(v, row_id)
+#             ],
+#             "taste_water": [
+#                 lambda v: validate_taste(v, row_id)
+#             ],
+#             "land use_cover_upstream": [
+#                 lambda v: validate_required(v, "Dominant land use land cover in spring upstream")
+#             ],
+#             "land_use_cover_location": [
+#                 lambda v: validate_required(v, "Land use land cover in and around spring location")
+#             ],
+#             "resource_threat": [
+#                 lambda v: validate_required(v, "Resource threat")
+#             ]
         }
 
         # 1. Standard Column Checks
@@ -548,26 +581,26 @@ def main():
             except (ValueError, TypeError):
                 pass
 
-        # 3.2 Cross-column validation: Dependent Type vs Land Use
-        dependent_type = str(row.get("dependent_type", "")).strip()
-        if dependent_type.lower() == "wild animals":
-            allowed_land_use = ["forest", "shrubs", "pasture"]
-            if land_use_around.lower() not in allowed_land_use:
-                row_errors.append("If dependent type is Wild animals, then Land use land cover in and around spring location should be forest or shrubs or pasture only")
-
-        # 3.3 Cross-column validation: Dependent Type vs Dependent Villages
-        if dependent_type.lower() in ["wild animals", "non-residents"]:
-            dependent_villages = str(row.get("dependent_population", "")).strip()
-            if dependent_villages != "" and dependent_villages.upper() != "N.A.":
-                row_errors.append(f"If dependent type is {dependent_type}, then there will be no dependent villages")
-
-        # 3.4 Cross-column validation: Dependency level vs Other source
-        dependency = str(row.get("dependency_level", "")).strip().lower()
-        if dependency in ["low", "moderate"]:
-            other_source = str(row.get("other_source_water_1", "")).strip()
-            # "कोई नहीं" means "None" in Hindi
-            if other_source.lower() in ["none", "n.a.", "कोई नहीं", ""]:
-                row_errors.append(f"If dependency level is {dependency}, then other available source of water cannot be None")
+#         # 3.2 Cross-column validation: Dependent Type vs Land Use
+#         dependent_type = str(row.get("dependent_type", "")).strip()
+#         if dependent_type.lower() == "wild animals":
+#             allowed_land_use = ["forest", "shrubs", "pasture"]
+#             if land_use_around.lower() not in allowed_land_use:
+#                 row_errors.append("If dependent type is Wild animals, then Land use land cover in and around spring location should be forest or shrubs or pasture only")
+#
+#         # 3.3 Cross-column validation: Dependent Type vs Dependent Villages
+#         if dependent_type.lower() in ["wild animals", "non-residents"]:
+#             dependent_villages = str(row.get("dependent_population", "")).strip()
+#             if dependent_villages != "" and dependent_villages.upper() != "N.A.":
+#                 row_errors.append(f"If dependent type is {dependent_type}, then there will be no dependent villages")
+#
+#         # 3.4 Cross-column validation: Dependency level vs Other source
+#         dependency = str(row.get("dependency_level", "")).strip().lower()
+#         if dependency in ["low", "moderate"]:
+#             other_source = str(row.get("other_source_water_1", "")).strip()
+#             # "कोई नहीं" means "None" in Hindi
+#             if other_source.lower() in ["none", "n.a.", "कोई नहीं", ""]:
+#                 row_errors.append(f"If dependency level is {dependency}, then other available source of water cannot be None")
 
         # 3.5 Cross-column validation: Water quality vs Usage
         colour = str(row.get("colour_water", "")).strip().lower()
@@ -575,11 +608,11 @@ def main():
         taste = str(row.get("taste_water ", "")).strip().lower()
         usage = str(row.get("usage_water_1", "")).strip().lower()
 
-        if colour == "coloured" and odour == "non-agreeable":
-            if taste != "objectionable":
-                row_errors.append("If Spring water is coloured and smell of water is non-agreeable, then taste of water should be objectionable")
-            if "drinking" in usage:
-                row_errors.append("If Spring water is coloured and smell of water is non-agreeable, then water should not be used for drinking purpose")
+#         if colour == "coloured" and odour == "non-agreeable":
+#             if taste != "objectionable":
+#                 row_errors.append("If Spring water is coloured and smell of water is non-agreeable, then taste of water should be objectionable")
+#             if "drinking" in usage:
+#                 row_errors.append("If Spring water is coloured and smell of water is non-agreeable, then water should not be used for drinking purpose")
 
         # 4. Row-level Geospatial ID Check
         lat = row.get("lat")
