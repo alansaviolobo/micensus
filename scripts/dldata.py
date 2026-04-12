@@ -404,21 +404,20 @@ def concatenate_excel_files():
             if all(col in merged_df.columns for col in ["block", "village", "town"]):
                 # Map of Town to (Block, Village)
                 town_map = {
-                    "Margao": {"Block": "Salcete", "Village": "Margao"},
-                    "Cuncolim": {"Block": "Salcete", "Village": "Cuncolim"},
-                    "Cuncolim": {"Block": "Salcete", "Village": "Cuncolim"},
                     "Ponda": {"Block": "Ponda", "Village": "Ponda"},
-                    "Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
-                    "Quepem": {"Block": "Quepem", "Village": "Quepem"},
-                    "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
-                        "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
-                    "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
-                    "Vasco": {"Block": "Mormugao", "Village": "Vasco"},
                     "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
+                    "Quepem": {"Block": "Quepem", "Village": "Quepem"},
+                    "Vasco": {"Block": "Mormugao", "Village": "Vasco"},
+                    "Margao": {"Block": "Salcete", "Village": "Margao"},
+                    "Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
+                    "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
+                    "Cuncolim": {"Block": "Salcete", "Village": "Cuncolim"},
+                    "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
+                    "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
                 }
                 
-                mask = (merged_df['block'].isna() | (merged_df['block'] == '')) & \
-                       (merged_df['village'].isna() | (merged_df['village'] == '')) & \
+                mask = (merged_df['block'] == 'N.A.') & \
+                       (merged_df['village'] == 'N.A.') & \
                        (merged_df['town'].isin(town_map.keys()))
                 
                 for town, mapping in town_map.items():
