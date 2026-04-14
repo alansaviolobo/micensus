@@ -407,13 +407,14 @@ def concatenate_excel_files():
                     "Ponda": {"Block": "Ponda", "Village": "Ponda"},
                     "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
                     "Quepem": {"Block": "Quepem", "Village": "Quepem"},
-                    "Vasco": {"Block": "Mormugao", "Village": "Vasco"},
                     "Margao": {"Block": "Salcete", "Village": "Margao"},
-                    "Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
                     "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
                     "Cuncolim": {"Block": "Salcete", "Village": "Cuncolim"},
+                    "Canacona": {"Block": "Canacona", "Village": "Canacona"},
                     "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
+                    "Mormugao": {"Block": "Mormugao", "Village": "Mormugao"},
                     "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
+                    "City Corporation Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
                 }
                 
                 mask = (merged_df['block'] == 'N.A.') & \
