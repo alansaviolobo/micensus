@@ -404,17 +404,19 @@ def concatenate_excel_files():
             if all(col in merged_df.columns for col in ["block", "village", "town"]):
                 # Map of Town to (Block, Village)
                 town_map = {
-                    "Ponda": {"Block": "Ponda", "Village": "Ponda"},
-                    "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
-                    "Quepem": {"Block": "Quepem", "Village": "Quepem"},
-                    "Margao": {"Block": "Salcete", "Village": "Margao"},
-                    "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
-                    "Cuncolim": {"Block": "Salcete", "Village": "Cuncolim"},
-                    "Canacona": {"Block": "Canacona", "Village": "Canacona"},
-                    "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
-                    "Mormugao": {"Block": "Mormugao", "Village": "Mormugao"},
-                    "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
-                    "City Corporation Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
+                    "Ponda": {"Block": "Ponda", "village": "Ponda"},
+                    "Mapusa": {"Block": "Bardez", "village": "Mapusa"},
+                    "Pernem": {"Block": "Pernem", "village": "Pernem"},
+                    "Quepem": {"Block": "Quepem", "village": "Quepem"},
+                    "Margao": {"Block": "Salcete", "village": "Margao"},
+                    "Sanguem": {"Block": "Sanguem", "village": "Sanguem"},
+                    "Cuncolim": {"Block": "Salcete", "village": "Cuncolim"},
+                    "Bicholim": {"Block": "Bicholim", "village": "Bicholim"},
+                    "Canacona": {"Block": "Canacona", "village": "Canacona"},
+                    "Curchorem": {"Block": "Quepem", "village": "Curchorem"},
+                    "Mormugao": {"Block": "Mormugao", "village": "Mormugao"},
+                    "Curchorem Cacora": {"Block": "Quepem", "village": "Cacora"},
+                    "City Corporation Panaji": {"Block": "Tiswadi", "village": "Panaji"},
                 }
                 
                 mask = (merged_df['block'] == 'N.A.') & \
@@ -424,7 +426,7 @@ def concatenate_excel_files():
                 for town, mapping in town_map.items():
                     town_mask = mask & (merged_df['town'] == town)
                     merged_df.loc[town_mask, 'block'] = mapping['Block']
-                    merged_df.loc[town_mask, 'village'] = mapping['Village']
+                    merged_df.loc[town_mask, 'village'] = mapping['village']
                 
                 # Fallback for towns not in the map
                 remaining_mask = (merged_df['block'].isna() | (merged_df['block'] == '')) & \
