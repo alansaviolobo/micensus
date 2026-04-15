@@ -67,7 +67,7 @@ def get_existing_images(folder):
 
 def login_and_get_session():
     chrome_options = Options()
-#     chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--headless")
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")

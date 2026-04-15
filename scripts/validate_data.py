@@ -166,7 +166,7 @@ VILLAGE_TRANSLATIONS = {
 }
 
 TALUKA_TRANSLATIONS = {
-    "Sattari": "Satari",
+    "Satari": "Sattari",
     "City Corporation Panaji": "Tiswadi",
 }
 
