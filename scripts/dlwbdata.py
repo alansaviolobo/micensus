@@ -352,7 +352,7 @@ def concatenate_excel_files():
                 merged_df = pd.concat(all_dfs, ignore_index=True)
                 
                 # Fill blanks in Block/Village using Town mapping if columns exist
-                if all(col in merged_df.columns for col in ["block", "village", "town"]):
+                if all(col in merged_df.columns for col in ["block_tehsil_name", "village_name", "town_municipality_name"]):
                     town_map = {
                         "Ponda": {"Block": "Ponda", "Village": "Ponda"},
                         "Quepem": {"Block": "Quepem", "Village": "Quepem"},
@@ -366,21 +366,21 @@ def concatenate_excel_files():
                         "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
                     }
                     
-                    mask = (merged_df['block'].isna() | (merged_df['block'] == '')) & \
-                           (merged_df['village'].isna() | (merged_df['village'] == '')) & \
-                           (merged_df['town'].isin(town_map.keys()))
+                    mask = (merged_df['block_tehsil_name'].isna() | (merged_df['block_tehsil_name'] == '')) & \
+                           (merged_df['village_name'].isna() | (merged_df['village_name'] == '')) & \
+                           (merged_df['town_municipality_name'].isin(town_map.keys()))
                     
                     for town, mapping in town_map.items():
-                        town_mask = mask & (merged_df['town'] == town)
-                        merged_df.loc[town_mask, 'block'] = mapping['Block']
-                        merged_df.loc[town_mask, 'village'] = mapping['Village']
+                        town_mask = mask & (merged_df['town_municipality_name'] == town)
+                        merged_df.loc[town_mask, 'block_tehsil_name'] = mapping['Block']
+                        merged_df.loc[town_mask, 'village_name'] = mapping['Village']
                     
-                    remaining_mask = (merged_df['block'].isna() | (merged_df['block'] == '')) & \
-                                    (merged_df['village'].isna() | (merged_df['village'] == '')) & \
-                                    (~merged_df['town'].isna()) & (merged_df['town'] != '')
+                    remaining_mask = (merged_df['block_tehsil_name'].isna() | (merged_df['block_tehsil_name'] == '')) & \
+                                    (merged_df['village_name'].isna() | (merged_df['village_name'] == '')) & \
+                                    (~merged_df['town_municipality_name'].isna()) & (merged_df['town_municipality_name'] != '')
                     
-                    merged_df.loc[remaining_mask, 'block'] = merged_df.loc[remaining_mask, 'town']
-                    merged_df.loc[remaining_mask, 'village'] = merged_df.loc[remaining_mask, 'town']
+                    merged_df.loc[remaining_mask, 'block_tehsil_name'] = merged_df.loc[remaining_mask, 'town_municipality_name']
+                    merged_df.loc[remaining_mask, 'village_name'] = merged_df.loc[remaining_mask, 'town_municipality_name']
                     
                     print(f"Filled blanks in Block/Village using Town mapping for {mask.sum()} rows and fallback for {remaining_mask.sum()} rows.")
                 
@@ -388,6 +388,10 @@ def concatenate_excel_files():
                 if "unique_id" in merged_df.columns:
                     print(f"Sorting by unique_id for {keyword}...")
                     merged_df = merged_df.sort_values(by="unique_id")
+                    
+                    # Delete the first column after sorting
+                    print(f"Deleting the first column for {keyword}...")
+                    merged_df = merged_df.iloc[:, 1:]
                 
                 output_file = os.path.join(DOWNLOAD_DIR, f"combined_{keyword}.csv")
                 merged_df.to_csv(output_file, index=False)
