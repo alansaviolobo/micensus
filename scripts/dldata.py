@@ -388,8 +388,10 @@ def concatenate_excel_files():
     for file in xlsx_files:
         try:
             print(f"Reading: {os.path.basename(file)}")
-            # Read excel file
-            df = pd.read_excel(file)
+            try:
+                df = pd.read_excel(file, engine='openpyxl')
+            except Exception:
+                df = pd.read_csv(file, encoding='utf-8-sig')
             all_dfs.append(df)
         except Exception as e:
             print(f"Error reading {file}: {e}")
@@ -399,33 +401,38 @@ def concatenate_excel_files():
             print("Merging files...")
             # Concatenate all dataframes
             merged_df = pd.concat(all_dfs, ignore_index=True)
-            
+
+            # Clean up string artifacts in all string columns
+            for col in merged_df.select_dtypes(include='object').columns:
+                merged_df[col] = (merged_df[col]
+                    .str.strip('=')
+                    .str.strip('"')
+                    .str.replace(r'N\.A(?!\.)', 'N.A.', regex=True))
+
             # For every row where "block" and "village" are blank, use the Town mapping
             if all(col in merged_df.columns for col in ["block", "village", "town"]):
                 # Map of Town to (Block, Village)
                 town_map = {
-                    "Ponda": {"Block": "Ponda", "village": "Ponda"},
-                    "Mapusa": {"Block": "Bardez", "village": "Mapusa"},
-                    "Pernem": {"Block": "Pernem", "village": "Pernem"},
-                    "Quepem": {"Block": "Quepem", "village": "Quepem"},
-                    "Margao": {"Block": "Salcete", "village": "Margao"},
-                    "Sanguem": {"Block": "Sanguem", "village": "Sanguem"},
-                    "Cuncolim": {"Block": "Salcete", "village": "Cuncolim"},
-                    "Bicholim": {"Block": "Bicholim", "village": "Bicholim"},
-                    "Canacona": {"Block": "Canacona", "village": "Canacona"},
-                    "Curchorem": {"Block": "Quepem", "village": "Curchorem"},
-                    "Mormugao": {"Block": "Mormugao", "village": "Mormugao"},
-                    "Curchorem Cacora": {"Block": "Quepem", "village": "Cacora"},
-                    "City Corporation Panaji": {"Block": "Tiswadi", "village": "Panaji"},
+                    "Ponda": {"block": "Ponda", "village": "Ponda"},
+                    "Mapusa": {"block": "Bardez", "village": "Mapusa"},
+                    "Pernem": {"block": "Pernem", "village": "Pernem"},
+                    "Quepem": {"block": "Quepem", "village": "Quepem"},
+                    "Margao": {"block": "Salcete", "village": "Margao"},
+                    "Sanguem": {"block": "Sanguem", "village": "Sanguem"},
+                    "Cuncolim": {"block": "Salcete", "village": "Cuncolim"},
+                    "Bicholim": {"block": "Bicholim", "village": "Bicholim"},
+                    "Canacona": {"block": "Canacona", "village": "Canacona"},
+                    "Curchorem": {"block": "Quepem", "village": "Curchorem"},
+                    "Mormugao": {"block": "Mormugao", "village": "Mormugao"},
+                    "Curchorem Cacora": {"block": "Quepem", "village": "Cacora"},
+                    "City Corporation Panaji": {"block": "Tiswadi", "village": "Panaji"},
                 }
                 
-                mask = (merged_df['block'] == 'N.A.') & \
-                       (merged_df['village'] == 'N.A.') & \
-                       (merged_df['town'].isin(town_map.keys()))
+                mask = (merged_df['block'] == 'N.A.') & (merged_df['village'] == 'N.A.')
                 
                 for town, mapping in town_map.items():
                     town_mask = mask & (merged_df['town'] == town)
-                    merged_df.loc[town_mask, 'block'] = mapping['Block']
+                    merged_df.loc[town_mask, 'block'] = mapping['block']
                     merged_df.loc[town_mask, 'village'] = mapping['village']
                 
                 # Fallback for towns not in the map
