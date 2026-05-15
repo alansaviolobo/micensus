@@ -27,7 +27,9 @@ def load_env():
                     os.environ[key] = value
 
 load_env()
-INPUT_FILE = os.getenv("WB_INPUT_FILE")
+WB_INPUT_FILE = os.getenv("WB_INPUT_FILE")
+GW_INPUT_FILE = os.getenv("GW_INPUT_FILE")
+SW_INPUT_FILE = os.getenv("SW_INPUT_FILE")
 TARGET_FOLDER = os.getenv("WB_TARGET_FOLDER")
 LOGIN_URL = os.getenv("WB_LOGIN_URL")
 ANTI_CAPTCHA_API_KEY = os.getenv("ANTI_CAPTCHA_API_KEY")
@@ -168,16 +170,19 @@ def main():
 
     cleanup_text_files(TARGET_FOLDER)
 
-    # Read local CSV file
-    print(f"Reading local file: {INPUT_FILE}...")
-    try:
-        df = pd.read_csv(INPUT_FILE)
-    except FileNotFoundError:
-        print(f"Error: The file {INPUT_FILE} was not found.")
-        return
-    except pd.errors.EmptyDataError:
-        print(f"Error: The file {INPUT_FILE} is empty.")
-        return
+    # Read local CSV files
+    dfs = []
+    for label, path in [("WB_INPUT_FILE", WB_INPUT_FILE), ("GW_INPUT_FILE", GW_INPUT_FILE), ("SW_INPUT_FILE", SW_INPUT_FILE)]:
+        print(f"Reading local file: {path}...")
+        try:
+            dfs.append(pd.read_csv(path))
+        except FileNotFoundError:
+            print(f"Error: The file {path} was not found.")
+            return
+        except pd.errors.EmptyDataError:
+            print(f"Error: The file {path} is empty.")
+            return
+    df = pd.concat(dfs, ignore_index=True)
     
     image_cols = ["image_path"]
     # Pattern for Water Body images: LOGIN_URL + "/admin/file/552/images/"
