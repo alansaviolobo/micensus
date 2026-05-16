@@ -7,16 +7,21 @@
     <link rel="stylesheet" href="springcensus.css">
     <style>
         .dashboard {
-            display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
             gap: 20px;
             margin-top: 50px;
+            max-width: 960px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        @media (max-width: 600px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
         }
         .card {
-            flex: 1;
-            min-width: 300px;
-            max-width: 450px;
+            min-width: 0;
             border-radius: 12px;
             overflow: hidden;
             box-shadow: 0 4px 15px rgba(0,0,0,0.2);
@@ -71,6 +76,22 @@
                 <div class="card-content">
                     <h2>Water Body Schedule</h2>
                     <p>View collected data for water body schedules</p>
+                </div>
+            </a>
+
+            <a href="surfacewaterscheme.html" class="card">
+                <img src="https://picsum.photos/seed/dam/800/600?blur=1" alt="Surface Water Scheme">
+                <div class="card-content">
+                    <h2>Surface Water Scheme</h2>
+                    <p>View collected data for surface water schemes</p>
+                </div>
+            </a>
+
+            <a href="groundwaterscheme.html" class="card">
+                <img src="https://picsum.photos/seed/water-well/800/600?blur=1" alt="Ground Water Scheme">
+                <div class="card-content">
+                    <h2>Ground Water Scheme</h2>
+                    <p>View collected data for ground water schemes</p>
                 </div>
             </a>
         </div>
