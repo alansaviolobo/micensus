@@ -94,7 +94,7 @@ function displayCurrentItem() {
         if (!filename || typeof filename !== 'string') return null;
         filename = filename.trim();
         if (!filename) return null;
-        return `https://raw.githubusercontent.com/alansaviolobo/micensus/refs/heads/master/img/surfacewaterschemes/${filename}`;
+        return `https://raw.githubusercontent.com/alansaviolobo/micensus/refs/heads/master/img-waterbodies/waterbody-${filename}`;
     };
 
     if (item['image_name']) {
@@ -125,7 +125,7 @@ function displayCurrentItem() {
         ? `Lift - ${item['scheme_type_surface_lift']}`
         : 'N/A';
 
-    const scheduleHtml = `
+  scheduleContainer.innerHTML = `
         <div class="schedule-header">
             <h3>Department of Water Resources, RD &amp; GR, Ministry of Jal Shakti</h3>
             <h3>7th MI Census and 2nd Census of Water Bodies</h3>
@@ -348,8 +348,6 @@ function displayCurrentItem() {
             </div>
         </div>
     `;
-
-    scheduleContainer.innerHTML = scheduleHtml;
 
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === filteredData.length - 1;

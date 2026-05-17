@@ -94,7 +94,7 @@ function displayCurrentItem() {
     const rewriteImageUrl = (url) => {
         if (!url || typeof url !== 'string') return url;
         const filename = url.substring(url.lastIndexOf('/') + 1);
-        return `https://raw.githubusercontent.com/alansaviolobo/micensus/refs/heads/master/img/waterbodies/waterbody-${filename}`;
+        return `https://raw.githubusercontent.com/alansaviolobo/micensus/refs/heads/master/img-waterbodies/waterbody-${filename}`;
     };
 
     if (item['image_path']) {
@@ -118,7 +118,7 @@ function displayCurrentItem() {
     thumbnailDisplay.appendChild(gmapdiv);
 
     // Build the PDF-like layout
-    const scheduleHtml = `
+  scheduleContainer.innerHTML = `
         <div class="schedule-header">
             <h3>Department of Water Resources, RD & GR, Ministry of Jal Shakti</h3>
             <h3>7th MI Census and 2nd Census of Water Bodies</h3>
@@ -273,8 +273,6 @@ function displayCurrentItem() {
             </div>
         </div>
     `;
-
-    scheduleContainer.innerHTML = scheduleHtml;
 
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === filteredData.length - 1;
