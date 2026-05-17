@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="_csrf" content="owJ1x8jLqT1Qr4sJ0QIIXsKWjHTpXZgBuNwuUBNt60dccdHvwjBFo678mAV9y74-4i88avKioUzePK8sie1MZiNYinZtQuTc" />
+	<meta name="_csrf_header" content="X-CSRF-TOKEN" />
+	<meta name="_csrf_parameter" content="_csrf" />
+	<title>SEVENTH CENSUS OF MINOR IRRIGATION SCHEMES AND SECOND CENSUS OF WATER BODIES</title>
+	<link rel="shortcut icon" href="images/favicon.gif">
+	<link href="/micensus/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/micensus/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/micensus/css/animate.css" rel="stylesheet">
+	<link href="/micensus/css/style.css" rel="stylesheet">
+	<script src="/micensus/js/jquery-3.7.1.min.js"></script>
+	<script src="/micensus/js/bootstrap.bundle.min.js"></script>
+	<script src="/micensus/js/general.js"></script>
+	<script src="/micensus/js/crypto-js.min.js"></script>
+</head>
+
+<body>
+	<div class="loginWrap">
+			<div class="play-store-box">
+				<a class="DownloadBtn" href="https://play.google.com/store/apps/details?id=in.gov.seventhcensusmi" download="">
+					<img src="images/download-apk.png">
+				</a>
+			</div>
+		<div class="loginBox">
+			<div class="loginFields">
+				<div class="logo">
+					<img src="images/logo.png" alt="">
+					<div class="brand-text">
+						<h4>7<sup>th</sup> MI Census and 2<sup>nd</sup> Census of Water Bodies
+							<span>Department of Water Resources, RD &amp; GR, Ministry of Jal Shakti</span>
+						</h4>
+					</div>
+				</div>
+				
+				
+				
+				
+				
+				<form action="/micensus/login" method="post" autocomplete="off" id="loginForm"><input type="hidden" name="_csrf" value="owJ1x8jLqT1Qr4sJ0QIIXsKWjHTpXZgBuNwuUBNt60dccdHvwjBFo678mAV9y74-4i88avKioUzePK8sie1MZiNYinZtQuTc"/>
+					<input type="hidden" id="encryptionKey" value="YJV/3GTVEml1oGGrgWVAGg==" />
+					<input type="hidden" name="_csrf" value="owJ1x8jLqT1Qr4sJ0QIIXsKWjHTpXZgBuNwuUBNt60dccdHvwjBFo678mAV9y74-4i88avKioUzePK8sie1MZiNYinZtQuTc" />
+					<div class="row">
+						<div class="cols6">
+							<div class="loginInputs">
+								<div class="fieldOuter">
+									<input type="text" id="username" name="username" placeholder=" ">
+									<label for="emailID">User Name</label>
+								</div>
+							</div>
+						</div>
+						<div class="cols6">
+							<div class="loginInputs">
+								<div class="fieldOuter">
+									<input type="password" id="password" name="password" placeholder=" ">
+									<label for="password">Password</label>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="cols5">
+							<div class="loginInputs">
+								<div class="fieldOuter passIco">
+									<img tabindex="-1" id="refresh-image" class="capcha-img" src="data:realCaptcha/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAAAoCAIAAADhbPYGAAAQHElEQVR4Xt2be5hX4xbHf4xqNInccn88xSSkcgmJpjgct4iTmGk0FUdTUyO3ZmpGk4hDGpXDYTRUHCJNjUnHLSJimFJTxCFSHA4RuV+e53xnrd+s3llr73f2zPy6POf7R0+z97t/+/J53/Vd693vjqWRevXq1bt379NPP/1PpDPPPPPPpHPOOefcc88977zzzj///D59+lxwwQUXXnhh3759L7roor+Q+vXr15902WWXpaenZ2RkDBgwIDMz8/LLLx84cGBWVtagQYOGkK644oq/koYOHZqdnT1s2LDhw4fn5OSMGDFi5MiRubm5V1999ahRo6655pprr732uuuuu/7660eT8vPzx5AKCgoKCwtvvPHGcePGFRUVjR8//qabbpowYcLNN988kXTbbbf9jXTHHXdMmjTpzjvvnDx5cnFx8V133TVlypSpU6dOmzbt76R77733H6T777+/pKTkgQcemD59emlp6YMPPoiWODvuq1u3boceeujuu+/evHnznXfeOSUlpW3bttiIW0P7uXPnlpWVzZs3b/78+eXl5U899VRFRcWCBQuefvrpf5GeffbZ50gvvPDCokWLXnzxxZdeemnx4sUvv/zyK6+8smTJkldffTVmVFVVtWzZsuXLl7/99tsrVqxYuXJldXX1qlWrVq9e/c4776whvffee/8mffjhh2vXrv3oo48+/vjjdevWffLJJ+vXr9+wYcOnn376H9Lnn3/+X9JXX321cePGr7/++ptvvtm0adO333773Xffbd68Ocb4e5POOOMMxn/WWWeB/dlnnw38+gITKsafSxL8ePq6XSw2duxYi38C6ZZbbnHx33777Rb/VNLdd9/t4r/vvvssfn3iICUlJWFUPProo8BfTgL+BaSFCxeC/TPPPMP4n3/+eYt/Cem1117TvxuCfzVJ8L///vtg/8EHH1j8G0iC/4svvgD7L7/80uLfTKrBz0Nf8GPob0v8PPShUSQe+rod4S8kAX8RiYe+4L/11lst/mISD33Bf88991j8paSHHnpInzhciA0PP/ww45ehb/EvIgH/YpIM/XrxryTx0IfeffddHvoW/zqS4P/ss8946Fv8m0gB+BH5LX70cX2BCZXgV5Fft3Pw28gv+DnyA/8kko38gp8jP/CX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" />
+								</div>
+							</div>
+						</div>
+						<div class="col-4 col-sm-2 col-md-1 pl-0">
+							<button type="button" id="captchadiv" class="refresh-btn"></button>
+						</div>
+						<div class="cols6">
+							<div class="loginInputs">
+								<div class="fieldOuter passIco">
+									<input type="text" class="form-control-new w-100" placeholder=" " id="captcha" name="captcha" value="" />
+									<label for="password">Put text here</label>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="loginInputs mrgT10 login-btn">
+						<button type="submit" class="loginBtn">Sign In</button>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="mi-banner-area">
+			<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel"
+				data-bs-interval="5000">
+				<ol class="carousel-indicators">
+					<li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
+					<li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
+					<li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img class="d-block w-100" src="images/login-bg.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/login-bg-2.jpg" alt="Second slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/login-bg-3.jpg" alt="Third slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/login-bg-4.jpg" alt="Third slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="images/login-bg-5.jpg" alt="Third slide">
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+			</div>
+		</div>
+	</div>
+</body>
+<script type="text/javascript" src="js/functions.js"></script>
+<script type="text/javascript" src="js/general.js"></script>
+</html>
