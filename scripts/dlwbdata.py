@@ -384,14 +384,15 @@ def concatenate_excel_files():
                     
                     print(f"Filled blanks in Block/Village using Town mapping for {mask.sum()} rows and fallback for {remaining_mask.sum()} rows.")
                 
+                # check if first column is "serial number" and drop it if it is.
+                if len(merged_df.columns) > 0 and str(merged_df.columns[0]).strip().lower() == 'serial_no':
+                    print(f"Deleting 'serial number' column for {keyword}...")
+                    merged_df = merged_df.iloc[:, 1:]
+
                 # Sort by "unique_id" column if it exists
                 if "unique_id" in merged_df.columns:
                     print(f"Sorting by unique_id for {keyword}...")
                     merged_df = merged_df.sort_values(by="unique_id")
-                    
-                    # Delete the first column after sorting
-                    print(f"Deleting the first column for {keyword}...")
-                    merged_df = merged_df.iloc[:, 1:]
                 
                 output_file = os.path.join(DOWNLOAD_DIR, f"combined_{keyword}.csv")
                 merged_df.to_csv(output_file, index=False)

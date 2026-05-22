@@ -25,7 +25,14 @@ join wrd.water_bodies wb
 on cs.unique_id = wb.census_id
 order by distance desc";
     break;
-
+  case 'enulist':
+    $query = "select latitude, longitude, name, wb_type,	syno, subdiv, owner_type, p.surfacearea, storage_capacity
+from wrd.water_bodies wb
+join wrd.water_bodies_polygons p
+on wb.wb_surface_id = p.id
+where census_id is null and wb.taluka = '{$_GET['taluka']}' and wb.village = '{$_GET['village']}'
+order by wb_id ";
+    break;
 }
 $db = pg_connect("dbname='wrd' host=db-postgresql-blr1-49618-do-user-1003361-0.db.ondigitalocean.com port=25060 user='wrd' password='npsdyptxa7rh02vr' sslmode=require");
 
