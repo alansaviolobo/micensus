@@ -26,7 +26,7 @@ on cs.unique_id = wb.census_id
 order by distance desc";
     break;
   case 'enulist':
-    $query = "select latitude, longitude, name, wb_type,	syno, subdiv, owner_type, p.surfacearea, storage_capacity
+    $query = "select latitude, longitude, name, wb_type,	syno, subdiv, owner_type, p.surfacearea, storage_capacity, wb_id
 from wrd.water_bodies wb
 join wrd.water_bodies_polygons p
 on wb.wb_surface_id = p.id
