@@ -16,6 +16,7 @@ import concurrent.futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -190,7 +191,13 @@ def download_schedules_for_user(username, password):
         "safebrowsing.enabled": True
     })
 
-    driver = webdriver.Chrome(options=chrome_options)
+    # Get the path to chromedriver
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    chromedriver_path = os.path.join(project_root, "chromedriver")
+
+    service = Service(executable_path=chromedriver_path)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
     driver.set_page_load_timeout(60)
     
     try:
