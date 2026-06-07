@@ -90,7 +90,7 @@ def wait_for_download_and_rename(download_dir, taluka_name, timeout=60):
     
     while time.time() - start_time < timeout:
         # Look for .xlsx files that are NOT temporary chrome downloads (.crdownload)
-        xlsx_files = glob.glob(os.path.join(download_dir, "Schedules*.xlsx"))
+        xlsx_files = glob.glob(os.path.join(download_dir, "Schedules*.csv"))
         # Also check for .crdownload to see if download is in progress
         cr_files = glob.glob(os.path.join(download_dir, "*.crdownload"))
         
@@ -116,13 +116,13 @@ def wait_for_download_and_rename(download_dir, taluka_name, timeout=60):
                     time.sleep(1)
                 
                 # Rename the file
-                new_path = os.path.join(download_dir, f"{taluka_name}.xlsx")
+                new_path = os.path.join(download_dir, f"{taluka_name}.csv")
                 try:
                     # If target exists, remove it first
                     if os.path.exists(new_path):
                         os.remove(new_path)
                     os.rename(newest_file, new_path)
-                    print(f"✅ Renamed {os.path.basename(newest_file)} to {taluka_name}.xlsx")
+                    print(f"✅ Renamed {os.path.basename(newest_file)} to {taluka_name}.csv")
                     return new_path
                 except Exception as e:
                     print(f"Error renaming file: {e}")
@@ -363,7 +363,7 @@ def concatenate_excel_files():
     print("CONCATENATING FILES")
     print("=" * 60)
     
-    xlsx_files = glob.glob(os.path.join(DOWNLOAD_DIR, "*.xlsx"))
+    xlsx_files = glob.glob(os.path.join(DOWNLOAD_DIR, "*.csv"))
     
     # Filter out any existing combined file to avoid recursion if run multiple times
     xlsx_files = [f for f in xlsx_files if "combined_schedules" not in f]
@@ -389,7 +389,7 @@ def concatenate_excel_files():
         try:
             print(f"Reading: {os.path.basename(file)}")
             try:
-                df = pd.read_excel(file, engine='openpyxl')
+                df = pd.read_excel(file, engine='csv')
             except Exception:
                 df = pd.read_csv(file, encoding='utf-8-sig')
             all_dfs.append(df)
