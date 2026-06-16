@@ -30,7 +30,7 @@ order by distance desc";
 from wrd.water_bodies wb
 join wrd.water_bodies_polygons p
 on wb.wb_surface_id = p.id
-where census_id is null and wb.taluka = '{$_GET['taluka']}' and wb.village = '{$_GET['village']}'
+where census_id is null and wb.taluka = '{$_GET['taluka']}' and wb.village ~ '{$_GET['village']}'
 order by wb_id ";
     break;
   case 'query':
