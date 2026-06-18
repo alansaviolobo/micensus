@@ -19,11 +19,11 @@ group by taluka, village
 order by taluka, village";
     break;
   case 'distance':
-    $query = "select wb.wb_id, cs.unique_id, round(ST_distance(wb.geom, ST_Transform(cs.geom, 7779))) as distance
+    $query = "select wb.wb_id, cs.unique_id, round(ST_distance(ST_Transform(wb.geom, 7779), ST_Transform(cs.geom, 7779))) as distance
 from wrd.\"combined_waterBodySchedule\" cs
 join wrd.water_bodies wb
 on cs.unique_id = wb.census_id
-order by distance desc";
+order by distance desc limit 500";
     break;
   case 'enulist':
     $query = "select latitude, longitude, name, wb_type,	syno, subdiv, owner_type, p.surfacearea, storage_capacity, round((storage_capacity/p.surfacearea)::decimal, 1) as depth, wb_id, replace(photo_1, 'DCIM/', '') as photo_1, replace(photo_2, 'DCIM/', '') as photo_2
