@@ -365,13 +365,13 @@ def concatenate_excel_files():
                         "Quepem": {"Block": "Quepem", "Village": "Quepem"},
                         "Vasco": {"Block": "Mormugao", "Village": "Vasco"},
                         "Mapusa": {"Block": "Bardez", "Village": "Mapusa"},
-                        "Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
                         "Margao": {"Block": "Salcete", "Village": "Margao"},
                         "Sanguem": {"Block": "Sanguem", "Village": "Sanguem"},
                         "Cuncolim": {"Block": "Salcete", "Village": "Cuncolim"},
                         "Sankhali": {"Block": "Bicholim", "Village": "Sankhali"},
                         "Curchorem": {"Block": "Quepem", "Village": "Curchorem"},
                         "Curchorem Cacora": {"Block": "Quepem", "Village": "Cacora"},
+                        "City Corporation Panaji": {"Block": "Tiswadi", "Village": "Panaji"},
                     }
                     
                     mask = (merged_df['block_tehsil_name'].isna() | (merged_df['block_tehsil_name'] == '')) & \
