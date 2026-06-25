@@ -399,6 +399,11 @@ def concatenate_excel_files():
     if all_dfs:
         try:
             print("Merging files...")
+            # Delete any files that are less than 25 bytes in size
+            for f in xlsx_files:
+                if os.path.exists(f) and os.path.getsize(f) < 25:
+                    os.remove(f)
+
             # Concatenate all dataframes
             merged_df = pd.concat(all_dfs, ignore_index=True)
 
