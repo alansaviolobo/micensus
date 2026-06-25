@@ -4,8 +4,7 @@ switch ($_GET['mode']) {
   case 'pending':
     $query = "select taluka, village, concat('https://maps.google.com?q=', latitude, ',', longitude, '&t=h') as GMap
 from wrd . water_bodies
-where wb_type <> 'Spring'
-and census_id is NULL
+where census_id is NULL
 order by taluka, village";
     break;
   case 'enumerated':
