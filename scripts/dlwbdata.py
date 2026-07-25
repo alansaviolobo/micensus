@@ -397,10 +397,20 @@ def concatenate_excel_files():
                     print(f"Deleting 'serial number' column for {keyword}...")
                     merged_df = merged_df.iloc[:, 1:]
 
-                # Sort by "unique_id" column if it exists
+                # Sort by "unique_id" column if it exists, otherwise by district, taluka, village, lat
                 if "unique_id" in merged_df.columns:
                     print(f"Sorting by unique_id for {keyword}...")
                     merged_df = merged_df.sort_values(by="unique_id")
+                else:
+                    sort_cols = [col for col in ["district_name", "block_tehsil_name", "village_name", "latitude"] if col in merged_df.columns]
+                    if sort_cols:
+                        print(f"Sorting by {', '.join(sort_cols)} for {keyword}...")
+                        merged_df = merged_df.sort_values(by=sort_cols)
+
+                # Eliminate duplicates by lat and lon combined
+                if "latitude" in merged_df.columns and "longitude" in merged_df.columns:
+                    print(f"Eliminating duplicates by latitude and longitude for {keyword}...")
+                    merged_df = merged_df.drop_duplicates(subset=["latitude", "longitude"])
                 
                 output_file = os.path.join(DOWNLOAD_DIR, f"combined_{keyword}.csv")
                 merged_df.to_csv(output_file, index=False)
