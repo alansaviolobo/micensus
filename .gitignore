@@ -1,5 +1,6 @@
 .env
 /.venv/
 /.idea/
+/.junie/
 __pycache__/
 /downloads/*.xlsx
